@@ -1,0 +1,140 @@
+# site.yaml — Cybersecurity Daily Digest
+# ── Identity ──
+site:
+  id: security
+  url: https://news.security.thewang.net
+  title:
+    en: 'Security Daily Digest'
+    zh: '安全日知录'
+    ja: 'セキュリティ日知録'
+  subtitle:
+    en: 'Cybersecurity news, daily.'
+    zh: '每天五分钟，跟上网络安全动态'
+    ja: 'サイバーセキュリティの最新動向を毎日'
+  description:
+    en: 'Daily curated cybersecurity news. Covering vulnerabilities, threat intelligence, security research, and incident response.'
+    zh: '网络安全日报 — 每天精选安全动态，覆盖漏洞、威胁情报、安全研究和事件响应。'
+    ja: 'サイバーセキュリティの厳選日刊ダイジェスト。脆弱性、脅威インテリジェンス、セキュリティ研究、インシデント対応を毎日配信。'
+  keywords:
+    en: 'cybersecurity news, security, vulnerabilities, CVE, threat intelligence, daily digest'
+    zh: '网络安全新闻, 安全, 漏洞, CVE, 威胁情报, 每日简报'
+    ja: 'サイバーセキュリティニュース, セキュリティ, 脆弱性, CVE, 脅威インテリジェンス, デイリーダイジェスト'
+  hashtag:
+    en: '#SecurityDailyDigest'
+    zh: '#安全日知录'
+    ja: '#セキュリティ日知録'
+
+# ── Theme ──
+theme:
+  style: cyber
+  fonts:
+    display: "'Share Tech Mono', 'JetBrains Mono', monospace"
+    sans: "'JetBrains Mono', 'Noto Sans SC', 'Noto Sans JP', ui-monospace, monospace"
+    mono: "'JetBrains Mono', ui-monospace, monospace"
+    google: "family=Share+Tech+Mono&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700"
+  colors:
+    dark:
+      bg: '#0a0e0a'
+      surface: '#0f1a0f'
+      surface2: '#152015'
+      border: '#1a3a1a'
+      borderGlow: '#00ff4133'
+      text: '#b8d4b8'
+      textMuted: '#4a7a4a'
+      accent: '#00ff41'
+      secondary: '#ff3333'
+      green: '#00ff41'
+      amber: '#ffb800'
+      heading: '#e0ffe0'
+    light:
+      bg: '#f2f7f2'
+      surface: '#ffffff'
+      surface2: '#e8f0e8'
+      border: '#c0d4c0'
+      borderGlow: '#00802022'
+      text: '#1a2e1a'
+      textMuted: '#4a6a4a'
+      accent: '#006820'
+      secondary: '#c41030'
+      green: '#006820'
+      amber: '#8a6000'
+      heading: '#0a1a0a'
+
+# ── Data Sources ──
+sources:
+  rss:
+    - { url: 'https://krebsonsecurity.com/feed/', name: 'Krebs on Security', weight: 10 }
+    - { url: 'https://www.schneier.com/feed/', name: 'Bruce Schneier', weight: 10 }
+    - { url: 'https://feeds.feedburner.com/TheHackersNews', name: 'The Hacker News', weight: 9 }
+    - { url: 'https://www.bleepingcomputer.com/feed/', name: 'BleepingComputer', weight: 8 }
+    - { url: 'https://www.darkreading.com/rss.xml', name: 'Dark Reading', weight: 8 }
+    - { url: 'https://blog.google/threat-analysis-group/rss/', name: 'Google TAG', weight: 9 }
+    - { url: 'https://msrc.microsoft.com/blog/feed', name: 'Microsoft Security', weight: 8 }
+    - { url: 'https://github.blog/tag/security/feed/', name: 'GitHub Security', weight: 8 }
+    - { url: 'https://blog.cloudflare.com/tag/security/rss/', name: 'Cloudflare Security', weight: 7 }
+    - { url: 'https://security.googleblog.com/feeds/posts/default', name: 'Google Security Blog', weight: 8 }
+    - { url: 'https://portswigger.net/daily-swig/rss', name: 'Daily Swig', weight: 7 }
+    - { url: 'https://www.wired.com/feed/tag/security/latest/rss', name: 'Wired Security', weight: 6 }
+    - { url: 'https://arstechnica.com/security/feed/', name: 'Ars Technica Security', weight: 7 }
+    - { url: 'https://risky.biz/feeds/risky-bulletin/', name: 'Risky Biz', weight: 7 }
+    - { url: 'https://news.google.com/rss/search?q=cybersecurity+OR+CVE+OR+data+breach&hl=en-US&gl=US&ceid=US:en', name: 'Google News Security', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8+OR+%E6%BC%8F%E6%B4%9E&hl=zh-CN&gl=CN&ceid=CN:zh-Hans', name: 'Google News Security (CN)', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E8%84%86%E5%BC%B1%E6%80%A7&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News Security (JP)', weight: 6 }
+
+  hackernews:
+    enabled: true
+    query: 'cybersecurity OR CVE OR "zero day" OR "data breach"'
+    weight: 8
+
+  huggingface:
+    enabled: false
+    weight: 0
+
+# ── Editorial ──
+editorial:
+  prompt: config/prompts/editorial.md
+  min_articles: 3
+  featured_count: [2, 3]
+  quicknews_count: [4, 6]
+
+# ── Labels ──
+labels:
+  featured: { en: 'FEATURED', zh: '深度解读', ja: '特集' }
+  signal: { en: 'SIGNAL', zh: '信号', ja: 'シグナル' }
+  archive: { en: 'ARCHIVE', zh: '往期', ja: 'アーカイブ' }
+  backToday: { en: 'BACK TO TODAY', zh: '返回今日', ja: '今日に戻る' }
+  empty: { en: 'NO SIGNAL TODAY.', zh: '// 今日无信号', ja: '// 本日シグナルなし' }
+  sources: { en: 'sources scanned', zh: '条资讯已扫描', ja: '件スキャン済み' }
+  fromSources: { en: 'SRC', zh: '来源', ja: 'SRC' }
+  subscribe: { en: 'SUBSCRIBE', zh: '订阅', ja: '購読' }
+  emailPlaceholder: { en: 'you@example.com', zh: '你的邮箱', ja: 'メールアドレス' }
+  stayUpdated: { en: 'STAY UPDATED', zh: '保持关注', ja: '最新情報を受け取る' }
+  stayUpdatedDesc:
+    en: 'Daily security digest, straight to your inbox.'
+    zh: '每日安全简报，直达邮箱。'
+    ja: 'セキュリティの日刊ダイジェストをメールでお届け。'
+  cta: { en: 'READ FULL DIGEST', zh: '阅读完整日报', ja: '全文を読む' }
+
+sponsor: null
+
+newsletter:
+  provider: buttondown
+  username: thewang
+
+about:
+  title: { en: 'HOW IT WORKS', zh: '运作方式', ja: '仕組み' }
+  overview:
+    en: 'Security Daily Digest is a fully automated cybersecurity news briefing. Every day, the system collects articles from security researchers, vendor blogs, threat intelligence feeds, and Hacker News — then scores and filters them through a multi-stage AI pipeline.'
+    zh: '安全日知录是一份全自动的网络安全日报。系统每天从安全研究者、厂商博客、威胁情报源和 Hacker News 采集文章，经过多阶段 AI 流水线评分筛选。'
+    ja: 'セキュリティ日知録は完全自動化されたサイバーセキュリティニュースブリーフィングです。セキュリティ研究者、ベンダーブログ、脅威インテリジェンスフィード、Hacker Newsから毎日記事を収集し、多段階AIパイプラインで評価・フィルタリングします。'
+  policyAudience:
+    en: 'Target audience: security engineers, SOC analysts, and DevSecOps practitioners.'
+    zh: '目标读者：安全工程师、SOC 分析师和 DevSecOps 从业者。'
+    ja: '対象読者：セキュリティエンジニア、SOCアナリスト、およびDevSecOps実践者。'
+  disclaimer:
+    en: 'Headlines and analysis paragraphs are generated by AI and may contain inaccuracies. All original reporting belongs to their respective sources.'
+    zh: '标题和分析段落由 AI 生成，可能存在不准确之处。所有原始报道版权归各自来源所有。'
+    ja: '見出しと分析パラグラフはAIにより生成されており、不正確な場合があります。すべてのオリジナル記事は各ソースに帰属します。'
+
+schedule:
+  cron: '0 7 * * *'
