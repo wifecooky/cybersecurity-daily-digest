@@ -1,11 +1,121 @@
 {
   "date": "2026-03-16",
   "lang": "zh",
-  "featured": [],
-  "quickNews": [],
+  "featured": [
+    {
+      "id": "986b712b203e8fc0eb2632475991af77df3fa387185e7cd54d1bebf60b4cb957",
+      "source": "Google News Security (CN)",
+      "title": "高通确认已向安卓厂商提供GBL漏洞修复 小米17系列等骁龙8Elite Gen5机型非官方解锁路径被封堵 - antutu.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVGoweXhYTThHcFB5aV9qck0tc3JQODZpWE5TMVl2Qzl1cnJnUFFEQW10RDQ4U1daeFZacVM4bjdMSF9RejA4bjA2YzE1dw?oc=5",
+      "summary": "高通确认已向安卓厂商提供GBL漏洞修复 小米17系列等骁龙8Elite Gen5机型非官方解锁路径被封堵 antutu.com",
+      "publishedAt": "2026-03-16T02:46:17.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        46
+      ],
+      "reason": "Critical Qualcomm vulnerability in Android",
+      "suggestedTitle": "高通引导程序漏洞威胁安卓设备",
+      "suggestedSummary": "高通已确认一个影响安卓设备的关键引导程序漏洞，包括小米的骁龙8Elite Gen5机型。该漏洞允许未经授权的引导程序解锁，绕过安全检查。此漏洞被标识为CVE-2026-21666，带来了未经授权访问和潜在恶意软件安装的重大风险。安全团队应优先修补并确保引导程序完整性检查得到执行。",
+      "relatedSources": [
+        "Google News Security (CN)",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "76eaaa542cb221438b8ecab63dd897b29e523742f09f9178b421639469b7f1dd",
+      "source": "Google News Security (JP)",
+      "title": "Google Chrome 修复高严重性漏洞，一周内第三次更新，确认已被利用 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YcVBJSGV3Z2wzcjQ0dVJ4UmhKLWVwRVE3UnlsaThkN3E3U3A1a1VISm51YVNoaU8yZS1UUHdyR1RKenVIcmJldE9BanFsZzMyOEZOdQ?oc=5",
+      "summary": "Google Chrome 修复高严重性漏洞，一周内第三次更新，确认已被利用 - ASCII.jp",
+      "publishedAt": "2026-03-16T05:15:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        45
+      ],
+      "reason": "Chrome zero-day vulnerabilities patched",
+      "suggestedTitle": "Google Chrome 修补多个零日漏洞",
+      "suggestedSummary": "Google 已紧急发布 Chrome 更新，修复了两个高严重性零日漏洞（CVE-2026-3909、CVE-2026-3910），这些漏洞在野外被积极利用。这些漏洞允许远程代码执行，影响所有平台。建议用户立即更新至 v146.0.7680.80。漏洞的存在强调了及时补丁管理以防止潜在利用的关键需求。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ae2ad8556eb6d1154d51cfc4f6634cb5183c40b58ee95fc19fa19a6845bceafe",
+      "source": "Google News Security",
+      "title": "外包公司Telus承认遭遇攻击，可能是ShinyHunters所为 - theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BLWxwa1FMSFYzcG1xRk9vYjFkYkNCQ3BhSW1SRkpRd29aTUxLN3JHQ1NzOVN0Qng2cjY3WENWcUFDU0R6b1JueFRCTUFoMFVaVTFGYU9uem1kaDVRN3dsVlEzU2wtU1NPUmgzY3gyUlZKeTc0YkJJRA?oc=5",
+      "summary": "外包公司Telus承认遭遇攻击，可能是ShinyHunters所为 theregister.com",
+      "publishedAt": "2026-03-15T23:24:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        26,
+        27
+      ],
+      "reason": "ShinyHunters linked to major data breaches",
+      "suggestedTitle": "ShinyHunters幕后策划Telus和CarGurus的大规模数据泄露",
+      "suggestedSummary": "网络犯罪组织ShinyHunters被指与Telus和CarGurus最近的数据泄露事件有关，数百万条记录被泄露。这些泄露事件暴露了敏感的客户信息，突显了该组织对企业数据安全的持续威胁。各组织应加强监控和威胁情报能力，以检测和减轻此类复杂攻击。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9f30f7a71e672ab4eab73099a272523f480652e1dc715c9b4a0dec8aa08a2bf7",
+      "source": "Google News Security (JP)",
+      "title": "Veeam Backup & Replication 存在多个漏洞 12系和13系紧急修复 (CVE-2026-21666, CVE-2026-21667, CVE-2026-21668) | 安全与IT新闻 - 安全对策实验室 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHRYX2hULVVUNHBiU3hseExvaTF0T0JCNUUwdU1Jbk93RnprOU94eXM5UlFDY1c5UEdzdmI5WEtubXlXcUV0dWFYdHZoRzU3bUhSU3R0YXF3MkRFSm5KREJxeFA5OXZUNF9kMjlJbUx3WXlQZlJGRG90RWlOa3hCa2NENjlpa3AxREtWWXd6QUk5eUE2RE91XzMwZUdBWjVhQk9acFMwVmI0UHZDYVU3d3dB?oc=5",
+      "summary": "Veeam Backup & Replication 存在多个漏洞 12系和13系紧急修复 (CVE-2026-21666, CVE-2026-21667, CVE-2026-21668) | 安全与IT新闻 - 安全对策实验室 合同会社ロケットボーイズ",
+      "publishedAt": "2026-03-16T04:00:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e1313b356df8ff3e8b3b3c33a8699fc3a0f879132eeb9fa163ceaf1e4dbf8beb",
+      "source": "Google News Security (JP)",
+      "title": "微软Edge 146发布，部分修复Chromium的零日漏洞 - 窗之杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00N05MSEVabXhsWlZRbHJXcEJGaDU1c2thdWNhb0J0NEFOQlFtUDdYeWZWMnZQb0drUVlBUTY1NFpfdnJXNTBLSFlNUVFfRzdRanNDTE94d21SMG4tRWVZbTZRazI1cHBf?oc=5",
+      "summary": "微软Edge 146发布，部分修复Chromium的零日漏洞 窗之杜",
+      "publishedAt": "2026-03-15T23:45:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5ab40b0aba333ec50a2dc9ecf185cb66a001525c20d41677af6fd18d463da1ed",
+      "source": "Google News Security (JP)",
+      "title": "谷歌发布Chrome紧急更新 修复两个高严重性漏洞，均已被确认利用(CVE-2026-3909,CVE-2026-3910)|安全新闻的安全对策实验室 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaS1CVVBrMzZBTXNXaXR2Zm9raFJJTUhVRlBnb2RkbEVRdGxtVEgzTUQ3T0UtY3VfS1JFWHhaYnJ5SF84OWFYaHM1aVZvSmJlZGtHbzZmS0NISlNDbFJuemdXV2dENVp2VmhLanZtMTNldDJFUHRvaldSYUZ0VF9nU3lUUmRFNXdxSzVQd1VteF80cXNrc3hBMzhtZVAtelg1X0g1MUZYdHZJa3otZ3JEMHVvNDIxb3Y5NlEzSktvNThBQUZzTHR1Si1ZRC04MDZ2ajVzQnlKbw?oc=5",
+      "summary": "谷歌发布Chrome紧急更新 修复两个高严重性漏洞，均已被确认利用(CVE-2026-3909,CVE-2026-3910)|安全新闻的安全对策实验室 合同会社ロケットボーイズ",
+      "publishedAt": "2026-03-15T22:00:38.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8ee1faa9d8cecbd4724d7cb5b67413b94842bcb5d96526110cfaca1696b85a26",
+      "source": "Google News Security",
+      "title": "Loblaw数据泄露影响客户信息 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVVKVmw5UWV1QS1kQTh5VWNGUDZ5RmVsby1NNlVNNjd2WXN5M0lIeXREbHN3U0RybFRxU3ctZ0o1UTBBYVhoUU9yazhNVksyZlZjMDUyWWpNdWU1UUxxODBwR2xMVTk4T1A3WmplUWdGRHZUSEdLaTJQRk8xcXctaHZOUdIBiAFBVV95cUxNZWstQWI5TFpfUWpuQzdaUGhHa1RxQzZ1SEpNNjhSbjFQZTJZMW4yQnJHZG0xUlpWX0ZRQ2NqZ2F3Mld5aUFpZ1JXWWJfLUdFU193VVZrdjRsRDR4eVAyTzUweFg5bGg1aUZ6N2RGRlFSZU95eGVxNl9hU0V5WmVWcDRicVFuVWJy?oc=5",
+      "summary": "Loblaw数据泄露影响客户信息 SecurityWeek",
+      "publishedAt": "2026-03-15T10:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
   "metadata": {
-    "totalArticles": 0,
+    "totalArticles": 7,
     "estimatedReadTime": "5 分钟",
-    "generatedAt": "2026-03-16T04:40:50.669Z"
+    "generatedAt": "2026-03-16T05:35:52.601Z"
   }
 }

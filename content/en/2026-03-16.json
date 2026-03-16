@@ -1,11 +1,121 @@
 {
   "date": "2026-03-16",
   "lang": "en",
-  "featured": [],
-  "quickNews": [],
+  "featured": [
+    {
+      "id": "986b712b203e8fc0eb2632475991af77df3fa387185e7cd54d1bebf60b4cb957",
+      "source": "Google News Security (CN)",
+      "title": "高通确认已向安卓厂商提供GBL漏洞修复 小米17系列等骁龙8Elite Gen5机型非官方解锁路径被封堵 - antutu.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVGoweXhYTThHcFB5aV9qck0tc3JQODZpWE5TMVl2Qzl1cnJnUFFEQW10RDQ4U1daeFZacVM4bjdMSF9RejA4bjA2YzE1dw?oc=5",
+      "summary": "高通确认已向安卓厂商提供GBL漏洞修复 小米17系列等骁龙8Elite Gen5机型非官方解锁路径被封堵  antutu.com",
+      "publishedAt": "2026-03-16T02:46:17.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        46
+      ],
+      "reason": "Critical Qualcomm vulnerability in Android",
+      "suggestedTitle": "Qualcomm Bootloader Vulnerability Threatens Android Devices",
+      "suggestedSummary": "Qualcomm has confirmed a critical bootloader vulnerability affecting Android devices, including Xiaomi's Snapdragon 8Elite Gen5 models. The flaw allows unauthorized bootloader unlocking, bypassing security checks. This vulnerability, identified as CVE-2026-21666, poses significant risks of unauthorized access and potential malware installation. Security teams should prioritize patching and ensure bootloader integrity checks are enforced.",
+      "relatedSources": [
+        "Google News Security (CN)",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "76eaaa542cb221438b8ecab63dd897b29e523742f09f9178b421639469b7f1dd",
+      "source": "Google News Security (JP)",
+      "title": "Google Chrome、深刻度”高”の脆弱性を修正 1週間で3回目の更新、悪用も確認 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YcVBJSGV3Z2wzcjQ0dVJ4UmhKLWVwRVE3UnlsaThkN3E3U3A1a1VISm51YVNoaU8yZS1UUHdyR1RKenVIcmJldE9BanFsZzMyOEZOdQ?oc=5",
+      "summary": "Google Chrome、深刻度”高”の脆弱性を修正 1週間で3回目の更新、悪用も確認  ASCII.jp",
+      "publishedAt": "2026-03-16T05:15:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        45
+      ],
+      "reason": "Chrome zero-day vulnerabilities patched",
+      "suggestedTitle": "Google Chrome Patches Multiple Zero-Day Vulnerabilities",
+      "suggestedSummary": "Google has released urgent updates for Chrome, addressing two high-severity zero-day vulnerabilities (CVE-2026-3909, CVE-2026-3910) actively exploited in the wild. These vulnerabilities allow remote code execution, impacting all platforms. Users are advised to update to v146.0.7680.80 immediately. The vulnerabilities highlight the critical need for timely patch management to prevent potential exploitation.",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ae2ad8556eb6d1154d51cfc4f6634cb5183c40b58ee95fc19fa19a6845bceafe",
+      "source": "Google News Security",
+      "title": "Outsourcer Telus admits to attack, possibly by ShinyHunters - theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BLWxwa1FMSFYzcG1xRk9vYjFkYkNCQ3BhSW1SRkpRd29aTUxLN3JHQ1NzOVN0Qng2cjY3WENWcUFDU0R6b1JueFRCTUFoMFVaVTFGYU9uem1kaDVRN3dsVlEzU2wtU1NPUmgzY3gyUlZKeTc0YkJJRA?oc=5",
+      "summary": "Outsourcer Telus admits to attack, possibly by ShinyHunters  theregister.com",
+      "publishedAt": "2026-03-15T23:24:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        26,
+        27
+      ],
+      "reason": "ShinyHunters linked to major data breaches",
+      "suggestedTitle": "ShinyHunters Behind Massive Data Breaches at Telus and CarGurus",
+      "suggestedSummary": "Cybercriminal group ShinyHunters has been linked to recent data breaches at Telus and CarGurus, compromising millions of records. The breaches exposed sensitive customer information, highlighting the group's ongoing threat to corporate data security. Organizations should enhance monitoring and threat intelligence capabilities to detect and mitigate such sophisticated attacks.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9f30f7a71e672ab4eab73099a272523f480652e1dc715c9b4a0dec8aa08a2bf7",
+      "source": "Google News Security (JP)",
+      "title": "Veeam Backup & Replicationに複数の脆弱性 12系と13系で緊急修正(CVE-2026-21666,CVE-2026-21667,CVE-2026-21668)|セキュリティとITのニュース-セキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHRYX2hULVVUNHBiU3hseExvaTF0T0JCNUUwdU1Jbk93RnprOU94eXM5UlFDY1c5UEdzdmI5WEtubXlXcUV0dWFYdHZoRzU3bUhSU3R0YXF3MkRFSm5KREJxeFA5OXZUNF9kMjlJbUx3WXlQZlJGRG90RWlOa3hCa2NENjlpa3AxREtWWXd6QUk5eUE2RE91XzMwZUdBWjVhQk9acFMwVmI0UHZDYVU3d3dB?oc=5",
+      "summary": "Veeam Backup & Replicationに複数の脆弱性 12系と13系で緊急修正(CVE-2026-21666,CVE-2026-21667,CVE-2026-21668)|セキュリティとITのニュース-セキュリティ対策Lab  合同会社ロケットボーイズ",
+      "publishedAt": "2026-03-16T04:00:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e1313b356df8ff3e8b3b3c33a8699fc3a0f879132eeb9fa163ceaf1e4dbf8beb",
+      "source": "Google News Security (JP)",
+      "title": "「Microsoft Edge 146」が公開、「Chromium」のゼロデイ脆弱性にも一部対処 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00N05MSEVabXhsWlZRbHJXcEJGaDU1c2thdWNhb0J0NEFOQlFtUDdYeWZWMnZQb0drUVlBUTY1NFpfdnJXNTBLSFlNUVFfRzdRanNDTE94d21SMG4tRWVZbTZRazI1cHBf?oc=5",
+      "summary": "「Microsoft Edge 146」が公開、「Chromium」のゼロデイ脆弱性にも一部対処  窓の杜",
+      "publishedAt": "2026-03-15T23:45:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5ab40b0aba333ec50a2dc9ecf185cb66a001525c20d41677af6fd18d463da1ed",
+      "source": "Google News Security (JP)",
+      "title": "Google、Chrome 緊急 アップデート公開 2件の高深刻度 脆弱性を修正、いずれも既に悪用を確認(CVE-2026-3909,CVE-2026-3910)|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaS1CVVBrMzZBTXNXaXR2Zm9raFJJTUhVRlBnb2RkbEVRdGxtVEgzTUQ3T0UtY3VfS1JFWHhaYnJ5SF84OWFYaHM1aVZvSmJlZGtHbzZmS0NISlNDbFJuemdXV2dENVp2VmhLanZtMTNldDJFUHRvaldSYUZ0VF9nU3lUUmRFNXdxSzVQd1VteF80cXNrc3hBMzhtZVAtelg1X0g1MUZYdHZJa3otZ3JEMHVvNDIxb3Y5NlEzSktvNThBQUZzTHR1Si1ZRC04MDZ2ajVzQnlKbw?oc=5",
+      "summary": "Google、Chrome 緊急 アップデート公開 2件の高深刻度 脆弱性を修正、いずれも既に悪用を確認(CVE-2026-3909,CVE-2026-3910)|セキュリティニュースのセキュリティ対策Lab  合同会社ロケットボーイズ",
+      "publishedAt": "2026-03-15T22:00:38.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8ee1faa9d8cecbd4724d7cb5b67413b94842bcb5d96526110cfaca1696b85a26",
+      "source": "Google News Security",
+      "title": "Loblaw Data Breach Impacts Customer Information - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVVKVmw5UWV1QS1kQTh5VWNGUDZ5RmVsby1NNlVNNjd2WXN5M0lIeXREbHN3U0RybFRxU3ctZ0o1UTBBYVhoUU9yazhNVksyZlZjMDUyWWpNdWU1UUxxODBwR2xMVTk4T1A3WmplUWdGRHZUSEdLaTJQRk8xcXctaHZOUdIBiAFBVV95cUxNZWstQWI5TFpfUWpuQzdaUGhHa1RxQzZ1SEpNNjhSbjFQZTJZMW4yQnJHZG0xUlpWX0ZRQ2NqZ2F3Mld5aUFpZ1JXWWJfLUdFU193VVZrdjRsRDR4eVAyTzUweFg5bGg1aUZ6N2RGRlFSZU95eGVxNl9hU0V5WmVWcDRicVFuVWJy?oc=5",
+      "summary": "Loblaw Data Breach Impacts Customer Information  SecurityWeek",
+      "publishedAt": "2026-03-15T10:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
   "metadata": {
-    "totalArticles": 0,
+    "totalArticles": 7,
     "estimatedReadTime": "5 min",
-    "generatedAt": "2026-03-16T04:40:50.668Z"
+    "generatedAt": "2026-03-16T05:35:49.230Z"
   }
 }
