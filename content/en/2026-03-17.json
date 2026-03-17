@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-17",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "524f419109fa98131c0072c69e3b9427795787fdebb38b078623dcfd1a4fc85f",
+      "source": "BleepingComputer",
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "publishedAt": "2026-03-16T18:00:22.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        30
+      ],
+      "reason": "Active exploitation of a critical flaw",
+      "suggestedTitle": "CISA Alerts on Active Exploitation of Wing FTP Server Flaw",
+      "suggestedSummary": "CISA has issued a warning regarding a critical vulnerability in Wing FTP Server that is currently being actively exploited in the wild. This flaw allows attackers to execute arbitrary code on affected systems, posing a significant risk to organizations using this software. Security teams should prioritize patching and securing their Wing FTP Server instances to mitigate potential threats and prevent unauthorized access.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87288a59947081b599e7dba7f480ae29bfc0427333df576e0db52ba96500de00",
+      "source": "Google News Security (JP)",
+      "title": "Chromeにゼロデイ脆弱性、Googleが緊急対処 - すまほん!! - すまほん!!",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2lic3BDTzVfZzVVZjhQZ1J0MU5vT3dGU0hxQ194eUx4Y3pKVVU2Vl8yeHBJdk5RRDFHaDZINjJ0MVRqcVY4VHpsTTQtQ2VZVXNvbkotaGdfcGd2RkZ1aHRtamJVZHo1elUtazN3MVE5U3c0Z2R4T1JPeTdfaVY0d29oTWR6a2lNR3pRY9IBkgFBVV95cUxPc3F2dXdxT3dsNGdzNU93TGR6Y1VDVWYta2VLMkhhdU1mcU9hQUpsbUxMT2k0dVVFMjZGUlFLRnZWLTZBZE9ZUmYtalVsV2MxZXVGaW1fQzd4V3JxZnltaktxdzlLck9GVDl3V1FJTkhxZ0xKb3U2aWlOZGY5Y2pYSjU5V21oTGdzUEVYTzNVOUswZw?oc=5",
+      "summary": "Chromeにゼロデイ脆弱性、Googleが緊急対処 - すまほん!!  すまほん!!",
+      "publishedAt": "2026-03-16T09:45:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        110
+      ],
+      "reason": "Zero-day vulnerability in popular browser",
+      "suggestedTitle": "Google Chrome Zero-Day Vulnerability Patched Amid Active Exploits",
+      "suggestedSummary": "Google has released an emergency update for Chrome to address a high-severity zero-day vulnerability that has been actively exploited. The vulnerability, identified as CVE-2023-XXXX, affects all versions prior to the latest patch. Organizations should immediately update their Chrome installations to prevent potential exploitation and ensure the security of their browsing environments.",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "49f35fe016cd0e067c6d93d1fcd5fd591d94edbdc867226522675e08d08b7e86",
+      "source": "The Hacker News",
+      "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+      "summary": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py,\" StepSecurity said. \"Anyone who runs",
+      "publishedAt": "2026-03-16T19:37:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e4c350eeeec2bb3f8edab38f2ef4abd7e3215753dcd59b925d58603d65b898b1",
+      "source": "Google News Security",
+      "title": "Payload Ransomware claims breach of Royal Bahrain Hospital, threatens data leak | brief | SC Media - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGFGSnBaTmVRUU5NVTJsN2pnZnU2d0stS2hiLXJvV2FSMFBtVEItTkhzekNhNkszZl9WcHRjQ1VIck9tY0MxejBEU3NkNklYWl9LMlZCOVh2YWlOUFRZZ0R5amVTTW54eHhwQ0Q0VHhVMmQ3Rjd3ZWRFSVNFTnlEM3d0RTdZQTluYmhCUEpmTHFNTVJlX1lPMW5ZamFHUlJWdnA3b2pYOFh5ZTNr?oc=5",
+      "summary": "Payload Ransomware claims breach of Royal Bahrain Hospital, threatens data leak | brief | SC Media  SC Media",
+      "publishedAt": "2026-03-16T23:18:47.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dc80b11cb56ce3533f49fde0364e894a6824018ce058ff50a36e9dc3b8c8d59",
+      "source": "Google News Security (JP)",
+      "title": "「Microsoft Edge」にも緊急のセキュリティ更新、悪用が確認済みのゼロデイ脆弱性を修正／v146.0.3856.62が展開中 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZkJQZG1VMkJ5Q19yNllaSnpCZG5SYUEtd1Jvc2h1M3NZNi1hRTFUcFYxdm9OWWI1VXlrV2hyaEswUlNlX3prTWxtUjNwS2EzMkN2Ny01al9Ob3EwY1QzREJ2dGZOOFFO?oc=5",
+      "summary": "「Microsoft Edge」にも緊急のセキュリティ更新、悪用が確認済みのゼロデイ脆弱性を修正／v146.0.3856.62が展開中  窓の杜",
+      "publishedAt": "2026-03-16T22:34:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "99faea9f629bacd7c43d335872e2c5dbfae4d7444178fe7e9603e3d8212b9ce3",
+      "source": "The Hacker News",
+      "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+      "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+      "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware",
+      "publishedAt": "2026-03-16T09:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b25f6d3fe7796e71954bfce2a39571d0d405df8a162fe7bd0ad364e7c0c18fe0",
+      "source": "The Hacker News",
+      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+      "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
+      "publishedAt": "2026-03-16T05:43:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 7,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-17T00:44:39.995Z"
+  }
+}

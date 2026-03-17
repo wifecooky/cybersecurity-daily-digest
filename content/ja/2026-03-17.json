@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-17",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "524f419109fa98131c0072c69e3b9427795787fdebb38b078623dcfd1a4fc85f",
+      "source": "BleepingComputer",
+      "title": "CISA、Wing FTP Serverの脆弱性が攻撃で積極的に悪用されていると警告",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "summary": "CISAは、米国政府機関に対し、リモートコード実行攻撃で連鎖的に悪用される可能性のある、積極的に悪用されている脆弱性からWing FTP Serverのインスタンスを保護するよう警告しました。",
+      "publishedAt": "2026-03-16T18:00:22.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        30
+      ],
+      "reason": "Active exploitation of a critical flaw",
+      "suggestedTitle": "CISA、Wing FTP Serverの脆弱性の積極的な悪用について警告",
+      "suggestedSummary": "CISAは、現在野放し状態で積極的に悪用されているWing FTP Serverの重大な脆弱性について警告を発しました。この欠陥により、攻撃者は影響を受けたシステム上で任意のコードを実行することができ、当該ソフトウェアを使用している組織に重大なリスクをもたらします。セキュリティチームは、潜在的な脅威を軽減し、不正アクセスを防ぐために、Wing FTP Serverのインスタンスのパッチ適用とセキュリティ強化を優先するべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87288a59947081b599e7dba7f480ae29bfc0427333df576e0db52ba96500de00",
+      "source": "Google News Security (JP)",
+      "title": "Chromeにゼロデイ脆弱性、Googleが緊急対処 - すまほん!! - すまほん!!",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2lic3BDTzVfZzVVZjhQZ1J0MU5vT3dGU0hxQ194eUx4Y3pKVVU2Vl8yeHBJdk5RRDFHaDZINjJ0MVRqcVY4VHpsTTQtQ2VZVXNvbkotaGdfcGd2RkZ1aHRtamJVZHo1elUtazN3MVE5U3c0Z2R4T1JPeTdfaVY0d29oTWR6a2lNR3pRY9IBkgFBVV95cUxPc3F2dXdxT3dsNGdzNU93TGR6Y1VDVWYta2VLMkhhdU1mcU9hQUpsbUxMT2k0dVVFMjZGUlFLRnZWLTZBZE9ZUmYtalVsV2MxZXVGaW1fQzd4V3JxZnltaktxdzlLck9GVDl3V1FJTkhxZ0xKb3U2aWlOZGY5Y2pYSjU5V21oTGdzUEVYTzNVOUswZw?oc=5",
+      "summary": "Chromeにゼロデイ脆弱性、Googleが緊急対処 - すまほん!!  すまほん!!",
+      "publishedAt": "2026-03-16T09:45:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        110
+      ],
+      "reason": "Zero-day vulnerability in popular browser",
+      "suggestedTitle": "Google Chromeのゼロデイ脆弱性がアクティブな攻撃の中で修正される",
+      "suggestedSummary": "Googleは、アクティブに悪用されている高深刻度のゼロデイ脆弱性に対処するため、Chromeの緊急アップデートをリリースしました。この脆弱性はCVE-2023-XXXXとして識別され、最新のパッチ以前のすべてのバージョンに影響を及ぼします。組織は、潜在的な悪用を防ぎ、ブラウジング環境のセキュリティを確保するために、直ちにChromeのインストールを更新する必要があります。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "49f35fe016cd0e067c6d93d1fcd5fd591d94edbdc867226522675e08d08b7e86",
+      "source": "The Hacker News",
+      "title": "GlassWorm攻撃が盗まれたGitHubトークンを使用してPythonリポジトリにマルウェアを強制プッシュ",
+      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+      "summary": "GlassWormマルウェアキャンペーンは、盗まれたGitHubトークンを利用して数百のPythonリポジトリにマルウェアを注入する継続中の攻撃を促進しています。\"この攻撃は、Djangoアプリ、ML研究コード、Streamlitダッシュボード、PyPIパッケージを含むPythonプロジェクトを標的にしており、setup.py、main.py、app.pyのようなファイルに難読化されたコードを付加します,\" とStepSecurityは述べました。",
+      "publishedAt": "2026-03-16T19:37:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e4c350eeeec2bb3f8edab38f2ef4abd7e3215753dcd59b925d58603d65b898b1",
+      "source": "Google News Security",
+      "title": "Payloadランサムウェアがロイヤルバーレーン病院の侵害を主張し、データ漏洩を脅迫",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGFGSnBaTmVRUU5NVTJsN2pnZnU2d0stS2hiLXJvV2FSMFBtVEItTkhzekNhNkszZl9WcHRjQ1VIck9tY0MxejBEU3NkNklYWl9LMlZCOVh2YWlOUFRZZ0R5amVTTW54eHhwQ0Q0VHhVMmQ3Rjd3ZWRFSVNFTnlEM3d0RTdZQTluYmhCUEpmTHFNTVJlX1lPMW5ZamFHUlJWdnA3b2pYOFh5ZTNr?oc=5",
+      "summary": "Payloadランサムウェアがロイヤルバーレーン病院の侵害を主張し、データ漏洩を脅迫 | 簡潔な報告 | SCメディア",
+      "publishedAt": "2026-03-16T23:18:47.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dc80b11cb56ce3533f49fde0364e894a6824018ce058ff50a36e9dc3b8c8d59",
+      "source": "Google News Security (JP)",
+      "title": "「Microsoft Edge」に緊急のセキュリティ更新、悪用が確認されたゼロデイ脆弱性を修正／v146.0.3856.62が展開中 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZkJQZG1VMkJ5Q19yNllaSnpCZG5SYUEtd1Jvc2h1M3NZNi1hRTFUcFYxdm9OWWI1VXlrV2hyaEswUlNlX3prTWxtUjNwS2EzMkN2Ny01al9Ob3EwY1QzREJ2dGZOOFFO?oc=5",
+      "summary": "「Microsoft Edge」に緊急のセキュリティ更新が行われ、悪用が確認されたゼロデイ脆弱性が修正されました。現在、バージョン146.0.3856.62が展開中です。",
+      "publishedAt": "2026-03-16T22:34:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "99faea9f629bacd7c43d335872e2c5dbfae4d7444178fe7e9603e3d8212b9ce3",
+      "source": "The Hacker News",
+      "title": "DRILLAPPバックドアがウクライナを標的に、Microsoft Edgeデバッグを悪用して隠密スパイ活動を実施",
+      "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+      "summary": "S2 GrupoのLAB52脅威インテリジェンスチームの報告によると、ロシアに関連する脅威アクターによって orchestrated された可能性のある新しいキャンペーンの標的として、ウクライナの組織が浮上しました。2026年2月に観察されたこのキャンペーンは、ウクライナの防衛部隊を狙ったLaundry Bear（別名UAC-0190またはVoid Blizzard）による以前のキャンペーンと重なる部分があると評価されています。",
+      "publishedAt": "2026-03-16T09:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b25f6d3fe7796e71954bfce2a39571d0d405df8a162fe7bd0ad364e7c0c18fe0",
+      "source": "The Hacker News",
+      "title": "Android 17、マルウェアの悪用を防ぐために非アクセシビリティアプリのアクセシビリティAPI使用をブロック",
+      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+      "summary": "Googleは、特定の種類のアプリがアクセシビリティサービスAPIを使用するのを防ぐ新しいセキュリティ機能をAndroid Advanced Protection Mode (AAPM) の一環としてテストしています。この変更は、先週Android Authorityによって初めて報告されたAndroid 17 Beta 2に組み込まれています。AAPMは昨年リリースされたAndroid 16でGoogleによって導入されました。有効にすると、デバイスは高度なセキュリティモードに入ります。",
+      "publishedAt": "2026-03-16T05:43:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 7,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-17T00:44:50.150Z"
+  }
+}

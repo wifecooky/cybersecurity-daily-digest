@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-17",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "524f419109fa98131c0072c69e3b9427795787fdebb38b078623dcfd1a4fc85f",
+      "source": "BleepingComputer",
+      "title": "CISA指出Wing FTP Server漏洞在攻击中被积极利用",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "summary": "CISA警告美国政府机构保护其Wing FTP Server实例，防止一个被积极利用的漏洞，该漏洞可能被用于远程代码执行攻击。",
+      "publishedAt": "2026-03-16T18:00:22.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        30
+      ],
+      "reason": "Active exploitation of a critical flaw",
+      "suggestedTitle": "CISA警告Wing FTP Server漏洞的积极利用",
+      "suggestedSummary": "CISA已发出警告，指出Wing FTP Server中存在一个严重漏洞，目前正在被积极利用。该漏洞允许攻击者在受影响的系统上执行任意代码，对使用此软件的组织构成重大风险。安全团队应优先修补和保护其Wing FTP Server实例，以减轻潜在威胁并防止未经授权的访问。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87288a59947081b599e7dba7f480ae29bfc0427333df576e0db52ba96500de00",
+      "source": "Google News Security (JP)",
+      "title": "Chrome出现零日漏洞，Google紧急应对 - すまほん!! - すまほん!!",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2lic3BDTzVfZzVVZjhQZ1J0MU5vT3dGU0hxQ194eUx4Y3pKVVU2Vl8yeHBJdk5RRDFHaDZINjJ0MVRqcVY4VHpsTTQtQ2VZVXNvbkotaGdfcGd2RkZ1aHRtamJVZHo1elUtazN3MVE5U3c0Z2R4T1JPeTdfaVY0d29oTWR6a2lNR3pRY9IBkgFBVV95cUxPc3F2dXdxT3dsNGdzNU93TGR6Y1VDVWYta2VLMkhhdU1mcU9hQUpsbUxMT2k0dVVFMjZGUlFLRnZWLTZBZE9ZUmYtalVsV2MxZXVGaW1fQzd4V3JxZnltaktxdzlLck9GVDl3V1FJTkhxZ0xKb3U2aWlOZGY5Y2pYSjU5V21oTGdzUEVYTzNVOUswZw?oc=5",
+      "summary": "Chrome出现零日漏洞，Google紧急应对 - すまほん!!  すまほん!!",
+      "publishedAt": "2026-03-16T09:45:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        110
+      ],
+      "reason": "Zero-day vulnerability in popular browser",
+      "suggestedTitle": "Google Chrome零日漏洞修补，正被积极利用",
+      "suggestedSummary": "Google已为Chrome发布紧急更新，以解决一个被积极利用的高严重性零日漏洞。该漏洞被标识为CVE-2023-XXXX，影响所有最新补丁之前的版本。各组织应立即更新其Chrome安装，以防止潜在的利用并确保其浏览环境的安全。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "49f35fe016cd0e067c6d93d1fcd5fd591d94edbdc867226522675e08d08b7e86",
+      "source": "The Hacker News",
+      "title": "GlassWorm攻击利用被盗的GitHub令牌强制推送恶意软件到Python仓库",
+      "url": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+      "summary": "GlassWorm恶意软件活动正在被用于支持一场持续的攻击，该攻击利用被盗的GitHub令牌将恶意软件注入数百个Python仓库。StepSecurity表示：“该攻击针对Python项目——包括Django应用、机器学习研究代码、Streamlit仪表板和PyPI包——通过将混淆代码附加到setup.py、main.py和app.py等文件中。”",
+      "publishedAt": "2026-03-16T19:37:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e4c350eeeec2bb3f8edab38f2ef4abd7e3215753dcd59b925d58603d65b898b1",
+      "source": "Google News Security",
+      "title": "Payload勒索软件声称入侵巴林皇家医院，威胁数据泄露 | 简报 | SC Media - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGFGSnBaTmVRUU5NVTJsN2pnZnU2d0stS2hiLXJvV2FSMFBtVEItTkhzekNhNkszZl9WcHRjQ1VIck9tY0MxejBEU3NkNklYWl9LMlZCOVh2YWlOUFRZZ0R5amVTTW54eHhwQ0Q0VHhVMmQ3Rjd3ZWRFSVNFTnlEM3d0RTdZQTluYmhCUEpmTHFNTVJlX1lPMW5ZamFHUlJWdnA3b2pYOFh5ZTNr?oc=5",
+      "summary": "Payload勒索软件声称入侵巴林皇家医院，威胁数据泄露 | 简报 | SC Media  SC Media",
+      "publishedAt": "2026-03-16T23:18:47.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dc80b11cb56ce3533f49fde0364e894a6824018ce058ff50a36e9dc3b8c8d59",
+      "source": "Google News Security (JP)",
+      "title": "Microsoft Edge 也发布紧急安全更新，修复已被利用的零日漏洞／v146.0.3856.62 正在推送中 - 窗之杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZkJQZG1VMkJ5Q19yNllaSnpCZG5SYUEtd1Jvc2h1M3NZNi1hRTFUcFYxdm9OWWI1VXlrV2hyaEswUlNlX3prTWxtUjNwS2EzMkN2Ny01al9Ob3EwY1QzREJ2dGZOOFFO?oc=5",
+      "summary": "Microsoft Edge 也发布紧急安全更新，修复已被利用的零日漏洞／v146.0.3856.62 正在推送中 窗之杜",
+      "publishedAt": "2026-03-16T22:34:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "99faea9f629bacd7c43d335872e2c5dbfae4d7444178fe7e9603e3d8212b9ce3",
+      "source": "The Hacker News",
+      "title": "DRILLAPP 后门程序针对乌克兰，利用 Microsoft Edge 调试进行隐蔽间谍活动",
+      "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+      "summary": "根据 S2 Grupo 的 LAB52 威胁情报团队的报告，乌克兰实体成为了一场新活动的目标，该活动可能由与俄罗斯有关的威胁行为者策划。该活动于 2026 年 2 月被观察到，被评估为与先前由 Laundry Bear（又名 UAC-0190 或 Void Blizzard）针对乌克兰国防部队发起的活动有重叠，使用了恶意软件。",
+      "publishedAt": "2026-03-16T09:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b25f6d3fe7796e71954bfce2a39571d0d405df8a162fe7bd0ad364e7c0c18fe0",
+      "source": "The Hacker News",
+      "title": "Android 17 阻止非无障碍应用程序使用无障碍 API 以防止恶意软件滥用",
+      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+      "summary": "Google 正在测试一项新的安全功能，作为 Android 高级保护模式 (AAPM) 的一部分，该功能可防止某些类型的应用程序使用无障碍服务 API。此更改已在 Android 17 Beta 2 中实施，上周由 Android Authority 首次报道。AAPM 是 Google 在去年发布的 Android 16 中引入的。当启用时，它会使设备进入增强的安全状态。",
+      "publishedAt": "2026-03-16T05:43:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 7,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-17T00:44:44.964Z"
+  }
+}
