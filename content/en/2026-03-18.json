@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-18",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "5f2d079c5742735a48b5aa4eb35d6d60df25dae7c62370fdf56f647fe633a455",
+      "source": "The Hacker News",
+      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+      "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+      "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
+      "publishedAt": "2026-03-17T14:34:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "New ransomware tactics identified",
+      "suggestedTitle": "LeakNet Ransomware Uses ClickFix and Deno In-Memory Loader",
+      "suggestedSummary": "The LeakNet ransomware group has adopted the ClickFix social engineering technique to infiltrate corporate environments. Utilizing a Deno runtime for in-memory loading, this method allows for stealthy deployment, bypassing traditional detection mechanisms. Security teams should be aware of this evolving threat and update their detection strategies to identify such in-memory execution techniques.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7471aa0d5cddfdf0a23d7b88aebea6527a16d8b12d70ed3635de91effff860b6",
+      "source": "BleepingComputer",
+      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+      "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
+      "publishedAt": "2026-03-17T21:42:54.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Supply chain attack on code repositories",
+      "suggestedTitle": "GlassWorm Malware Targets GitHub and npm Repositories",
+      "suggestedSummary": "The GlassWorm supply chain attack has resurfaced, targeting over 400 code repositories on platforms like GitHub, npm, VSCode, and OpenVSX. This coordinated attack injects malicious code into legitimate projects, posing significant risks to developers and end-users. Security teams must audit dependencies regularly and employ tools to detect unauthorized changes in codebases.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6ba49d7c320018197b55b545bdc6d9f2eb1af049fcb0c152398de58d74462905",
+      "source": "Google News Security (CN)",
+      "title": "苹果发布后台安全更新修复高危WebKit漏洞 - DoNews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTU85UWtmdktOaEhsZnBHQVZERWd0ZVRiX1RZX0FCaUtfend6bTA3YmhUXzN0Ukt4Z0NTbkNoV3FaVmtXNWZ5ZTRDa2k1TnlXYTFNM1kzNGllb3JSYWc?oc=5",
+      "summary": "苹果发布后台安全更新修复高危WebKit漏洞  DoNews",
+      "publishedAt": "2026-03-17T23:11:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        22,
+        24,
+        25,
+        31
+      ],
+      "reason": "Critical Apple security updates",
+      "suggestedTitle": "Apple Releases Security Updates for High-Risk WebKit Vulnerability",
+      "suggestedSummary": "Apple has issued security updates for iOS, iPadOS, and macOS to address a critical WebKit vulnerability. The flaw, which could allow attackers to execute arbitrary code, affects Safari and other WebKit-based applications. Users are urged to update their devices immediately to mitigate potential exploitation risks.",
+      "relatedSources": [
+        "Google News Security (CN)",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "1e3fceeeefc0c988c08c2968294e7169931bd15f569ccb45f2330462c6a92140",
+      "source": "The Hacker News",
+      "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+      "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+      "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni.\n\"Initial access was achieved through a spear-phishing email disguised as a",
+      "publishedAt": "2026-03-17T09:53:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "24b6b43a09f56a82963c76f69e3cd993b35e6b868d359668fa2584f2657d92cb",
+      "source": "Dark Reading",
+      "title": "More Attackers Are Logging In, Not Breaking In",
+      "url": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+      "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
+      "publishedAt": "2026-03-17T22:04:46.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "418f069b27a5a628d1af40c381cc7ec94dadfbf957844bd4e54a2f06ad55f1e9",
+      "source": "BleepingComputer",
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
+      "publishedAt": "2026-03-17T18:41:59.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4f162c3b68a2f05404473852bd79585d98ab0497b6fa067b045c6256b9308419",
+      "source": "Dark Reading",
+      "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
+      "url": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+      "summary": "Researchers uncovered an extensive cyber espionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+      "publishedAt": "2026-03-17T01:00:00.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca764b0688d7d2d44f2bedd2bb67af0ab307b1dc4d04a6a889f06d83f76c7868",
+      "source": "The Hacker News",
+      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
+      "publishedAt": "2026-03-17T05:23:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-18T00:47:43.532Z"
+  }
+}

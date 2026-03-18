@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-18",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "5f2d079c5742735a48b5aa4eb35d6d60df25dae7c62370fdf56f647fe633a455",
+      "source": "The Hacker News",
+      "title": "LeakNetランサムウェア、ハッキングされたサイトを介してClickFixを使用し、Denoインメモリローダーを展開",
+      "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+      "summary": "LeakNetとして知られるランサムウェアオペレーションは、初期アクセス手法として、侵害されたウェブサイトを通じて提供されるClickFixソーシャルエンジニアリング戦術を採用しました。ClickFixの使用では、ユーザーが存在しないエラーを解決するために手動で悪意のあるコマンドを実行するように騙されるため、盗まれた資格情報を通じて初期アクセスを得る従来の方法からの逸脱となっています。",
+      "publishedAt": "2026-03-17T14:34:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "New ransomware tactics identified",
+      "suggestedTitle": "LeakNetランサムウェア、ClickFixとDenoインメモリローダーを使用",
+      "suggestedSummary": "LeakNetランサムウェアグループは、企業環境に侵入するためにClickFixソーシャルエンジニアリング技術を採用しました。Denoランタイムを使用したインメモリローディングにより、この手法は従来の検出メカニズムを回避し、ステルス展開を可能にします。セキュリティチームはこの進化する脅威に注意を払い、インメモリ実行技術を識別するために検出戦略を更新するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7471aa0d5cddfdf0a23d7b88aebea6527a16d8b12d70ed3635de91effff860b6",
+      "source": "BleepingComputer",
+      "title": "GlassWormマルウェアがGitHub、npm、VSCode、OpenVSXの400以上のコードリポジトリを攻撃",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+      "summary": "GlassWormサプライチェーンキャンペーンが復活し、GitHub、npm、VSCode/OpenVSXの拡張機能で数百のパッケージ、リポジトリ、拡張機能を標的とした新たな協調攻撃が行われました。[...]",
+      "publishedAt": "2026-03-17T21:42:54.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Supply chain attack on code repositories",
+      "suggestedTitle": "GlassWormマルウェアがGitHubとnpmのリポジトリを標的に",
+      "suggestedSummary": "GlassWormサプライチェーン攻撃が再浮上し、GitHub、npm、VSCode、OpenVSXなどのプラットフォームで400以上のコードリポジトリを標的にしています。この協調攻撃は、正当なプロジェクトに悪意のあるコードを注入し、開発者やエンドユーザーに重大なリスクをもたらします。セキュリティチームは依存関係を定期的に監査し、コードベースの不正な変更を検出するツールを使用する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6ba49d7c320018197b55b545bdc6d9f2eb1af049fcb0c152398de58d74462905",
+      "source": "Google News Security (CN)",
+      "title": "アップルがバックグラウンドでのセキュリティアップデートを発表、高リスクのWebKit脆弱性を修正",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTU85UWtmdktOaEhsZnBHQVZERWd0ZVRiX1RZX0FCaUtfend6bTA3YmhUXzN0Ukt4Z0NTbkNoV3FaVmtXNWZ5ZTRDa2k1TnlXYTFNM1kzNGllb3JSYWc?oc=5",
+      "summary": "アップルがバックグラウンドでのセキュリティアップデートを発表、高リスクのWebKit脆弱性を修正",
+      "publishedAt": "2026-03-17T23:11:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        22,
+        24,
+        25,
+        31
+      ],
+      "reason": "Critical Apple security updates",
+      "suggestedTitle": "アップル、高リスクのWebKit脆弱性に対するセキュリティアップデートをリリース",
+      "suggestedSummary": "アップルは、iOS、iPadOS、およびmacOS向けに重大なWebKit脆弱性に対処するためのセキュリティアップデートを発行しました。この欠陥は、攻撃者が任意のコードを実行できる可能性があり、Safariや他のWebKitベースのアプリケーションに影響を及ぼします。ユーザーは、潜在的な悪用リスクを軽減するために、直ちにデバイスを更新することが推奨されます。",
+      "relatedSources": [
+        "Google News Security (CN)",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "1e3fceeeefc0c988c08c2968294e7169931bd15f569ccb45f2330462c6a92140",
+      "source": "The Hacker News",
+      "title": "Konniがフィッシングを通じてEndRATを展開、KakaoTalkを利用してマルウェアを拡散",
+      "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+      "summary": "北朝鮮の脅威アクターが、フィッシングを送信してターゲットを侵害し、被害者のKakaoTalkデスクトップアプリケーションにアクセスして特定の連絡先に悪意のあるペイロードを配布することが観察されています。この活動は、韓国の脅威インテリジェンス企業GeniansによってKonniと呼ばれるハッキンググループに帰属されています。「初期アクセスは、偽装されたスピアフィッシングメールを通じて達成されました。",
+      "publishedAt": "2026-03-17T09:53:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "24b6b43a09f56a82963c76f69e3cd993b35e6b868d359668fa2584f2657d92cb",
+      "source": "Dark Reading",
+      "title": "侵入ではなくログインする攻撃者が増加",
+      "url": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+      "summary": "情報窃取マルウェアの産業化とAIを活用したソーシャルエンジニアリングの影響で、2025年後半に資格情報の窃盗が急増しました。",
+      "publishedAt": "2026-03-17T22:04:46.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "418f069b27a5a628d1af40c381cc7ec94dadfbf957844bd4e54a2f06ad55f1e9",
+      "source": "BleepingComputer",
+      "title": "ヨーロッパ、中国およびイランの企業にサイバー攻撃で制裁",
+      "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "summary": "欧州連合理事会は、地域の重要インフラを標的としたサイバー攻撃への関与により、3つの団体と2人の個人に対する制裁を発表しました。",
+      "publishedAt": "2026-03-17T18:41:59.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4f162c3b68a2f05404473852bd79585d98ab0497b6fa067b045c6256b9308419",
+      "source": "Dark Reading",
+      "title": "中国系ハッカー、東南アジアの軍事組織に数年間潜伏",
+      "url": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+      "summary": "研究者たちは、新しいバックドアと馴染みのある回避技術を使用して、地域の標的に対する持続的なアクセスを維持する広範なサイバー諜報活動キャンペーンを発見しました。",
+      "publishedAt": "2026-03-17T01:00:00.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca764b0688d7d2d44f2bedd2bb67af0ab307b1dc4d04a6a889f06d83f76c7868",
+      "source": "The Hacker News",
+      "title": "CISA、サーバーパスを漏洩するWing FTPの脆弱性を警告",
+      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は月曜日、Wing FTPに影響を与える中程度の深刻度のセキュリティ欠陥を、既知の悪用脆弱性（KEV）カタログに追加しました。これは、積極的な悪用の証拠があるためです。この脆弱性（CVE-2025-47813、CVSSスコア：4.3）は、特定の条件下でアプリケーションのインストールパスを漏洩する情報漏洩の脆弱性です。",
+      "publishedAt": "2026-03-17T05:23:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-18T00:47:58.144Z"
+  }
+}
