@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-19",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "6424e2e2179fec3835093ceda4dc387677c8e5ad9b3653e5999012d9a3120064",
+      "source": "The Hacker News",
+      "title": "Interlock 勒索软件利用 Cisco FMC 零日漏洞 CVE-2026-20131 获取 root 访问权限",
+      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "亚马逊威胁情报警告称，一场活跃的 Interlock 勒索软件活动正在利用最近披露的 Cisco Secure Firewall Management Center (FMC) 软件中的关键安全漏洞。该漏洞为 CVE-2026-20131（CVSS 评分：10.0），涉及用户提供的 Java 字节流的不安全反序列化，可能允许未经身份验证的远程攻击者进行攻击。",
+      "publishedAt": "2026-03-18T16:00:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Zero-day RCE actively exploited",
+      "suggestedTitle": "Interlock 勒索软件利用 Cisco 零日漏洞 CVE-2026-20131",
+      "suggestedSummary": "Interlock 勒索软件团伙一直在积极利用 Cisco 的 Firepower Management Center (FMC) 中的零日漏洞 CVE-2026-20131 来获取 root 访问权限。自一月份以来，这一最高严重性的远程代码执行 (RCE) 漏洞一直受到攻击，使对手能够破坏受影响的系统。安全团队应优先修补漏洞并审查网络活动中的妥协指标，因为此漏洞对组织安全构成重大风险。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87246f0b2b4cf9451c94a91b549f4c5a65bb1ddbe118b048d976d37123e8055a",
+      "source": "The Hacker News",
+      "title": "苹果修复了iOS和macOS上允许跨源策略绕过的WebKit漏洞",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "summary": "苹果公司周二发布了首轮背景安全改进，以解决影响iOS、iPadOS和macOS的WebKit安全漏洞。该漏洞被追踪为CVE-2026-20643（CVSS评分：N/A），被描述为WebKit导航API中的跨源问题，可被利用在处理恶意制作的网页内容时绕过同源策略。",
+      "publishedAt": "2026-03-18T06:31:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        7
+      ],
+      "reason": "Critical WebKit vulnerability in Apple devices",
+      "suggestedTitle": "苹果修补允许跨源策略绕过的WebKit漏洞",
+      "suggestedSummary": "苹果发布了背景安全改进更新，以解决一个关键的WebKit漏洞，该漏洞允许在iOS和macOS设备上绕过同源策略。此缺陷可能使攻击者能够在不同源之间执行恶意脚本，可能导致数据盗窃或进一步的攻击。用户应立即更新其设备，以降低风险并确保其浏览活动的安全。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a40d745ed19e900ee3bcff58cf910091f88c4e95a26f900162e638b2220c6c7a",
+      "source": "BleepingComputer",
+      "title": "CISA命令联邦机构修补被攻击利用的Zimbra XSS漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+      "summary": "CISA已命令美国政府机构保护其服务器免受Zimbra协作套件（ZCS）中一个被积极利用的漏洞的攻击。",
+      "publishedAt": "2026-03-18T19:57:13.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "CISA mandates urgent patching",
+      "suggestedTitle": "CISA命令立即修补Zimbra XSS漏洞",
+      "suggestedSummary": "CISA已发布紧急指令，要求美国政府机构修补Zimbra中的一个跨站脚本（XSS）漏洞，该漏洞正在被积极利用。此漏洞允许攻击者在用户会话的上下文中执行任意脚本，可能导致数据泄露或进一步的网络入侵。各机构必须迅速采取行动保护其服务器并防止漏洞被利用。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "adb65efa1fd12768a8f95b71231831b1173619997e8bf7a27b30d5153d826f04",
+      "source": "Dark Reading",
+      "title": "C2 植入程序 'SnappyClient' 瞄准加密钱包",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets",
+      "summary": "除了支持远程访问外，该恶意软件还具备多种功能，包括数据盗窃和间谍活动。",
+      "publishedAt": "2026-03-18T21:49:02.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "776655be69a00237aada041a3164883ca4d5498160395f05f44cadddc6edba32",
+      "source": "The Hacker News",
+      "title": "OFAC制裁通过虚假远程工作为大规模杀伤性武器计划融资的朝鲜IT工作者网络",
+      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "美国财政部外国资产控制办公室（OFAC）已制裁六名个人和两个实体，因其参与朝鲜民主主义人民共和国（DPRK）信息技术（IT）工作者计划，旨在欺骗美国企业并为政权生成非法收入，以资助其大规模杀伤性武器（WMD）计划。",
+      "publishedAt": "2026-03-18T17:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3c0cbfe0c220fdbf3f64ddfe2957e4f27705301a3275261458a64c88abfd2c1b",
+      "source": "BleepingComputer",
+      "title": "ConnectWise 修补允许劫持 ScreenConnect 的新漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+      "summary": "ConnectWise 正在警告 ScreenConnect 客户关于一个可能导致未经授权访问和权限升级的加密签名验证漏洞。",
+      "publishedAt": "2026-03-18T18:10:35.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "95a495b6be58701fe015d44bfa021a6d306c0b9f26e6018eeab99562b7a9baa3",
+      "source": "BleepingComputer",
+      "title": "新的“暗剑”iOS漏洞被用于针对iPhone的信息窃取攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "summary": "一种名为“暗剑”的新漏洞工具包和交付框架已被用于窃取包括加密货币钱包应用程序数据在内的广泛个人信息。",
+      "publishedAt": "2026-03-18T14:02:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fcbdab62134456d6602099c49178e53778f5ab89e350462a1aac7e434d14bfbd",
+      "source": "Dark Reading",
+      "title": "SideWinder 间谍活动在东南亚扩展",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "summary": "疑似与印度有关的威胁组织通过鱼叉式网络钓鱼、利用旧漏洞以及快速更换基础设施来攻击政府、电信和关键基础设施，以维持持续访问。",
+      "publishedAt": "2026-03-18T13:00:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-19T00:47:59.026Z"
+  }
+}

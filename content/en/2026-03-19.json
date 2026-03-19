@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-19",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "6424e2e2179fec3835093ceda4dc387677c8e5ad9b3653e5999012d9a3120064",
+      "source": "The Hacker News",
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.\nThe vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to",
+      "publishedAt": "2026-03-18T16:00:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Zero-day RCE actively exploited",
+      "suggestedTitle": "Interlock Ransomware Exploits Cisco Zero-Day CVE-2026-20131",
+      "suggestedSummary": "The Interlock ransomware gang has been actively exploiting a zero-day vulnerability, CVE-2026-20131, in Cisco's Firepower Management Center (FMC) to gain root access. This maximum severity remote code execution (RCE) vulnerability has been under attack since January, allowing adversaries to compromise affected systems. Security teams should prioritize patching and review network activity for indicators of compromise, as this vulnerability poses a significant risk to organizational security.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87246f0b2b4cf9451c94a91b549f4c5a65bb1ddbe118b048d976d37123e8055a",
+      "source": "The Hacker News",
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+      "publishedAt": "2026-03-18T06:31:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        7
+      ],
+      "reason": "Critical WebKit vulnerability in Apple devices",
+      "suggestedTitle": "Apple Patches WebKit Vulnerability Allowing Same-Origin Policy Bypass",
+      "suggestedSummary": "Apple has released a Background Security Improvements update to address a critical WebKit vulnerability that enabled a Same-Origin Policy bypass on iOS and macOS devices. This flaw could allow attackers to execute malicious scripts across different origins, potentially leading to data theft or further exploits. Users should update their devices immediately to mitigate this risk and ensure their browsing activities remain secure.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a40d745ed19e900ee3bcff58cf910091f88c4e95a26f900162e638b2220c6c7a",
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+      "publishedAt": "2026-03-18T19:57:13.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "CISA mandates urgent patching",
+      "suggestedTitle": "CISA Orders Immediate Patching of Zimbra XSS Vulnerability",
+      "suggestedSummary": "CISA has issued an emergency directive for U.S. government agencies to patch a cross-site scripting (XSS) vulnerability in Zimbra, which is being actively exploited in the wild. This vulnerability allows attackers to execute arbitrary scripts in the context of the user's session, potentially leading to data breaches or further network compromise. Agencies must act swiftly to secure their servers and prevent exploitation.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "adb65efa1fd12768a8f95b71231831b1173619997e8bf7a27b30d5153d826f04",
+      "source": "Dark Reading",
+      "title": "C2 Implant 'SnappyClient' Targets Crypto Wallets",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets",
+      "summary": "In addition to enabling remote access, the malware supports a wide range of capabilities, including data theft and spying.",
+      "publishedAt": "2026-03-18T21:49:02.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "776655be69a00237aada041a3164883ca4d5498160395f05f44cadddc6edba32",
+      "source": "The Hacker News",
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.\n\"The North Korean",
+      "publishedAt": "2026-03-18T17:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3c0cbfe0c220fdbf3f64ddfe2957e4f27705301a3275261458a64c88abfd2c1b",
+      "source": "BleepingComputer",
+      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+      "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
+      "publishedAt": "2026-03-18T18:10:35.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "95a495b6be58701fe015d44bfa021a6d306c0b9f26e6018eeab99562b7a9baa3",
+      "source": "BleepingComputer",
+      "title": "New “Darksword” iOS exploit used in infostealer attack on iPhones",
+      "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "summary": "A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
+      "publishedAt": "2026-03-18T14:02:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fcbdab62134456d6602099c49178e53778f5ab89e350462a1aac7e434d14bfbd",
+      "source": "Dark Reading",
+      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+      "publishedAt": "2026-03-18T13:00:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-19T00:47:52.185Z"
+  }
+}

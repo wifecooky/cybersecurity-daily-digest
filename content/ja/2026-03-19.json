@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-19",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "6424e2e2179fec3835093ceda4dc387677c8e5ad9b3653e5999012d9a3120064",
+      "source": "The Hacker News",
+      "title": "インターロックランサムウェアがCisco FMCゼロデイCVE-2026-20131を利用してルートアクセスを取得",
+      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligenceは、Cisco Secure Firewall Management Center (FMC) ソフトウェアに最近公開された重大なセキュリティ欠陥を悪用するアクティブなインターロックランサムウェアキャンペーンについて警告しています。問題の脆弱性はCVE-2026-20131（CVSSスコア: 10.0）で、ユーザーが提供したJavaバイトストリームの不適切なデシリアライズのケースであり、認証されていないリモート攻撃者が",
+      "publishedAt": "2026-03-18T16:00:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Zero-day RCE actively exploited",
+      "suggestedTitle": "インターロックランサムウェアがCiscoゼロデイCVE-2026-20131を悪用",
+      "suggestedSummary": "インターロックランサムウェアグループは、CiscoのFirepower Management Center (FMC) におけるゼロデイ脆弱性CVE-2026-20131を積極的に悪用してルートアクセスを取得しています。この最大の深刻度を持つリモートコード実行（RCE）脆弱性は1月から攻撃を受けており、攻撃者が影響を受けたシステムを侵害することを可能にしています。セキュリティチームはパッチ適用を優先し、侵害の兆候を確認するためにネットワーク活動をレビューする必要があります。この脆弱性は組織のセキュリティに重大なリスクをもたらします。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "87246f0b2b4cf9451c94a91b549f4c5a65bb1ddbe118b048d976d37123e8055a",
+      "source": "The Hacker News",
+      "title": "Apple、iOSおよびmacOSで同一オリジンポリシーを回避するWebKitの脆弱性を修正",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "summary": "Appleは火曜日に、iOS、iPadOS、およびmacOSに影響を与えるWebKitのセキュリティ欠陥に対処するための最初のバックグラウンドセキュリティ改善をリリースしました。CVE-2026-20643（CVSSスコア：N/A）として追跡されているこの脆弱性は、悪意のあるウェブコンテンツを処理する際に同一オリジンポリシーを回避するために悪用される可能性のあるWebKitのナビゲーションAPIのクロスオリジン問題として説明されています。",
+      "publishedAt": "2026-03-18T06:31:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        7
+      ],
+      "reason": "Critical WebKit vulnerability in Apple devices",
+      "suggestedTitle": "Apple、同一オリジンポリシーの回避を可能にするWebKitの脆弱性を修正",
+      "suggestedSummary": "Appleは、iOSおよびmacOSデバイスで同一オリジンポリシーの回避を可能にする重大なWebKitの脆弱性に対処するためのバックグラウンドセキュリティ改善のアップデートをリリースしました。この欠陥により、攻撃者が異なるオリジン間で悪意のあるスクリプトを実行し、データの盗難やさらなる攻撃につながる可能性があります。ユーザーは直ちにデバイスを更新して、このリスクを軽減し、ブラウジング活動の安全性を確保する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a40d745ed19e900ee3bcff58cf910091f88c4e95a26f900162e638b2220c6c7a",
+      "source": "BleepingComputer",
+      "title": "CISA、攻撃で悪用されているZimbraのXSS脆弱性の修正を連邦機関に命令",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+      "summary": "CISAは、米国政府機関に対し、Zimbra Collaboration Suite（ZCS）における積極的に悪用されている脆弱性からサーバーを保護するよう命じました。[...]",
+      "publishedAt": "2026-03-18T19:57:13.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "CISA mandates urgent patching",
+      "suggestedTitle": "CISA、ZimbraのXSS脆弱性の即時修正を命令",
+      "suggestedSummary": "CISAは、米国政府機関に対し、Zimbraのクロスサイトスクリプティング（XSS）脆弱性を修正する緊急指令を発行しました。この脆弱性は、攻撃者がユーザーのセッションのコンテキストで任意のスクリプトを実行できるようにし、データ漏洩やネットワークのさらなる侵害につながる可能性があります。機関は迅速にサーバーを保護し、悪用を防ぐ必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "adb65efa1fd12768a8f95b71231831b1173619997e8bf7a27b30d5153d826f04",
+      "source": "Dark Reading",
+      "title": "C2インプラント「SnappyClient」が暗号通貨ウォレットを標的に",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets",
+      "summary": "リモートアクセスを可能にするだけでなく、このマルウェアはデータ窃盗やスパイ行為を含む幅広い機能をサポートしています。",
+      "publishedAt": "2026-03-18T21:49:02.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "776655be69a00237aada041a3164883ca4d5498160395f05f44cadddc6edba32",
+      "source": "The Hacker News",
+      "title": "OFAC、偽のリモートジョブを通じて大量破壊兵器プログラムを資金提供するDPRK IT労働者ネットワークを制裁",
+      "url": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "米国財務省の外国資産管理局（OFAC）は、朝鮮民主主義人民共和国（DPRK）の情報技術（IT）労働者スキームに関与し、米国企業を欺き、政権の大量破壊兵器（WMD）プログラムを資金提供するための不正収入を生み出すことを目的とした6人の個人と2つの団体を制裁しました。",
+      "publishedAt": "2026-03-18T17:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3c0cbfe0c220fdbf3f64ddfe2957e4f27705301a3275261458a64c88abfd2c1b",
+      "source": "BleepingComputer",
+      "title": "ConnectWise、新たな脆弱性を修正しScreenConnectの乗っ取りを防止",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+      "summary": "ConnectWiseは、ScreenConnectの顧客に対し、暗号署名の検証に関する脆弱性が不正アクセスや権限昇格につながる可能性があると警告しています。",
+      "publishedAt": "2026-03-18T18:10:35.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "95a495b6be58701fe015d44bfa021a6d306c0b9f26e6018eeab99562b7a9baa3",
+      "source": "BleepingComputer",
+      "title": "新しい「Darksword」iOSエクスプロイトがiPhoneへの情報窃取攻撃に使用される",
+      "url": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "summary": "「Darksword」と名付けられたiOSデバイス向けの新しいエクスプロイトキットと配信フレームワークが、仮想通貨ウォレットアプリからのデータを含む幅広い個人情報を盗むために使用されました。",
+      "publishedAt": "2026-03-18T14:02:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fcbdab62134456d6602099c49178e53778f5ab89e350462a1aac7e434d14bfbd",
+      "source": "Dark Reading",
+      "title": "SideWinderスパイ活動キャンペーンが東南アジア全域に拡大",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "summary": "インドに関連すると疑われる脅威グループが、政府、通信、重要インフラを標的にし、スピアフィッシング、古い脆弱性、迅速に変化するインフラを使用して持続的なアクセスを維持しています。",
+      "publishedAt": "2026-03-18T13:00:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-19T00:48:06.033Z"
+  }
+}
