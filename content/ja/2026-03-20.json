@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-20",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "c45e25fb8c7f66059234937aed2cd704e714287eb9386f412b7a3b115b1dfd48",
+      "source": "The Hacker News",
+      "title": "CISA、ZimbraとSharePointの脆弱性の悪用を警告；Ciscoのゼロデイがランサムウェア攻撃に遭遇",
+      "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は、Synacor Zimbra Collaboration Suite（ZCS）とMicrosoft Office SharePointに影響を与える2つのセキュリティ脆弱性に対するパッチを適用するよう政府機関に促しました。これらの脆弱性は野外で積極的に悪用されています。問題の脆弱性は以下の通りです - CVE-2025-66376（CVSSスコア：7.2） - 保存型クロスサイトスクリプティング",
+      "publishedAt": "2026-03-19T06:05:00.000Z",
+      "score": 49,
+      "relatedCount": 4,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Active exploitation of critical flaws",
+      "suggestedTitle": "CISA、ZimbraとSharePointの脆弱性の悪用に関する警告を発表",
+      "suggestedSummary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は、ZimbraとMicrosoft SharePointの脆弱性が積極的に悪用されていることについて警告を発表しました。ロシアの国家支援を受けたAPT28がウクライナ政府機関への攻撃でZimbraの脆弱性を悪用しており、1月にパッチが適用されたSharePointの重大な脆弱性も利用されています。セキュリティチームは、これらの脆弱性のパッチ適用を優先し、不正アクセスやデータ漏洩を防ぐべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "484a2aa643694bf9bfd50ac70f88d79eecef9ece9aa1df12341be4b2ee24b353",
+      "source": "Ars Technica Security",
+      "title": "何百万ものiPhoneが新たなツールでハッキングされる可能性",
+      "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "summary": "DarkSwordという強力なiPhoneハッキング技術が、ロシアのハッカーによって使用されていることが発見されました。",
+      "publishedAt": "2026-03-19T20:11:36.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        83
+      ],
+      "reason": "iOS zero-day vulnerabilities",
+      "suggestedTitle": "DarkSword iOSエクスプロイトキットが数百万のデバイスを標的に",
+      "suggestedSummary": "DarkSwordと名付けられた新しいiOSエクスプロイトキットが発見され、3つのゼロデイを含む6つの脆弱性を利用してデバイスを完全に乗っ取ることができます。この攻撃チェーンは、影響を受けたデバイスからのリモートコントロールとデータ抽出を可能にします。セキュリティチームは、iOSデバイスを最新のソフトウェアバージョンに更新し、このエクスプロイトに関連する侵害の指標を監視するべきです。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2561ef0b96f5bd2273cd8396a16c2060de6d055e74cf63891aa69d8e59c6b982",
+      "source": "BleepingComputer",
+      "title": "Navia、270万人に影響を与えるデータ侵害を開示",
+      "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "summary": "Navia Benefit Solutions, Inc.（Navia）は、攻撃者により機密情報が漏洩したデータ侵害について、約270万人の個人に通知しています。",
+      "publishedAt": "2026-03-19T20:43:54.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        28
+      ],
+      "reason": "Large-scale data breach",
+      "suggestedTitle": "Naviaのデータ侵害、270万人の個人情報を露出",
+      "suggestedSummary": "Navia Benefit Solutionsは、270万人に影響を与えるデータ侵害を開示し、機密個人情報が危険にさらされたことを明らかにしました。この侵害は、強固なデータ保護対策とインシデント対応計画の重要性を浮き彫りにしています。影響を受けた個人には迅速に通知されるべきであり、セキュリティチームはさらなるリスクを軽減するためにアクセス制御とデータ処理の実践を見直す必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "837618d2433b57c614830b5a76cdd9e2cbbed273735acde045d27ff8df736fc1",
+      "source": "BleepingComputer",
+      "title": "CISA、Strykerの侵害後に米国組織にMicrosoft Intuneシステムのセキュリティ強化を促す",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
+      "summary": "CISAは、サイバー攻撃が医療技術大手Strykerのシステムを消去するためにIntuneエンドポイント管理ツールを悪用したことを受け、米国の組織に対しMicrosoftのガイダンスに従ってIntuneの強化を行うよう警告しました。",
+      "publishedAt": "2026-03-19T11:02:27.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "918ffa65d2783e0b3f059a76da5522d1182ed46e3a3703f590f67cd907935248",
+      "source": "The Hacker News",
+      "title": "スピーグルマルウェアがコブラDocGuardを乗っ取り、侵害されたサーバーを通じてデータを盗む",
+      "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+      "summary": "サイバーセキュリティ研究者は、スピーグルと名付けられた新しいマルウェアを警告しています。このマルウェアは、正規のプログラムであるコブラDocGuardの機能とインフラストラクチャを乗っ取ります。スピーグルは、感染したコンピュータから機密情報を密かに収集し、攻撃者によって侵害されたコブラDocGuardサーバーに送信するように設計されています。このプロセスは、データの流出を正当なものとして偽装します。",
+      "publishedAt": "2026-03-19T19:16:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f493db611a483ed8425f8579a450cc7883e2f6dd260d42afc9c364ff13fbe4f3",
+      "source": "The Hacker News",
+      "title": "新たなPerseus Androidバンキングマルウェアがメモアプリを監視し機密データを抽出",
+      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "summary": "サイバーセキュリティ研究者たちは、デバイス乗っ取り（DTO）と金融詐欺を目的として、野外で積極的に配布されている新しいAndroidマルウェアファミリー「Perseus」を公開しました。PerseusはCerberusとPhoenixの基盤の上に構築されており、同時にドロッパーアプリを通じて配布されるAndroidデバイスを侵害するための「より柔軟で能力のあるプラットフォーム」へと進化しています。",
+      "publishedAt": "2026-03-19T12:43:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "1f34ec383c93d12170e536749dc96fd147eb3b4bcfab68b5cc2d5bc81e76031a",
+      "source": "BleepingComputer",
+      "title": "重大なMicrosoft SharePointの脆弱性が攻撃で悪用される",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+      "summary": "サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、1月に修正された重大なMicrosoft SharePointの脆弱性が現在攻撃で悪用されていると警告しました。",
+      "publishedAt": "2026-03-19T10:06:38.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "71a4c0af908cb516a71817cfed20e468b09732ca84e4fea191e8b6f4fab5026b",
+      "source": "Dark Reading",
+      "title": "AIの難題：MCPセキュリティは修正できない理由",
+      "url": "https://www.darkreading.com/application-security/mcp-security-patched",
+      "summary": "MCPはLLM環境にセキュリティリスクをもたらし、そのリスクは構造的なものであり簡単には修正できないと研究者がRSAC 2026カンファレンスで述べた。",
+      "publishedAt": "2026-03-19T21:54:38.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-20T00:45:43.478Z"
+  }
+}

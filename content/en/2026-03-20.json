@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-20",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "c45e25fb8c7f66059234937aed2cd704e714287eb9386f412b7a3b115b1dfd48",
+      "source": "The Hacker News",
+      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild.\nThe vulnerabilities in question are as follows -\n\nCVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
+      "publishedAt": "2026-03-19T06:05:00.000Z",
+      "score": 49,
+      "relatedCount": 4,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Active exploitation of critical flaws",
+      "suggestedTitle": "CISA Alerts on Exploited Zimbra and SharePoint Flaws",
+      "suggestedSummary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued warnings about active exploitation of vulnerabilities in Zimbra and Microsoft SharePoint. Russian state-backed APT28 is exploiting a Zimbra flaw in attacks on Ukrainian government entities, while a critical SharePoint vulnerability, patched in January, is also being leveraged. Security teams should prioritize patching these vulnerabilities to prevent unauthorized access and data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "484a2aa643694bf9bfd50ac70f88d79eecef9ece9aa1df12341be4b2ee24b353",
+      "source": "Ars Technica Security",
+      "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+      "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "summary": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
+      "publishedAt": "2026-03-19T20:11:36.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        83
+      ],
+      "reason": "iOS zero-day vulnerabilities",
+      "suggestedTitle": "DarkSword iOS Exploit Kit Targets Millions of Devices",
+      "suggestedSummary": "A new iOS exploit kit named DarkSword has been discovered, leveraging six vulnerabilities, including three zero-days, for full device takeover. The attack chain allows for remote control and data extraction from affected devices. Security teams should ensure iOS devices are updated to the latest software version and monitor for indicators of compromise related to this exploit.",
+      "relatedSources": [
+        "Ars Technica Security",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2561ef0b96f5bd2273cd8396a16c2060de6d055e74cf63891aa69d8e59c6b982",
+      "source": "BleepingComputer",
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "summary": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
+      "publishedAt": "2026-03-19T20:43:54.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        28
+      ],
+      "reason": "Large-scale data breach",
+      "suggestedTitle": "Navia Data Breach Exposes 2.7 Million Individuals",
+      "suggestedSummary": "Navia Benefit Solutions has disclosed a data breach impacting 2.7 million people, compromising sensitive personal information. The breach highlights the importance of robust data protection measures and incident response plans. Affected individuals should be notified promptly, and security teams should review access controls and data handling practices to mitigate further risks.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "837618d2433b57c614830b5a76cdd9e2cbbed273735acde045d27ff8df736fc1",
+      "source": "BleepingComputer",
+      "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
+      "summary": "CISA warned U.S. organizations to follow Microsoft guidance to strengthen the Intune endpoint management tool after a cyberattack exploited it to wipe medical technology giant Stryker's systems. [...]",
+      "publishedAt": "2026-03-19T11:02:27.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "918ffa65d2783e0b3f059a76da5522d1182ed46e3a3703f590f67cd907935248",
+      "source": "The Hacker News",
+      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+      "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+      "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard.\n\"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate",
+      "publishedAt": "2026-03-19T19:16:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f493db611a483ed8425f8579a450cc7883e2f6dd260d42afc9c364ff13fbe4f3",
+      "source": "The Hacker News",
+      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud.\nPerseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
+      "publishedAt": "2026-03-19T12:43:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "1f34ec383c93d12170e536749dc96fd147eb3b4bcfab68b5cc2d5bc81e76031a",
+      "source": "BleepingComputer",
+      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+      "summary": "A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned. [...]",
+      "publishedAt": "2026-03-19T10:06:38.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "71a4c0af908cb516a71817cfed20e468b09732ca84e4fea191e8b6f4fab5026b",
+      "source": "Dark Reading",
+      "title": "AI Conundrum: Why MCP Security Can't Be Patched Away",
+      "url": "https://www.darkreading.com/application-security/mcp-security-patched",
+      "summary": "MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.",
+      "publishedAt": "2026-03-19T21:54:38.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-20T00:45:32.608Z"
+  }
+}
