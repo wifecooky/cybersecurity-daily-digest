@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-21",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "bc2737ed415174cfb669d83e6322b1bbbb53cf2b9895d6f6e461da5c7e453940",
+      "source": "Krebs on Security",
+      "title": "連邦政府、巨大なDDoS攻撃の背後にあるIoTボットネットを阻止",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "summary": "米国司法省は、カナダとドイツの当局と協力して、ルーターやウェブカメラなどの300万以上のハッキングされたIoTデバイスを侵害した4つの非常に破壊的なボットネットのオンラインインフラを解体しました。連邦政府によれば、Aisuru、Kimwolf、JackSkid、Mossadと名付けられたこれらの4つのボットネットは、ほぼすべてのターゲットをオフラインにすることができる最近の記録破りの分散型サービス拒否（DDoS）攻撃の一連の原因となっています。",
+      "publishedAt": "2026-03-20T00:49:19.000Z",
+      "score": 40,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "IoT botnet disruption impacts global DDoS threat",
+      "suggestedTitle": "グローバルIoTボットネットの阻止：主要なDDoS脅威が軽減",
+      "suggestedSummary": "米国、カナダ、ドイツの当局は、記録的な31.4 TbpsのDDoS攻撃を引き起こしたIoTボットネットのインフラを解体しました。これらのボットネットは、数百万の感染デバイスで構成され、インターネットインフラとサービスに重大なリスクをもたらしました。セキュリティチームは、IoTデバイスの設定を見直し、ネットワークセグメンテーションを適用してこのような脅威を軽減するべきです。",
+      "relatedSources": [
+        "Krebs on Security",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "bff02e7f15f046cbf3b2a244bd729462f811786e09b98971141e825b6800a3b9",
+      "source": "BleepingComputer",
+      "title": "Oracle、Identity Managerの重大なRCE脆弱性に対する緊急修正を提供",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "summary": "Oracleは、Identity ManagerおよびWeb Services Managerにおける重大な未認証のリモートコード実行脆弱性（CVE-2026-21992）を修正するための緊急のセキュリティアップデートをリリースしました。[...]",
+      "publishedAt": "2026-03-20T18:48:47.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        27
+      ],
+      "reason": "Critical RCE flaw in Oracle Identity Manager",
+      "suggestedTitle": "Oracle Identity ManagerのRCE脆弱性に対する緊急パッチ",
+      "suggestedSummary": "Oracleは、Oracle Identity Manager（CVE-2026-33017）における重大なリモートコード実行脆弱性に対処するための緊急アップデートを発行しました。この未認証の脆弱性により、攻撃者は影響を受けるシステム上で任意のコードを実行することが可能です。OracleのFusion Middlewareを使用している組織は、潜在的な悪用から保護するためにパッチの適用を優先すべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f59e843554655102f5e4046abcbefa8eab82e21f20e011a4f85d4ff3184cbd06",
+      "source": "BleepingComputer",
+      "title": "FBI、Signalフィッシング攻撃をロシアの情報機関と関連付ける",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "summary": "FBIは、ロシアの情報機関と関連する脅威アクターが、SignalやWhatsAppなどの暗号化メッセージングアプリのユーザーを積極的に標的にしていると警告する公共サービスアナウンスを発表しました。これらのフィッシングキャンペーンは、すでに数千のアカウントを侵害しています。",
+      "publishedAt": "2026-03-20T20:45:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b62ba89b09aed4aafdae799e3faea1cf71077b53bd052e9a1f7ddddef00c1fbf",
+      "source": "Ars Technica Security",
+      "title": "広く使用されているTrivyスキャナーが進行中のサプライチェーン攻撃で侵害される",
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+      "summary": "管理者の皆さん：申し訳ありませんが、今週末はおそらくシークレットをローテーションする必要があります。",
+      "publishedAt": "2026-03-20T20:50:46.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "afb0d21440e10635d56fe6145e073e56c311239e3f8c9b6a65dc51dee8711b0d",
+      "source": "The Hacker News",
+      "title": "TrivyセキュリティスキャナーGitHub Actionsが侵害され、75のタグがハイジャックされてCI/CDシークレットが盗まれる",
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "summary": "Aqua Securityが管理する人気のオープンソース脆弱性スキャナーであるTrivyが、1か月の間に2回目の侵害を受け、機密性の高いCI/CDシークレットを盗むマルウェアを配信しました。最新の事件は、Dockerコンテナイメージの脆弱性をスキャンし、GitHub Actionsワークフローを設定するために使用されるGitHub Actions「aquasecurity/trivy-action」と「aquasecurity/setup-trivy」に影響を与えました。",
+      "publishedAt": "2026-03-20T17:47:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ccd08485ee1d67d9c2e99e7e0883760e041c3d6936feae8d4e60b2ec1b48dbc4",
+      "source": "The Hacker News",
+      "title": "MagentoのPolyShell脆弱性が認証されていないアップロード、RCE、アカウント乗っ取りを可能に",
+      "url": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+      "summary": "Sansecは、MagentoのREST APIにおける重大なセキュリティ欠陥について警告しています。この欠陥により、認証されていない攻撃者が任意の実行ファイルをアップロードし、コード実行やアカウント乗っ取りを達成する可能性があります。この脆弱性は、悪意のあるコードを画像として偽装する攻撃に依存していることから、SansecによってPolyShellとコードネームが付けられました。この欠陥が実際に悪用された証拠はありません。",
+      "publishedAt": "2026-03-20T09:30:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7fa71460414f3bb41c6f3ddc2c7a5156c4c1b761aa89df18889ad49cd3b78d1b",
+      "source": "BleepingComputer",
+      "title": "マイクロソフト：3月のWindowsアップデートがTeamsやOneDriveのサインインを破壊",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+      "summary": "マイクロソフトによると、3月のWindows 11アップデートにより、TeamsやOneDriveを含む複数のマイクロソフトアプリでのマイクロソフトアカウントのサインインができなくなる問題が発生しているとのことです。",
+      "publishedAt": "2026-03-20T07:33:32.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-21T00:43:31.372Z"
+  }
+}

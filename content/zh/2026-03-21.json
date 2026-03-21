@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-21",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "bc2737ed415174cfb669d83e6322b1bbbb53cf2b9895d6f6e461da5c7e453940",
+      "source": "Krebs on Security",
+      "title": "联邦政府破坏了幕后巨型DDoS攻击的物联网僵尸网络",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "summary": "美国司法部与加拿大和德国的当局合作，拆除了四个高度破坏性的僵尸网络的在线基础设施，这些网络入侵了超过三百万个被黑客攻击的物联网设备，如路由器和网络摄像头。联邦政府表示，这四个名为Aisuru、Kimwolf、JackSkid和Mossad的僵尸网络负责最近一系列创纪录的分布式拒绝服务（DDoS）攻击，这些攻击几乎可以使任何目标离线。",
+      "publishedAt": "2026-03-20T00:49:19.000Z",
+      "score": 40,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "IoT botnet disruption impacts global DDoS threat",
+      "suggestedTitle": "全球物联网僵尸网络破坏：重大DDoS威胁得到缓解",
+      "suggestedSummary": "美国、加拿大和德国的当局已经拆除了负责创纪录31.4 Tbps DDoS攻击的物联网僵尸网络的基础设施。这些由数百万感染设备组成的僵尸网络对互联网基础设施和服务构成了重大风险。安全团队应审查物联网设备配置并应用网络分段以缓解此类威胁。",
+      "relatedSources": [
+        "Krebs on Security",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "bff02e7f15f046cbf3b2a244bd729462f811786e09b98971141e825b6800a3b9",
+      "source": "BleepingComputer",
+      "title": "Oracle发布紧急修复程序以解决关键的Identity Manager RCE漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "summary": "Oracle发布了一个非计划的安全更新，以修复Identity Manager和Web Services Manager中一个被追踪为CVE-2026-21992的关键未认证远程代码执行漏洞。[...]",
+      "publishedAt": "2026-03-20T18:48:47.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        27
+      ],
+      "reason": "Critical RCE flaw in Oracle Identity Manager",
+      "suggestedTitle": "Oracle Identity Manager RCE漏洞的紧急补丁",
+      "suggestedSummary": "Oracle发布了一个紧急更新，以解决Oracle Identity Manager中的一个关键远程代码执行漏洞（CVE-2026-33017）。这个未认证的漏洞允许攻击者在受影响的系统上执行任意代码。使用Oracle Fusion Middleware的组织应优先应用此补丁，以防止潜在的利用。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f59e843554655102f5e4046abcbefa8eab82e21f20e011a4f85d4ff3184cbd06",
+      "source": "BleepingComputer",
+      "title": "FBI将Signal网络钓鱼攻击与俄罗斯情报部门联系起来",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "summary": "FBI发布了一则公共服务公告，警告称与俄罗斯情报部门有关的威胁行为者正在积极针对加密消息应用程序（如Signal和WhatsApp）的用户进行网络钓鱼活动，这些活动已经危及了数千个账户。",
+      "publishedAt": "2026-03-20T20:45:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b62ba89b09aed4aafdae799e3faea1cf71077b53bd052e9a1f7ddddef00c1fbf",
+      "source": "Ars Technica Security",
+      "title": "广泛使用的Trivy扫描器在持续的供应链攻击中被攻破",
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+      "summary": "管理员：很遗憾地说，这可能是一个需要更换秘密的周末。",
+      "publishedAt": "2026-03-20T20:50:46.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "afb0d21440e10635d56fe6145e073e56c311239e3f8c9b6a65dc51dee8711b0d",
+      "source": "The Hacker News",
+      "title": "Trivy 安全扫描器 GitHub Actions 被入侵，75 个标签被劫持以窃取 CI/CD 机密",
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "summary": "由 Aqua Security 维护的流行开源漏洞扫描器 Trivy 在一个月内第二次被攻破，导致恶意软件被植入以窃取敏感的 CI/CD 机密。最新事件影响了 GitHub Actions 的“aquasecurity/trivy-action”和“aquasecurity/setup-trivy”，这些工具用于扫描 Docker 容器镜像中的漏洞并设置 GitHub Actions 工作流。",
+      "publishedAt": "2026-03-20T17:47:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ccd08485ee1d67d9c2e99e7e0883760e041c3d6936feae8d4e60b2ec1b48dbc4",
+      "source": "The Hacker News",
+      "title": "Magento PolyShell漏洞允许未经身份验证的上传、远程代码执行和账户接管",
+      "url": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+      "summary": "Sansec警告Magento的REST API中存在一个严重的安全漏洞，该漏洞可能允许未经身份验证的攻击者上传任意可执行文件，实现代码执行和账户接管。由于攻击依赖于将恶意代码伪装成图像，Sansec将该漏洞命名为PolyShell。目前没有证据表明这一缺陷已被利用。",
+      "publishedAt": "2026-03-20T09:30:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7fa71460414f3bb41c6f3ddc2c7a5156c4c1b761aa89df18889ad49cd3b78d1b",
+      "source": "BleepingComputer",
+      "title": "微软：三月Windows更新导致Teams和OneDrive登录问题",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+      "summary": "微软表示，三月的Windows 11更新导致多个微软应用中的微软账户登录出现问题，包括Teams和OneDrive。[...]",
+      "publishedAt": "2026-03-20T07:33:32.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-21T00:43:25.055Z"
+  }
+}
