@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-22",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "6632b6197318f50d48e3a577db7f73c66ea2fb360dda6fdec71c066216198ad4",
+      "source": "BleepingComputer",
+      "title": "Trivy 漏洞扫描器漏洞通过 GitHub Actions 推送信息窃取程序",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "summary": "Trivy 漏洞扫描器在一次供应链攻击中被名为 TeamPCP 的威胁行为者攻破，他们通过官方发布和 GitHub Actions 分发了凭证窃取恶意软件。",
+      "publishedAt": "2026-03-21T17:30:41.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3,
+        13
+      ],
+      "reason": "Supply chain attack on Trivy scanner",
+      "suggestedTitle": "Trivy 漏洞扫描器在供应链攻击中被攻破",
+      "suggestedSummary": "Trivy 漏洞扫描器在一次供应链攻击中被攻破，威胁行为者通过 GitHub Actions 部署了信息窃取程序。此次攻击涉及利用 Trivy 扫描器在 47 个 npm 包中传播 CanisterWorm。这一事件突显了与软件供应链相关的风险，以及在 CI/CD 管道和第三方工具集成中实施严格安全措施的必要性。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5158ee0e038bc9fe12a3614724ce3963481fb45d53c94f5f47cd43cceb0ade7d",
+      "source": "The Hacker News",
+      "title": "Oracle修补关键的CVE-2026-21992漏洞，允许在身份管理器中进行未经认证的远程代码执行",
+      "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+      "summary": "Oracle已发布安全更新，以解决影响身份管理器和Web服务管理器的关键安全漏洞，该漏洞可能被利用来实现远程代码执行。该漏洞被追踪为CVE-2026-21992，CVSS评分为9.8（满分为10.0）。“此漏洞可在未经认证的情况下远程利用，”Oracle在公告中表示。",
+      "publishedAt": "2026-03-21T10:24:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        14
+      ],
+      "reason": "Critical Oracle CVE and CISA patch directive",
+      "suggestedTitle": "Oracle发布身份管理器中关键RCE漏洞的补丁",
+      "suggestedSummary": "Oracle已为其身份管理器中的关键远程代码执行漏洞（CVE-2026-21992）发布补丁，该漏洞可能被未经认证的攻击者利用。同时，CISA已将此漏洞以及Apple、Craft CMS和Laravel中的其他漏洞标记出来，要求在2026年4月3日前进行修补。安全团队应优先应用这些更新以降低潜在的利用风险。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f86f2ccf171861daa9bd52a8f2e76f9c864564b0355de3074b1075dd941b8db9",
+      "source": "BleepingComputer",
+      "title": "微软Azure监控警报被滥用于回拨式网络钓鱼攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "summary": "微软Azure监控警报被滥用于发送回拨式网络钓鱼电子邮件，这些邮件假冒微软安全团队的警告，称您的账户存在未经授权的收费。",
+      "publishedAt": "2026-03-21T14:09:19.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f85b1ff40a76a3a151a56c8b02469838c7ec7e68338eca246d222bac2525c688",
+      "source": "Google News Security",
+      "title": "夏洛茨维尔结算公司数据泄露影响超过22,000名客户 - WVIR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2hiR3hhTTdfYVRHR01jVmZ2X1N4N1VRVnNqSHVnS29MV2NzdGhVWjlfQURBRURwVDFmaVFJZmJVTDNhektfMVZ0el9lek1xbGJyZGpBckRKOEVyRUpoT1pacHoyMkFNY0dDczlIbkF3aUpxbVZtS2t0MWxpT3IxSjltWUZSNU1zVFd5ZEtUYXA2am9rS3RpTXVfTmZkQ3htS0o1dGVERmF0MENnLW400gHDAUFVX3lxTE9UM0Vqa3J2ME1WOWlDbEk3RmhQcVJuVnJWUjdCbHdfRmV6X0ZyV0NRT3Z3dWZjUWJrMmVXTGdpdmJ1cm5HMjRuTUdsYjk0UHNYLUhVSmJJQlI2d1NXRUxQQTdhcmZNUGREek44cDN4LTIyRXEyTzN0MU5EMkVtZ1hGQXk0TDFrOWlMNWRiYzJLV3AxOGR5Qzk5aEVVeTNsd1ZnSmlfVEVRTXFBeUd6UDNld3NPak1JMXRpVGtJLVZyamdPSQ?oc=5",
+      "summary": "夏洛茨维尔结算公司数据泄露影响超过22,000名客户 WVIR",
+      "publishedAt": "2026-03-21T16:59:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5c2734017ed16bc0d6aa07408b95de1c556343e19267f01a0bc84b1a65487fda",
+      "source": "Google News Security",
+      "title": "WorldLeaks 勒索软件组织攻破洛杉矶市 - 安全事务",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmFUUEttTUdOU2tqRUZtcExneGZvWEFkRUFuRkV3NnZlLXBTUHR4SGxZMS1CZkhEZjEzZ2loMVplemxpZkJwWTRFTEVKcFY5T21tUVpVbURvaFo2TTJ6SkpZUUtFaU9xRkdKQmlGZ3ZfU0tZbFBtczhsNzdpdnI0OHhBZnppdUdLb3dxcTRrOUZFUnJKOEhXc1loaldoT2wya3fSAacBQVVfeXFMUHA5OXFSR2JYbzRiRURnbVpDTjNoZzdZUEp5X2VGQVZ4OHVGTzlOTW52aDAzN3JKOUNBeExVbU83Qng3Njl0UTVacjZFNVRDd2hYSW9RTUthXzZfNVJzY3ZLdk9XLXU4SFNoN2VJMVhhOVVmUXZ3ZkRNYWhnWWhjcGJVVm9nR2VCdXlXZmY0Rk1yYVdOWXBrWVpidWt1dTFtajktUkU0QVk?oc=5",
+      "summary": "WorldLeaks 勒索软件组织攻破洛杉矶市 安全事务",
+      "publishedAt": "2026-03-21T17:42:13.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "24c08988f63529023cb5b01b684ebeeebacbba11c310cc06507528d87c2c0259",
+      "source": "Google News Security (CN)",
+      "title": "谷歌揭露 iOS 漏洞 DarkSword，威胁加密货币用户 - 币安",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSVkVvc0hSeUpTVjkxZ3k1OVdINjVlVDViT3l0VkhPY3hKSExFMjlfMGszRXlEMGhoQ0c5dFZzczV6TTBQLVRhRGxIQnR6cGZtY1pqQ2taWmZNVUVUT1JYVm9kZEQ4cXBo?oc=5",
+      "summary": "谷歌揭露 iOS 漏洞 DarkSword，威胁加密货币用户 币安",
+      "publishedAt": "2026-03-21T15:07:08.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c4d02b92ec010920fe7ea237ed0a338a4d559511f2d24d7e16723c7366c46640",
+      "source": "Google News Security",
+      "title": "福斯特市：疑似网络安全漏洞迫使城市关闭计算机系统 - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzNQU2VXM0VFN3NuMnFKcFFnZF9pYjVHNEx3a05vNTYxR19RdU5MV3B4cVFZVTR2SUh4T25DMVhwNUxRck9vcW54MUdkd3BESGNpQW1VbWpwTjlkRUZVR0MteVA4a1ExeHl4ZlMwV2Fpdml2WVBzc2ZmNXdZU0tNaE1VZWZuWmhOeG1qMndqWUJBcTVsS3BpUHJMSXFEc1RD?oc=5",
+      "summary": "福斯特市：疑似网络安全漏洞迫使城市关闭计算机系统 SFGATE",
+      "publishedAt": "2026-03-21T09:32:49.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-22T00:49:07.155Z"
+  }
+}

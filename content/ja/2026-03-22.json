@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-22",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "6632b6197318f50d48e3a577db7f73c66ea2fb360dda6fdec71c066216198ad4",
+      "source": "BleepingComputer",
+      "title": "Trivy脆弱性スキャナーの侵害、GitHub Actionsを介して情報窃取マルウェアを配布",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "summary": "Trivy脆弱性スキャナーは、TeamPCPとして知られる脅威アクターによるサプライチェーン攻撃で侵害され、公式リリースとGitHub Actionsを通じて資格情報を窃取するマルウェアが配布されました。[...]",
+      "publishedAt": "2026-03-21T17:30:41.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3,
+        13
+      ],
+      "reason": "Supply chain attack on Trivy scanner",
+      "suggestedTitle": "サプライチェーン攻撃でTrivy脆弱性スキャナーが侵害される",
+      "suggestedSummary": "Trivy脆弱性スキャナーがサプライチェーン攻撃で侵害され、脅威アクターがGitHub Actionsを通じて情報窃取マルウェアを展開しました。この攻撃では、Trivyスキャナーが47のnpmパッケージにCanisterWormを拡散するために使用されました。この事件は、ソフトウェアサプライチェーンに関連するリスクと、CI/CDパイプラインやサードパーティツールの統合における厳格なセキュリティ対策の必要性を浮き彫りにしています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5158ee0e038bc9fe12a3614724ce3963481fb45d53c94f5f47cd43cceb0ade7d",
+      "source": "The Hacker News",
+      "title": "Oracle、Identity Managerで認証なしのRCEを可能にする重大なCVE-2026-21992を修正",
+      "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+      "summary": "Oracleは、Identity ManagerおよびWeb Services Managerに影響を与える重大なセキュリティ欠陥に対処するためのセキュリティアップデートをリリースしました。この欠陥はリモートコード実行を達成するために悪用される可能性があります。CVE-2026-21992として追跡されているこの脆弱性は、最大10.0のうち9.8のCVSSスコアを持っています。「この脆弱性は認証なしでリモートから悪用可能です」とOracleはアドバイザリで述べています。「成功した場合",
+      "publishedAt": "2026-03-21T10:24:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        14
+      ],
+      "reason": "Critical Oracle CVE and CISA patch directive",
+      "suggestedTitle": "Oracle、Identity Managerの重大なRCE欠陥に対するパッチをリリース",
+      "suggestedSummary": "Oracleは、認証されていない攻撃者によって悪用される可能性のあるIdentity Managerの重大なリモートコード実行脆弱性（CVE-2026-21992）に対するパッチを発行しました。一方、CISAはApple、Craft CMS、Laravelの他の脆弱性と共にこれを指摘し、2026年4月3日までのパッチ適用を義務付けています。セキュリティチームは、潜在的な悪用リスクを軽減するためにこれらのアップデートの適用を優先すべきです。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f86f2ccf171861daa9bd52a8f2e76f9c864564b0355de3074b1075dd941b8db9",
+      "source": "BleepingComputer",
+      "title": "Microsoft Azure Monitorアラートがコールバックフィッシング攻撃に悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "summary": "Microsoft Azure Monitorのアラートが悪用され、Microsoftセキュリティチームからの警告を装ったコールバックフィッシングメールが送信されています。これらのメールは、アカウントに対する不正な請求についての警告を装っています。",
+      "publishedAt": "2026-03-21T14:09:19.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f85b1ff40a76a3a151a56c8b02469838c7ec7e68338eca246d222bac2525c688",
+      "source": "Google News Security",
+      "title": "シャーロッツビル・セトルメント・カンパニーのデータ侵害が22,000人以上の顧客に影響 - WVIR",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2hiR3hhTTdfYVRHR01jVmZ2X1N4N1VRVnNqSHVnS29MV2NzdGhVWjlfQURBRURwVDFmaVFJZmJVTDNhektfMVZ0el9lek1xbGJyZGpBckRKOEVyRUpoT1pacHoyMkFNY0dDczlIbkF3aUpxbVZtS2t0MWxpT3IxSjltWUZSNU1zVFd5ZEtUYXA2am9rS3RpTXVfTmZkQ3htS0o1dGVERmF0MENnLW400gHDAUFVX3lxTE9UM0Vqa3J2ME1WOWlDbEk3RmhQcVJuVnJWUjdCbHdfRmV6X0ZyV0NRT3Z3dWZjUWJrMmVXTGdpdmJ1cm5HMjRuTUdsYjk0UHNYLUhVSmJJQlI2d1NXRUxQQTdhcmZNUGREek44cDN4LTIyRXEyTzN0MU5EMkVtZ1hGQXk0TDFrOWlMNWRiYzJLV3AxOGR5Qzk5aEVVeTNsd1ZnSmlfVEVRTXFBeUd6UDNld3NPak1JMXRpVGtJLVZyamdPSQ?oc=5",
+      "summary": "シャーロッツビル・セトルメント・カンパニーのデータ侵害が22,000人以上の顧客に影響を与える - WVIR",
+      "publishedAt": "2026-03-21T16:59:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5c2734017ed16bc0d6aa07408b95de1c556343e19267f01a0bc84b1a65487fda",
+      "source": "Google News Security",
+      "title": "WorldLeaksランサムウェアグループがロサンゼルス市を侵害 - セキュリティアフェアーズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmFUUEttTUdOU2tqRUZtcExneGZvWEFkRUFuRkV3NnZlLXBTUHR4SGxZMS1CZkhEZjEzZ2loMVplemxpZkJwWTRFTEVKcFY5T21tUVpVbURvaFo2TTJ6SkpZUUtFaU9xRkdKQmlGZ3ZfU0tZbFBtczhsNzdpdnI0OHhBZnppdUdLb3dxcTRrOUZFUnJKOEhXc1loaldoT2wya3fSAacBQVVfeXFMUHA5OXFSR2JYbzRiRURnbVpDTjNoZzdZUEp5X2VGQVZ4OHVGTzlOTW52aDAzN3JKOUNBeExVbU83Qng3Njl0UTVacjZFNVRDd2hYSW9RTUthXzZfNVJzY3ZLdk9XLXU4SFNoN2VJMVhhOVVmUXZ3ZkRNYWhnWWhjcGJVVm9nR2VCdXlXZmY0Rk1yYVdOWXBrWVpidWt1dTFtajktUkU0QVk?oc=5",
+      "summary": "WorldLeaksランサムウェアグループがロサンゼルス市を侵害 - セキュリティアフェアーズ",
+      "publishedAt": "2026-03-21T17:42:13.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "24c08988f63529023cb5b01b684ebeeebacbba11c310cc06507528d87c2c0259",
+      "source": "Google News Security (CN)",
+      "title": "Google、iOSの脆弱性DarkSwordを公開、暗号通貨ユーザーに脅威 - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSVkVvc0hSeUpTVjkxZ3k1OVdINjVlVDViT3l0VkhPY3hKSExFMjlfMGszRXlEMGhoQ0c5dFZzczV6TTBQLVRhRGxIQnR6cGZtY1pqQ2taWmZNVUVUT1JYVm9kZEQ4cXBo?oc=5",
+      "summary": "GoogleがiOSの脆弱性DarkSwordを公開し、暗号通貨ユーザーに脅威を与えている - Binance",
+      "publishedAt": "2026-03-21T15:07:08.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c4d02b92ec010920fe7ea237ed0a338a4d559511f2d24d7e16723c7366c46640",
+      "source": "Google News Security",
+      "title": "フォスターシティ：サイバーセキュリティ侵害の疑いにより市がコンピュータシステムを停止 - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzNQU2VXM0VFN3NuMnFKcFFnZF9pYjVHNEx3a05vNTYxR19RdU5MV3B4cVFZVTR2SUh4T25DMVhwNUxRck9vcW54MUdkd3BESGNpQW1VbWpwTjlkRUZVR0MteVA4a1ExeHl4ZlMwV2Fpdml2WVBzc2ZmNXdZU0tNaE1VZWZuWmhOeG1qMndqWUJBcTVsS3BpUHJMSXFEc1RD?oc=5",
+      "summary": "フォスターシティ：サイバーセキュリティ侵害の疑いにより市がコンピュータシステムを停止 - SFGATE",
+      "publishedAt": "2026-03-21T09:32:49.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-22T00:49:11.062Z"
+  }
+}
