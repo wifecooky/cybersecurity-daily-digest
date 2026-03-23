@@ -1,0 +1,99 @@
+{
+  "date": "2026-03-23",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "3d76598ec5471852e4c10a45a12976f25fca7d99e6c2f75188c028530c0e1eb7",
+      "source": "Google News Security (JP)",
+      "title": "「Google Chrome」に26件もの脆弱性修正、致命的なものも ～「Microsoft Edge」にも更新／アップデートの適用を - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80VmVxYTlkdGxZT1Zzc2Q1Mlgyby1YQmRvWWJkbTNWaVpOR2JtTkJoRC1ISEJNdDFNVlhmOUVqa2Q4VmNXSlM5cElBT25RZ3ZZOThzVldsdEF5ZmdCbGZZNE9ETDVQdmhB?oc=5",
+      "summary": "「Google Chrome」に26件もの脆弱性修正、致命的なものも ～「Microsoft Edge」にも更新／アップデートの適用を  窓の杜",
+      "publishedAt": "2026-03-22T22:50:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        10
+      ],
+      "reason": "Critical browser and Oracle patches",
+      "suggestedTitle": "緊急アップデート: Chrome、Edge、Oracle Identity Managerの脆弱性が修正",
+      "suggestedSummary": "Google ChromeとMicrosoft Edgeは、26件の脆弱性に対処するアップデートをリリースしました。その中には重大なものも含まれています。同時に、OracleはそのIdentity Managerにおける重大なRCEの欠陥（CVE-2026-21992）を修正しました。これらの脆弱性は、攻撃者が任意のコードを実行したり、セキュリティ対策を回避したりする可能性があります。セキュリティチームは、潜在的な悪用リスクを軽減するために、これらのアップデートを優先的に適用するべきです。",
+      "relatedSources": [
+        "Google News Security (JP)",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ba8f829e4ff49364575500dad4b3da6886c1e1b402fb4c0ee29f30e054ed220b",
+      "source": "Google News Security",
+      "title": "アストラゼネカのデータ侵害 - LAPSUS$グループが内部データへのアクセスを主張 - サイバーセキュリティニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwSUtzUzZzQzlsZEs3azZYb05GdG10WkM5WmZQWG1KaS1tQ2NNa3dHMGFmR2REa2hFc0VObGNJdFZMcFRjT3RKUGNiTlVTTlExYXBOUHlXd0gtSTcxcEE2eV8tY1DSAWpBVV95cUxNNWp0NE5oTlViSkhKMFU3RWliY3Y1cXdlUkpNNG5XWnhYbWFBVHdubkV5SDVDcy04OEpjcjFpVFRYRVI1TGx4eHZsajRoV3o0cmttTzhDeFRnWHY2U3liMDBJR2VSS0xWdTVB?oc=5",
+      "summary": "アストラゼネカのデータ侵害 - LAPSUS$グループが内部データへのアクセスを主張 サイバーセキュリティニュース",
+      "publishedAt": "2026-03-22T15:49:49.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14
+      ],
+      "reason": "High-profile data breach by LAPSUS$ Group",
+      "suggestedTitle": "アストラゼネカのデータ侵害: LAPSUS$グループが内部データへのアクセスを主張",
+      "suggestedSummary": "LAPSUS$グループがアストラゼネカを侵害し、内部データにアクセスしたと主張しています。この事件は、大企業を標的とする高度なサイバー犯罪グループがもたらす持続的な脅威を浮き彫りにしています。組織は、同様の侵害を防ぐためにアクセス制御を見直し、妥協の指標を監視するべきです。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e1f248bf0bd1cb26e90875b9615dd7c0a450fced509d84edeca8455cd30e9873",
+      "source": "Google News Security",
+      "title": "データ侵害警告: Edelson Lechtzin LLPが数百万人に影響を及ぼすNavia Benefit Solutionsのデータ侵害を調査 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYzltYnUyaVZFb3RfbTRoTVplZERLc0wwZnA0MlU4Um5zMldUMmFkZU90RG9ERjFHUXlMMlFDUWhKMV9mNWpTMmlfNWtMRjNyVzRBSk1MT0steUVfQ0FjZGlVWk9kY19uSlRqb1JWN0VTWndVUU0wOXJaVnM5ZTJQSWZ2UElaX2lrb3p5WlpBSkVJdjJKMGtadUVlYlRnQVFlMVhPN1NUUmFiQndPa21XU245UjdiOEQzYjdxQXViQVRmRnh4RDQ0U2tBMEx5Ri1jRkNlcnVoZ1ktSlZfOVJsSVFZSV8wc0ZSb2lLR25DTjJkdFNs?oc=5",
+      "summary": "データ侵害警告: Edelson Lechtzin LLPが数百万人に影響を及ぼすNavia Benefit Solutionsのデータ侵害を調査 - PR Newswire",
+      "publishedAt": "2026-03-22T23:15:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fe60dfba1e5eded40df7fa2f6a0ba219db72355d0665367a7cf27a2f4eaa649",
+      "source": "BleepingComputer",
+      "title": "VoidStealerマルウェアがデバッガートリックでChromeのマスターキーを盗む",
+      "url": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+      "summary": "VoidStealerと呼ばれる情報スティーラーは、Chromeのアプリケーションバウンド暗号化（ABE）を回避し、ブラウザに保存された機密データを復号化するためのマスターキーを抽出する新しい手法を使用しています。[...]",
+      "publishedAt": "2026-03-22T14:32:46.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ce1df769653ff270dd7f17853360dd555f7cc0639a65caf784492d80f2c1db53",
+      "source": "Google News Security",
+      "title": "ヘリテージ銀行のデータ漏洩で社会保障番号が流出 - クレームデポ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SZU5RX3p2R05qcVJCN0lXdlQ2ZkxReE4wRnJ0d0w5bExKTTE1U184LV9xOXE3OXI3TC1Na0p2dTU2Q0U4ejdkVFlGcDVCcC1iU2stNThSVENVUm5GRWlRc01MLWZVdTY1?oc=5",
+      "summary": "ヘリテージ銀行のデータ漏洩で社会保障番号が流出　クレームデポ",
+      "publishedAt": "2026-03-22T15:47:58.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c804d23c9420b26e845c89d6fa4faf8727334d12d951a1304f1f251ade144c15",
+      "source": "Google News Security (CN)",
+      "title": "Resolv Labs、2300万ドルの脆弱性によりUSRステーブルコインのペッグが外れ、関連プロトコルを一時停止 - Bitcoin.comニュース",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjJiTUZSakw4Mk5lSkJVV0VjaFFBVlp3V1ZsUVFVTXFJQzRGQzBVNXByaGlNNWlBbmpKUGZ5cWp3U1V0ZGxmaWx0cVJwQlpGcURuOEVqRV9XajBiUTRtTXUtNy1yTXJ0Mm11TENycXpjQnFrbmhRTnlYYURvd1J5VkNpZjA2cndLWkRjdXRfTDgtQ2NGUEZkeHZkdC1lUFVQZWdYYng1eXF5aml2bW1NVF9wYi1jV2RKR0dUV1c0eTBCdElhQ1BhbzBn?oc=5",
+      "summary": "Resolv Labsは2300万ドルの脆弱性によりUSRステーブルコインのペッグが外れたため、関連プロトコルを一時停止しました - Bitcoin.comニュース",
+      "publishedAt": "2026-03-22T11:42:56.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 18,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-23T00:49:46.041Z"
+  }
+}
