@@ -1,0 +1,131 @@
+{
+  "date": "2026-03-24",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "52a366186e384dd71b33bfcb75ae6aca1a7bb1c9565ca43d5451e691ec969ed0",
+      "source": "BleepingComputer",
+      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
+      "summary": "The TeamPCP hackers behind the Trivy supply-chain attack continued to target Aqua Security, pushing malicious Docker images and hijacking the company's GitHub organization to tamper with dozens of repositories. [...]",
+      "publishedAt": "2026-03-23T17:40:27.000Z",
+      "score": 43,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active supply-chain attack",
+      "suggestedTitle": "Trivy Supply Chain Attack Targets Docker and Kubernetes",
+      "suggestedSummary": "The Trivy supply-chain attack has expanded, affecting Docker Hub and Kubernetes environments. Hackers are distributing malicious artifacts via Docker Hub, leading to the deployment of infostealers and a worm capable of triggering Kubernetes wiper scripts. This attack highlights significant risks in CI/CD workflows and necessitates immediate review and tightening of supply chain security measures.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "e8ff57237e92a8071cd42228230e58c1a492c2d4878859158d52e05336ad5d7d",
+      "source": "BleepingComputer",
+      "title": "Mazda discloses security breach exposing employee and partner data",
+      "url": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
+      "publishedAt": "2026-03-23T22:12:52.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Major data breach incident",
+      "suggestedTitle": "Mazda and Crunchyroll Hit by Significant Data Breaches",
+      "suggestedSummary": "Mazda has disclosed a security breach exposing employee and partner data, while Crunchyroll is investigating a claim of a breach affecting 6.8 million users. These incidents underscore the ongoing threat of data breaches across industries, emphasizing the need for robust data protection strategies and incident response plans to mitigate potential damage and protect sensitive information.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "12ce729ecbefc505a41288c063e0c06d3930f242007b27b2aac921f310c3009c",
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
+      "summary": "CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
+      "publishedAt": "2026-03-23T08:37:28.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        95
+      ],
+      "reason": "CISA emergency directive",
+      "suggestedTitle": "CISA Orders Patching of DarkSword iOS Vulnerabilities",
+      "suggestedSummary": "CISA has issued an emergency directive requiring U.S. government agencies to patch three iOS vulnerabilities actively exploited in cryptocurrency theft attacks. The vulnerabilities, identified as CVEs related to the DarkSword exploit, pose significant risks to unpatched devices. Security teams must prioritize these patches to prevent potential exploitation and safeguard sensitive data.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "23d37606cb7a3bec7c9446201f2902e640539a2ccf9bdb188c58e13fc60e5510",
+      "source": "The Hacker News",
+      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
+      "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+      "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful – but it’s also what makes Bedrock a target.\nWhen an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint",
+      "publishedAt": "2026-03-23T11:55:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "c3128acba6afba89ae42a62c6ac52ba69949a301843851e5832786235d560aae",
+      "source": "BleepingComputer",
+      "title": "Tycoon2FA phishing platform returns after recent police disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
+      "summary": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
+      "publishedAt": "2026-03-23T21:52:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "be63909c7166a7d23eec99cd5462f59429389af7ff84072862d1f29b4de3720b",
+      "source": "Krebs on Security",
+      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "publishedAt": "2026-03-23T15:43:04.000Z",
+      "score": 25,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "690b293fe8caf2fecb342bd3dfaeb7fd506faa3b3a52ab34f9f8e038c6ed3989",
+      "source": "The Hacker News",
+      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
+      "url": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) projects.\nThe use of VS Code \"tasks.json\" to distribute malware is a relatively new tactic adopted by the threat actor since December 2025, with the attacks",
+      "publishedAt": "2026-03-23T18:09:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d428d57858db4e8d4e45dd72914c4c490f4b3e3b1d3875a74358605477722637",
+      "source": "The Hacker News",
+      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+      "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+      "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening",
+      "publishedAt": "2026-03-23T10:55:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-24T00:41:53.837Z"
+  }
+}
