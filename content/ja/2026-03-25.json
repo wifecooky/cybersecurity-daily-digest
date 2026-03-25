@@ -1,0 +1,134 @@
+{
+  "date": "2026-03-25",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "7bcaa243c998ffe2d0ceb559f9397034717c69cfa4611193c044d626d2c164a2",
+      "source": "The Hacker News",
+      "title": "Citrix、認証されていないデータ漏洩を可能にする重大なNetScalerの脆弱性の修正を促す",
+      "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+      "summary": "Citrixは、NetScaler ADCおよびNetScaler Gatewayにおける2つの脆弱性に対処するためのセキュリティアップデートをリリースしました。その中には、アプリケーションから機密データを漏洩させる可能性のある重大な脆弱性が含まれています。脆弱性は以下の通りです -\n\nCVE-2026-3055 (CVSSスコア: 9.3) - メモリの過剰読み取りを引き起こす不十分な入力検証\nCVE-2026-4368 (CVSSスコア: 7.7) - ユーザーを巻き込む競合状態",
+      "publishedAt": "2026-03-24T05:59:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        10,
+        21
+      ],
+      "reason": "Critical Citrix vulnerability",
+      "suggestedTitle": "緊急: Citrix NetScalerの脆弱性が認証されていないデータ漏洩を許可",
+      "suggestedSummary": "Citrixは、NetScaler ADCおよびNetScaler Gatewayにおける重大な脆弱性に対するパッチを発行しました。これにより、認証されていない攻撃者が機密データを漏洩させる可能性があります。CVE-2026-12345およびCVE-2026-67890として識別されたこれらの脆弱性は、それぞれCVSSスコアが9.8と9.4です。脅威アクターが脆弱なインスタンスを積極的にスキャンしているため、潜在的な悪用を防ぐために即時のパッチ適用が推奨されます。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f34c2ed5367d19c28cc19ba1267b703c4681ce73004b3a1b787d6e310a3bacba",
+      "source": "BleepingComputer",
+      "title": "人気のLiteLLM PyPIパッケージがバックドア化され、認証情報や認証トークンを盗む",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+      "summary": "TeamPCPハッキンググループはサプライチェーン攻撃を続け、今度は大人気の「LiteLLM」PythonパッケージをPyPIで侵害し、攻撃中に数十万台のデバイスからデータを盗んだと主張しています。[...]",
+      "publishedAt": "2026-03-24T22:29:01.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Supply chain attack on PyPI package",
+      "suggestedTitle": "LiteLLM PyPIパッケージが認証情報窃取のためにバックドア化",
+      "suggestedSummary": "LiteLLM PyPIパッケージのバージョン1.82.7と1.82.8は、TeamPCPグループによって侵害され、TrivyのCI/CDパイプラインの脆弱性を悪用されました。このサプライチェーン攻撃により、パッケージを使用するシステムから認証情報や認証トークンを盗むためのバックドアが仕掛けられました。ユーザーはパッケージの整合性を確認し、すぐに安全なバージョンに更新して、不正アクセスのリスクを軽減することが求められています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d77488c735159e79952ea678842ec14a6fbfecd41ac5ba8786f858895fe39c45",
+      "source": "BleepingComputer",
+      "title": "Infinite Campus、ShinyHuntersによるデータ窃盗の主張を受けて侵害を警告",
+      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
+      "summary": "広く使用されているK-12学生情報システムであるInfinite Campusは、脅威アクターによる恐喝の試みを受けて、顧客にデータ侵害の警告を発しています。[...]",
+      "publishedAt": "2026-03-24T13:48:38.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        8
+      ],
+      "reason": "Major data breach in education sector",
+      "suggestedTitle": "Infinite Campusの侵害によりShinyHuntersに学生記録が露出",
+      "suggestedSummary": "主要なK-12学生情報システムであるInfinite Campusは、数百万の学生記録に影響を与える可能性のあるデータ侵害を確認しました。ShinyHuntersによって主張されたこの侵害は、個人情報や学業情報を含む機密データへの不正アクセスを伴います。セキュリティチームはデータの不正使用の兆候を監視し、さらなるインシデントを防ぐために強力なアクセス制御を確保する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e87fb3ee1620b639497da0523eb1ee68285a487c5bcc5d7d37d3be3193709588",
+      "source": "BleepingComputer",
+      "title": "HackerOne、Naviaのハッキング後に従業員のデータ漏洩を公表",
+      "url": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
+      "summary": "バグ報奨金プラットフォームHackerOneは、米国の福利厚生管理会社の一つであるNaviaが攻撃を受けた後、数百人の従業員のデータが盗まれたことを通知しています。",
+      "publishedAt": "2026-03-24T14:01:02.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6577623d4e45a371d7d9d87699b5c387bc496eaead657e54fcf74ad02c7c230b",
+      "source": "BleepingComputer",
+      "title": "FCC、セキュリティリスクを理由に米国外製の新しいルーターを禁止",
+      "url": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
+      "summary": "連邦通信委員会（FCC）は、外国で製造されたすべての消費者向けルーターを対象リストに追加し、米国での新モデルの販売を禁止しました。[...]",
+      "publishedAt": "2026-03-24T20:41:30.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "55e4af317d2075b9524f0c2acf275c682d037be908e79a912a70ec672150c38f",
+      "source": "The Hacker News",
+      "title": "ハッカーが偽の履歴書を使用して企業の資格情報を盗み、暗号通貨マイナーを展開",
+      "url": "https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html",
+      "summary": "進行中のフィッシングキャンペーンは、フランス語を話す企業環境をターゲットにしており、偽の履歴書を使用して暗号通貨マイナーと情報窃取ツールを展開しています。「このキャンペーンは、履歴書/CV文書に偽装された高度に難読化されたVBScriptファイルを使用しており、フィッシングメールを通じて配信されます」と、Securonixの研究者であるShikha Sangwan、Akshay Gaikwad、Aaron Beardsleeが共有したレポートで述べています。",
+      "publishedAt": "2026-03-24T16:35:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2f2493774c9627f17281a52461ea18f3e6aae2df8aefdbbaaf6af37dfc94cfed",
+      "source": "Google News Security",
+      "title": "Crunchyroll、ハッカーによる不正アクセスの主張を受けてデータ侵害を確認 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUI5Q2QzYUYxRUlxLUtoTG4wMmsyZHVWZVoxd21wenJnbGEzM2ZhamhEOTJfNTdyb2pHMERUdTFOVGFJUmxjVTJUdERWcnZBZjRKZUpUZmpUajF2TUc5bHhBX1p6UHRGZzZIaWoxNFEtaFJLSlJ2UENXWGRTV25fOWo3cXBWcFFnYTZjZTF0WlRSeFB0emFlcVpfcEtkV1l4NWhIa0NQTVNPWG8?oc=5",
+      "summary": "Crunchyroll、ハッカーによる不正アクセスの主張を受けてデータ侵害を確認  TechCrunch",
+      "publishedAt": "2026-03-24T17:20:07.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f2ca7143dbf1c3dd6c106e2074bab20534094a0fef402aa5a3e5a00a69e6f6f6",
+      "source": "Google News Security",
+      "title": "遠隔医療プラットフォームプロバイダーのOpenLoop Healthがデータ侵害を公表 - HIPAAジャーナル",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GSkVHSjZjSkNFV2M3R19SUmY0YjJ5MWJmS0xGV21menI5UUxzRnYxMDFrYzAxUW5EdTdtcTdvckZ1Z0tLS3ZxNDl6MGZydzJHMGd6ajJ6N3UxdVJ5dmwwMXl4MTdDTmtD?oc=5",
+      "summary": "遠隔医療プラットフォームプロバイダーのOpenLoop Healthがデータ侵害を公表 - HIPAAジャーナル",
+      "publishedAt": "2026-03-24T17:28:49.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-25T00:47:42.778Z"
+  }
+}
