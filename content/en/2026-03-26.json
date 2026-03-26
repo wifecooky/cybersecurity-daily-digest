@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-26",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "0ea33a1eb385c8bcebf82a87d2ae5f6efdd7312061326cc797fd6e935859577a",
+      "source": "BleepingComputer",
+      "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
+      "url": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+      "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. [...]",
+      "publishedAt": "2026-03-25T21:40:21.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Active exploitation of Magento vulnerability",
+      "suggestedTitle": "Urgent: PolyShell Vulnerability Targets Magento Stores",
+      "suggestedSummary": "The 'PolyShell' vulnerability is actively being exploited, affecting 56% of Magento Open Source and Adobe Commerce installations. Attackers leverage this flaw to execute malicious code on vulnerable systems, potentially compromising sensitive customer data. Security teams should prioritize patching to mitigate risks and monitor for unusual activity in affected environments.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8e55a79a9e643b59cdc8c16d9b80bfaaf3a33ce67f241451fda715c2bb84bed0",
+      "source": "BleepingComputer",
+      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
+      "publishedAt": "2026-03-25T15:52:10.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        31
+      ],
+      "reason": "Critical NetScaler vulnerabilities patched",
+      "suggestedTitle": "Citrix Patches Critical NetScaler Vulnerabilities",
+      "suggestedSummary": "Citrix has released patches for two critical vulnerabilities in NetScaler ADC and NetScaler Gateway, including a high-severity flaw similar to previous CVEs. These vulnerabilities could allow attackers to execute arbitrary code or bypass authentication. Admins should apply these patches immediately to secure their systems and prevent potential exploitation.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2e364939a254b733b9b73dd89c7543166c2ccacc156b22eac0b1f20fbd1231c8",
+      "source": "The Hacker News",
+      "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
+      "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+      "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany.\nThe activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages",
+      "publishedAt": "2026-03-25T11:34:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        69
+      ],
+      "reason": "Active OAuth abuse in phishing campaign",
+      "suggestedTitle": "Device Code Phishing Targets Microsoft 365 via OAuth",
+      "suggestedSummary": "A new phishing campaign is exploiting device code authentication to target over 340 Microsoft 365 organizations across five countries. Attackers abuse OAuth to gain unauthorized access to sensitive information. Security teams must enhance monitoring of OAuth activities and educate users about phishing risks to defend against these sophisticated attacks.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9787f4ab50c48a159aeeb63b59edf40a34164262f220618187daa6450308047",
+      "source": "BleepingComputer",
+      "title": "GitHub adds AI-powered bug detection to expand security coverage",
+      "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
+      "publishedAt": "2026-03-25T23:23:39.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b7c6e600b1ee778fb8a8cd034a87f121d14f748b7c8fc756982813b468e3237c",
+      "source": "The Hacker News",
+      "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
+      "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+      "summary": "Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.\n\"It logs keystrokes, dumps cookies and session tokens, captures screenshots, and",
+      "publishedAt": "2026-03-25T14:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9230f2a6bca7cf869265021b5aea8133c2006d7036daac21f8964ecd9d5d1054",
+      "source": "BleepingComputer",
+      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+      "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "summary": "A new info-stealing malware called Torg Grabber is stealing sensitive data from 850 browser extensions, more than 700 of them for cryptocurrency wallets. [...]",
+      "publishedAt": "2026-03-25T18:32:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bfc7f53ddb49c2be50887a34fa5eb1679fa1d099e5c9641631e4cf70ac9b981d",
+      "source": "BleepingComputer",
+      "title": "TP-Link warns users to patch critical router auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+      "summary": "TP-Link has patched several vulnerabilities in its Archer NX router series, including a critical-severity flaw that may allow attackers to bypass authentication and upload new firmware. [...]",
+      "publishedAt": "2026-03-25T11:11:00.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "70155ec6699b37608fbe0149fcdcf21d64b87ffd036efc7a8ce2cadf4ba5f88a",
+      "source": "Google News Security (JP)",
+      "title": "アップル「iOS 18.7.7」配信開始 複数の脆弱性を修正 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUWZpb3liX2ZLUk1Ycm1kWXFGd2d1NzVkaHN6Ri1ZMVlxeEs3S0w1bkhIZDhxcmd0RjZXYVJpaTRpbm5mSHRrWlVKTUxSZzcxTEY2dw?oc=5",
+      "summary": "アップル「iOS 18.7.7」配信開始 複数の脆弱性を修正  ASCII.jp",
+      "publishedAt": "2026-03-25T05:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-26T00:50:32.511Z"
+  }
+}

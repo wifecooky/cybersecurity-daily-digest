@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-26",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "0ea33a1eb385c8bcebf82a87d2ae5f6efdd7312061326cc797fd6e935859577a",
+      "source": "BleepingComputer",
+      "title": "PolyShell 攻击针对 56% 的易受攻击 Magento 商店",
+      "url": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+      "summary": "利用 Magento 开源和 Adobe Commerce 版本 2 中的 'PolyShell' 漏洞的攻击正在进行中，目标是超过一半的易受攻击商店。[...]",
+      "publishedAt": "2026-03-25T21:40:21.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Active exploitation of Magento vulnerability",
+      "suggestedTitle": "紧急：PolyShell 漏洞针对 Magento 商店",
+      "suggestedSummary": "'PolyShell' 漏洞正在被积极利用，影响 56% 的 Magento 开源和 Adobe Commerce 安装。攻击者利用此漏洞在易受攻击的系统上执行恶意代码，可能会危及敏感的客户数据。安全团队应优先修补漏洞以降低风险，并监控受影响环境中的异常活动。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8e55a79a9e643b59cdc8c16d9b80bfaaf3a33ce67f241451fda715c2bb84bed0",
+      "source": "BleepingComputer",
+      "title": "Citrix敦促管理员尽快修补NetScaler漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrix已修补了两个NetScaler ADC和NetScaler Gateway漏洞，其中一个与近年来在零日攻击中被利用的CitrixBleed和CitrixBleed2漏洞非常相似。[...]",
+      "publishedAt": "2026-03-25T15:52:10.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        31
+      ],
+      "reason": "Critical NetScaler vulnerabilities patched",
+      "suggestedTitle": "Citrix修补关键NetScaler漏洞",
+      "suggestedSummary": "Citrix已为NetScaler ADC和NetScaler Gateway中的两个关键漏洞发布了补丁，其中包括一个与之前CVE类似的高严重性漏洞。这些漏洞可能允许攻击者执行任意代码或绕过身份验证。管理员应立即应用这些补丁以保护其系统并防止潜在的利用。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2e364939a254b733b9b73dd89c7543166c2ccacc156b22eac0b1f20fbd1231c8",
+      "source": "The Hacker News",
+      "title": "设备代码网络钓鱼通过OAuth滥用攻击五个国家的340多个Microsoft 365组织",
+      "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+      "summary": "网络安全研究人员正在关注一项活跃的设备代码网络钓鱼活动，该活动针对美国、加拿大、澳大利亚、新西兰和德国的340多个组织的Microsoft 365身份。根据Huntress的报告，该活动首次发现于2026年2月19日，此后出现的案例数量迅速增加。值得注意的是，该活动利用了",
+      "publishedAt": "2026-03-25T11:34:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        69
+      ],
+      "reason": "Active OAuth abuse in phishing campaign",
+      "suggestedTitle": "设备代码网络钓鱼通过OAuth攻击Microsoft 365",
+      "suggestedSummary": "一项新的网络钓鱼活动正在利用设备代码认证来攻击五个国家的340多个Microsoft 365组织。攻击者滥用OAuth以获得对敏感信息的未经授权访问。安全团队必须加强对OAuth活动的监控，并教育用户了解网络钓鱼风险，以防御这些复杂的攻击。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9787f4ab50c48a159aeeb63b59edf40a34164262f220618187daa6450308047",
+      "source": "BleepingComputer",
+      "title": "GitHub 增加 AI 驱动的漏洞检测以扩展安全覆盖范围",
+      "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "summary": "GitHub 正在为其代码安全工具采用基于 AI 的扫描，以扩展漏洞检测范围，超越 CodeQL 静态分析，并覆盖更多语言和框架。[...]",
+      "publishedAt": "2026-03-25T23:23:39.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b7c6e600b1ee778fb8a8cd034a87f121d14f748b7c8fc756982813b468e3237c",
+      "source": "The Hacker News",
+      "title": "GlassWorm恶意软件利用Solana死信投递RAT并窃取浏览器和加密数据",
+      "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+      "summary": "网络安全研究人员发现了GlassWorm活动的新演变，该活动提供了一个多阶段框架，能够全面窃取数据并安装远程访问木马（RAT），该木马部署了一个伪装成Google Docs离线版本的信息窃取Google Chrome扩展。\"它记录击键，转储cookie和会话令牌，捕获屏幕截图，并",
+      "publishedAt": "2026-03-25T14:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9230f2a6bca7cf869265021b5aea8133c2006d7036daac21f8964ecd9d5d1054",
+      "source": "BleepingComputer",
+      "title": "新型Torg Grabber信息窃取恶意软件瞄准728个加密货币钱包",
+      "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "summary": "一种名为Torg Grabber的新型信息窃取恶意软件正在从850个浏览器扩展程序中窃取敏感数据，其中超过700个是加密货币钱包。[...]",
+      "publishedAt": "2026-03-25T18:32:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bfc7f53ddb49c2be50887a34fa5eb1679fa1d099e5c9641631e4cf70ac9b981d",
+      "source": "BleepingComputer",
+      "title": "TP-Link警告用户修补关键路由器认证绕过漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+      "summary": "TP-Link已修补其Archer NX路由器系列中的多个漏洞，其中包括一个可能允许攻击者绕过认证并上传新固件的关键严重性漏洞。[...]",
+      "publishedAt": "2026-03-25T11:11:00.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "70155ec6699b37608fbe0149fcdcf21d64b87ffd036efc7a8ce2cadf4ba5f88a",
+      "source": "Google News Security (JP)",
+      "title": "苹果发布“iOS 18.7.7” 修复多个漏洞 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUWZpb3liX2ZLUk1Ycm1kWXFGd2d1NzVkaHN6Ri1ZMVlxeEs3S0w1bkhIZDhxcmd0RjZXYVJpaTRpbm5mSHRrWlVKTUxSZzcxTEY2dw?oc=5",
+      "summary": "苹果发布“iOS 18.7.7” 修复多个漏洞  ASCII.jp",
+      "publishedAt": "2026-03-25T05:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-26T00:50:38.096Z"
+  }
+}

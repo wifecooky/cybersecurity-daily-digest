@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-26",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "0ea33a1eb385c8bcebf82a87d2ae5f6efdd7312061326cc797fd6e935859577a",
+      "source": "BleepingComputer",
+      "title": "PolyShell攻撃が脆弱なMagentoストアの56%を標的に",
+      "url": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+      "summary": "Magento Open SourceとAdobe Commerceのバージョン2における「PolyShell」脆弱性を利用した攻撃が進行中で、脆弱なストアの半数以上が標的となっています。[...]",
+      "publishedAt": "2026-03-25T21:40:21.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Active exploitation of Magento vulnerability",
+      "suggestedTitle": "緊急: PolyShell脆弱性がMagentoストアを標的に",
+      "suggestedSummary": "「PolyShell」脆弱性が積極的に悪用されており、Magento Open SourceとAdobe Commerceのインストールの56%に影響を与えています。攻撃者はこの欠陥を利用して脆弱なシステム上で悪意のあるコードを実行し、顧客の機密データを危険にさらす可能性があります。セキュリティチームはリスクを軽減するためにパッチ適用を優先し、影響を受けた環境での異常な活動を監視する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8e55a79a9e643b59cdc8c16d9b80bfaaf3a33ce67f241451fda715c2bb84bed0",
+      "source": "BleepingComputer",
+      "title": "Citrix、管理者にNetScalerの脆弱性を早急に修正するよう促す",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrixは、NetScaler ADCおよびNetScaler Gatewayの2つの脆弱性を修正しました。そのうちの1つは、近年ゼロデイ攻撃で悪用されたCitrixBleedおよびCitrixBleed2の脆弱性と非常に類似しています。[...]",
+      "publishedAt": "2026-03-25T15:52:10.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        31
+      ],
+      "reason": "Critical NetScaler vulnerabilities patched",
+      "suggestedTitle": "Citrix、重大なNetScalerの脆弱性を修正",
+      "suggestedSummary": "Citrixは、NetScaler ADCおよびNetScaler Gatewayにおける2つの重大な脆弱性に対する修正をリリースしました。これには、以前のCVEに類似した高危険度の脆弱性が含まれています。これらの脆弱性は、攻撃者が任意のコードを実行したり、認証を回避したりする可能性があります。管理者は、システムを保護し、潜在的な悪用を防ぐために、これらの修正を直ちに適用するべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2e364939a254b733b9b73dd89c7543166c2ccacc156b22eac0b1f20fbd1231c8",
+      "source": "The Hacker News",
+      "title": "デバイスコードフィッシングがOAuthの悪用を通じて5か国の340以上のMicrosoft 365組織を攻撃",
+      "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
+      "summary": "サイバーセキュリティ研究者は、米国、カナダ、オーストラリア、ニュージーランド、ドイツの340以上の組織のMicrosoft 365アイデンティティを標的とするアクティブなデバイスコードフィッシングキャンペーンに注目しています。Huntressによると、この活動は2026年2月19日に初めて発見され、その後急速に事例が増加しています。特に、このキャンペーンは",
+      "publishedAt": "2026-03-25T11:34:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        69
+      ],
+      "reason": "Active OAuth abuse in phishing campaign",
+      "suggestedTitle": "デバイスコードフィッシングがOAuthを介してMicrosoft 365を標的に",
+      "suggestedSummary": "新しいフィッシングキャンペーンがデバイスコード認証を悪用し、5か国の340以上のMicrosoft 365組織を標的にしています。攻撃者はOAuthを悪用して機密情報への不正アクセスを試みています。セキュリティチームは、OAuth活動の監視を強化し、ユーザーにフィッシングのリスクについて教育することで、これらの高度な攻撃から防御する必要があります。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9787f4ab50c48a159aeeb63b59edf40a34164262f220618187daa6450308047",
+      "source": "BleepingComputer",
+      "title": "GitHub、AIを活用したバグ検出を追加しセキュリティカバレッジを拡大",
+      "url": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "summary": "GitHubは、Code SecurityツールにAIベースのスキャンを採用し、CodeQL静的解析を超えて脆弱性検出を拡大し、より多くの言語とフレームワークをカバーします。[...]",
+      "publishedAt": "2026-03-25T23:23:39.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b7c6e600b1ee778fb8a8cd034a87f121d14f748b7c8fc756982813b468e3237c",
+      "source": "The Hacker News",
+      "title": "GlassWormマルウェアがSolanaデッドドロップを使用してRATを配信し、ブラウザや暗号通貨データを盗む",
+      "url": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
+      "summary": "サイバーセキュリティ研究者たちは、包括的なデータ窃盗とリモートアクセス型トロイの木馬（RAT）のインストールが可能なマルチステージフレームワークを配信するGlassWormキャンペーンの新たな進化を警告しています。このRATは、Google Docsのオフライン版を装った情報窃盗用のGoogle Chrome拡張機能を展開します。「それはキーストロークを記録し、クッキーとセッショントークンをダンプし、スクリーンショットをキャプチャします。",
+      "publishedAt": "2026-03-25T14:26:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9230f2a6bca7cf869265021b5aea8133c2006d7036daac21f8964ecd9d5d1054",
+      "source": "BleepingComputer",
+      "title": "新たなTorg Grabber情報窃取マルウェアが728の暗号通貨ウォレットを標的に",
+      "url": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "summary": "Torg Grabberという新しい情報窃取マルウェアが、850のブラウザ拡張機能から機密データを盗み、そのうち700以上が暗号通貨ウォレット用です。",
+      "publishedAt": "2026-03-25T18:32:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bfc7f53ddb49c2be50887a34fa5eb1679fa1d099e5c9641631e4cf70ac9b981d",
+      "source": "BleepingComputer",
+      "title": "TP-Link、重大なルーター認証バイパスの脆弱性に対するパッチをユーザーに警告",
+      "url": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+      "summary": "TP-Linkは、Archer NXルーターシリーズにおける複数の脆弱性に対するパッチを提供しました。その中には、攻撃者が認証をバイパスして新しいファームウェアをアップロードできる可能性のある重大な脆弱性も含まれています。",
+      "publishedAt": "2026-03-25T11:11:00.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "70155ec6699b37608fbe0149fcdcf21d64b87ffd036efc7a8ce2cadf4ba5f88a",
+      "source": "Google News Security (JP)",
+      "title": "Apple、「iOS 18.7.7」の配信を開始 複数の脆弱性を修正 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TUWZpb3liX2ZLUk1Ycm1kWXFGd2d1NzVkaHN6Ri1ZMVlxeEs3S0w1bkhIZDhxcmd0RjZXYVJpaTRpbm5mSHRrWlVKTUxSZzcxTEY2dw?oc=5",
+      "summary": "Apple、「iOS 18.7.7」の配信を開始 複数の脆弱性を修正 - ASCII.jp",
+      "publishedAt": "2026-03-25T05:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-26T00:50:44.360Z"
+  }
+}
