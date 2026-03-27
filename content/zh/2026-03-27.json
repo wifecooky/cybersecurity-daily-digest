@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-27",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "afa9118669f7429aa89a5b297d398fca2d63f44e0b3fbef4fac3e2ccc388a7b2",
+      "source": "BleepingComputer",
+      "title": "CISA：新的Langflow漏洞被积极利用以劫持AI工作流",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+      "summary": "网络安全和基础设施安全局（CISA）警告称，黑客正在积极利用一个被标识为CVE-2026-33017的关键漏洞，该漏洞影响了用于构建AI代理的Langflow框架。[...]",
+      "publishedAt": "2026-03-26T19:17:43.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        8
+      ],
+      "reason": "Active exploitation of zero-day vulnerability",
+      "suggestedTitle": "Langflow AI平台关键漏洞正被积极利用",
+      "suggestedSummary": "CISA已发布警报，指出Langflow AI平台存在一个关键的代码注入漏洞，正被威胁行为者积极利用。该漏洞允许远程攻击者劫持AI工作流，对使用该平台的组织构成重大风险。安全团队应立即应用可用的补丁并监控异常活动，以减轻潜在影响。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7fa6a2c06a5e0dc6d2ef2b3fb051def37bd6646ddcec9fcf434d148adac045e1",
+      "source": "BleepingComputer",
+      "title": "Coruna iOS 漏洞框架与三角攻击有关",
+      "url": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "summary": "Coruna 漏洞工具包是用于“操作三角”间谍活动的框架的演变，该活动在 2023 年通过零点击 iMessage 漏洞攻击 iPhone。[...]",
+      "publishedAt": "2026-03-26T13:10:14.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Reused exploits in mass attacks",
+      "suggestedTitle": "Coruna iOS 漏洞框架重用三角攻击代码",
+      "suggestedSummary": "Coruna iOS 漏洞框架已被链接到三角攻击，利用了以前 Apple iOS 漏洞中的内核漏洞。该框架针对 iOS 设备，可能危及用户数据和设备完整性。安全团队应确保所有 iOS 设备更新到最新版本，以防止被利用并监测妥协的迹象。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "71377c81e310db35848f2176ac2d74b098286eec52bcbd44f4140f09b9fc718a",
+      "source": "The Hacker News",
+      "title": "与中国有关的红门神利用隐蔽的BPFDoor植入程序通过电信网络进行间谍活动",
+      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+      "summary": "一个长期且持续的活动被归因于一个与中国有关的威胁行为者，该行为者已嵌入电信网络以对政府网络进行间谍活动。这种战略定位活动涉及在关键环境中植入和维护隐蔽的访问机制，被归因于红门神，一个也被称为Earth Bluecrow的威胁集群。",
+      "publishedAt": "2026-03-26T17:40:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a94c83c1569603838c94d7f824852b7301be6d11fc712fd1650216a812105468",
+      "source": "BleepingComputer",
+      "title": "针对TikTok商业账户的新型网络钓鱼活动",
+      "url": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+      "summary": "威胁行为者正在针对TikTok商业账户进行网络钓鱼活动，该活动阻止安全机器人分析恶意页面。",
+      "publishedAt": "2026-03-26T14:09:17.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9abf2d6ce342a91f0f2984c236ee05d40479dd2fd3f031962c5d94fc1a902f7d",
+      "source": "Google News Security",
+      "title": "数据泄露影响福利管理员Navia，近270万人受影响 - CPO杂志",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVlvczlUZFVycTNabG56WmwySUgxZnhqRkRheTlsVTJLcmZ1U3dDUG50MDZwUnpuLU54R0ZldGhkLXg5cjluVHh3Q3JnQU9ySjQ5cXNyeGh1bVV2SHpMY2ZkUzNXU2tWcmdUZWlLRER6N0FHUTY1NktaZWM0ZUZwc19xUGNrNk41cWdEM2dWclUzUUQtQ0ZKdFBKNWlnREZubzFZWU10RWctWG5VRG14emdVbEUtT1lhS2pYNEptU1RDU0U?oc=5",
+      "summary": "数据泄露影响福利管理员Navia，近270万人受影响 CPO杂志",
+      "publishedAt": "2026-03-26T11:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "812132c253775245232e953ea4470d3b29458de48b8dc3ae1690f2e0377f52c6",
+      "source": "Google News Security",
+      "title": "黑客声称对OVHcloud数据泄露负责，数百万用户可能受影响 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEN2TGxVbTFnY2pyTklQT1F0UkdwMjZWNUtIVjZiVU5jdjVxUDI3TTRkMFB6a1JBNHlJR1pwU045bkljWk03Y2ZLcjkzLUJvWkhpc0RxaWlsVDNWakJYbmg1elNDMU9uc2d6QWdLNnhudl9FSzNLekQweUdocHVwSElJSnBmRDUwdlFKRnp4Ml9lOGVBQnhvUG82MXNjajlMeWJpVVBuQzZwLWpUNzVPMFJmb0I0bkRlR0ZVMTR6S0haZw?oc=5",
+      "summary": "黑客声称对OVHcloud数据泄露负责，数百万用户可能受影响  Escudo Digital",
+      "publishedAt": "2026-03-26T06:15:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fd26855f16f6665bc8356a9af9625d60f91be60545d189fbf8ed582d39aff70",
+      "source": "Google News Security (CN)",
+      "title": "苹果紧急修复意外呼出电话漏洞，官方建议尽快将设备升级至iOS 26.3或更高版本 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlhzamRTckdpNTBDdmFidHJwNUlZVXBidTEtR0puQTNGV3hoZmw4YTdIYU5zS3QtUWdlQUhKNXBWMGhTRlNubGpqeXBQdDhkMEN1ZFVzSWNfbXFYZTVUeFYyM1Q5SkZ1aG52NHZ1TFljUzl1Zy12ckdKUDVVZlMydUI5bmRNYjlZUWFnbFM2S1pWQVk4SE81Mm9MZHl3WHZrWngzSXR5MA?oc=5",
+      "summary": "苹果紧急修复意外呼出电话漏洞，官方建议尽快将设备升级至iOS 26.3或更高版本 新浪财经",
+      "publishedAt": "2026-03-26T07:12:58.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-27T00:51:05.374Z"
+  }
+}
