@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-28",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "5c43a94412fafcb94e7f7c8ffaf98cfeccbeeece73178b3bdaef80e0e4c6d28f",
+      "source": "BleepingComputer",
+      "title": "バックドアが仕込まれたTelnyx PyPIパッケージがWAVオーディオに隠されたマルウェアを配布",
+      "url": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+      "summary": "TeamPCPのハッカーが本日、Python Package Index上のTelnyxパッケージを侵害し、WAVファイル内に隠された資格情報を盗むマルウェアを配布する悪意のあるバージョンをアップロードしました。[...]",
+      "publishedAt": "2026-03-27T21:13:26.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        4
+      ],
+      "reason": "Supply chain malware attack on PyPI",
+      "suggestedTitle": "悪意のあるPyPIパッケージが開発者をスティーラーマルウェアで狙う",
+      "suggestedSummary": "TeamPCPはPython Package Index (PyPI) 上のTelnyxパッケージを侵害し、WAVオーディオファイル内にマルウェアを埋め込みました。このサプライチェーン攻撃は、影響を受けたパッケージをダウンロードする開発者から機密データを盗むことを目的としています。マルウェアは隠されたスティーラーを利用して動作し、ソフトウェア開発環境に重大なリスクをもたらし、インストール前にパッケージの整合性を確認する重要性を強調しています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a0183667330c7528f26b2bfe2584e99130340a4b13021036a847b6e39ab559f1",
+      "source": "BleepingComputer",
+      "title": "欧州委員会、Amazonクラウドアカウントのハッキング後の侵害を調査中",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
+      "summary": "欧州連合の主要な執行機関である欧州委員会は、脅威アクターが委員会のAmazonクラウド環境にアクセスした後のセキュリティ侵害を調査しています。",
+      "publishedAt": "2026-03-27T12:22:19.000Z",
+      "score": 48,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Major cloud breach investigation",
+      "suggestedTitle": "欧州委員会、AWSクラウド侵害を調査",
+      "suggestedSummary": "欧州委員会は、Amazon Web Services（AWS）クラウドアカウントに関するセキュリティ侵害を調査しています。ハッカーが機密データにアクセスしたと報告されており、クラウドセキュリティの設定やデータ保護対策に対する懸念が高まっています。この事件は、潜在的なデータ露出リスクを軽減するために、定期的な監査やインシデント対応計画を含む、堅牢なクラウドセキュリティ慣行の必要性を浮き彫りにしています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "97cee6a07c3e7dbb0d2059185ec61a9b9d3fb6d34cac3c9b30bddf382b04cb1c",
+      "source": "BleepingComputer",
+      "title": "GitHub上の偽のVS Codeアラートが開発者にマルウェアを拡散",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+      "summary": "大規模なキャンペーンがGitHub上の開発者を標的にしており、様々なプロジェクトのディスカッションセクションに偽のVisual Studio Code（VS Code）セキュリティアラートを投稿し、ユーザーを騙してマルウェアをダウンロードさせようとしています。",
+      "publishedAt": "2026-03-27T16:51:52.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "01c70b6a0119500ad2833daae569d7548002616aec1b113ad332886ac305a6de",
+      "source": "Google News Security",
+      "title": "イラン関連のハッカーがFBI長官の個人メールを侵害し、写真と文書を公開 - ロイター",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnl4Mkp5MnI3ZDg3X1RYMk1aX1JpWkhKLUN5czJlUGtoaU9NZE9RM2dQZlJkMXNQMWtfRElSU0tjMTdZaWN2UnNUb0dIcEZLZjB0RThIdEpQMW5WWkxWblMzNmszZElmcjE2WXNnMXBjNHA0NE15V0dYMVZhYmNjcm8ySjlUZkVIaWZURW1aQmhLNEk4TDV6d1g3SXpJV1psSTBxZTViRE5iSU9WYzRXbjhrUDZ2Um93MDFYNkpDUQ?oc=5",
+      "summary": "イラン関連のハッカーがFBI長官の個人メールを侵害し、写真と文書を公開 - ロイター",
+      "publishedAt": "2026-03-27T21:46:44.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d1a2fcc9e1ba6b76b880693903c8d7dd535b60a099363e88360f86db9bdc0b7b",
+      "source": "The Hacker News",
+      "title": "Apple、Webベースの攻撃に対して古いiPhoneにロック画面の警告を送信",
+      "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Appleは現在、古いバージョンのiOSおよびiPadOSを実行しているiPhoneおよびiPadに対して、Webベースの攻撃を警告し、アップデートをインストールするよう促すロック画面の通知を送信しています。この開発はMacRumorsによって最初に報じられました。「Appleは、あなたのiPhoneのバージョンを含む、古いiOSソフトウェアを標的とした攻撃を認識しています。この重要なアップデートをインストールして、iPhoneを保護してください。」",
+      "publishedAt": "2026-03-27T17:22:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3d270a5d09ec2ed5274c1fa95c0450510f6deecba405002b8ea2a4e7e07ccc16",
+      "source": "Dark Reading",
+      "title": "中国、世界中の通信事業者を監視するためのバックドアをアップグレード",
+      "url": "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos",
+      "summary": "中国のAPTグループ「Red Menshen」が開発した高度なBPFdoorマルウェアは、従来のサイバーセキュリティ対策を打ち破ります。通信事業者ができることは、実際のところ、このマルウェアを追跡することだけです。",
+      "publishedAt": "2026-03-27T16:48:49.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e17c113f4bd810d5133ec6b2d1b3aceab314f866a4776e7f5c026e22b66614f0",
+      "source": "The Hacker News",
+      "title": "AitMフィッシングがCloudflare Turnstile回避を利用してTikTokビジネスアカウントを標的に",
+      "url": "https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html",
+      "summary": "Push Securityの報告によると、脅威アクターが新たなキャンペーンでTikTok for Businessアカウントを掌握するために、Adversary-in-the-Middle（AitM）フィッシングページを使用しています。ソーシャルメディアプラットフォームに関連するビジネスアカウントは、悪意のある広告やマルウェアの配布に利用される可能性があるため、悪意のあるアクターにとって魅力的な標的です。「TikTokは歴史的にマルウェアの配布に悪用されてきました。",
+      "publishedAt": "2026-03-27T12:03:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-28T00:46:54.227Z"
+  }
+}
