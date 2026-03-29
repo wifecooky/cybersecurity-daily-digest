@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-29",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "6589d01abad0b7bd90a5e8dd4d4440f962952190bd8bb22e977fc3db21dde65c",
+      "source": "The Hacker News",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.\n\"When a",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        5
+      ],
+      "reason": "Active exploitation of critical CVE",
+      "suggestedTitle": "Active Exploitation of BIG-IP APM CVE-2025-53521",
+      "suggestedSummary": "CISA has added CVE-2025-53521 to its Known Exploited Vulnerabilities catalog following reports of active exploitation. This vulnerability affects F5 BIG-IP APM systems, allowing remote code execution (RCE) with a high CVSS score. Security teams must prioritize patching affected systems to mitigate potential threats, as attackers are actively exploiting this flaw, posing a significant risk to network integrity.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "da5bdf1eab2ec4ee806803981b4045ab69569bc5039ff957bf1b92f6e0297726",
+      "source": "The Hacker News",
+      "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
+      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+      "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.\nHandala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
+      "publishedAt": "2026-03-28T15:40:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Nation-state cyber operation disclosure",
+      "suggestedTitle": "Iran-Linked Hackers Breach FBI Director's Email",
+      "suggestedSummary": "Threat actors linked to Iran have successfully breached the personal email account of a high-profile target, FBI Director Kash Patel, and launched a wiper attack against Stryker. This highlights the ongoing risk of nation-state cyber operations targeting sensitive individuals and organizations. Security teams should enhance monitoring and implement robust email security measures to defend against similar targeted attacks.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5efc44196781dce239229b8a3e0dd3552decc8a3357f72e60803571eb678e83a",
+      "source": "Google News Security (JP)",
+      "title": "ベトナム企業の50％以上がサイバーセキュリティの専門家を欠いている。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGgwWTFra1QxVVhJai1JV0hGaWFxVFJndjhVLXVPUUh5ZGRwS3JELUNTYzVxVnAyWGQwOGtpRGp4UXQyMFEtczNhNzc2QVBMRzFyMGxBY3Z0Qk13QUFiZEY3VHRraUlfNFBRcmdpQ1RqTzNtX3ZjUFI3aXEyaDdVazI5WE9TdlRBNVZnSEFoTy1FUQ?oc=5",
+      "summary": "ベトナム企業の50％以上がサイバーセキュリティの専門家を欠いている。  Vietnam.vn",
+      "publishedAt": "2026-03-28T23:21:09.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fffeea34be3653f9c0b96866a81d80faf207e36d7e3f095d8b3a28a97080ddc5",
+      "source": "Google News Security",
+      "title": "ShinyHunters Claims 350GB Data Breach at European Commission - Hackread",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RYjRpdFlPa3dZem1sbE4xb0ZYYWVOdWpuYi1aWmlWTnpLTzNmUWMxcExXQ05oT2FhZEUyRXlIMWJvM3J4NVZhVTVPcXdBa0N6eUZNS0I0VXpJQ0x3aThLZnk5X3dneHZOT0JrZDBzUVhpcFM5aG1SbDhrejg?oc=5",
+      "summary": "ShinyHunters Claims 350GB Data Breach at European Commission  Hackread",
+      "publishedAt": "2026-03-28T18:19:40.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9bec9e0e02ac5bc3b904751ff23c9274b0f6d812051c744c564026a371bc3bb4",
+      "source": "The Hacker News",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.\nPer",
+      "publishedAt": "2026-03-28T09:11:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5226f9860010167962aef641a85a6d038e47bc69e3de422b7a6034fceaa360c",
+      "source": "The Hacker News",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-29T00:53:37.606Z"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-29",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "6589d01abad0b7bd90a5e8dd4d4440f962952190bd8bb22e977fc3db21dde65c",
+      "source": "The Hacker News",
+      "title": "CISA 在 F5 BIG-IP APM 被积极利用后将 CVE-2025-53521 添加到 KEV",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "美国网络安全和基础设施安全局 (CISA) 于周五将影响 F5 BIG-IP 访问策略管理器 (APM) 的一个关键安全漏洞添加到其已知被利用漏洞 (KEV) 目录中，理由是有证据表明该漏洞正在被积极利用。所涉及的漏洞是 CVE-2025-53521（CVSS v4 分数：9.3），可能允许威胁行为者实现远程代码执行。",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        5
+      ],
+      "reason": "Active exploitation of critical CVE",
+      "suggestedTitle": "BIG-IP APM CVE-2025-53521 的积极利用",
+      "suggestedSummary": "CISA 在收到积极利用的报告后，将 CVE-2025-53521 添加到其已知被利用漏洞目录中。此漏洞影响 F5 BIG-IP APM 系统，允许远程代码执行 (RCE)，且具有较高的 CVSS 分数。安全团队必须优先修补受影响的系统以减轻潜在威胁，因为攻击者正在积极利用此漏洞，对网络完整性构成重大风险。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "da5bdf1eab2ec4ee806803981b4045ab69569bc5039ff957bf1b92f6e0297726",
+      "source": "The Hacker News",
+      "title": "与伊朗有关的黑客入侵FBI局长的个人邮箱，对Stryker进行擦除攻击",
+      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+      "summary": "与伊朗有联系的威胁行为者成功入侵了美国联邦调查局（FBI）局长卡什·帕特尔的个人电子邮箱，并将一批照片和其他文件泄露到互联网上。实施此次入侵的Handala黑客团队在其网站上表示，帕特尔“现在将发现他的名字在成功被黑的受害者名单中。”",
+      "publishedAt": "2026-03-28T15:40:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Nation-state cyber operation disclosure",
+      "suggestedTitle": "与伊朗有关的黑客入侵FBI局长邮箱",
+      "suggestedSummary": "与伊朗有关的威胁行为者成功入侵了一个高调目标——FBI局长卡什·帕特尔的个人邮箱，并对Stryker发动了擦除攻击。这突显了国家级网络行动对敏感个人和组织的持续风险。安全团队应加强监控并实施强有力的电子邮件安全措施，以防御类似的定向攻击。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5efc44196781dce239229b8a3e0dd3552decc8a3357f72e60803571eb678e83a",
+      "source": "Google News Security (JP)",
+      "title": "超过50%的越南企业缺乏网络安全专家。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGgwWTFra1QxVVhJai1JV0hGaWFxVFJndjhVLXVPUUh5ZGRwS3JELUNTYzVxVnAyWGQwOGtpRGp4UXQyMFEtczNhNzc2QVBMRzFyMGxBY3Z0Qk13QUFiZEY3VHRraUlfNFBRcmdpQ1RqTzNtX3ZjUFI3aXEyaDdVazI5WE9TdlRBNVZnSEFoTy1FUQ?oc=5",
+      "summary": "超过50%的越南企业缺乏网络安全专家。",
+      "publishedAt": "2026-03-28T23:21:09.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fffeea34be3653f9c0b96866a81d80faf207e36d7e3f095d8b3a28a97080ddc5",
+      "source": "Google News Security",
+      "title": "ShinyHunters声称在欧盟委员会发生350GB数据泄露 - Hackread",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RYjRpdFlPa3dZem1sbE4xb0ZYYWVOdWpuYi1aWmlWTnpLTzNmUWMxcExXQ05oT2FhZEUyRXlIMWJvM3J4NVZhVTVPcXdBa0N6eUZNS0I0VXpJQ0x3aThLZnk5X3dneHZOT0JrZDBzUVhpcFM5aG1SbDhrejg?oc=5",
+      "summary": "ShinyHunters声称在欧盟委员会发生350GB数据泄露  Hackread",
+      "publishedAt": "2026-03-28T18:19:40.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9bec9e0e02ac5bc3b904751ff23c9274b0f6d812051c744c564026a371bc3bb4",
+      "source": "The Hacker News",
+      "title": "Citrix NetScaler 正在被积极侦察 CVE-2026-3055 (CVSS 9.3) 内存过读漏洞",
+      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "据 Defused Cyber 和 watchTowr 报道，最近披露的影响 Citrix NetScaler ADC 和 NetScaler Gateway 的关键安全漏洞正在遭受积极的侦察活动。该漏洞 CVE-2026-3055（CVSS 评分：9.3）涉及输入验证不足导致的内存过读，攻击者可能利用该漏洞泄露潜在的敏感信息。",
+      "publishedAt": "2026-03-28T09:11:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5226f9860010167962aef641a85a6d038e47bc69e3de422b7a6034fceaa360c",
+      "source": "The Hacker News",
+      "title": "TA446在定向鱼叉式网络钓鱼活动中部署DarkSword iOS漏洞利用工具包",
+      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint披露了一项定向电子邮件活动的详细信息，其中与俄罗斯有关联的威胁行为者正在利用最近披露的DarkSword漏洞利用工具包来攻击iOS设备。此活动被高度确信归因于被称为TA446的俄罗斯国家支持的威胁组织，该组织在更广泛的网络安全社区中也被称为Callisto。",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-29T00:53:42.307Z"
+  }
+}

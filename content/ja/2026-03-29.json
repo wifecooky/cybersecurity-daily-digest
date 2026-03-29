@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-29",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "6589d01abad0b7bd90a5e8dd4d4440f962952190bd8bb22e977fc3db21dde65c",
+      "source": "The Hacker News",
+      "title": "CISA、F5 BIG-IP APMの積極的な悪用を受けてCVE-2025-53521をKEVに追加",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は金曜日、F5 BIG-IP Access Policy Manager（APM）に影響を与える重大なセキュリティ欠陥を、既知の悪用された脆弱性（KEV）カタログに追加しました。これは、積極的な悪用の証拠があるためです。問題の脆弱性はCVE-2025-53521（CVSS v4スコア：9.3）であり、脅威アクターがリモートコード実行を達成する可能性があります。",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        5
+      ],
+      "reason": "Active exploitation of critical CVE",
+      "suggestedTitle": "BIG-IP APM CVE-2025-53521の積極的な悪用",
+      "suggestedSummary": "CISAは、積極的な悪用の報告を受けて、CVE-2025-53521を既知の悪用された脆弱性カタログに追加しました。この脆弱性はF5 BIG-IP APMシステムに影響を与え、高いCVSSスコアでリモートコード実行（RCE）を可能にします。セキュリティチームは、攻撃者がこの欠陥を積極的に悪用しているため、ネットワークの整合性に重大なリスクをもたらす可能性があるため、影響を受けたシステムのパッチ適用を優先する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "da5bdf1eab2ec4ee806803981b4045ab69569bc5039ff957bf1b92f6e0297726",
+      "source": "The Hacker News",
+      "title": "イラン関連のハッカーがFBI長官の個人メールを侵害、ストライカーにワイパー攻撃を実行",
+      "url": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
+      "summary": "イランと関係のある脅威アクターが、米国連邦捜査局（FBI）長官のカシュ・パテルの個人メールアカウントに侵入し、写真やその他の文書をインターネットに流出させました。侵害を行ったハンダラ・ハック・チームは、パテルが「成功したハッキング被害者のリストにその名を連ねることになる」とウェブサイトで述べました。",
+      "publishedAt": "2026-03-28T15:40:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Nation-state cyber operation disclosure",
+      "suggestedTitle": "イラン関連のハッカーがFBI長官のメールを侵害",
+      "suggestedSummary": "イランと関連する脅威アクターが、注目度の高いターゲットであるFBI長官カシュ・パテルの個人メールアカウントを侵害し、ストライカーに対してワイパー攻撃を開始しました。これは、国家によるサイバー作戦が敏感な個人や組織を狙うリスクが続いていることを浮き彫りにしています。セキュリティチームは、同様の標的型攻撃に対抗するために、監視を強化し、強固なメールセキュリティ対策を実施するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5efc44196781dce239229b8a3e0dd3552decc8a3357f72e60803571eb678e83a",
+      "source": "Google News Security (JP)",
+      "title": "ベトナム企業の50％以上がサイバーセキュリティの専門家を欠いている。",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGgwWTFra1QxVVhJai1JV0hGaWFxVFJndjhVLXVPUUh5ZGRwS3JELUNTYzVxVnAyWGQwOGtpRGp4UXQyMFEtczNhNzc2QVBMRzFyMGxBY3Z0Qk13QUFiZEY3VHRraUlfNFBRcmdpQ1RqTzNtX3ZjUFI3aXEyaDdVazI5WE9TdlRBNVZnSEFoTy1FUQ?oc=5",
+      "summary": "ベトナム企業の50％以上がサイバーセキュリティの専門家を欠いている。",
+      "publishedAt": "2026-03-28T23:21:09.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fffeea34be3653f9c0b96866a81d80faf207e36d7e3f095d8b3a28a97080ddc5",
+      "source": "Google News Security",
+      "title": "ShinyHunters、欧州委員会での350GBのデータ侵害を主張 - Hackread",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RYjRpdFlPa3dZem1sbE4xb0ZYYWVOdWpuYi1aWmlWTnpLTzNmUWMxcExXQ05oT2FhZEUyRXlIMWJvM3J4NVZhVTVPcXdBa0N6eUZNS0I0VXpJQ0x3aThLZnk5X3dneHZOT0JrZDBzUVhpcFM5aG1SbDhrejg?oc=5",
+      "summary": "ShinyHunters、欧州委員会での350GBのデータ侵害を主張  Hackread",
+      "publishedAt": "2026-03-28T18:19:40.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9bec9e0e02ac5bc3b904751ff23c9274b0f6d812051c744c564026a371bc3bb4",
+      "source": "The Hacker News",
+      "title": "Citrix NetScaler、CVE-2026-3055（CVSS 9.3）メモリオーバーリードバグのためのアクティブな偵察活動",
+      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "最近公開されたCitrix NetScaler ADCおよびNetScaler Gatewayに影響を与える重大なセキュリティ欠陥が、Defused CyberとwatchTowrによると、アクティブな偵察活動を目撃しています。この脆弱性、CVE-2026-3055（CVSSスコア：9.3）は、不十分な入力検証によりメモリオーバーリードが発生するケースを指し、攻撃者が潜在的に機密情報を漏洩させるために悪用する可能性があります。",
+      "publishedAt": "2026-03-28T09:11:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5226f9860010167962aef641a85a6d038e47bc69e3de422b7a6034fceaa360c",
+      "source": "The Hacker News",
+      "title": "TA446が標的型スピアフィッシングキャンペーンでDarkSword iOSエクスプロイトキットを展開",
+      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpointは、ロシアと関係のある脅威アクターが、最近公開されたDarkSwordエクスプロイトキットを利用してiOSデバイスを標的にしているメールキャンペーンの詳細を明らかにしました。この活動は、TA446として知られるロシアの国家支援の脅威グループに高い確信を持って帰属されており、サイバーセキュリティコミュニティ全体ではCallistoという別名でも追跡されています。",
+      "publishedAt": "2026-03-28T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-29T00:53:48.355Z"
+  }
+}
