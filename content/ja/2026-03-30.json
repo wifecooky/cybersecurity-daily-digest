@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-30",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "9ab21c74b9f88f9195f5884a7b7fd9c8e475c5924142b4f9fc1f2c290366d991",
+      "source": "BleepingComputer",
+      "title": "FBI、パテル長官の個人メールのハッキングを確認",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "summary": "イランと関連のあるハンダラ・ハッカーがFBI長官カッシュ・パテルの個人メールアカウントに侵入し、写真や文書を公開しました。[...]",
+      "publishedAt": "2026-03-29T21:09:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1
+      ],
+      "reason": "High-profile target breach",
+      "suggestedTitle": "イラン関連ハッカーによるFBI長官のメール侵害",
+      "suggestedSummary": "FBI長官パテルの個人メールアカウントが、イランと関連のあるハンダラ・ハッカーによって侵害されました。この侵害は、国家主体の攻撃者が著名な個人を標的にする継続的な脅威を浮き彫りにしています。セキュリティチームはメールのセキュリティプロトコルを見直し、幹部や高価値ターゲットに対する追加の保護措置を検討すべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "1c6ebb88c1560b70ea40104640da61748f7519c16d8f2bc5e1819d60b73c622f",
+      "source": "Google News Security",
+      "title": "米国保険会社でのデータ漏洩により7,400人の個人情報が流出の可能性 - サイバーニュース",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3NoR1lERWU4Q3VqQTJ5MWJPTWY1bkc3SnVGRmxlWGYtRVlPblRudXNiYVlUZU5NR3kwcW9vTHdwQS1taWxGS1JMVGpoMC1IWEJvdk1jS0xRMS1YeVNIUTVodC1MWXphbHVZWGVLQU5la09IQUlHNkFnTklhZ2RtT18tVVlVZ19OOFljbS1TbnozTDZXaTRra2szaFI3YlVmcWt5bDFoTExHaXdXdE5OcEJ3?oc=5",
+      "summary": "米国保険会社でのデータ漏洩により7,400人の個人情報が流出の可能性  サイバーニュース",
+      "publishedAt": "2026-03-29T10:49:12.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "Sensitive data exposure",
+      "suggestedTitle": "米国保険会社のデータ漏洩で個人情報が流出",
+      "suggestedSummary": "米国の保険会社でのデータ漏洩により、7,400人の個人情報が流出した可能性があります。この漏洩には社会保障番号などの機密情報が含まれており、身元盗難のリスクが高まっています。セキュリティチームは、強固なデータ保護対策を講じ、悪意のある情報利用の兆候を監視する必要があります。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "df7c03010700ac3622a6a4cef4da7de94cae146ab247c410dee81403163049d1",
+      "source": "Google News Security",
+      "title": "SCDCA: Kaplan North America LLCのデータ漏洩が26,000人以上のサウスカロライナ州民に影響を与える可能性 - WLTX",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3E0blVXc1ptbXJCQklqZHBhU3FtRXBYMmVBajdsOUU1aWUydFVrbjVla0phU2NjemhMelRhQUtKSjFfODNqcV9renA4dUNxbk1reWRlZU5lNVFVLUJMRjZQYno2WGw5bmJXM3hwbHBLQ2VzZzk1RGJTdFA1VGdpZTNYQUZXcklYMkZBZ0FsLXd0cEh0LXBaaEt3aDFwOHRGRzR1Ry1FeWtiUlhaSVhlaTZmczlhNWFlV205Z2dNbzhnSFpzUHFYdlRnbHY?oc=5",
+      "summary": "SCDCA: Kaplan North America LLCのデータ漏洩が26,000人以上のサウスカロライナ州民に影響を与える可能性  WLTX",
+      "publishedAt": "2026-03-29T20:20:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f7586b45397bb49c14cccb80155050efbcd3e09464c5a00c3cfa885cca8f67dd",
+      "source": "BleepingComputer",
+      "title": "Smart Sliderプラグインのファイル読み取りの欠陥が50万のWordPressサイトに影響",
+      "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+      "summary": "80万以上のウェブサイトで利用されているSmart Slider 3 WordPressプラグインにおける脆弱性は、サブスクライバーレベルのユーザーがサーバー上の任意のファイルにアクセスできるように悪用される可能性があります。",
+      "publishedAt": "2026-03-29T14:38:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8403a4c4f545d4223c24cf96e072f73622eabe2993de2ebfd8a148ff9e530163",
+      "source": "Google News Security",
+      "title": "2024年のデータ侵害で数千人のCorewell Health患者に影響 - CBSニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVJDUTNEaGZEY0M2SENFc0ZwQUpBckJUay1yUVFtcEl6UFd3TmtLZzBqV1JGM1JhMjQ4RUJHTmh2cDFtR09OOEdUcFIxbmtseG91Z0otZk1wM1I0SVM0ZmlZY19LcUt0REd3ZEthNmZoMTNHaS15VDc3TklrUGRoc0lEYk9xNnBnSm1J?oc=5",
+      "summary": "2024年のデータ侵害で数千人のCorewell Health患者に影響  CBSニュース",
+      "publishedAt": "2026-03-29T02:16:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "817a9d0aa50c8c4d7a2d07a73e3846c0f3395b0adc84af64d1b4c0367e35d3c8",
+      "source": "Google News Security",
+      "title": "ロッキー・マウンテン・ケア、ランサムウェア攻撃によるデータ漏洩を公表 - クレームデポ",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pc3FORzFtZDhURkRHUURBX0RFS3k5dVVUU0QxYV9Ec01pdGRXMFFDN3B0SVF5VGxPX1ZvYVJIWUh1eVExVEwzQXNZb3NhdzBkN3ozTGZvY3lKV1pfbS1xdXBvZFRLYTNoR3k1UmVYNXQ?oc=5",
+      "summary": "ロッキー・マウンテン・ケア、ランサムウェア攻撃によるデータ漏洩を公表 クレームデポ",
+      "publishedAt": "2026-03-29T03:26:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-30T00:53:16.984Z"
+  }
+}

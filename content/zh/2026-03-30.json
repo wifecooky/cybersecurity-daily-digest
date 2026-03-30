@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-30",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "9ab21c74b9f88f9195f5884a7b7fd9c8e475c5924142b4f9fc1f2c290366d991",
+      "source": "BleepingComputer",
+      "title": "FBI确认局长帕特尔的个人电子邮箱被黑客入侵",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "summary": "与伊朗有关的Handala黑客组织已入侵FBI局长Kash Patel的个人电子邮箱，并发布了照片和文件。[...]",
+      "publishedAt": "2026-03-29T21:09:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1
+      ],
+      "reason": "High-profile target breach",
+      "suggestedTitle": "FBI局长的电子邮箱被伊朗关联黑客入侵",
+      "suggestedSummary": "FBI局长帕特尔的个人电子邮箱被与伊朗有关的Handala黑客组织入侵。这一事件突显了国家级黑客对高知名度个人构成的持续威胁。安全团队应审查电子邮件安全协议，并考虑为高管和高价值目标采取额外的保护措施。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "1c6ebb88c1560b70ea40104640da61748f7519c16d8f2bc5e1819d60b73c622f",
+      "source": "Google News Security",
+      "title": "美国保险公司数据泄露可能暴露了7,400人的个人数据 - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3NoR1lERWU4Q3VqQTJ5MWJPTWY1bkc3SnVGRmxlWGYtRVlPblRudXNiYVlUZU5NR3kwcW9vTHdwQS1taWxGS1JMVGpoMC1IWEJvdk1jS0xRMS1YeVNIUTVodC1MWXphbHVZWGVLQU5la09IQUlHNkFnTklhZ2RtT18tVVlVZ19OOFljbS1TbnozTDZXaTRra2szaFI3YlVmcWt5bDFoTExHaXdXdE5OcEJ3?oc=5",
+      "summary": "美国保险公司数据泄露可能暴露了7,400人的个人数据  Cybernews",
+      "publishedAt": "2026-03-29T10:49:12.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "Sensitive data exposure",
+      "suggestedTitle": "美国保险公司数据泄露暴露个人信息",
+      "suggestedSummary": "美国一家保险公司的数据泄露事件可能暴露了7,400名个人的个人数据。泄露涉及敏感信息，如社会安全号码，增加了身份盗窃的风险。安全团队应确保实施强有力的数据保护措施，并监控任何被恶意使用的泄露信息迹象。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "df7c03010700ac3622a6a4cef4da7de94cae146ab247c410dee81403163049d1",
+      "source": "Google News Security",
+      "title": "SCDCA：Kaplan North America LLC数据泄露可能影响26,000多名南卡罗来纳州居民 - WLTX",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3E0blVXc1ptbXJCQklqZHBhU3FtRXBYMmVBajdsOUU1aWUydFVrbjVla0phU2NjemhMelRhQUtKSjFfODNqcV9renA4dUNxbk1reWRlZU5lNVFVLUJMRjZQYno2WGw5bmJXM3hwbHBLQ2VzZzk1RGJTdFA1VGdpZTNYQUZXcklYMkZBZ0FsLXd0cEh0LXBaaEt3aDFwOHRGRzR1Ry1FeWtiUlhaSVhlaTZmczlhNWFlV205Z2dNbzhnSFpzUHFYdlRnbHY?oc=5",
+      "summary": "SCDCA：Kaplan North America LLC数据泄露可能影响26,000多名南卡罗来纳州居民  WLTX",
+      "publishedAt": "2026-03-29T20:20:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f7586b45397bb49c14cccb80155050efbcd3e09464c5a00c3cfa885cca8f67dd",
+      "source": "BleepingComputer",
+      "title": "Smart Slider 插件中的文件读取漏洞影响 50 万个 WordPress 网站",
+      "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+      "summary": "Smart Slider 3 WordPress 插件中的一个漏洞可被利用，使订阅者级别的用户能够访问服务器上的任意文件。该插件在超过 80 万个网站上处于活跃状态。",
+      "publishedAt": "2026-03-29T14:38:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8403a4c4f545d4223c24cf96e072f73622eabe2993de2ebfd8a148ff9e530163",
+      "source": "Google News Security",
+      "title": "数千名Corewell Health患者受2024年数据泄露影响 - CBS新闻",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVJDUTNEaGZEY0M2SENFc0ZwQUpBckJUay1yUVFtcEl6UFd3TmtLZzBqV1JGM1JhMjQ4RUJHTmh2cDFtR09OOEdUcFIxbmtseG91Z0otZk1wM1I0SVM0ZmlZY19LcUt0REd3ZEthNmZoMTNHaS15VDc3TklrUGRoc0lEYk9xNnBnSm1J?oc=5",
+      "summary": "数千名Corewell Health患者受2024年数据泄露影响  CBS新闻",
+      "publishedAt": "2026-03-29T02:16:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "817a9d0aa50c8c4d7a2d07a73e3846c0f3395b0adc84af64d1b4c0367e35d3c8",
+      "source": "Google News Security",
+      "title": "落基山护理公司在勒索软件攻击后披露数据泄露 - 索赔仓库",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pc3FORzFtZDhURkRHUURBX0RFS3k5dVVUU0QxYV9Ec01pdGRXMFFDN3B0SVF5VGxPX1ZvYVJIWUh1eVExVEwzQXNZb3NhdzBkN3ozTGZvY3lKV1pfbS1xdXBvZFRLYTNoR3k1UmVYNXQ?oc=5",
+      "summary": "落基山护理公司在勒索软件攻击后披露数据泄露 索赔仓库",
+      "publishedAt": "2026-03-29T03:26:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-03-30T00:53:13.432Z"
+  }
+}

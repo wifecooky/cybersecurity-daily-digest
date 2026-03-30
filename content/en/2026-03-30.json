@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-30",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "9ab21c74b9f88f9195f5884a7b7fd9c8e475c5924142b4f9fc1f2c290366d991",
+      "source": "BleepingComputer",
+      "title": "FBI confirms hack of Director Patel's personal email inbox",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
+      "publishedAt": "2026-03-29T21:09:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1
+      ],
+      "reason": "High-profile target breach",
+      "suggestedTitle": "FBI Director's Email Breached by Iranian-Linked Hackers",
+      "suggestedSummary": "The personal email account of FBI Director Patel has been breached by the Handala hackers, a group associated with Iran. This compromise highlights the ongoing threat posed by nation-state actors targeting high-profile individuals. Security teams should review email security protocols and consider additional protective measures for executives and high-value targets.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "1c6ebb88c1560b70ea40104640da61748f7519c16d8f2bc5e1819d60b73c622f",
+      "source": "Google News Security",
+      "title": "Data breach at US insurance firm may have exposed personal data of 7,400 people - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3NoR1lERWU4Q3VqQTJ5MWJPTWY1bkc3SnVGRmxlWGYtRVlPblRudXNiYVlUZU5NR3kwcW9vTHdwQS1taWxGS1JMVGpoMC1IWEJvdk1jS0xRMS1YeVNIUTVodC1MWXphbHVZWGVLQU5la09IQUlHNkFnTklhZ2RtT18tVVlVZ19OOFljbS1TbnozTDZXaTRra2szaFI3YlVmcWt5bDFoTExHaXdXdE5OcEJ3?oc=5",
+      "summary": "Data breach at US insurance firm may have exposed personal data of 7,400 people  Cybernews",
+      "publishedAt": "2026-03-29T10:49:12.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "Sensitive data exposure",
+      "suggestedTitle": "US Insurance Firm Data Breach Exposes Personal Information",
+      "suggestedSummary": "A data breach at a US insurance firm has potentially exposed the personal data of 7,400 individuals. The breach involved sensitive information such as Social Security numbers, increasing the risk of identity theft. Security teams should ensure robust data protection measures are in place and monitor for any signs of compromised information being used maliciously.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "df7c03010700ac3622a6a4cef4da7de94cae146ab247c410dee81403163049d1",
+      "source": "Google News Security",
+      "title": "SCDCA: Kaplan North America LLC data breach potentially impacts 26,000+ South Carolinians - WLTX",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3E0blVXc1ptbXJCQklqZHBhU3FtRXBYMmVBajdsOUU1aWUydFVrbjVla0phU2NjemhMelRhQUtKSjFfODNqcV9renA4dUNxbk1reWRlZU5lNVFVLUJMRjZQYno2WGw5bmJXM3hwbHBLQ2VzZzk1RGJTdFA1VGdpZTNYQUZXcklYMkZBZ0FsLXd0cEh0LXBaaEt3aDFwOHRGRzR1Ry1FeWtiUlhaSVhlaTZmczlhNWFlV205Z2dNbzhnSFpzUHFYdlRnbHY?oc=5",
+      "summary": "SCDCA: Kaplan North America LLC data breach potentially impacts 26,000+ South Carolinians  WLTX",
+      "publishedAt": "2026-03-29T20:20:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f7586b45397bb49c14cccb80155050efbcd3e09464c5a00c3cfa885cca8f67dd",
+      "source": "BleepingComputer",
+      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+      "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
+      "publishedAt": "2026-03-29T14:38:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8403a4c4f545d4223c24cf96e072f73622eabe2993de2ebfd8a148ff9e530163",
+      "source": "Google News Security",
+      "title": "Thousands of Corewell Health patients impacted by 2024 data breach - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVJDUTNEaGZEY0M2SENFc0ZwQUpBckJUay1yUVFtcEl6UFd3TmtLZzBqV1JGM1JhMjQ4RUJHTmh2cDFtR09OOEdUcFIxbmtseG91Z0otZk1wM1I0SVM0ZmlZY19LcUt0REd3ZEthNmZoMTNHaS15VDc3TklrUGRoc0lEYk9xNnBnSm1J?oc=5",
+      "summary": "Thousands of Corewell Health patients impacted by 2024 data breach  CBS News",
+      "publishedAt": "2026-03-29T02:16:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "817a9d0aa50c8c4d7a2d07a73e3846c0f3395b0adc84af64d1b4c0367e35d3c8",
+      "source": "Google News Security",
+      "title": "Rocky Mountain Care Discloses Data Breach Following Ransomware Attack - Claim Depot",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pc3FORzFtZDhURkRHUURBX0RFS3k5dVVUU0QxYV9Ec01pdGRXMFFDN3B0SVF5VGxPX1ZvYVJIWUh1eVExVEwzQXNZb3NhdzBkN3ozTGZvY3lKV1pfbS1xdXBvZFRLYTNoR3k1UmVYNXQ?oc=5",
+      "summary": "Rocky Mountain Care Discloses Data Breach Following Ransomware Attack  Claim Depot",
+      "publishedAt": "2026-03-29T03:26:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-03-30T00:53:10.728Z"
+  }
+}
