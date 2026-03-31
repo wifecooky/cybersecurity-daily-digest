@@ -1,0 +1,133 @@
+{
+  "date": "2026-03-31",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "5c2a6b4ca9d755fe65291a2360990184c225efefec1c031a52d75101065d61e8",
+      "source": "BleepingComputer",
+      "title": "欧州委員会、Europa.euのハッキングによるデータ侵害を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+      "summary": "欧州委員会は、ShinyHuntersという恐喝グループによるサイバー攻撃でEuropa.euウェブプラットフォームがハッキングされた後、データ侵害が発生したことを確認しました。[...]",
+      "publishedAt": "2026-03-30T06:42:58.000Z",
+      "score": 48,
+      "relatedCount": 6,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach with potential widespread impact",
+      "suggestedTitle": "欧州委員会のデータ侵害：ShinyHuntersの攻撃が確認される",
+      "suggestedSummary": "欧州委員会は、ShinyHuntersグループによるEuropa.euプラットフォームへのサイバー攻撃の後、データ侵害が発生したことを確認しました。この侵害は、複数のシステムやユーザーに影響を及ぼす可能性のある機密データへの不正アクセスを伴っていました。高名な組織を標的にすることで知られるShinyHuntersが責任を主張しています。セキュリティチームは、同様の脅威への露出を評価し、リスクを軽減するために外部に接続するシステムの監視を強化する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6e5b260fa9a9e92acb50e830523157a95a389bd935f967866edb9de96e2fa727",
+      "source": "BleepingComputer",
+      "title": "攻撃で悪用されているFortinet FortiClient EMSの重大な脆弱性",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
+      "summary": "脅威インテリジェンス企業Defusedによると、攻撃者がFortinetのFortiClient EMSプラットフォームにおける重大な脆弱性を積極的に悪用していることが判明しました。",
+      "publishedAt": "2026-03-30T07:48:17.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        7,
+        24
+      ],
+      "reason": "Critical vulnerability actively exploited",
+      "suggestedTitle": "Fortinet FortiClient EMSの脆弱性が悪用：即時のパッチ適用が必要",
+      "suggestedSummary": "FortinetのFortiClient EMSプラットフォームにおける重大な脆弱性（CVE-2026-21643）が積極的に悪用されています。この脆弱性により、攻撃者は任意のコードをリモートで実行することが可能となり、脆弱なバージョンを使用している組織に深刻なリスクをもたらします。この脆弱性の悪用は、潜在的な侵害を防ぐために、即時のパッチ適用とセキュリティ設定の見直しの必要性を強調しています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ea0069560051a7f6e5ffc9e8eaada17333ea8cd1db1cc525c0ba22f32990be87",
+      "source": "BleepingComputer",
+      "title": "重大なCitrix NetScalerのメモリ脆弱性が攻撃で積極的に悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
+      "summary": "ハッカーは、Citrix NetScaler ADCおよびNetScaler Gatewayアプライアンスにおける重大な脆弱性（CVE-2026-3055として追跡）を悪用して、機密データを取得しています。 [...]",
+      "publishedAt": "2026-03-30T18:28:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        52,
+        92
+      ],
+      "reason": "Critical Citrix vulnerability with active exploitation",
+      "suggestedTitle": "Citrix NetScalerのCVE-2026-3055が悪用される：今すぐパッチを適用",
+      "suggestedSummary": "ハッカーは、Citrix NetScalerの重大な脆弱性（CVE-2026-3055として追跡）を悪用しており、これにより不正なリモートコード実行が可能になります。この脆弱性は複数のバージョンのCitrix NetScalerに影響を与えるため、即時のパッチ適用が必要です。セキュリティチームは、影響を受けるシステムの更新を優先し、悪用を防ぐために異常な活動を監視する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a3ab4c6312036a8deff468de54aaaf0970a17a522dc76b2c135e56a9730d1243",
+      "source": "BleepingComputer",
+      "title": "医療技術企業CareCloud、ハッカーによる患者データの窃盗を発表",
+      "url": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
+      "summary": "医療IT企業CareCloudは、機密データが漏洩し、約8時間にわたるネットワーク障害を引き起こしたデータ侵害事件を公表しました。",
+      "publishedAt": "2026-03-30T21:44:31.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "39ccfacf07fb59a7fa23ffa7a03265ffa9051f32472ba23af258f1dd9d44b962",
+      "source": "BleepingComputer",
+      "title": "新たなRoadK1ll WebSocketインプラントが侵害されたネットワーク上でのピボットに使用される",
+      "url": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+      "summary": "新たに特定された悪意のあるインプラント「RoadK1ll」は、脅威アクターが侵害されたホストからネットワーク上の他のシステムへ静かに移動することを可能にしています。[...]",
+      "publishedAt": "2026-03-30T20:49:22.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5f3e8c3f6bed20bbca717228fded2afd55d6d69b38c037a10eb8ce205a60082b",
+      "source": "Dark Reading",
+      "title": "AI搭載の「DeepLoad」マルウェアが資格情報を盗み、検出を回避",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection",
+      "summary": "セキュリティスキャンからマルウェアのロジックを隠す大量のジャンクコードは、ほぼ確実にAIによって生成されたと研究者は述べています。",
+      "publishedAt": "2026-03-30T21:25:02.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e60ff5a5763f48676355859c547272d7bc2fbf4f8831b0fd5ff03c0da3ecf2dd",
+      "source": "The Hacker News",
+      "title": "OpenAI、ChatGPTのデータ流出の脆弱性とCodex GitHubトークンの脆弱性を修正",
+      "url": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+      "summary": "Check Pointの新たな調査によると、OpenAIのChatGPTにおける以前は知られていなかった脆弱性により、ユーザーの知らないうちに、または同意なしに、機密会話データが流出する可能性があった。サイバーセキュリティ企業は、「単一の悪意のあるプロンプトが、通常の会話を秘密のデータ流出チャネルに変え、ユーザーメッセージ、アップロードされたファイル、その他の機密コンテンツを漏洩させる可能性がある」と述べた。",
+      "publishedAt": "2026-03-30T18:05:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "249ead1f82dba14c018bc0a10d5f6c8276da9051a5a9ed8b73fa0ff9ff6dad5e",
+      "source": "Dark Reading",
+      "title": "F5 BIG-IPの脆弱性がRCEとして再分類され、悪用されている",
+      "url": "https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation",
+      "summary": "CVE-2025-53521は当初、10月に高深刻度のサービス拒否（DoS）欠陥として公開されましたが、新しい情報により、このバグが実際にははるかに危険であることが明らかになりました。",
+      "publishedAt": "2026-03-30T18:24:02.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-03-31T00:50:36.933Z"
+  }
+}
