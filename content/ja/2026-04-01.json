@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-01",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "72c1c1b37e90d474b1c2d404942470ed66c93e84b490b969b92a31ac1c556b64",
+      "source": "Dark Reading",
+      "title": "Axios NPMパッケージが精密攻撃で侵害される",
+      "url": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
+      "summary": "人気のJavaScript HTTPクライアントライブラリであるAxiosのNPMパッケージが今週一時的に侵害され、北朝鮮の脅威アクターによる可能性があります。",
+      "publishedAt": "2026-03-31T20:55:13.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        2,
+        3
+      ],
+      "reason": "Supply chain attack on popular NPM package",
+      "suggestedTitle": "Axios NPMパッケージが侵害される：サプライチェーンの脅威",
+      "suggestedSummary": "広く使用されているJavaScript HTTPクライアントであるAxiosのNPMパッケージが、精密なサプライチェーン攻撃で侵害されました。ハッカーはnpmアカウントを乗っ取り、クロスプラットフォームのマルウェアを配布し、毎週1億以上のダウンロードに影響を与える可能性があります。この事件は、サプライチェーンのセキュリティ対策の重要性と、第三者の依存関係の継続的な監視が不正なコード実行やデータ侵害を防ぐために必要であることを強調しています。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d223485e6b06fbdc2c5ffffef208d2d1174587beba1e335710d7ea6cf1b041de",
+      "source": "BleepingComputer",
+      "title": "Trivyに関連した開発環境の侵害でCiscoのソースコードが盗まれる",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "summary": "Ciscoは、最近のTrivyサプライチェーン攻撃から盗まれた認証情報を使用して、内部開発環境に侵入し、同社およびその顧客に属するソースコードを盗んだ脅威アクターによるサイバー攻撃を受けました。 [...]",
+      "publishedAt": "2026-03-31T17:53:04.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        11
+      ],
+      "reason": "Source code theft impacts Cisco's security",
+      "suggestedTitle": "Trivyエクスプロイトに関連したCiscoのソースコード侵害",
+      "suggestedSummary": "Ciscoは、Trivy関連のインシデントから盗まれた認証情報を悪用し、開発環境にアクセスしてソースコードを盗んだ脅威アクターによるセキュリティ侵害を報告しました。この侵害は、開発者環境の脆弱性と厳格なアクセス制御および監視の必要性を浮き彫りにしています。組織は、同様のリスクを軽減するために、認証情報管理やサードパーティツールに関するセキュリティ対策を見直すべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6e254609c937d43c053a61ac2d0047eb2e33f97ccff753462e0f167cefe437d0",
+      "source": "The Hacker News",
+      "title": "TrueConfのゼロデイが東南アジアの政府ネットワークへの攻撃で悪用される",
+      "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "TrueConfクライアントビデオ会議ソフトウェアの高深刻度のセキュリティ欠陥が、TrueChaosと呼ばれるキャンペーンの一環として、東南アジアの政府機関を標的にしたゼロデイ攻撃で野放しに悪用されています。問題の脆弱性はCVE-2026-3502（CVSSスコア：7.8）で、アプリケーションの更新コードを取得する際に整合性チェックが欠如しており、攻撃者が改ざんされた更新を配布することを可能にします。",
+      "publishedAt": "2026-03-31T16:03:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        35,
+        37
+      ],
+      "reason": "APT activity exploiting zero-day vulnerabilities",
+      "suggestedTitle": "TrueConfのゼロデイがイランのAPTによって悪用される",
+      "suggestedSummary": "TrueConfビデオ会議ソフトウェアの高深刻度のゼロデイ脆弱性が、イランのAPTグループによって東南アジアの政府ネットワークを標的に悪用されています。この悪用には擬似ランサムウェア戦術が含まれており、国家支援とサイバー犯罪活動の境界を曖昧にしています。セキュリティチームはこの脆弱性のパッチを優先し、これらのAPT活動に関連する妥協の指標の監視を強化するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f1935bee38e7c39717b02458bceb4d37e3665d148e6933b17f0b3901011206d1",
+      "source": "Dark Reading",
+      "title": "GoogleのVertex AIに過剰な特権の問題",
+      "url": "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem",
+      "summary": "パロアルトの研究者たちは、攻撃者がGoogleのVertex AI上のAIエージェントをどのように悪用してデータを盗み、制限されたクラウドインフラに侵入することができるかを示しています。",
+      "publishedAt": "2026-03-31T20:26:33.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "39c1886f559145c6444ee97a84cd9983734a5b1e4a2ee982f0e487120bc30412",
+      "source": "BleepingComputer",
+      "title": "Claude AI、ファイルを開くとトリガーされるVimとEmacsのRCEバグを発見",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "summary": "Claudeアシスタントを使用した簡単なプロンプトで発見されたVimとGNU Emacsテキストエディタの脆弱性により、ファイルを開くだけでリモートコード実行が可能になります。[...]",
+      "publishedAt": "2026-03-31T21:45:14.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cc24693631cf351ad14b79f881a873b7b8f01ad3a200fdeab27e2cdaf102df4a",
+      "source": "BleepingComputer",
+      "title": "CISA、連邦政府に対し木曜日までに積極的に悪用されているCitrixの脆弱性を修正するよう命令",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、政府機関に対し、木曜日までに積極的に悪用されている脆弱性に対してCitrix NetScalerアプライアンスを修正するよう命じました。",
+      "publishedAt": "2026-03-31T07:05:25.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ddfdb778cb86896e1afa60650d0342e56d476372d23563fb045ec27a3857eed7",
+      "source": "Google News Security",
+      "title": "ロイズのデータセキュリティインシデントが45万人に影響 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTFQc2VuT2ZnWW5PSnYzbTVGUlZhanJlTWZ5cmNka01nV0hJNW5lcTdNNmxVU2ZhRVQ5d2ZDSVZwZ0EyY1pNTHNOdzNTSnZWajd4S0JVWmxpUzdLLTVnSUsySTVpLXloWElvNDJFWFFLT2FzbVdMZ0FyelhuOWp6ZVE2YXhvVDQwdHRQUDRRMNIBlAFBVV95cUxPLU5BNUpTdm9ReE9TeEVHTmhMZ2FMVl9rRW9KSmx0MUdoczBFZWZNeEdGQXpxZGdnMnZqUzZCVDg3QjhqeDJ5enlsSWVkX2tUdVpQMFJCd1A2MDRjMTd3Zl93aFZMQ2NUNTlETVo3YkRUemJLdGtkb0g5ekU5Zk1mRkZoQ3prcnp2VC11SVRKZy1aaHYy?oc=5",
+      "summary": "ロイズのデータセキュリティインシデントが45万人に影響を与える  SecurityWeek",
+      "publishedAt": "2026-03-31T10:07:40.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f3a00c60a167a72fd68fae868cb56ec73974b3131ae0d13a0303680d02d93074",
+      "source": "Google News Security (JP)",
+      "title": "Fortinet Forticlient EMSの重大な脆弱性、攻撃での悪用始まる：CVE-2026-21643 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUFFRlE0Q0dKV3VQU0RxckFTaDBXcXFab19wTE1sbFY5MUthUTVxajhfZl9QX1lXdlgzcjQxaW9YTTFpM3pTeTU3QUc5cVFWNExpWTkzLXVhbVN5bGFVWXE4TDl1dmhYTkpvOHZONWd0TENGS05BbGJRNTVDcXVzeVlmNGk?oc=5",
+      "summary": "Fortinet Forticlient EMSの重大な脆弱性、攻撃での悪用始まる：CVE-2026-21643 株式会社マキナレコード",
+      "publishedAt": "2026-03-31T01:53:32.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-01T00:56:16.860Z"
+  }
+}

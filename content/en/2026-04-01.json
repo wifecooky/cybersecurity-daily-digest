@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-01",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "72c1c1b37e90d474b1c2d404942470ed66c93e84b490b969b92a31ac1c556b64",
+      "source": "Dark Reading",
+      "title": "Axios NPM Package Compromised in Precision Attack",
+      "url": "https://www.darkreading.com/application-security/axios-npm-package-compromised-precision-attack",
+      "summary": "The NPM package for Axios, a popular JavaScript HTTP client library, was briefly compromised this week, possibly by North Korean threat actors.",
+      "publishedAt": "2026-03-31T20:55:13.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        2,
+        3
+      ],
+      "reason": "Supply chain attack on popular NPM package",
+      "suggestedTitle": "Axios NPM Package Compromised: Supply Chain Threat",
+      "suggestedSummary": "The Axios NPM package, a widely used JavaScript HTTP client, was compromised in a precision supply chain attack. Hackers hijacked the npm account to distribute cross-platform malware, potentially affecting over 100 million weekly downloads. This incident underscores the critical need for robust supply chain security measures and continuous monitoring of third-party dependencies to prevent unauthorized code execution and data breaches.",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d223485e6b06fbdc2c5ffffef208d2d1174587beba1e335710d7ea6cf1b041de",
+      "source": "BleepingComputer",
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
+      "publishedAt": "2026-03-31T17:53:04.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        11
+      ],
+      "reason": "Source code theft impacts Cisco's security",
+      "suggestedTitle": "Cisco Source Code Breach Linked to Trivy Exploit",
+      "suggestedSummary": "Cisco has reported a security breach where threat actors exploited stolen credentials from a Trivy-related incident to access and steal source code from its development environment. This breach highlights the vulnerabilities in developer environments and the need for stringent access controls and monitoring. Organizations should review their security practices around credential management and third-party tools to mitigate similar risks.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6e254609c937d43c053a61ac2d0047eb2e33f97ccff753462e0f167cefe437d0",
+      "source": "The Hacker News",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos.\nThe vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,",
+      "publishedAt": "2026-03-31T16:03:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        35,
+        37
+      ],
+      "reason": "APT activity exploiting zero-day vulnerabilities",
+      "suggestedTitle": "TrueConf Zero-Day Exploited by Iranian APTs",
+      "suggestedSummary": "A high-severity zero-day vulnerability in TrueConf video conferencing software has been exploited by Iranian APT groups targeting Southeast Asian government networks. This exploitation involves pseudo-ransomware tactics, blurring the lines between state-sponsored and cybercriminal activities. Security teams should prioritize patching this vulnerability and enhance monitoring for indicators of compromise related to these APT activities.",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f1935bee38e7c39717b02458bceb4d37e3665d148e6933b17f0b3901011206d1",
+      "source": "Dark Reading",
+      "title": "Google's Vertex AI Has an Over-Privileged Problem",
+      "url": "https://www.darkreading.com/cyber-risk/googles-vertex-ai-over-privilege-problem",
+      "summary": "Palo Alto researchers show how attackers could exploit AI agents on Google's Vertex AI to steal data and break into restricted cloud infrastructure.",
+      "publishedAt": "2026-03-31T20:26:33.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "39c1886f559145c6444ee97a84cd9983734a5b1e4a2ee982f0e487120bc30412",
+      "source": "BleepingComputer",
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+      "url": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
+      "publishedAt": "2026-03-31T21:45:14.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cc24693631cf351ad14b79f881a873b7b8f01ad3a200fdeab27e2cdaf102df4a",
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an actively exploited vulnerability by Thursday. [...]",
+      "publishedAt": "2026-03-31T07:05:25.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ddfdb778cb86896e1afa60650d0342e56d476372d23563fb045ec27a3857eed7",
+      "source": "Google News Security",
+      "title": "Lloyds Data Security Incident Impacts 450,000 Individuals - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTFQc2VuT2ZnWW5PSnYzbTVGUlZhanJlTWZ5cmNka01nV0hJNW5lcTdNNmxVU2ZhRVQ5d2ZDSVZwZ0EyY1pNTHNOdzNTSnZWajd4S0JVWmxpUzdLLTVnSUsySTVpLXloWElvNDJFWFFLT2FzbVdMZ0FyelhuOWp6ZVE2YXhvVDQwdHRQUDRRMNIBlAFBVV95cUxPLU5BNUpTdm9ReE9TeEVHTmhMZ2FMVl9rRW9KSmx0MUdoczBFZWZNeEdGQXpxZGdnMnZqUzZCVDg3QjhqeDJ5enlsSWVkX2tUdVpQMFJCd1A2MDRjMTd3Zl93aFZMQ2NUNTlETVo3YkRUemJLdGtkb0g5ekU5Zk1mRkZoQ3prcnp2VC11SVRKZy1aaHYy?oc=5",
+      "summary": "Lloyds Data Security Incident Impacts 450,000 Individuals  SecurityWeek",
+      "publishedAt": "2026-03-31T10:07:40.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f3a00c60a167a72fd68fae868cb56ec73974b3131ae0d13a0303680d02d93074",
+      "source": "Google News Security (JP)",
+      "title": "Fortinet Forticlient EMSの重大な脆弱性、攻撃での悪用始まる：CVE-2026-21643 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUFFRlE0Q0dKV3VQU0RxckFTaDBXcXFab19wTE1sbFY5MUthUTVxajhfZl9QX1lXdlgzcjQxaW9YTTFpM3pTeTU3QUc5cVFWNExpWTkzLXVhbVN5bGFVWXE4TDl1dmhYTkpvOHZONWd0TENGS05BbGJRNTVDcXVzeVlmNGk?oc=5",
+      "summary": "Fortinet Forticlient EMSの重大な脆弱性、攻撃での悪用始まる：CVE-2026-21643  株式会社マキナレコード",
+      "publishedAt": "2026-03-31T01:53:32.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-01T00:56:05.910Z"
+  }
+}
