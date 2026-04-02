@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-02",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "4edd9585828b20646ffcbc9360667be50815825ecec84c16e10b8126cb830206",
+      "source": "BleepingComputer",
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "summary": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
+      "publishedAt": "2026-04-01T21:35:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Active zero-day exploitation",
+      "suggestedTitle": "TrueConf and EvilTokens Zero-Day Exploits Emerge",
+      "suggestedSummary": "Hackers are exploiting a zero-day vulnerability in TrueConf conference servers, allowing them to push malicious software updates. Concurrently, a new malicious kit named EvilTokens is enabling device code phishing attacks targeting Microsoft services. These developments underline the critical need for immediate patching and enhanced monitoring of network traffic to prevent unauthorized access. Organizations using TrueConf and Microsoft services should prioritize these updates to mitigate risks.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7a7bb6c03b07b3c9e4b3b69605b5d3219f9a3a5c8091f89b58265c31d6f53938",
+      "source": "Google News Security",
+      "title": "OK Tax Commission at center of massive data breach - KFOR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTlXQmROSXdmUFNzbm9CYkRFTTQ1enYxaVN3TW1sdkozSUdUeV9uWEIyanE2WEtKQVZmYUJ6VHJEcUcwemc1dEZRODljTXJjSjN6QmY3MnhiTDU0OGZZSkZSQzU3RE5PbkFTcUx2SmN5WW0tYUxja0E0WUx6cEhyd29KTW5XUdIBiwFBVV95cUxQYnFrbkV4enlxZXg3RHg5cEI5VWtzU0JPRERIdWNheVhxdjN2ekplMnAxdjk2M1k5N1BuOEFnR0Y3dmNLb09pLWZsWW44Ql91TzBYVzBpTmpLZHZPcXdnaFQ4SkxEMDFCcnBEVU11X2RocC1naFlkVzd2eEpDLXROTkFMeDBiNUJXcDN3?oc=5",
+      "summary": "OK Tax Commission at center of massive data breach  KFOR",
+      "publishedAt": "2026-04-01T22:15:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        18
+      ],
+      "reason": "Major data breaches",
+      "suggestedTitle": "Oklahoma Tax Commission and Hasbro Hit by Data Breaches",
+      "suggestedSummary": "The Oklahoma Tax Commission has confirmed a massive data breach impacting taxpayer files, while Hasbro reports a cyberattack that will take weeks to recover from. These incidents highlight vulnerabilities in data storage and the potential for significant operational disruptions. Security teams should review data protection strategies and incident response plans to safeguard sensitive information and ensure rapid recovery from breaches.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8971f883ad0d7145a3f842787184658f3ff9d97904bac2a7949d26b01edae653",
+      "source": "Google News Security",
+      "title": "Nissan says stolen data came from third-party vendor after hacking group claims breach - The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pcDN4UlQycndSWnVQUnRlRl9fMHhVNkdSYm1vNUoxR0dTV0RnSVE4bExXUTdETFp6UUpyYmNuNW9hUEVsX3dQSkVMam0yWTVhM3ZCTkZOV3ZFMmFSTVFj?oc=5",
+      "summary": "Nissan says stolen data came from third-party vendor after hacking group claims breach  The Record from Recorded Future News",
+      "publishedAt": "2026-04-01T20:01:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "638e5f364de972fbdd20047f22366ebc211e5c81e56249c70756e6417e515fd8",
+      "source": "The Hacker News",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
+      "publishedAt": "2026-04-01T14:10:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c9c7c0394bbef83a7d72739e3c4c9f7778faabe1dc683eae92cbc754bf6d623b",
+      "source": "The Hacker News",
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard.\n\"Use-after-free in Dawn in Google Chrome prior",
+      "publishedAt": "2026-04-01T11:42:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ae27891d771986326b31ccb98a95dd9ae8d2e96c5e43ed24f2757ac7f2cf78e",
+      "source": "The Hacker News",
+      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement.\n\"North Korean",
+      "publishedAt": "2026-04-01T07:44:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-02T00:48:11.036Z"
+  }
+}

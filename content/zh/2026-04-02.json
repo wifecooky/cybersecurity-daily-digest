@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-02",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "4edd9585828b20646ffcbc9360667be50815825ecec84c16e10b8126cb830206",
+      "source": "BleepingComputer",
+      "title": "黑客利用TrueConf零日漏洞推送恶意软件更新",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "summary": "黑客已针对TrueConf会议服务器发动攻击，利用零日漏洞，使他们能够在所有连接的终端上执行任意文件。",
+      "publishedAt": "2026-04-01T21:35:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Active zero-day exploitation",
+      "suggestedTitle": "TrueConf和EvilTokens零日漏洞现身",
+      "suggestedSummary": "黑客正在利用TrueConf会议服务器中的零日漏洞，推送恶意软件更新。同时，一个名为EvilTokens的新恶意工具包正在启用针对微软服务的设备代码网络钓鱼攻击。这些发展强调了立即修补和加强网络流量监控以防止未经授权访问的关键需求。使用TrueConf和微软服务的组织应优先考虑这些更新以降低风险。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7a7bb6c03b07b3c9e4b3b69605b5d3219f9a3a5c8091f89b58265c31d6f53938",
+      "source": "Google News Security",
+      "title": "俄克拉荷马州税务委员会处于大规模数据泄露的中心 - KFOR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTlXQmROSXdmUFNzbm9CYkRFTTQ1enYxaVN3TW1sdkozSUdUeV9uWEIyanE2WEtKQVZmYUJ6VHJEcUcwemc1dEZRODljTXJjSjN6QmY3MnhiTDU0OGZZSkZSQzU3RE5PbkFTcUx2SmN5WW0tYUxja0E0WUx6cEhyd29KTW5XUdIBiwFBVV95cUxQYnFrbkV4enlxZXg3RHg5cEI5VWtzU0JPRERIdWNheVhxdjN2ekplMnAxdjk2M1k5N1BuOEFnR0Y3dmNLb09pLWZsWW44Ql91TzBYVzBpTmpLZHZPcXdnaFQ4SkxEMDFCcnBEVU11X2RocC1naFlkVzd2eEpDLXROTkFMeDBiNUJXcDN3?oc=5",
+      "summary": "俄克拉荷马州税务委员会处于大规模数据泄露的中心  KFOR",
+      "publishedAt": "2026-04-01T22:15:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        18
+      ],
+      "reason": "Major data breaches",
+      "suggestedTitle": "俄克拉荷马州税务委员会和孩之宝遭遇数据泄露",
+      "suggestedSummary": "俄克拉荷马州税务委员会已确认发生大规模数据泄露，影响纳税人文件，而孩之宝报告称遭遇网络攻击，预计需要数周才能恢复。这些事件突显了数据存储中的漏洞以及可能导致的重大运营中断。安全团队应审查数据保护策略和事件响应计划，以保护敏感信息并确保从泄露中快速恢复。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8971f883ad0d7145a3f842787184658f3ff9d97904bac2a7949d26b01edae653",
+      "source": "Google News Security",
+      "title": "日产称被盗数据来自第三方供应商，黑客组织声称入侵 - 来自Recorded Future News的报道",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pcDN4UlQycndSWnVQUnRlRl9fMHhVNkdSYm1vNUoxR0dTV0RnSVE4bExXUTdETFp6UUpyYmNuNW9hUEVsX3dQSkVMam0yWTVhM3ZCTkZOV3ZFMmFSTVFj?oc=5",
+      "summary": "日产称被盗数据来自第三方供应商，黑客组织声称入侵 - 来自Recorded Future News的报道",
+      "publishedAt": "2026-04-01T20:01:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "638e5f364de972fbdd20047f22366ebc211e5c81e56249c70756e6417e515fd8",
+      "source": "The Hacker News",
+      "title": "微软警告通过UAC绕过的WhatsApp传递VBS恶意软件劫持Windows",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "微软正在关注一项新活动，该活动利用WhatsApp消息分发恶意Visual Basic脚本（VBS）文件。该活动始于2026年2月底，利用这些脚本启动多阶段感染链，以建立持久性并启用远程访问。目前尚不清楚威胁行为者使用了什么诱饵来欺骗用户。",
+      "publishedAt": "2026-04-01T14:10:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c9c7c0394bbef83a7d72739e3c4c9f7778faabe1dc683eae92cbc754bf6d623b",
+      "source": "The Hacker News",
+      "title": "新的 Chrome 零日漏洞 CVE-2026-5281 正在被积极利用 — 补丁已发布",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "谷歌周四发布了 Chrome 浏览器的安全更新，以解决 21 个漏洞，其中包括一个零日漏洞，谷歌称该漏洞已在野外被利用。该高危漏洞 CVE-2026-5281（CVSS 评分：N/A）涉及 Dawn 中的一个“释放后重用”漏洞，Dawn 是 WebGPU 标准的一个开源跨平台实现。",
+      "publishedAt": "2026-04-01T11:42:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ae27891d771986326b31ccb98a95dd9ae8d2e96c5e43ed24f2757ac7f2cf78e",
+      "source": "The Hacker News",
+      "title": "谷歌将Axios npm供应链攻击归因于朝鲜组织UNC1069",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "谷歌正式将流行的Axios npm软件包的供应链妥协归因于一个以经济利益为动机的朝鲜威胁活动集群，该集群被追踪为UNC1069。谷歌威胁情报小组（GTIG）的首席分析师John Hultquist在给《黑客新闻》的声明中表示：“我们已将此次攻击归因于我们追踪的一个疑似朝鲜威胁行为者UNC1069。”",
+      "publishedAt": "2026-04-01T07:44:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-02T00:48:15.738Z"
+  }
+}

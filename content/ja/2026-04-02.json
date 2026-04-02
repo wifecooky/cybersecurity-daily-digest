@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-02",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "4edd9585828b20646ffcbc9360667be50815825ecec84c16e10b8126cb830206",
+      "source": "BleepingComputer",
+      "title": "ハッカーがTrueConfのゼロデイを悪用して悪意のあるソフトウェア更新を配信",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "summary": "ハッカーは、ゼロデイ脆弱性を悪用した攻撃でTrueConf会議サーバーを標的にし、接続されたすべてのエンドポイントで任意のファイルを実行できるようにしています。[...]",
+      "publishedAt": "2026-04-01T21:35:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Active zero-day exploitation",
+      "suggestedTitle": "TrueConfとEvilTokensのゼロデイ脆弱性が浮上",
+      "suggestedSummary": "ハッカーは、TrueConf会議サーバーのゼロデイ脆弱性を悪用し、悪意のあるソフトウェア更新を配信しています。同時に、EvilTokensと名付けられた新しい悪意のあるキットが、Microsoftサービスを標的としたデバイスコードフィッシング攻撃を可能にしています。これらの事態は、未承認のアクセスを防ぐために、即時のパッチ適用とネットワークトラフィックの強化された監視の重要性を強調しています。TrueConfおよびMicrosoftサービスを使用している組織は、リスクを軽減するためにこれらの更新を優先する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7a7bb6c03b07b3c9e4b3b69605b5d3219f9a3a5c8091f89b58265c31d6f53938",
+      "source": "Google News Security",
+      "title": "OK税務委員会、大規模なデータ漏洩の中心に - KFOR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTlXQmROSXdmUFNzbm9CYkRFTTQ1enYxaVN3TW1sdkozSUdUeV9uWEIyanE2WEtKQVZmYUJ6VHJEcUcwemc1dEZRODljTXJjSjN6QmY3MnhiTDU0OGZZSkZSQzU3RE5PbkFTcUx2SmN5WW0tYUxja0E0WUx6cEhyd29KTW5XUdIBiwFBVV95cUxQYnFrbkV4enlxZXg3RHg5cEI5VWtzU0JPRERIdWNheVhxdjN2ekplMnAxdjk2M1k5N1BuOEFnR0Y3dmNLb09pLWZsWW44Ql91TzBYVzBpTmpLZHZPcXdnaFQ4SkxEMDFCcnBEVU11X2RocC1naFlkVzd2eEpDLXROTkFMeDBiNUJXcDN3?oc=5",
+      "summary": "OK税務委員会、大規模なデータ漏洩の中心に  KFOR",
+      "publishedAt": "2026-04-01T22:15:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        18
+      ],
+      "reason": "Major data breaches",
+      "suggestedTitle": "オクラホマ税務委員会とハズブロ、データ漏洩に見舞われる",
+      "suggestedSummary": "オクラホマ税務委員会は納税者ファイルに影響を与える大規模なデータ漏洩を確認し、ハズブロは数週間の復旧を要するサイバー攻撃を報告しました。これらの事件は、データ保存の脆弱性と重大な業務中断の可能性を浮き彫りにしています。セキュリティチームは、機密情報を保護し、漏洩から迅速に回復するために、データ保護戦略とインシデント対応計画を見直すべきです。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8971f883ad0d7145a3f842787184658f3ff9d97904bac2a7949d26b01edae653",
+      "source": "Google News Security",
+      "title": "日産、ハッキンググループが侵害を主張した後、盗まれたデータは第三者ベンダーからのものと発表",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pcDN4UlQycndSWnVQUnRlRl9fMHhVNkdSYm1vNUoxR0dTV0RnSVE4bExXUTdETFp6UUpyYmNuNW9hUEVsX3dQSkVMam0yWTVhM3ZCTkZOV3ZFMmFSTVFj?oc=5",
+      "summary": "日産、ハッキンググループが侵害を主張した後、盗まれたデータは第三者ベンダーからのものと発表 - Recorded Future NewsのThe Record",
+      "publishedAt": "2026-04-01T20:01:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "638e5f364de972fbdd20047f22366ebc211e5c81e56249c70756e6417e515fd8",
+      "source": "The Hacker News",
+      "title": "マイクロソフト、UACバイパスを通じてWindowsをハイジャックするWhatsApp配信のVBSマルウェアを警告",
+      "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "マイクロソフトは、WhatsAppメッセージを利用して悪意のあるVisual Basic Script (VBS)ファイルを配布する新たなキャンペーンに注目しています。この活動は2026年2月下旬に始まり、これらのスクリプトを利用して持続性を確立し、リモートアクセスを可能にするための多段階感染チェーンを開始します。脅威アクターがユーザーを騙すためにどのような手口を使用しているかは現在不明です。",
+      "publishedAt": "2026-04-01T14:10:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c9c7c0394bbef83a7d72739e3c4c9f7778faabe1dc683eae92cbc754bf6d623b",
+      "source": "The Hacker News",
+      "title": "新たなChromeゼロデイCVE-2026-5281が活発に悪用中 — パッチがリリースされる",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "Googleは木曜日に、21件の脆弱性に対処するためのChromeウェブブラウザのセキュリティアップデートをリリースしました。その中には、実際に悪用されているとされるゼロデイの欠陥も含まれています。高深刻度の脆弱性であるCVE-2026-5281（CVSSスコア: N/A）は、WebGPU標準のオープンソースかつクロスプラットフォームの実装であるDawnにおける、解放後使用のバグに関するものです。「Google ChromeのDawnにおける解放後使用は、以前のバージョンでは...",
+      "publishedAt": "2026-04-01T11:42:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ae27891d771986326b31ccb98a95dd9ae8d2e96c5e43ed24f2757ac7f2cf78e",
+      "source": "The Hacker News",
+      "title": "Google、Axios npm サプライチェーン攻撃を北朝鮮グループ UNC1069 に帰属",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "summary": "Google は、人気のある Axios npm パッケージのサプライチェーン妥協を、UNC1069 として追跡される金銭的動機を持つ北朝鮮の脅威活動クラスターに正式に帰属させました。「我々は、この攻撃を UNC1069 として追跡している北朝鮮の脅威アクターに帰属させました」と、Google 脅威インテリジェンスグループ (GTIG) の主任アナリストであるジョン・ハルトクイストは The Hacker News に声明で述べました。",
+      "publishedAt": "2026-04-01T07:44:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-02T00:48:21.493Z"
+  }
+}
