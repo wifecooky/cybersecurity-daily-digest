@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-03",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "33d2da77d4b7db17d61426e79592f1849dd604035b7912e1ddc02dfce5a71619",
+      "source": "The Hacker News",
+      "title": "ハッカーがCVE-2025-55182を悪用して766のNext.jsホストを侵害し、資格情報を盗む",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "summary": "大規模な資格情報収集作戦が、React2Shell脆弱性を初期感染ベクターとして悪用し、データベースの資格情報、SSH秘密鍵、Amazon Web Services (AWS) の秘密情報、シェルコマンド履歴、Stripe APIキー、GitHubトークンを大規模に盗むことが観測されました。Cisco Talosは、この作戦を追跡している脅威クラスターに帰属させています。",
+      "publishedAt": "2026-04-02T19:30:00.000Z",
+      "score": 39,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Credential theft and financial loss",
+      "suggestedTitle": "React2Shellエクスプロイトが重大な侵害と損失を引き起こす",
+      "suggestedSummary": "大規模な資格情報収集作戦が、React2Shell脆弱性（CVE-2025-55182）を悪用して766のNext.jsホストを侵害し、重大な資格情報の盗難を引き起こしていることが観測されました。同時に、Drift Protocolは攻撃者がそのセキュリティ評議会の権限を掌握した後、2億8千万ドルの損失を被りました。これらの事件は、脆弱なシステムの即時パッチ適用と、金融プロトコルの不正アクセスと財務損失を防ぐための監視強化の重要性を浮き彫りにしています。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2b3bc2bc01f78a5278d8fb93c4133c4606f175a93306e37399b55e9471137184",
+      "source": "The Hacker News",
+      "title": "Cisco、リモートシステムの侵害を可能にするIMCおよびSSMの脆弱性を修正、CVSSスコア9.8",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Ciscoは、統合管理コントローラー（IMC）の重大なセキュリティ欠陥に対処するための更新をリリースしました。この脆弱性が悪用されると、認証されていないリモート攻撃者が認証を回避し、システムに高い権限でアクセスすることが可能になります。この脆弱性はCVE-2026-20093として追跡されており、CVSSスコアは最大10.0のうち9.8です。",
+      "publishedAt": "2026-04-02T15:21:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "70b022c12a8ceeca319b7bd8ca5b95c0d832577fb3931e2b5bca19b8d9f23d70",
+      "source": "Dark Reading",
+      "title": "地政学、AI、サイバーセキュリティ：RSAC 2026からの洞察",
+      "url": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
+      "summary": "AIによる脅威、世界的なリーダーシップの変化、急速に進化する環境におけるサイバーセキュリティの未来が、RSAC 2026カンファレンスでの議論の主題となりました。",
+      "publishedAt": "2026-04-02T21:14:27.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dd6ad265f0ad0995f0a3e8cca7a61959a059e0975c907a2c7adca95806ccbcd",
+      "source": "Dark Reading",
+      "title": "セキュリティ責任者がAIに全力投球する理由",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+      "summary": "CISOたちはAIに対して強気であり、将来のツール導入に大きな計画を持っています。RedditのCISOであるフレデリック・リー氏と、著名なアナリストのデイブ・グルーバー氏に、AIが現実世界でどのように機能しているか、そしてその将来の可能性について話を聞きました。",
+      "publishedAt": "2026-04-02T19:12:45.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-03T00:50:45.295Z"
+  }
+}

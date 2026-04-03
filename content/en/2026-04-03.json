@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-03",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "33d2da77d4b7db17d61426e79592f1849dd604035b7912e1ddc02dfce5a71619",
+      "source": "The Hacker News",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "summary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at scale.\nCisco Talos has attributed the operation to a threat cluster it tracks as",
+      "publishedAt": "2026-04-02T19:30:00.000Z",
+      "score": 39,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Credential theft and financial loss",
+      "suggestedTitle": "React2Shell Exploit Leads to Major Breaches and Losses",
+      "suggestedSummary": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability (CVE-2025-55182) to breach 766 Next.js hosts, resulting in significant credential theft. Concurrently, the Drift Protocol has suffered a $280 million loss after attackers seized its Security Council powers. These incidents highlight the critical need for immediate patching of vulnerable systems and heightened monitoring of financial protocols to prevent unauthorized access and financial losses.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2b3bc2bc01f78a5278d8fb93c4133c4606f175a93306e37399b55e9471137184",
+      "source": "The Hacker News",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Cisco has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.\nThe vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"This",
+      "publishedAt": "2026-04-02T15:21:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "70b022c12a8ceeca319b7bd8ca5b95c0d832577fb3931e2b5bca19b8d9f23d70",
+      "source": "Dark Reading",
+      "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
+      "url": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
+      "summary": "AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
+      "publishedAt": "2026-04-02T21:14:27.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dd6ad265f0ad0995f0a3e8cca7a61959a059e0975c907a2c7adca95806ccbcd",
+      "source": "Dark Reading",
+      "title": "Security Bosses Are All-In on AI. Here's Why",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+      "summary": "CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
+      "publishedAt": "2026-04-02T19:12:45.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-03T00:50:35.016Z"
+  }
+}
