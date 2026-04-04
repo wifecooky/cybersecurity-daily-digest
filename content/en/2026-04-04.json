@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-04",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "6f9d9f22622650900ccea760988b5afbf269e19ca323e95ec3f85fe0c7960565",
+      "source": "BleepingComputer",
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]",
+      "publishedAt": "2026-04-03T06:33:34.000Z",
+      "score": 48,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major EU data breach impacts multiple entities",
+      "suggestedTitle": "European Commission Hack Exposes Data of 30 EU Entities",
+      "suggestedSummary": "The European Commission has suffered a significant data breach impacting 30 EU entities, attributed to a cloud misconfiguration. CERT-EU has linked the breach to the TeamPCP hacking group, exploiting vulnerabilities in the European Commission's cloud infrastructure. Security teams should review cloud configurations and ensure compliance with best practices to prevent similar breaches.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a53059d0d596b46b7114d330beb08479f658b13db183acf0ecfcbc52be63f135",
+      "source": "BleepingComputer",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
+      "publishedAt": "2026-04-03T17:41:11.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        10
+      ],
+      "reason": "Supply chain attack on popular npm package",
+      "suggestedTitle": "Axios npm Package Compromised via Social Engineering",
+      "suggestedSummary": "The Axios npm package maintainer confirmed a supply chain attack resulting from a successful social engineering campaign. Attackers gained access to the package, potentially impacting numerous projects relying on Axios. Security teams should audit dependencies and consider implementing stricter access controls and multi-factor authentication for maintainers to mitigate such risks.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4f3b193c9b90d4847d3a269ec80664c9020f4845c1f758a0aeaccd68c3294ce0",
+      "source": "Google News Security",
+      "title": "EU cyber agency attributes major data breach to TeamPCP hacking group - The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qcy0yMTRmWE1CT3RMV082RkNsdS1qX2FYU2RBajk5NU9pQlBqd253aEZMN1VXVTJRdWpIYVV5SGVrMkxDQnhqLWZtdHBwODFqZ1NHLU5qanpLS0VHeU1Ea3I4SzRKcEI4RThxVjlwU0w?oc=5",
+      "summary": "EU cyber agency attributes major data breach to TeamPCP hacking group  The Record from Recorded Future News",
+      "publishedAt": "2026-04-03T18:28:55.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "e6c4161f3fc90f61e3755991d30ccda9f1dcaa24c2682284d25a7215acb89588",
+      "source": "Google News Security",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3hKR0hVZFZIaFQ1bHc1OUFZQktUbU1xbDN6aU5sWElUOTFzNnNoMkZPbEFuTXdlZ0gyRFJINHpEenRpdzdfN1NCTTQ2QXN6RDh1UnVrSUFOZFdfQXZ2VkxndmRaYUFnalAtakc3SjJjazdpemF4dmdybGE2S3Q3R3Z4elhQb2UyVTVZY2tSZ3NZN1VzR0dDdlFfWFhMbmJRUUE5Ump2SkNUdmUydGVEWjNOZEptbXNjLXfSAb8BQVVfeXFMTmJ3X09SSEZadU1rZHV3YXRnbFFVaktKbmZrd0loWUF6a2U3LVZ5dE54TXlrams4aVI1SUNKOGJXTmhpTEdvSTU1NVlFTnZ3WDhwa2taN1Y5OU4zbEJ5VFo5UmFrVmkyOGpCcUR2bFhPX0pEVFpNc24xOEZSUGp1dEFDT0R6cUhXOW5PYWFoRzJkeWZyV0w4UmVsdER0SXVDOFp0Rm9aYXBtNndPbHZiaXVTOHFGcDJya2I3SFdIeEU?oc=5",
+      "summary": "Hims & Hers warns of data breach after Zendesk support ticket breach  BleepingComputer",
+      "publishedAt": "2026-04-03T17:41:11.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6312fdf619d69bb20528b2e74064b4f756c0fac20e0bacd2ab2a36942e2bea35",
+      "source": "BleepingComputer",
+      "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
+      "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
+      "publishedAt": "2026-04-03T20:40:22.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b638379ebae367a7fe832a67235e86bcf3a1f283cacacb60e71d6b2fa6aecb99",
+      "source": "Google News Security",
+      "title": "Nacogdoches Memorial Hospital Discloses Data Breach Impacting Over 257,000 - nationaltoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWHk0VUZyTXllR3QtcG5TRHdJNXo2Ulc4cVhUMUVpZGxtS18yWGtpa1NfY28zeEVKc1d0VXVsNng3d3QxdldpS3VNNnZoTTZmQjZySm45MHB5QmpmRGI1UlA5WW5IUzNOS1ZmR3l4WjRSSkszc19YT05NSTFCTjJMVjJra20tRjEwQlFONGhCcUxPUFpFZHZ5ZmdCdGluaWs2ZUJhQ2dhb2tCUFNlNHFnMDU5ZzMxdS1aVTBYVjFpUnRNaDJTQ2o3bm1xU0NkXzVJ?oc=5",
+      "summary": "Nacogdoches Memorial Hospital Discloses Data Breach Impacting Over 257,000  nationaltoday.com",
+      "publishedAt": "2026-04-03T22:40:59.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "021ee7b63cc08a4fd2e44a70b6aa7a031c22b51bcddc4a1a63f70c53830aca80",
+      "source": "The Hacker News",
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region.\nThe campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda.\n\"This TA416 activity included multiple",
+      "publishedAt": "2026-04-03T17:34:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-04T00:47:03.974Z"
+  }
+}

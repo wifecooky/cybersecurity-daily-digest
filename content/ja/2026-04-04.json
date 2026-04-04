@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-04",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "6f9d9f22622650900ccea760988b5afbf269e19ca323e95ec3f85fe0c7960565",
+      "source": "BleepingComputer",
+      "title": "CERT-EU: 欧州委員会のハッキングで30のEU機関のデータが露出",
+      "url": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "summary": "欧州連合のサイバーセキュリティサービス（CERT-EU）は、欧州委員会のクラウドハッキングをTeamPCP脅威グループに帰した。これにより、少なくとも他の29の連合機関のデータが露出したと述べている。 [...]",
+      "publishedAt": "2026-04-03T06:33:34.000Z",
+      "score": 48,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major EU data breach impacts multiple entities",
+      "suggestedTitle": "欧州委員会のハッキングで30のEU機関のデータが露出",
+      "suggestedSummary": "欧州委員会は、30のEU機関に影響を与える重大なデータ侵害を受けた。この侵害はクラウドの誤設定に起因するとされている。CERT-EUは、この侵害をTeamPCPハッキンググループに結び付けており、欧州委員会のクラウドインフラストラクチャの脆弱性を悪用している。セキュリティチームは、クラウドの設定を見直し、同様の侵害を防ぐためにベストプラクティスに準拠することを確認すべきである。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a53059d0d596b46b7114d330beb08479f658b13db183acf0ecfcbc52be63f135",
+      "source": "BleepingComputer",
+      "title": "Hims & Hers、Zendeskサポートチケットの侵害後のデータ侵害を警告",
+      "url": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "summary": "テレヘルスの大手企業Hims & Hers Healthは、第三者のカスタマーサービスプラットフォームからサポートチケットが盗まれた後、データ侵害が発生したと警告しています。",
+      "publishedAt": "2026-04-03T17:41:11.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        10
+      ],
+      "reason": "Supply chain attack on popular npm package",
+      "suggestedTitle": "Axios npmパッケージがソーシャルエンジニアリングで侵害",
+      "suggestedSummary": "Axios npmパッケージのメンテナーは、ソーシャルエンジニアリングキャンペーンが成功した結果としてサプライチェーン攻撃が発生したことを確認しました。攻撃者はパッケージにアクセスし、Axiosに依存する多数のプロジェクトに影響を与える可能性があります。セキュリティチームは依存関係を監査し、メンテナーに対してより厳格なアクセス制御と多要素認証を実施することを検討して、このようなリスクを軽減するべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4f3b193c9b90d4847d3a269ec80664c9020f4845c1f758a0aeaccd68c3294ce0",
+      "source": "Google News Security",
+      "title": "EUサイバー機関、主要なデータ侵害をTeamPCPハッキンググループに帰属 - Recorded Future NewsのThe Record",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Qcy0yMTRmWE1CT3RMV082RkNsdS1qX2FYU2RBajk5NU9pQlBqd253aEZMN1VXVTJRdWpIYVV5SGVrMkxDQnhqLWZtdHBwODFqZ1NHLU5qanpLS0VHeU1Ea3I4SzRKcEI4RThxVjlwU0w?oc=5",
+      "summary": "EUサイバー機関、主要なデータ侵害をTeamPCPハッキンググループに帰属 - Recorded Future NewsのThe Record",
+      "publishedAt": "2026-04-03T18:28:55.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "e6c4161f3fc90f61e3755991d30ccda9f1dcaa24c2682284d25a7215acb89588",
+      "source": "Google News Security",
+      "title": "Hims & Hers、Zendeskサポートチケットの侵害後にデータ侵害を警告 - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3hKR0hVZFZIaFQ1bHc1OUFZQktUbU1xbDN6aU5sWElUOTFzNnNoMkZPbEFuTXdlZ0gyRFJINHpEenRpdzdfN1NCTTQ2QXN6RDh1UnVrSUFOZFdfQXZ2VkxndmRaYUFnalAtakc3SjJjazdpemF4dmdybGE2S3Q3R3Z4elhQb2UyVTVZY2tSZ3NZN1VzR0dDdlFfWFhMbmJRUUE5Ump2SkNUdmUydGVEWjNOZEptbXNjLXfSAb8BQVVfeXFMTmJ3X09SSEZadU1rZHV3YXRnbFFVaktKbmZrd0loWUF6a2U3LVZ5dE54TXlrams4aVI1SUNKOGJXTmhpTEdvSTU1NVlFTnZ3WDhwa2taN1Y5OU4zbEJ5VFo5UmFrVmkyOGpCcUR2bFhPX0pEVFpNc24xOEZSUGp1dEFDT0R6cUhXOW5PYWFoRzJkeWZyV0w4UmVsdER0SXVDOFp0Rm9aYXBtNndPbHZiaXVTOHFGcDJya2I3SFdIeEU?oc=5",
+      "summary": "Hims & Hers、Zendeskサポートチケットの侵害後にデータ侵害を警告  BleepingComputer",
+      "publishedAt": "2026-04-03T17:41:11.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6312fdf619d69bb20528b2e74064b4f756c0fac20e0bacd2ab2a36942e2bea35",
+      "source": "BleepingComputer",
+      "title": "LinkedInが密かに6,000以上のChrome拡張機能をスキャンし、データを収集",
+      "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "summary": "「BrowserGate」と名付けられた新しい報告書によると、MicrosoftのLinkedInは、ウェブサイト上で隠されたJavaScriptスクリプトを使用して、訪問者のブラウザにインストールされた拡張機能をスキャンし、デバイスデータを収集していると警告しています。",
+      "publishedAt": "2026-04-03T20:40:22.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b638379ebae367a7fe832a67235e86bcf3a1f283cacacb60e71d6b2fa6aecb99",
+      "source": "Google News Security",
+      "title": "ナコドーチェス記念病院、25万7,000人以上に影響を及ぼすデータ侵害を公表 - nationaltoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWHk0VUZyTXllR3QtcG5TRHdJNXo2Ulc4cVhUMUVpZGxtS18yWGtpa1NfY28zeEVKc1d0VXVsNng3d3QxdldpS3VNNnZoTTZmQjZySm45MHB5QmpmRGI1UlA5WW5IUzNOS1ZmR3l4WjRSSkszc19YT05NSTFCTjJMVjJra20tRjEwQlFONGhCcUxPUFpFZHZ5ZmdCdGluaWs2ZUJhQ2dhb2tCUFNlNHFnMDU5ZzMxdS1aVTBYVjFpUnRNaDJTQ2o3bm1xU0NkXzVJ?oc=5",
+      "summary": "ナコドーチェス記念病院、25万7,000人以上に影響を及ぼすデータ侵害を公表 nationaltoday.com",
+      "publishedAt": "2026-04-03T22:40:59.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "021ee7b63cc08a4fd2e44a70b6aa7a031c22b51bcddc4a1a63f70c53830aca80",
+      "source": "The Hacker News",
+      "title": "中国関連のTA416がPlugXとOAuthベースのフィッシングで欧州政府を標的に",
+      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "summary": "中国に関連する脅威アクターが、2025年半ばから欧州の政府および外交機関を標的にしており、この地域での2年間の最小限の標的化を経て活動を再開しています。このキャンペーンは、DarkPeony、RedDelta、Red Lich、SmugX、UNC6384、Vertigo Pandaと重なる活動のクラスターであるTA416に帰属されています。「このTA416の活動には、複数の...",
+      "publishedAt": "2026-04-03T17:34:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-04T00:47:13.352Z"
+  }
+}
