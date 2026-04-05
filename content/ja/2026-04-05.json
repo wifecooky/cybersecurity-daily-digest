@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-05",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "d595dd46cecd2eeca88d879657d94d382bb9545d604c7eb3960de3cbe41acff9",
+      "source": "BleepingComputer",
+      "title": "Axios npmハック、偽のTeamsエラーフィックスを利用してメンテナーアカウントを乗っ取る",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "summary": "人気のあるAxios HTTPクライアントのメンテナーたちは、北朝鮮の脅威アクターによって行われたと考えられるソーシャルエンジニアリングキャンペーンの標的にされた開発者についての詳細な事後分析を公開しました。[...]",
+      "publishedAt": "2026-04-04T20:30:42.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Critical npm package hijack",
+      "suggestedTitle": "Axios npmハック：重大なサプライチェーンの危機",
+      "suggestedSummary": "Axios npmパッケージは、偽のMicrosoft Teamsエラーメッセージを含む洗練されたフィッシング攻撃を通じて侵害されました。これにより攻撃者はメンテナーのアカウントを乗っ取り、パッケージに悪意のあるコードを注入することができました。Axiosの人気を考慮すると、この事件はパッケージに依存する多数のプロジェクトに影響を及ぼす可能性があり、重大なサプライチェーンリスクをもたらします。セキュリティチームは依存関係の整合性を確認し、npmアカウントに多要素認証を導入することを検討すべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a726f2388cad844feac48bb80ba8702da0166e93497281763493c4922c0ed8a6",
+      "source": "Google News Security (CN)",
+      "title": "工信部緊急警告：iOS 13-17ユーザー注意！Appleデバイスに深刻なセキュリティ脅威 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHFHVDV0Y0xNODgtUm4wcGZUWlA1bHhTU2h3SGtaNjk4QVhKRDRzdVgzaHE4dWVzSVVCLXhXU2xUQ3kxdENuakZUbXNhRWhCZlRBT2p5dHFCSVFOWWRXU3J6NlRjQjJrT3hYVmNYeUJBcG4wU3BmQVIxaDlqU2NFSFp4eXlYWlptV01JNw?oc=5",
+      "summary": "工信部緊急警告：iOS 13-17ユーザー注意！Appleデバイスに深刻なセキュリティ脅威  搜狐网",
+      "publishedAt": "2026-04-04T20:17:25.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        10,
+        36
+      ],
+      "reason": "iOS zero-day vulnerabilities",
+      "suggestedTitle": "緊急iOSアップデート：ゼロデイ脆弱性が検出されました",
+      "suggestedSummary": "iOSバージョン13から17.2.1に影響を与える重大な脆弱性が確認され、実際に悪用されています。攻撃者はこの欠陥を利用して、SMS、メール、またはウェブページを通じてトロイの木馬を仕込み、写真やパスワードなどのユーザーデータを危険にさらす可能性があります。Appleの緊急パッチはこの問題に対処しており、リスクを軽減するためにユーザーは直ちにデバイスを更新することが強く推奨されます。セキュリティチームは、すべての企業デバイスが最新のiOSバージョンに更新されていることを確認する必要があります。",
+      "relatedSources": [
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f52560f2549a1e3d75bcf4bd343bd0404a2634199d1a038ce45f04c9274babd7",
+      "source": "Google News Security",
+      "title": "260万ドルのComplete Payroll Solutionsデータ侵害集団訴訟和解",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTERZQXZacThqZUcwbVZmbkI1NS1ZRVoxODFDdlJweVU5WkZNZHhkck9QemV5eE8tV2JpY3prV21ybDFLcmRmZEEyeXJlU3hZRHZMMzF1ZGVOd2hncEpmVEY1SS1rSExWMHVacGhqNWFYUVFEelEzOXNuVVFTSjVQYlJxZUhpS3ZLYjNDQ3dyZVhTZjhUb1ZDMHQwdElsdnd4V1JrbUhjaHduMkVHVGtONTRKcmJqMEZGbkdXdDB2OHJrWjB3aDJkYzhsaDNRbnVDUWtaRWhVTUE?oc=5",
+      "summary": "260万ドルのComplete Payroll Solutionsデータ侵害集団訴訟和解",
+      "publishedAt": "2026-04-04T22:39:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "281d24488e2c6fc543796679ce392b035d1cf9b5c7bbf9390eeb3a3c22175c68",
+      "source": "BleepingComputer",
+      "title": "新しいキットのオンライン拡散によりデバイスコードフィッシング攻撃が37倍に急増",
+      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+      "summary": "OAuth 2.0デバイス認証フローを悪用してアカウントを乗っ取るデバイスコードフィッシング攻撃が今年に入って37倍以上に急増しました。[...]",
+      "publishedAt": "2026-04-04T14:17:38.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "78bf4e8cd1e02c204da85594591b6612da80ce704b52123e8cb1e68da5c7d8fc",
+      "source": "Google News Security",
+      "title": "Qilinランサムウェアグループがドイツの政党ディ・リンケのハッキングを主張 - セキュリティアフェアーズ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU9zMHlLNUxQM19uZDJoSWZ2SUV6d1pRZ3NsX1d1bWliMVdfTUpNRnhVX2JaeXpEQS01VW5KNGo5dFoyWmhkUlIzQzc3azFfVDBPREVrVmlTTnZyWWh3amQ4WHhETC0xazl2SDdHak9Vb2lqM0xHVzZlbFVwMmtPblVrUjFLanY2cVZsRUd2c3lCelhIeFpGQnVyeXhOdFE4ZFUtLTFVYkZQZG44TTBlRGVGZ0NLNGlodllBY3ZEUEhSSjhl?oc=5",
+      "summary": "Qilinランサムウェアグループがドイツの政党ディ・リンケのハッキングを主張 セキュリティアフェアーズ",
+      "publishedAt": "2026-04-04T17:50:17.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba1de73cb9fd7ac5effc9f20781b1688a312628c24b7e8c1fd5e8b1c8b9a3e0b",
+      "source": "Google News Security",
+      "title": "ハッカーが欧州委員会を侵害、自己防衛のためのセキュリティツールを毒殺 - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sYzBiaGxscnRFMlZSS2I4cDV1ZVlFNGgyY2Zvd1ltX2hpN1dxQ3hRMFhNTzBFMmg4TW0wQUdDaEdWZ3JOTDFtYTRTV2VHZk1HTG1DdE1NdEJ5eF9pUjlwRUVTX3NTZXhnaURBMlA2aGdOMkUyOE4wcTlnQ3JGdw?oc=5",
+      "summary": "ハッカーが自己防衛のために使用していたセキュリティツールを毒殺し、欧州委員会を侵害 - The Next Web",
+      "publishedAt": "2026-04-04T13:45:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c8a2e3a90916472c32968ae13e4eddc053651bbc9b34d74d8faba641af6c8ac7",
+      "source": "Google News Security",
+      "title": "メタ、データ漏洩後にAIトレーニングスタートアップのMercorとの作業を一時停止 - ビジネスインサイダー",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hTTEY1YXRoUnVWeWFWeVpQQnRKY1o1Tldxd3R2RVpqTmFycDM0V1pRNU5ZNHlLNU1oWWkzU0QwMl9zWjVSRk1OQm5COTFLZVR6QWdLVnJFZ2xOTDBxOTlCdHZYUFQzS3ZtYTBSYmtDX3FFcXN3a1NpRVg2MkxXQ3Fva04xRTMxakpCQmkxaGszV292YkY5S1A2WjYzUl9jMFE?oc=5",
+      "summary": "メタ、データ漏洩後にAIトレーニングスタートアップのMercorとの作業を一時停止 - ビジネスインサイダー",
+      "publishedAt": "2026-04-04T04:26:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-05T00:54:08.159Z"
+  }
+}

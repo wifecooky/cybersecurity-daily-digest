@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-05",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "d595dd46cecd2eeca88d879657d94d382bb9545d604c7eb3960de3cbe41acff9",
+      "source": "BleepingComputer",
+      "title": "Axios npm 黑客攻击利用虚假 Teams 错误修复劫持维护者账户",
+      "url": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "summary": "流行的 Axios HTTP 客户端的维护者发布了一份详细的事后分析报告，描述了其一名开发人员如何成为社交工程攻击的目标，该攻击被认为是由朝鲜威胁行为者实施的。[...]",
+      "publishedAt": "2026-04-04T20:30:42.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Critical npm package hijack",
+      "suggestedTitle": "Axios npm 黑客攻击：关键供应链妥协",
+      "suggestedSummary": "Axios npm 包通过一场复杂的网络钓鱼攻击被攻破，该攻击涉及虚假的 Microsoft Teams 错误消息。这使得攻击者能够劫持维护者的账户并将恶意代码注入到包中。鉴于 Axios 的流行，这一事件构成了重大的供应链风险，可能影响到依赖该包的众多项目。安全团队应验证其依赖项的完整性，并考虑为 npm 账户实施多因素认证。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a726f2388cad844feac48bb80ba8702da0166e93497281763493c4922c0ed8a6",
+      "source": "Google News Security (CN)",
+      "title": "工信部紧急提醒：iOS 13-17用户注意！苹果设备面临严重安全威胁 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHFHVDV0Y0xNODgtUm4wcGZUWlA1bHhTU2h3SGtaNjk4QVhKRDRzdVgzaHE4dWVzSVVCLXhXU2xUQ3kxdENuakZUbXNhRWhCZlRBT2p5dHFCSVFOWWRXU3J6NlRjQjJrT3hYVmNYeUJBcG4wU3BmQVIxaDlqU2NFSFp4eXlYWlptV01JNw?oc=5",
+      "summary": "工信部紧急提醒：iOS 13-17用户注意！苹果设备面临严重安全威胁 搜狐网",
+      "publishedAt": "2026-04-04T20:17:25.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        10,
+        36
+      ],
+      "reason": "iOS zero-day vulnerabilities",
+      "suggestedTitle": "紧急iOS更新：检测到零日漏洞利用",
+      "suggestedSummary": "已发现影响iOS 13至17.2.1版本的严重漏洞，并在野外被积极利用。据报道，攻击者利用此漏洞通过短信、电子邮件或网页植入木马，可能会危及用户数据，如照片和密码。苹果的紧急补丁解决了这个问题，强烈建议用户立即更新设备以降低风险。安全团队应确保所有企业设备更新到最新的iOS版本。",
+      "relatedSources": [
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f52560f2549a1e3d75bcf4bd343bd0404a2634199d1a038ce45f04c9274babd7",
+      "source": "Google News Security",
+      "title": "$260万完整薪资解决方案数据泄露集体诉讼和解",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTERZQXZacThqZUcwbVZmbkI1NS1ZRVoxODFDdlJweVU5WkZNZHhkck9QemV5eE8tV2JpY3prV21ybDFLcmRmZEEyeXJlU3hZRHZMMzF1ZGVOd2hncEpmVEY1SS1rSExWMHVacGhqNWFYUVFEelEzOXNuVVFTSjVQYlJxZUhpS3ZLYjNDQ3dyZVhTZjhUb1ZDMHQwdElsdnd4V1JrbUhjaHduMkVHVGtONTRKcmJqMEZGbkdXdDB2OHJrWjB3aDJkYzhsaDNRbnVDUWtaRWhVTUE?oc=5",
+      "summary": "$260万完整薪资解决方案数据泄露集体诉讼和解 集体诉讼",
+      "publishedAt": "2026-04-04T22:39:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "281d24488e2c6fc543796679ce392b035d1cf9b5c7bbf9390eeb3a3c22175c68",
+      "source": "BleepingComputer",
+      "title": "设备代码网络钓鱼攻击激增37倍，新的工具包在网上传播",
+      "url": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+      "summary": "滥用OAuth 2.0设备授权许可流程以劫持账户的设备代码网络钓鱼攻击今年激增了超过37倍。[...]",
+      "publishedAt": "2026-04-04T14:17:38.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "78bf4e8cd1e02c204da85594591b6612da80ce704b52123e8cb1e68da5c7d8fc",
+      "source": "Google News Security",
+      "title": "麒麟勒索软件组织声称入侵德国政党左翼党 - 安全事务",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQU9zMHlLNUxQM19uZDJoSWZ2SUV6d1pRZ3NsX1d1bWliMVdfTUpNRnhVX2JaeXpEQS01VW5KNGo5dFoyWmhkUlIzQzc3azFfVDBPREVrVmlTTnZyWWh3amQ4WHhETC0xazl2SDdHak9Vb2lqM0xHVzZlbFVwMmtPblVrUjFLanY2cVZsRUd2c3lCelhIeFpGQnVyeXhOdFE4ZFUtLTFVYkZQZG44TTBlRGVGZ0NLNGlodllBY3ZEUEhSSjhl?oc=5",
+      "summary": "麒麟勒索软件组织声称入侵德国政党左翼党 安全事务",
+      "publishedAt": "2026-04-04T17:50:17.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba1de73cb9fd7ac5effc9f20781b1688a312628c24b7e8c1fd5e8b1c8b9a3e0b",
+      "source": "Google News Security",
+      "title": "黑客通过毒害其用于自我保护的安全工具攻破了欧盟委员会 - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sYzBiaGxscnRFMlZSS2I4cDV1ZVlFNGgyY2Zvd1ltX2hpN1dxQ3hRMFhNTzBFMmg4TW0wQUdDaEdWZ3JOTDFtYTRTV2VHZk1HTG1DdE1NdEJ5eF9pUjlwRUVTX3NTZXhnaURBMlA2aGdOMkUyOE4wcTlnQ3JGdw?oc=5",
+      "summary": "黑客通过毒害其用于自我保护的安全工具攻破了欧盟委员会 - The Next Web",
+      "publishedAt": "2026-04-04T13:45:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c8a2e3a90916472c32968ae13e4eddc053651bbc9b34d74d8faba641af6c8ac7",
+      "source": "Google News Security",
+      "title": "Meta因数据泄露暂停与AI培训初创公司Mercor的合作 - 商业内幕",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hTTEY1YXRoUnVWeWFWeVpQQnRKY1o1Tldxd3R2RVpqTmFycDM0V1pRNU5ZNHlLNU1oWWkzU0QwMl9zWjVSRk1OQm5COTFLZVR6QWdLVnJFZ2xOTDBxOTlCdHZYUFQzS3ZtYTBSYmtDX3FFcXN3a1NpRVg2MkxXQ3Fva04xRTMxakpCQmkxaGszV292YkY5S1A2WjYzUl9jMFE?oc=5",
+      "summary": "Meta因数据泄露暂停与AI培训初创公司Mercor的合作 商业内幕",
+      "publishedAt": "2026-04-04T04:26:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-05T00:54:03.774Z"
+  }
+}
