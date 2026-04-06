@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-06",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "0942992f2e619c63acf61a858ba90121f823e949e3f073def9ced0db30e69665",
+      "source": "BleepingComputer",
+      "title": "新しいFortiClient EMSの脆弱性が攻撃に利用され、緊急パッチがリリースされる",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "summary": "Fortinetは、新たな重大なFortiClient Enterprise Management Server（EMS）の脆弱性に対する緊急の週末セキュリティアップデートをリリースしました。この脆弱性は攻撃で積極的に利用されています。 [...]",
+      "publishedAt": "2026-04-05T18:45:17.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active exploitation of critical flaw",
+      "suggestedTitle": "重大なFortiClient EMSの脆弱性が積極的に利用され、緊急パッチがリリースされる",
+      "suggestedSummary": "Fortinetは、CVE-2026-35616として特定されたFortiClient Enterprise Management Server（EMS）の重大な脆弱性に対する緊急パッチを発行しました。この脆弱性は実際に利用されており、このソフトウェアを使用する企業ネットワークに重大なリスクをもたらしています。この脆弱性により、リモート攻撃者が任意のコードを実行することが可能となり、不正アクセスやデータ漏洩につながる可能性があります。セキュリティチームは、この脅威を軽減するためにパッチの適用を優先するべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6ee8d8ed8aa395895dcaceb924a1aff028b9f5c653aefc1d7c38788f55a7b4c4",
+      "source": "The Hacker News",
+      "title": "2億8500万ドルのDriftハッキング、6ヶ月にわたるDPRKのソーシャルエンジニアリング作戦に起因",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "summary": "Driftは、2026年4月1日に発生した2億8500万ドルの窃盗事件が、2025年秋に始まった朝鮮民主主義人民共和国（DPRK）による数ヶ月にわたるターゲットを絞った綿密に計画されたソーシャルエンジニアリング作戦の集大成であったことを明らかにしました。Solanaベースの分散型取引所はこれを「6ヶ月にわたる攻撃」と説明しました。",
+      "publishedAt": "2026-04-05T18:25:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12
+      ],
+      "reason": "Significant financial impact from APT attack",
+      "suggestedTitle": "2億8500万ドルのDriftハッキングの背後にあるDPRKのソーシャルエンジニアリング作戦",
+      "suggestedSummary": "6ヶ月にわたって行われた高度な北朝鮮のソーシャルエンジニアリング作戦が、Driftからの2億8500万ドルの窃盗に結びつきました。この攻撃は、国家主体がソーシャルエンジニアリングを使用して金融プラットフォームに侵入するという持続的な脅威を浮き彫りにしています。この事件は、先進的持続的脅威（APT）に対抗するための強力なセキュリティ意識トレーニングと多層的なセキュリティコントロールの重要性を強調しています。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "71b7e36420717e9096a126d1a3393ee25cf0bf2df4545093dd439d97eec9c62c",
+      "source": "BleepingComputer",
+      "title": "交通違反詐欺が新たなフィッシングテキストでQRコードに切り替え",
+      "url": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
+      "summary": "詐欺師たちは、米国各地の州裁判所を装って偽の「未納通知」交通違反のテキストメッセージを送り、受信者にQRコードをスキャンするよう圧力をかけています。このQRコードは、個人情報や財務情報を盗むフィッシングサイトに誘導し、$6.99の支払いを要求します。",
+      "publishedAt": "2026-04-05T19:44:10.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "088fb50d3301f62f3436ab52f233f3e9867e6f339d285ea9678ca91ac4bb5d4c",
+      "source": "Google News Security (JP)",
+      "title": "NetScaler ADC および NetScaler Gateway における境界外読み取りの脆弱性",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50dWVaWWoxSG9mcmtxZWVYcUZLODVhRlBLSFRDeHgyQVY2eHBqRjNtWjdtal9mTHc3bFB6ZDhVY3Fpd0k4SlhraG0yUGNZQ3pmajZTNVRjd2N0ZnRKSE9heFBGbjhTZ3ZjZHo0WQ?oc=5",
+      "summary": "NetScaler ADC および NetScaler Gateway に境界外読み取りの脆弱性が存在",
+      "publishedAt": "2026-04-05T23:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "679c4c7e4fd85fec9c7fe1243b72ca6706f889b34b590c8bdb08d409c59af582",
+      "source": "Google News Security (JP)",
+      "title": "金融庁、仮想通貨のサイバーセキュリティ強化方針を公表 - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNTRoZ3YxVjFSdi1RMDY0aHpVNFhfYm9ieEtCN3FudThseUtBOUUtWWZWVW4wck85RzVNa1dpamtHc1hlLW1CUTdRUnl5Rmp5Qkg2WjdpdU5LLXFEUG5MbXA3Mm14bzBtVkZPOXhLaTZZZFhteGVZdw?oc=5",
+      "summary": "金融庁、仮想通貨のサイバーセキュリティ強化方針を公表  Cryptonews",
+      "publishedAt": "2026-04-05T19:57:28.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2186bda134c753bff41799d716bce32ed78b6bb692af6aea06b199fad34e9fcb",
+      "source": "BleepingComputer",
+      "title": "ハッカーがReact2Shellを悪用し、自動化された資格情報窃取キャンペーンを展開",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "summary": "ハッカーは、脆弱なNext.jsアプリでReact2Shell（CVE-2025-55182）を悪用した後、自動化された方法で資格情報を窃取する大規模なキャンペーンを展開しています。[...]",
+      "publishedAt": "2026-04-05T14:17:23.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d2c3c61a0ba7d548390f40e8eab05efd7fc6a8c12501dc9610b9b6998026b4e1",
+      "source": "The Hacker News",
+      "title": "36の悪意のあるnpmパッケージがRedisとPostgreSQLを悪用して持続的なインプラントを展開",
+      "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "サイバーセキュリティ研究者は、npmレジストリで36の悪意のあるパッケージを発見しました。これらはStrapi CMSプラグインに偽装されていますが、RedisとPostgreSQLの悪用を容易にし、リバースシェルを展開し、資格情報を収集し、持続的なインプラントをドロップするための異なるペイロードを備えています。「すべてのパッケージには3つのファイル（package.json、index.js、postinstall.js）が含まれており、説明やリポジトリはありません。",
+      "publishedAt": "2026-04-05T05:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-06T00:53:42.088Z"
+  }
+}

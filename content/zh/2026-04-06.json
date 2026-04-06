@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-06",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "0942992f2e619c63acf61a858ba90121f823e949e3f073def9ced0db30e69665",
+      "source": "BleepingComputer",
+      "title": "新的 FortiClient EMS 漏洞被用于攻击，紧急补丁已发布",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "summary": "Fortinet 已发布一个紧急的周末安全更新，以修复一个新的关键 FortiClient 企业管理服务器 (EMS) 漏洞，该漏洞正在攻击中被积极利用。[...]",
+      "publishedAt": "2026-04-05T18:45:17.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active exploitation of critical flaw",
+      "suggestedTitle": "关键 FortiClient EMS 漏洞被积极利用，紧急补丁已发布",
+      "suggestedSummary": "Fortinet 已为 FortiClient 企业管理服务器 (EMS) 中的一个关键漏洞发布了紧急补丁，该漏洞被标识为 CVE-2026-35616。目前该漏洞正在被广泛利用，对使用此软件的企业网络构成重大风险。该漏洞允许远程攻击者执行任意代码，可能导致未经授权的访问和数据泄露。安全团队应优先应用此补丁以减轻此威胁。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6ee8d8ed8aa395895dcaceb924a1aff028b9f5c653aefc1d7c38788f55a7b4c4",
+      "source": "The Hacker News",
+      "title": "2.85亿美元的Drift黑客事件追溯到为期六个月的朝鲜社会工程行动",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "summary": "Drift透露，2026年4月1日导致2.85亿美元被盗的攻击，是朝鲜民主主义人民共和国（DPRK）自2025年秋季开始的、历时数月的有针对性且精心策划的社会工程行动的高潮。基于Solana的去中心化交易所将其描述为“一次长达六个月的攻击”。",
+      "publishedAt": "2026-04-05T18:25:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12
+      ],
+      "reason": "Significant financial impact from APT attack",
+      "suggestedTitle": "朝鲜社会工程行动导致2.85亿美元Drift黑客事件",
+      "suggestedSummary": "一项复杂的朝鲜社会工程行动，历时六个月，最终导致从Drift盗取2.85亿美元。此次攻击凸显了国家行为体利用社会工程手段入侵金融平台的持续威胁。此事件强调了加强安全意识培训和多层次安全控制以防御高级持续性威胁（APT）的重要性。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "71b7e36420717e9096a126d1a3393ee25cf0bf2df4545093dd439d97eec9c62c",
+      "source": "BleepingComputer",
+      "title": "交通违规诈骗转向使用二维码进行新的网络钓鱼短信",
+      "url": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
+      "summary": "诈骗者正在发送假冒美国各州法院的“违约通知”交通违规短信，迫使接收者扫描一个二维码，该二维码会引导至一个网络钓鱼网站，要求支付6.99美元，同时窃取个人和财务信息。",
+      "publishedAt": "2026-04-05T19:44:10.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "088fb50d3301f62f3436ab52f233f3e9867e6f339d285ea9678ca91ac4bb5d4c",
+      "source": "Google News Security (JP)",
+      "title": "NetScaler ADC 和 NetScaler Gateway 存在越界读取漏洞 - Excite",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50dWVaWWoxSG9mcmtxZWVYcUZLODVhRlBLSFRDeHgyQVY2eHBqRjNtWjdtal9mTHc3bFB6ZDhVY3Fpd0k4SlhraG0yUGNZQ3pmajZTNVRjd2N0ZnRKSE9heFBGbjhTZ3ZjZHo0WQ?oc=5",
+      "summary": "NetScaler ADC 和 NetScaler Gateway 存在越界读取漏洞  Excite",
+      "publishedAt": "2026-04-05T23:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "679c4c7e4fd85fec9c7fe1243b72ca6706f889b34b590c8bdb08d409c59af582",
+      "source": "Google News Security (JP)",
+      "title": "金融厅公布加强加密货币网络安全的方针 - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNTRoZ3YxVjFSdi1RMDY0aHpVNFhfYm9ieEtCN3FudThseUtBOUUtWWZWVW4wck85RzVNa1dpamtHc1hlLW1CUTdRUnl5Rmp5Qkg2WjdpdU5LLXFEUG5MbXA3Mm14bzBtVkZPOXhLaTZZZFhteGVZdw?oc=5",
+      "summary": "金融厅公布加强加密货币网络安全的方针  Cryptonews",
+      "publishedAt": "2026-04-05T19:57:28.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2186bda134c753bff41799d716bce32ed78b6bb692af6aea06b199fad34e9fcb",
+      "source": "BleepingComputer",
+      "title": "黑客利用React2Shell在自动化凭证盗窃活动中作案",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "summary": "黑客正在进行大规模活动，通过在易受攻击的Next.js应用中利用React2Shell（CVE-2025-55182）来自动化盗取凭证。",
+      "publishedAt": "2026-04-05T14:17:23.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d2c3c61a0ba7d548390f40e8eab05efd7fc6a8c12501dc9610b9b6998026b4e1",
+      "source": "The Hacker News",
+      "title": "36个恶意npm包利用Redis和PostgreSQL部署持久性植入",
+      "url": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "网络安全研究人员在npm注册表中发现了36个恶意包，这些包伪装成Strapi CMS插件，但附带不同的有效载荷，以便利用Redis和PostgreSQL漏洞，部署反向shell，窃取凭证，并投放持久性植入。\"每个包包含三个文件（package.json, index.js, postinstall.js），没有描述、仓库，",
+      "publishedAt": "2026-04-05T05:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-06T00:53:37.288Z"
+  }
+}
