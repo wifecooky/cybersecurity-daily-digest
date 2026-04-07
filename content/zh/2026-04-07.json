@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-07",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "bab3a8db88e18f83935f4f040a989ce2293c256882afff806b6ac5f96046c1c2",
+      "source": "Dark Reading",
+      "title": "Fortinet发布FortiClient零日漏洞紧急补丁",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+      "summary": "该身份验证绕过漏洞被追踪为CVE-2026-35616，是一系列已在野外被利用的Fortinet漏洞中的最新一个。",
+      "publishedAt": "2026-04-06T20:24:19.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Critical Fortinet zero-day with CISA directive",
+      "suggestedTitle": "Fortinet零日漏洞利用与CISA指令",
+      "suggestedSummary": "Fortinet已为FortiClient中的零日漏洞CVE-2026-35616发布紧急补丁，该漏洞允许身份验证绕过。此漏洞已被积极利用，促使CISA要求联邦机构在周五之前修补Fortinet EMS漏洞。这强调了使用Fortinet产品的组织需要立即应用补丁，以防止未经授权的访问和潜在的数据泄露。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "300f9a3505356cc136df9655c6dfb667f8c5b138aed146f5bb24cf31d2fee16e",
+      "source": "BleepingComputer",
+      "title": "德国当局确认REvil和GandCrab勒索软件头目",
+      "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "德国联邦警察（BKA）已确认两名俄罗斯公民是2019年至2021年间GandCrab和REvil勒索软件行动的领导者。[...]",
+      "publishedAt": "2026-04-06T23:54:04.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Identification of major ransomware operators",
+      "suggestedTitle": "德国当局确认REvil和GandCrab头目",
+      "suggestedSummary": "德国联邦警察已确认两名俄罗斯公民是臭名昭著的勒索软件团体REvil和GandCrab的领导者。这一确认是对全球众多组织遭受攻击的勒索软件行动进行广泛调查的结果。安全团队应注意可能的报复性攻击，并确保对勒索软件威胁，特别是与这些团体相关的威胁，采取强有力的防御措施。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Krebs on Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "bd3b3cae34500dc9f306979da72809c0003e4abcd6e3014801af61fc2b137fce",
+      "source": "BleepingComputer",
+      "title": "新的GPUBreach攻击通过GPU Rowhammer实现系统接管",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "一种被称为GPUBreach的新攻击可以在GPU GDDR6内存上引发Rowhammer位翻转，从而提升权限并导致整个系统被攻陷。[...]",
+      "publishedAt": "2026-04-06T21:44:15.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5e33caeb2fdcd6efae2a841706a14b0d490e2610d7b4ca13c959cd6f7d72ee5",
+      "source": "Dark Reading",
+      "title": "AI辅助的供应链攻击瞄准GitHub",
+      "url": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
+      "summary": "PRT-scan是最近几个月中的第二起事件，威胁行为者似乎利用AI自动化地针对广泛存在的GitHub配置错误进行攻击。",
+      "publishedAt": "2026-04-06T21:38:53.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c8386037d9f29f6c57f06ed58137e13431fb5f07b8f767ff812882263be8b54",
+      "source": "The Hacker News",
+      "title": "与伊朗有关的密码喷洒活动针对300多个以色列Microsoft 365组织",
+      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "一个与伊朗有关的威胁行为者被怀疑是针对以色列和阿联酋Microsoft 365环境的密码喷洒活动的幕后黑手，此时中东地区的冲突仍在持续。据Check Point评估，这一活动仍在进行中，并在2026年3月3日、3月13日和3月23日分三个不同的攻击波次进行。",
+      "publishedAt": "2026-04-06T18:37:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b37c0811558370d7aabd48f8eca6745e2b3719d3e140f85d5157b7311b0a2c6a",
+      "source": "The Hacker News",
+      "title": "与朝鲜有关的黑客使用 GitHub 作为多阶段攻击中针对韩国的 C2",
+      "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+      "summary": "据观察，可能与朝鲜民主主义人民共和国（DPRK）有关的威胁行为者在多阶段攻击中使用 GitHub 作为指挥和控制（C2）基础设施，目标是韩国的组织。根据 Fortinet FortiGuard Labs 的说法，攻击链涉及混淆的 Windows 快捷方式（LNK）文件，作为投放诱饵 PDF 的起点。",
+      "publishedAt": "2026-04-06T16:24:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-07T00:51:54.447Z"
+  }
+}

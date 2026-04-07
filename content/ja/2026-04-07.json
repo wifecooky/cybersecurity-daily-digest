@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-07",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "bab3a8db88e18f83935f4f040a989ce2293c256882afff806b6ac5f96046c1c2",
+      "source": "Dark Reading",
+      "title": "Fortinet、FortiClientゼロデイに対する緊急パッチを発行",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+      "summary": "CVE-2026-35616として追跡されている認証バイパスの欠陥は、野外で悪用されているFortinet脆弱性の一連の最新のものです。",
+      "publishedAt": "2026-04-06T20:24:19.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Critical Fortinet zero-day with CISA directive",
+      "suggestedTitle": "Fortinetゼロデイの悪用とCISAの指令",
+      "suggestedSummary": "Fortinetは、FortiClientのゼロデイ脆弱性CVE-2026-35616に対する緊急パッチを発行しました。この脆弱性は認証バイパスを可能にし、積極的に悪用されています。これにより、CISAは連邦機関に対し、金曜日までにFortinet EMSの欠陥を修正するよう指示しました。これは、Fortinet製品を使用している組織が、未承認アクセスや潜在的なデータ漏洩を防ぐために、直ちにパッチを適用する必要があることを強調しています。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "300f9a3505356cc136df9655c6dfb667f8c5b138aed146f5bb24cf31d2fee16e",
+      "source": "BleepingComputer",
+      "title": "ドイツ当局がREvilとGandCrabランサムウェアのボスを特定",
+      "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "ドイツの連邦警察（BKA）は、2019年から2021年にかけてGandCrabとREvilランサムウェアの運営を行っていたリーダーとして、2人のロシア国籍者を特定しました。 [...]",
+      "publishedAt": "2026-04-06T23:54:04.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Identification of major ransomware operators",
+      "suggestedTitle": "ドイツ当局がREvilとGandCrabのリーダーを特定",
+      "suggestedSummary": "ドイツ連邦警察は、悪名高いランサムウェアグループREvilとGandCrabのリーダーとして2人のロシア国籍者を特定しました。この特定は、世界中の多くの組織を標的にしたランサムウェア活動に対する広範な調査の結果です。セキュリティチームは報復攻撃の可能性を認識し、特にこれらのグループに関連するランサムウェアの脅威に対して強固な防御を確保する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Krebs on Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "bd3b3cae34500dc9f306979da72809c0003e4abcd6e3014801af61fc2b137fce",
+      "source": "BleepingComputer",
+      "title": "新たなGPUBreach攻撃によりGPUのRowhammerを通じたシステム乗っ取りが可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "GPUBreachと名付けられた新たな攻撃は、GPUのGDDR6メモリにおいてRowhammerによるビットフリップを誘発し、特権をエスカレートさせ、システム全体の侵害につながる可能性があります。",
+      "publishedAt": "2026-04-06T21:44:15.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5e33caeb2fdcd6efae2a841706a14b0d490e2610d7b4ca13c959cd6f7d72ee5",
+      "source": "Dark Reading",
+      "title": "AI支援のサプライチェーン攻撃がGitHubを標的に",
+      "url": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
+      "summary": "PRT-scanは、脅威アクターがAIを活用して広範なGitHubの誤設定を自動的に標的にしたと思われる最近の事例の2つ目です。",
+      "publishedAt": "2026-04-06T21:38:53.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c8386037d9f29f6c57f06ed58137e13431fb5f07b8f767ff812882263be8b54",
+      "source": "The Hacker News",
+      "title": "イラン関連のパスワードスプレー攻撃キャンペーンが300以上のイスラエルのMicrosoft 365組織を標的に",
+      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "イランと関連のある脅威アクターが、イスラエルとU.A.E.のMicrosoft 365環境を標的としたパスワードスプレー攻撃キャンペーンの背後にいると疑われています。この活動は、現在進行中の中東の紛争の中で行われていると評価されています。Check Pointによれば、この活動は2026年3月3日、3月13日、3月23日に行われた3つの異なる攻撃波で実施されました。",
+      "publishedAt": "2026-04-06T18:37:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b37c0811558370d7aabd48f8eca6745e2b3719d3e140f85d5157b7311b0a2c6a",
+      "source": "The Hacker News",
+      "title": "北朝鮮関連のハッカー、マルチステージ攻撃でGitHubをC2として利用し韓国を標的に",
+      "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+      "summary": "朝鮮民主主義人民共和国（DPRK）に関連する可能性のある脅威アクターが、韓国の組織を標的としたマルチステージ攻撃で、GitHubをコマンド・アンド・コントロール（C2）インフラとして利用していることが観察されています。Fortinet FortiGuard Labsによると、この攻撃チェーンは、難読化されたWindowsショートカット（LNK）ファイルを出発点として、偽装PDFをドロップすることから始まります。",
+      "publishedAt": "2026-04-06T16:24:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-07T00:52:01.172Z"
+  }
+}

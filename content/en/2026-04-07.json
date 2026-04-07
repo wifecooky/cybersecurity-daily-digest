@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-07",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "bab3a8db88e18f83935f4f040a989ce2293c256882afff806b6ac5f96046c1c2",
+      "source": "Dark Reading",
+      "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
+      "summary": "The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.",
+      "publishedAt": "2026-04-06T20:24:19.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Critical Fortinet zero-day with CISA directive",
+      "suggestedTitle": "Fortinet Zero-Day Exploitation and CISA Directive",
+      "suggestedSummary": "Fortinet has issued an emergency patch for a zero-day vulnerability, CVE-2026-35616, in FortiClient, which allows for authentication bypass. This flaw has been actively exploited, prompting CISA to mandate federal agencies to patch the Fortinet EMS flaw by Friday. This highlights the urgency for organizations using Fortinet products to apply the patch immediately to prevent unauthorized access and potential data breaches.",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "300f9a3505356cc136df9655c6dfb667f8c5b138aed146f5bb24cf31d2fee16e",
+      "source": "BleepingComputer",
+      "title": "German authorities identify REvil and GangCrab ransomware bosses",
+      "url": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
+      "summary": "The Federal Police in Germany (BKA) has identified two Russian nationals as the leaders of GandCrab and REvil ransomware operations between 2019 and 2021. [...]",
+      "publishedAt": "2026-04-06T23:54:04.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Identification of major ransomware operators",
+      "suggestedTitle": "German Authorities Identify REvil and GandCrab Leaders",
+      "suggestedSummary": "German Federal Police have identified two Russian nationals as the leaders of the notorious ransomware groups REvil and GandCrab. This identification follows extensive investigations into the ransomware operations that have targeted numerous organizations globally. Security teams should be aware of the potential for retaliatory attacks and ensure robust defenses against ransomware threats, particularly those linked to these groups.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Krebs on Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "bd3b3cae34500dc9f306979da72809c0003e4abcd6e3014801af61fc2b137fce",
+      "source": "BleepingComputer",
+      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
+      "summary": "A new attack, dubbed GPUBreach, can induce Rowhammer bit-flips on GPU GDDR6 memories to escalate privileges and lead to a full system compromise. [...]",
+      "publishedAt": "2026-04-06T21:44:15.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a5e33caeb2fdcd6efae2a841706a14b0d490e2610d7b4ca13c959cd6f7d72ee5",
+      "source": "Dark Reading",
+      "title": "AI-Assisted Supply Chain Attack Targets GitHub",
+      "url": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
+      "summary": "PRT-scan is the second in recent months where a threat actor appears to have leveraged AI for automated targeting of a widespread GitHub misconfiguration.",
+      "publishedAt": "2026-04-06T21:38:53.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c8386037d9f29f6c57f06ed58137e13431fb5f07b8f767ff812882263be8b54",
+      "source": "The Hacker News",
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East.\nThe activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point.\n\"The campaign is primarily",
+      "publishedAt": "2026-04-06T18:37:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b37c0811558370d7aabd48f8eca6745e2b3719d3e140f85d5157b7311b0a2c6a",
+      "source": "The Hacker News",
+      "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
+      "url": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
+      "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea.\nThe attack chain, per Fortinet FortiGuard Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
+      "publishedAt": "2026-04-06T16:24:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-07T00:51:49.216Z"
+  }
+}
