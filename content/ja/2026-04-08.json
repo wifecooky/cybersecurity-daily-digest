@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-08",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "5d8d1bd84337686ddadaca546345326d001917f70a2d0879039087422e75614f",
+      "source": "The Hacker News",
+      "title": "ロシア国家関連のAPT28がグローバルDNSハイジャックキャンペーンでSOHOルーターを悪用",
+      "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "APT28（別名: Forest Blizzard）として知られるロシア関連の脅威アクターが、新たなキャンペーンに関連付けられています。このキャンペーンでは、少なくとも2025年5月以降、セキュリティの脆弱なMikroTikおよびTP-Linkルーターを侵害し、それらの設定を変更して、サイバースパイ活動の一環として彼らの制御下にある悪意のあるインフラストラクチャに変えています。",
+      "publishedAt": "2026-04-07T16:48:00.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "APT28がDNSハイジャックとトークン窃取のためにSOHOルーターを悪用",
+      "suggestedSummary": "ロシア関連の脅威アクターであるAPT28は、古いSOHOルーターの脆弱性を積極的に悪用し、グローバルなDNSハイジャックキャンペーンを実施しています。この作戦は、既知のルーターの脆弱性を利用してMicrosoft Officeトークンを傍受し、盗むことを目的としています。セキュリティチームは、影響を受けるルーターモデルのパッチを優先し、潜在的な侵害を軽減するためにDNS操作の兆候をネットワークトラフィックで監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Krebs on Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "bd193f03387829a3a748f3cfeca3a6cad823c889efb4eae72aa5fa6ac23a81dd",
+      "source": "Dark Reading",
+      "title": "ストーム-1175がメデューサランサムウェアを『高速』で展開",
+      "url": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
+      "summary": "マイクロソフトによると、金銭目的のサイバー犯罪グループが、スピードを重視したキャンペーンでNデイおよびゼロデイ脆弱性を悪用している。",
+      "publishedAt": "2026-04-07T20:15:07.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        13
+      ],
+      "reason": "Zero-day vulnerability exploitation",
+      "suggestedTitle": "ストーム-1175がゼロデイを介してメデューサランサムウェアを迅速に展開",
+      "suggestedSummary": "ストーム-1175は、中国に関連する脅威グループで、ゼロデイ脆弱性を悪用してメデューサランサムウェアを高速で展開しています。このキャンペーンは、Nデイおよびゼロデイ脆弱性を利用してシステムを標的にしており、メデューサランサムウェアに関連するIOCの監視と即時のパッチ適用の必要性を強調しています。セキュリティチームは脅威インテリジェンスの更新に注意を払い、露出を減らすために迅速にパッチを適用する必要があります。",
+      "relatedSources": [
+        "Dark Reading",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8e1d6efabb7eb18dc77994a513678c6fa28706bbf8e1fcd51978c0513336d281",
+      "source": "The Hacker News",
+      "title": "Docker CVE-2026-34040 により攻撃者が認証をバイパスしホストアクセスを取得可能に",
+      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "Docker Engine において、高深刻度のセキュリティ脆弱性が公開されました。この脆弱性により、特定の状況下で攻撃者が認証プラグイン (AuthZ) をバイパスすることが可能になります。この脆弱性は、CVE-2026-34040 (CVSS スコア: 8.8) として追跡されており、2024年7月に明らかになった同じコンポーネントの最大深刻度の脆弱性 CVE-2024-41110 の不完全な修正に起因しています。",
+      "publishedAt": "2026-04-07T15:15:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        7,
+        11
+      ],
+      "reason": "Critical Docker vulnerability",
+      "suggestedTitle": "Docker CVE-2026-34040: 認証バイパスのリスク",
+      "suggestedSummary": "Docker Engine において、高深刻度の脆弱性 (CVE-2026-34040) が公開され、攻撃者が認証をバイパスしホストアクセスを取得する可能性があります。この欠陥はデフォルト設定を使用している Docker インストールに影響を与え、無許可アクセスの重大なリスクをもたらします。セキュリティチームは直ちに利用可能なパッチを適用し、Docker の設定を見直して堅牢なアクセス制御が確保されていることを確認する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "106b0a9597b053c56061aa0ef6a7345aeeda7b42dd661ea5782769aab0e90c7f",
+      "source": "BleepingComputer",
+      "title": "当局がMicrosoft 365ログイン情報を盗むルータDNSハイジャックを阻止",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "summary": "法執行機関と民間企業の協力による国際的な作戦が、MikroTikおよびTP-LinkルータからのローカルトラフィックをハイジャックしてMicrosoftアカウントの認証情報を盗むAPT28キャンペーン「FrostArmada」を阻止しました。",
+      "publishedAt": "2026-04-07T15:51:22.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "53fff685d7cf559d710ac911c9c7d5899832b2aa6939696b385ddc923029b271",
+      "source": "BleepingComputer",
+      "title": "ハッカーがNinja Forms WordPressプラグインの重大な欠陥を悪用",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+      "summary": "WordPress用のNinja Forms File Uploadsプレミアムアドオンにおける重大な脆弱性により、認証なしで任意のファイルをアップロードすることが可能であり、これがリモートコード実行につながる可能性があります。",
+      "publishedAt": "2026-04-07T22:03:01.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "04755a985fd73a940228d609ec18f62b7fce6732c2a03c108189f19518c49548",
+      "source": "BleepingComputer",
+      "title": "米国、重要インフラを標的とするイランのハッカーに警告",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "summary": "イランに関連するハッカーが、米国の重要インフラ組織のネットワーク上でインターネットに接続されたRockwell/Allen-Bradleyのプログラマブルロジックコントローラー（PLC）を標的にしています。",
+      "publishedAt": "2026-04-07T18:02:26.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0acc6c360cfd446287e7c31788d8188e6b58f2aedb2dc009b8bd3d0b496afb35",
+      "source": "The Hacker News",
+      "title": "Flowise AIエージェントビルダーがCVSS 10.0のRCE脆弱性で積極的に悪用される; 12,000以上のインスタンスが露出",
+      "url": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+      "summary": "VulnCheckの新しい調査によると、脅威アクターがFlowiseというオープンソースの人工知能（AI）プラットフォームにおける最大深刻度のセキュリティ欠陥を悪用しています。問題の脆弱性はCVE-2025-59528（CVSSスコア: 10.0）で、リモートコード実行を引き起こす可能性のあるコードインジェクションの脆弱性です。「CustomMCPノードは、接続のための設定を入力することをユーザーに許可します。",
+      "publishedAt": "2026-04-07T05:56:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "86b53834c8775aea3f8113df1c262a7ca3c9105bab160e3937fde77f4f28aba0",
+      "source": "Google News Security (CN)",
+      "title": "Fortinet、FortiClient EMSのゼロデイ脆弱性を修正 - ハッカー攻撃を受ける - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnhhMHF2SXJ0S1oxTzQ2U3hpaTNLWjJKbmlOZkIwZVdXNWhfbkd6QXdlZ3E4WmxiaUFCNmFmbFlQWklFTmpVVUVGdjdmVnFyZUVLXzRDRVUyS25mMHhXbEtBX3hXVVB4RUJsaVJJSkNhZW41NVVicnRGRlRVYkhmR0VzcThEeHNi?oc=5",
+      "summary": "Fortinet、FortiClient EMSのゼロデイ脆弱性を修正 - ハッカー攻撃を受ける - Sohu",
+      "publishedAt": "2026-04-07T09:23:19.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-08T00:52:12.843Z"
+  }
+}

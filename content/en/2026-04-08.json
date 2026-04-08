@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-08",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "5d8d1bd84337686ddadaca546345326d001917f70a2d0879039087422e75614f",
+      "source": "The Hacker News",
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May 2025.\nThe large-scale exploitation campaign has been codenamed",
+      "publishedAt": "2026-04-07T16:48:00.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "APT28 Exploits SOHO Routers for DNS Hijacking and Token Theft",
+      "suggestedSummary": "APT28, a Russia-linked threat actor, is actively exploiting vulnerabilities in older SOHO routers to conduct a global DNS hijacking campaign. This operation aims to intercept and steal Microsoft Office tokens, leveraging known router vulnerabilities. Security teams should prioritize patching affected router models and monitor network traffic for signs of DNS manipulation to mitigate potential breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "Krebs on Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "bd193f03387829a3a748f3cfeca3a6cad823c889efb4eae72aa5fa6ac23a81dd",
+      "source": "Dark Reading",
+      "title": "Storm-1175 Deploys Medusa Ransomware at 'High Velocity'",
+      "url": "https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity",
+      "summary": "Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.",
+      "publishedAt": "2026-04-07T20:15:07.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        13
+      ],
+      "reason": "Zero-day vulnerability exploitation",
+      "suggestedTitle": "Storm-1175 Rapidly Deploys Medusa Ransomware via Zero-Days",
+      "suggestedSummary": "Storm-1175, a China-linked threat group, is exploiting zero-day vulnerabilities to deploy Medusa ransomware at high velocity. This campaign targets systems using N-day and zero-day vulnerabilities, emphasizing the need for immediate patching and monitoring for IOCs related to Medusa ransomware. Security teams should stay alert to threat intelligence updates and apply patches swiftly to reduce exposure.",
+      "relatedSources": [
+        "Dark Reading",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8e1d6efabb7eb18dc77994a513678c6fa28706bbf8e1fcd51978c0513336d281",
+      "source": "The Hacker News",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances.\nThe vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024.\n\"",
+      "publishedAt": "2026-04-07T15:15:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        7,
+        11
+      ],
+      "reason": "Critical Docker vulnerability",
+      "suggestedTitle": "Docker CVE-2026-34040: Authorization Bypass Risk",
+      "suggestedSummary": "A high-severity vulnerability (CVE-2026-34040) has been disclosed in Docker Engine, allowing attackers to bypass authorization and gain host access. This flaw affects Docker installations using default configurations, posing a significant risk of unauthorized access. Security teams should immediately apply the available patches and review Docker configurations to ensure robust access controls are in place.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "106b0a9597b053c56061aa0ef6a7345aeeda7b42dd661ea5782769aab0e90c7f",
+      "source": "BleepingComputer",
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to steal Microsoft account credentials. [...]",
+      "publishedAt": "2026-04-07T15:51:22.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "53fff685d7cf559d710ac911c9c7d5899832b2aa6939696b385ddc923029b271",
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
+      "summary": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
+      "publishedAt": "2026-04-07T22:03:01.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "04755a985fd73a940228d609ec18f62b7fce6732c2a03c108189f19518c49548",
+      "source": "BleepingComputer",
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+      "publishedAt": "2026-04-07T18:02:26.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0acc6c360cfd446287e7c31788d8188e6b58f2aedb2dc009b8bd3d0b496afb35",
+      "source": "The Hacker News",
+      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+      "url": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+      "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck.\nThe vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution.\n\"The CustomMCP node allows users to input configuration settings for connecting",
+      "publishedAt": "2026-04-07T05:56:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "86b53834c8775aea3f8113df1c262a7ca3c9105bab160e3937fde77f4f28aba0",
+      "source": "Google News Security (CN)",
+      "title": "Fortinet修复FortiClient EMS零日漏洞遭黑客攻击 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnhhMHF2SXJ0S1oxTzQ2U3hpaTNLWjJKbmlOZkIwZVdXNWhfbkd6QXdlZ3E4WmxiaUFCNmFmbFlQWklFTmpVVUVGdjdmVnFyZUVLXzRDRVUyS25mMHhXbEtBX3hXVVB4RUJsaVJJSkNhZW41NVVicnRGRlRVYkhmR0VzcThEeHNi?oc=5",
+      "summary": "Fortinet修复FortiClient EMS零日漏洞遭黑客攻击  Sohu",
+      "publishedAt": "2026-04-07T09:23:19.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-08T00:52:01.187Z"
+  }
+}
