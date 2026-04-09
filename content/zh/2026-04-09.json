@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-09",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "9763668b80d22e2e9b6b69fd3877c3895f6a3ca380e28b565818fc13c5296bff",
+      "source": "Dark Reading",
+      "title": "伊朗威胁行为者通过暴露的PLC破坏美国关键基础设施",
+      "url": "https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs",
+      "summary": "攻击者入侵了面向互联网的OT设备，导致文件和显示操控、操作中断以及各行业的经济损失。",
+      "publishedAt": "2026-04-08T13:46:29.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2,
+        8
+      ],
+      "reason": "Nation-state cyber operation targeting critical infrastructure",
+      "suggestedTitle": "与伊朗有关的黑客通过暴露的PLC攻击美国关键基础设施",
+      "suggestedSummary": "伊朗网络行为者通过利用暴露的可编程逻辑控制器（PLC）对美国关键基础设施发起了破坏性攻击。攻击者操控了操作技术（OT）设备，导致文件和显示的变更。此事件突显了互联网暴露的OT系统面临国家级威胁的脆弱性，强调了实施强大网络分段和严格安全控制以保护关键系统的必要性。",
+      "relatedSources": [
+        "Dark Reading",
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "635c39aff4132222c88793132fa631ae74cf6ddf7ec2695dcab3e81835007dea",
+      "source": "Google News Security",
+      "title": "洛杉矶市检察官办公室数据泄露导致大量敏感LAPD记录外泄 - 洛杉矶时报",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRnhuV2pkWC1OclkwU3pMZ29HaXd0QWhRTGVyY21TRnZnOThDOHFYQWRfaDFWbXQwMldKWlBoYVRUczJYQ0RaNHhJNXRZRUtPRFlmSTZ1V2pScVk2R3BHR0xQTHpqbk1EaGJSZEx1QzZnSHRtczc5VTAxSDQzbVJacEZ1dGl1QQ?oc=5",
+      "summary": "洛杉矶市检察官办公室数据泄露导致大量敏感LAPD记录外泄  洛杉矶时报",
+      "publishedAt": "2026-04-08T21:53:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        9,
+        11,
+        17
+      ],
+      "reason": "Major data breach impacting law enforcement records",
+      "suggestedTitle": "大规模数据泄露暴露敏感LAPD记录",
+      "suggestedSummary": "洛杉矶市检察官办公室发生重大数据泄露事件，导致数千份敏感的洛杉矶警察局（LAPD）记录被曝光。此次泄露涉及未经授权访问机密警察文件，引发了执法机构对网络安全的严重担忧。安全团队应优先审计访问控制，并实施先进的威胁检测系统，以防止类似的泄露事件。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "190a06d29fd9b88f68c92f8b1c85a1a6324faf7bb03eabdbe5209ab64de66270",
+      "source": "BleepingComputer",
+      "title": "黑客利用像素大小的SVG技巧隐藏信用卡窃取器",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "summary": "一场大规模攻击活动影响了近100家使用Magento电子商务平台的在线商店，攻击者将窃取信用卡信息的代码隐藏在一个像素大小的可缩放矢量图形（SVG）图像中。",
+      "publishedAt": "2026-04-08T22:34:26.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9173e1a27991d59b66a0f53ecf3ea46ab3ad8ac277046546808f5310d7abea32",
+      "source": "BleepingComputer",
+      "title": "谷歌：新的UNC6783黑客窃取企业Zendesk支持票据",
+      "url": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "summary": "被追踪为UNC6783的威胁行为者正在入侵业务流程外包（BPO）提供商，以获取多个行业中高价值公司的访问权限。",
+      "publishedAt": "2026-04-08T21:46:27.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "68a162efa197c2a744fa71aa864ec74363dabcd011c0796a2c53e3e577d44154",
+      "source": "Dark Reading",
+      "title": "威胁行为者巧用表情符号逃避检测",
+      "url": "https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications",
+      "summary": "当🤖表示“机器人可用”，🧰代表“工具包”，或💰💰💰翻译为“大额赎金”时，恶意行为者可以避开过滤器并保持低调。",
+      "publishedAt": "2026-04-08T20:21:32.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f61a748216ea59f43767572ee61f77ca5cb9eb9f812d14f8ed4e468aaf71ca23",
+      "source": "The Hacker News",
+      "title": "APT28在针对乌克兰和北约盟国的行动中部署PRISMEX恶意软件",
+      "url": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "summary": "据报道，APT28（又名Forest Blizzard和Pawn Storm）这一俄罗斯威胁行为者与一项新的鱼叉式网络钓鱼活动有关，该活动针对乌克兰及其盟国，旨在部署一种此前未记录的恶意软件套件，代号为PRISMEX。\"PRISMEX结合了高级隐写术、组件对象模型（COM）劫持以及合法云服务滥用用于指挥和控制，\"趋势科技表示。",
+      "publishedAt": "2026-04-08T13:50:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-09T00:43:26.249Z"
+  }
+}
