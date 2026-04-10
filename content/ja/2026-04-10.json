@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-10",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "8825f4339fa50199d654838dcab4bd68e3cf0bd3672455b20668c34b7322e013",
+      "source": "The Hacker News",
+      "title": "Adobe Readerのゼロデイが悪意のあるPDFを通じて2025年12月から悪用される",
+      "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+      "summary": "脅威アクターは、少なくとも2025年12月以来、悪意のあるPDF文書を使用して、Adobe Readerの以前は知られていなかったゼロデイ脆弱性を悪用しています。この発見は、EXPMONのHaifei Liによって詳細に説明されており、高度に洗練されたPDFエクスプロイトとして説明されています。このアーティファクト（「Invoice540.pdf」）は、2025年11月28日にVirusTotalプラットフォームに初めて登場しました。",
+      "publishedAt": "2026-04-09T11:15:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        9
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "重大なAdobe Readerゼロデイが悪意のあるPDFを通じて積極的に悪用される",
+      "suggestedSummary": "Adobe Readerのゼロデイ脆弱性が12月以来積極的に悪用されており、攻撃者は悪意のあるPDFを通じて任意のコードを実行することができます。この脆弱性はAdobe Readerの複数のバージョンに影響を与えており、現在のところパッチは利用できません。組織は、Adobe ReaderでJavaScriptを無効にし、疑わしいPDF活動を厳重に監視するなどの緩和策を実施することが推奨されます。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2bbf271eb656cdc00192b609dcc62fc36cac1da7b8cf0505628900bff1840654",
+      "source": "Dark Reading",
+      "title": "『BlueHammer』Windowsゼロデイエクスプロイトが示すMicrosoftのバグ開示問題",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
+      "summary": "『Chaotic Eclipse』という別名の研究者が、ローカルユーザーによるシステム乗っ取りを可能にするゼロデイの脆弱性に対するPoCエクスプロイトを公開し、Microsoftとの未公開の対立を理由に挙げています。",
+      "publishedAt": "2026-04-09T20:13:34.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        11
+      ],
+      "reason": "New zero-day exploit in Windows",
+      "suggestedTitle": "BlueHammer Windowsゼロデイエクスプロイトが発覚",
+      "suggestedSummary": "新たに開示されたゼロデイ脆弱性『BlueHammer』は、攻撃者がWindowsシステム上で特権をSYSTEMレベルにエスカレートすることを可能にします。このエクスプロイトは、正当なWindows機能の組み合わせを利用しており、セキュリティ研究者によって概念実証として公開されました。組織は、異常な活動を監視し、パッチがリリースされるまでの間、利用可能な緩和策を適用して潜在的なエクスプロイトから保護することを優先すべきです。",
+      "relatedSources": [
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "34f5c57f7042e4030b281364fcc5ab0af4556254694892c46d16bd4ac8dd8be4",
+      "source": "BleepingComputer",
+      "title": "Google Chrome、セッションクッキーの盗難に対する情報窃取防止機能を追加",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+      "summary": "Googleは、情報窃取マルウェアがセッションクッキーを収集するのを防ぐために、Windows向けChrome 146にデバイスバウンドセッションクレデンシャル（DBSC）保護を導入しました。",
+      "publishedAt": "2026-04-09T18:33:29.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "fa6cd17fda0f6bdef398adc7cfca063e4d80a4bbd54822641d10ba8177534f48",
+      "source": "BleepingComputer",
+      "title": "新たな「LucidRook」マルウェアがNGOや大学を標的とした攻撃に使用される",
+      "url": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+      "summary": "Luaベースの新しいマルウェア「LucidRook」が、台湾の非政府組織や大学を標的としたスピアフィッシングキャンペーンで使用されています。",
+      "publishedAt": "2026-04-09T22:04:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4fb027a46c1a22cb75e57cb2f9f2cd670c2af4bf1f9fef24b825a81bd4d87216",
+      "source": "BleepingComputer",
+      "title": "医療ITソリューションプロバイダーChipSoftがランサムウェア攻撃を受ける",
+      "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+      "summary": "オランダの医療ソフトウェアベンダーであるChipSoftは、ランサムウェア攻撃の影響を受け、患者や医療提供者向けのウェブサイトとデジタルサービスをオフラインにせざるを得なくなりました。",
+      "publishedAt": "2026-04-09T19:46:44.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b72c123632668b53db569611c7384fd7972fd7152dd57754b7ab1928053897c6",
+      "source": "BleepingComputer",
+      "title": "ユーレイル、12月のデータ侵害で30万人に影響と発表",
+      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+      "summary": "ヨーロッパの旅行オペレーターであるユーレイルB.V.は、33の国営鉄道をカバーするデジタルパスを提供しており、2025年12月のデータ侵害で30万人以上の個人情報が攻撃者によって盗まれたと発表しました。",
+      "publishedAt": "2026-04-09T10:31:54.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "80902ed421549a4ba296f83295b72a5097184d02847109410eb125879fdf9612",
+      "source": "Google News Security",
+      "title": "中国のスーパーコンピュータがハッキングされ、10ペタバイトのデータが盗まれたとされる - セキュリティマガジン",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkZZa3NqM01GdEl5QjBQWVdEUEx0TFNRSEtrYndsLV9CaGZZWnpmWUI2b2JRS2laMWRwN243OEhhV2RidWh5RG80bmp1Y2RLWXV0b2o0U0ctcDJScEVSYmpsRUYzTHo0cjFKaVEtZTV6c1RaWUVYbml0emdyNTNiRERWWVIxam1SRmY1cXB0eDRnNExWSDl5dkh5eV9ObzFwTjdxLU9ORGJsN2UyT1pNTTF6bjFQdw?oc=5",
+      "summary": "中国のスーパーコンピュータがハッキングされ、10ペタバイトのデータが盗まれたとされる - セキュリティマガジン",
+      "publishedAt": "2026-04-09T19:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-10T00:52:06.140Z"
+  }
+}

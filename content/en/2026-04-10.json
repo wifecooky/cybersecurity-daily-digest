@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-10",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "8825f4339fa50199d654838dcab4bd68e3cf0bd3672455b20668c34b7322e013",
+      "source": "The Hacker News",
+      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+      "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+      "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December 2025.\nThe finding, detailed by EXPMON's Haifei Li, has been described as a highly-sophisticated PDF exploit. The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025. A second",
+      "publishedAt": "2026-04-09T11:15:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        9
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "Critical Adobe Reader Zero-Day Actively Exploited via Malicious PDFs",
+      "suggestedSummary": "A zero-day vulnerability in Adobe Reader has been actively exploited since December, allowing attackers to execute arbitrary code through maliciously crafted PDFs. This vulnerability affects multiple versions of Adobe Reader, and no patch is currently available. Organizations are advised to implement mitigation strategies such as disabling JavaScript in Adobe Reader and closely monitoring for suspicious PDF activities.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2bbf271eb656cdc00192b609dcc62fc36cac1da7b8cf0505628900bff1840654",
+      "source": "Dark Reading",
+      "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
+      "summary": "Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
+      "publishedAt": "2026-04-09T20:13:34.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        11
+      ],
+      "reason": "New zero-day exploit in Windows",
+      "suggestedTitle": "BlueHammer Windows Zero-Day Exploit Uncovered",
+      "suggestedSummary": "A newly disclosed zero-day vulnerability, dubbed 'BlueHammer,' allows attackers to escalate privileges to SYSTEM level on Windows systems. The exploit leverages a combination of legitimate Windows functions and has been released as a proof-of-concept by a security researcher. Organizations should prioritize monitoring for unusual activity and apply any available mitigations to protect against potential exploitation until a patch is released.",
+      "relatedSources": [
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "34f5c57f7042e4030b281364fcc5ab0af4556254694892c46d16bd4ac8dd8be4",
+      "source": "BleepingComputer",
+      "title": "Google Chrome adds infostealer protection against session cookie theft",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
+      "summary": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]",
+      "publishedAt": "2026-04-09T18:33:29.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "fa6cd17fda0f6bdef398adc7cfca063e4d80a4bbd54822641d10ba8177534f48",
+      "source": "BleepingComputer",
+      "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+      "summary": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]",
+      "publishedAt": "2026-04-09T22:04:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4fb027a46c1a22cb75e57cb2f9f2cd670c2af4bf1f9fef24b825a81bd4d87216",
+      "source": "BleepingComputer",
+      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+      "summary": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
+      "publishedAt": "2026-04-09T19:46:44.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b72c123632668b53db569611c7384fd7972fd7152dd57754b7ab1928053897c6",
+      "source": "BleepingComputer",
+      "title": "Eurail says December data breach impacts 300,000 individuals",
+      "url": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+      "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]",
+      "publishedAt": "2026-04-09T10:31:54.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "80902ed421549a4ba296f83295b72a5097184d02847109410eb125879fdf9612",
+      "source": "Google News Security",
+      "title": "Chinese Supercomputer Allegedly Hacked, 10 Petabytes of Data Stolen - Security Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkZZa3NqM01GdEl5QjBQWVdEUEx0TFNRSEtrYndsLV9CaGZZWnpmWUI2b2JRS2laMWRwN243OEhhV2RidWh5RG80bmp1Y2RLWXV0b2o0U0ctcDJScEVSYmpsRUYzTHo0cjFKaVEtZTV6c1RaWUVYbml0emdyNTNiRERWWVIxam1SRmY1cXB0eDRnNExWSDl5dkh5eV9ObzFwTjdxLU9ORGJsN2UyT1pNTTF6bjFQdw?oc=5",
+      "summary": "Chinese Supercomputer Allegedly Hacked, 10 Petabytes of Data Stolen  Security Magazine",
+      "publishedAt": "2026-04-09T19:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-10T00:51:55.225Z"
+  }
+}
