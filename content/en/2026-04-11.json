@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-11",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "4f39f51d9f3ce1e664389854ca83117ee5b682c0b31fb7ab1e6b2f7dabcfdc04",
+      "source": "Dark Reading",
+      "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
+      "summary": "Threat actors breached the telehealth brand, and now they may know who's bald, overweight, and impotent. What could they do with that information?",
+      "publishedAt": "2026-04-10T20:02:30.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Major data breach of sensitive PHI",
+      "suggestedTitle": "Hims Breach Exposes Sensitive PHI: Immediate Response Needed",
+      "suggestedSummary": "Threat actors have breached the telehealth brand Hims, exposing sensitive personal health information (PHI) including details on medical conditions such as baldness, obesity, and impotence. The breach could lead to significant privacy violations and potential exploitation of affected individuals. Security teams should prioritize assessing exposure, implementing stronger data protection measures, and informing affected users to mitigate risks.",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5234b5b20252f022b285b2a8ba0df06f0ae303738d87d7b265e0c44aa74dd649",
+      "source": "BleepingComputer",
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
+      "publishedAt": "2026-04-10T13:12:42.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Supply chain incident with malware distribution",
+      "suggestedTitle": "CPUID Breach: Malware Delivered via CPU-Z and HWMonitor",
+      "suggestedSummary": "Hackers accessed CPUID's API and altered download links for CPU-Z and HWMonitor, causing users to download malware instead of legitimate software for a six-hour window. This supply chain attack highlights vulnerabilities in software distribution channels. Security teams should verify the integrity of downloaded software, monitor for signs of compromise, and consider implementing stricter code-signing and distribution practices.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "dfc10ca342ea16e8727041a58935bdeab9c5295c856c918d775ed8d47bcc547e",
+      "source": "Google News Security",
+      "title": "China suffers 10PB supercomputer breach, hackers attempt to sell military data: report - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm5xOGxvanJnUmZTSTM5bWhNY1ZKLWZkZEpISTBIN2Z1X1dBNVd0Mk92OUNNX0JseUx2aDBYUUdMdHZxcjUxR0pnR0hQTFJUY0pyMnotWkt0V0xvdzN2YlRGNnhpX2c5SmNBZXZDcUpmQjFad3MtMTNGVkxuejkzM2tCR0hFald5ZGxkWGVxOHEwdHpGaUdBcGFPbm1hZzdoUl96eHVwMjdRMjNTTUJsbGt5Nm9wNHNh?oc=5",
+      "summary": "China suffers 10PB supercomputer breach, hackers attempt to sell military data: report  SDxCentral",
+      "publishedAt": "2026-04-10T19:43:27.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        10,
+        12
+      ],
+      "reason": "Nation-state cyber operation targeting military data",
+      "suggestedTitle": "China's Tianjin Supercomputing Center Hit by Massive Data Breach",
+      "suggestedSummary": "A breach at China's Tianjin Supercomputing Center resulted in the theft of 10 petabytes of military data, allegedly by a group named 'FlamingChina'. This significant data exfiltration poses a strategic threat to national security and underscores the importance of securing critical infrastructure against sophisticated cyberattacks. Security teams should enhance their threat detection and response capabilities, particularly against nation-state actors.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "66abaac80b11ffd24400c3f654ab1bb4cc01350d901066770ff04ce14804aff3",
+      "source": "Google News Security",
+      "title": "OneDigital Warns Clients of Alleged Salesforce Data Breach - Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjBQRzlraW5Nem5MQXI4ZWpUTlByZ2JscUhmeHBSZjNZbUlJbUdyUy11OG95aEpGNkhGekdoRkdUSHFoMDFEQ1ljNENYLVlZRjJ5TFU1TUw0SnJjWWh2QXhoRWFLWFYwTGVFaktjdWJ5bzNQTUhjQTJkNE9IWDd0aTE2MDRsWTNkQW9obkVjaWRGdEJhYWlOSDhUbU1oVTl5eW9xYw?oc=5",
+      "summary": "OneDigital Warns Clients of Alleged Salesforce Data Breach  Wealth Management",
+      "publishedAt": "2026-04-10T19:45:19.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "acfd2065a07ad47bfa1e4399253c89ee9d021a5227a563357735714dbc67ae58",
+      "source": "Google News Security",
+      "title": "DermCare Management Data Breach Exposes Personal Information: Murphy Law Firm Investigates Legal Claims - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFNaVDlSZjFsV3lPclJSSDd4b1hzTWwyRkpvNmhiT1dnRW1jVDV2U0VtWXRMdXRMcjd3SVlMLVowWjZlZV9DWVZJeE5yeGxkaG9lUWliMGVXZlBpZE9KdjE1dENBYVdELVZEQkUwTUl4eDVCSS1OSW96OVI4X0I0VVJ3d1JHRFhXcE5LSVBwVGxBMk53aERVYUYwd3VES3A3NGpPamZIQVZfYjc4WW9yNDJ2czJER3hSYVVoRk56MmJxWVltYVJLWExLdU1DZEhWRlVQanlWY1dld3ZVNzl4MFp4M0w1S192YzVnQ1dkYlp4UE9uS2JNbFE0c2xwQ251cnJSaw?oc=5",
+      "summary": "DermCare Management Data Breach Exposes Personal Information: Murphy Law Firm Investigates Legal Claims  GlobeNewswire",
+      "publishedAt": "2026-04-10T21:24:58.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dfc503c5e3d06eaf11677db20e7fd7fc453b93c785c61f802a80d02653d5db9c",
+      "source": "BleepingComputer",
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
+      "publishedAt": "2026-04-10T15:52:45.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1ac64b471562accb9d72ee0b084a81552d72b27e02569e9a4341e3f3137d8d70",
+      "source": "Dark Reading",
+      "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+      "summary": "The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.",
+      "publishedAt": "2026-04-10T13:30:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ad66d1d69a5c0abc8ab585823b17a4a1930eeb28c7c1befb66a1c3eacb5ae33",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
+      "publishedAt": "2026-04-10T11:56:14.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-11T00:49:35.297Z"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-11",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "4f39f51d9f3ce1e664389854ca83117ee5b682c0b31fb7ab1e6b2f7dabcfdc04",
+      "source": "Dark Reading",
+      "title": "Hims数据泄露暴露最敏感的PHI",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
+      "summary": "威胁行为者入侵了这家远程医疗品牌，现在他们可能知道谁是秃头、超重和阳痿。他们可以用这些信息做什么？",
+      "publishedAt": "2026-04-10T20:02:30.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Major data breach of sensitive PHI",
+      "suggestedTitle": "Hims数据泄露暴露敏感PHI：需要立即响应",
+      "suggestedSummary": "威胁行为者入侵了远程医疗品牌Hims，暴露了包括秃头、肥胖和阳痿等医疗状况在内的敏感个人健康信息（PHI）。此次泄露可能导致严重的隐私侵犯和对受影响个人的潜在剥削。安全团队应优先评估暴露情况，实施更强的数据保护措施，并通知受影响用户以减轻风险。",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5234b5b20252f022b285b2a8ba0df06f0ae303738d87d7b265e0c44aa74dd649",
+      "source": "BleepingComputer",
+      "title": "CPUID被黑客攻击，通过CPU-Z和HWMonitor下载传播恶意软件",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "summary": "黑客入侵了CPUID项目的API，并更改了官方网站上的下载链接，以便为流行的CPU-Z和HWMonitor工具提供恶意可执行文件。",
+      "publishedAt": "2026-04-10T13:12:42.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Supply chain incident with malware distribution",
+      "suggestedTitle": "CPUID安全漏洞：通过CPU-Z和HWMonitor传播恶意软件",
+      "suggestedSummary": "黑客访问了CPUID的API，并更改了CPU-Z和HWMonitor的下载链接，导致用户在六小时内下载到恶意软件而非合法软件。这次供应链攻击突显了软件分发渠道中的漏洞。安全团队应验证下载软件的完整性，监控是否有妥协迹象，并考虑实施更严格的代码签名和分发实践。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "dfc10ca342ea16e8727041a58935bdeab9c5295c856c918d775ed8d47bcc547e",
+      "source": "Google News Security",
+      "title": "中国遭遇10PB超级计算机泄露，黑客试图出售军事数据：报告 - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm5xOGxvanJnUmZTSTM5bWhNY1ZKLWZkZEpISTBIN2Z1X1dBNVd0Mk92OUNNX0JseUx2aDBYUUdMdHZxcjUxR0pnR0hQTFJUY0pyMnotWkt0V0xvdzN2YlRGNnhpX2c5SmNBZXZDcUpmQjFad3MtMTNGVkxuejkzM2tCR0hFald5ZGxkWGVxOHEwdHpGaUdBcGFPbm1hZzdoUl96eHVwMjdRMjNTTUJsbGt5Nm9wNHNh?oc=5",
+      "summary": "中国遭遇10PB超级计算机泄露，黑客试图出售军事数据：报告 SDxCentral",
+      "publishedAt": "2026-04-10T19:43:27.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        10,
+        12
+      ],
+      "reason": "Nation-state cyber operation targeting military data",
+      "suggestedTitle": "中国天津超级计算中心遭遇重大数据泄露",
+      "suggestedSummary": "中国天津超级计算中心发生数据泄露事件，导致10PB军事数据被盗，据称是由名为“FlamingChina”的组织所为。这次重大数据外泄对国家安全构成战略威胁，强调了保护关键基础设施免受复杂网络攻击的重要性。安全团队应加强威胁检测和响应能力，特别是针对国家级黑客的攻击。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "66abaac80b11ffd24400c3f654ab1bb4cc01350d901066770ff04ce14804aff3",
+      "source": "Google News Security",
+      "title": "OneDigital警告客户有关Salesforce数据泄露的指控 - 财富管理",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjBQRzlraW5Nem5MQXI4ZWpUTlByZ2JscUhmeHBSZjNZbUlJbUdyUy11OG95aEpGNkhGekdoRkdUSHFoMDFEQ1ljNENYLVlZRjJ5TFU1TUw0SnJjWWh2QXhoRWFLWFYwTGVFaktjdWJ5bzNQTUhjQTJkNE9IWDd0aTE2MDRsWTNkQW9obkVjaWRGdEJhYWlOSDhUbU1oVTl5eW9xYw?oc=5",
+      "summary": "OneDigital警告客户有关Salesforce数据泄露的指控  财富管理",
+      "publishedAt": "2026-04-10T19:45:19.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "acfd2065a07ad47bfa1e4399253c89ee9d021a5227a563357735714dbc67ae58",
+      "source": "Google News Security",
+      "title": "DermCare管理数据泄露暴露个人信息：Murphy律师事务所调查法律索赔 - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFNaVDlSZjFsV3lPclJSSDd4b1hzTWwyRkpvNmhiT1dnRW1jVDV2U0VtWXRMdXRMcjd3SVlMLVowWjZlZV9DWVZJeE5yeGxkaG9lUWliMGVXZlBpZE9KdjE1dENBYVdELVZEQkUwTUl4eDVCSS1OSW96OVI4X0I0VVJ3d1JHRFhXcE5LSVBwVGxBMk53aERVYUYwd3VES3A3NGpPamZIQVZfYjc4WW9yNDJ2czJER3hSYVVoRk56MmJxWVltYVJLWExLdU1DZEhWRlVQanlWY1dld3ZVNzl4MFp4M0w1S192YzVnQ1dkYlp4UE9uS2JNbFE0c2xwQ251cnJSaw?oc=5",
+      "summary": "DermCare管理数据泄露暴露个人信息：Murphy律师事务所调查法律索赔 GlobeNewswire",
+      "publishedAt": "2026-04-10T21:24:58.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dfc503c5e3d06eaf11677db20e7fd7fc453b93c785c61f802a80d02653d5db9c",
+      "source": "BleepingComputer",
+      "title": "近4000台美国工业设备暴露于伊朗网络攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "summary": "伊朗关联的黑客在针对美国关键基础设施网络的网络攻击中，攻击面包括数千台由罗克韦尔自动化公司制造的互联网暴露可编程逻辑控制器（PLC）。",
+      "publishedAt": "2026-04-10T15:52:45.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1ac64b471562accb9d72ee0b084a81552d72b27e02569e9a4341e3f3137d8d70",
+      "source": "Dark Reading",
+      "title": "工业控制器仍然脆弱，冲突转向网络领域",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+      "summary": "美国政府警告称，程序逻辑控制器正成为攻击目标，研究发现179个易受攻击的操作技术（OT）设备。",
+      "publishedAt": "2026-04-10T13:30:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ad66d1d69a5c0abc8ab585823b17a4a1930eeb28c7c1befb66a1c3eacb5ae33",
+      "source": "BleepingComputer",
+      "title": "微软：加拿大员工成为工资盗窃攻击目标",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "一个被追踪为Storm-2755的财务动机威胁行为者在工资盗窃攻击中劫持账户后，正在窃取加拿大员工的工资。",
+      "publishedAt": "2026-04-10T11:56:14.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-11T00:49:39.245Z"
+  }
+}

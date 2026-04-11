@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-11",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "4f39f51d9f3ce1e664389854ca83117ee5b682c0b31fb7ab1e6b2f7dabcfdc04",
+      "source": "Dark Reading",
+      "title": "Himsの情報漏洩で最も機密性の高いPHIが露呈",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
+      "summary": "脅威アクターが遠隔医療ブランドを侵害し、誰が禿げているのか、過体重なのか、インポテンツなのかを知っている可能性があります。その情報を使って何ができるでしょうか？",
+      "publishedAt": "2026-04-10T20:02:30.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Major data breach of sensitive PHI",
+      "suggestedTitle": "Himsの情報漏洩で機密PHIが露呈：即時対応が必要",
+      "suggestedSummary": "脅威アクターが遠隔医療ブランドHimsを侵害し、禿頭、肥満、インポテンツなどの医療状態に関する機密性の高い個人健康情報（PHI）が露呈しました。この漏洩は重大なプライバシー侵害や影響を受けた個人の潜在的な搾取につながる可能性があります。セキュリティチームは、露出の評価、より強力なデータ保護対策の実施、影響を受けたユーザーへの通知を優先し、リスクを軽減する必要があります。",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5234b5b20252f022b285b2a8ba0df06f0ae303738d87d7b265e0c44aa74dd649",
+      "source": "BleepingComputer",
+      "title": "CPUIDがハッキングされ、CPU-ZとHWMonitorのダウンロードを通じてマルウェアが配信される",
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "summary": "ハッカーがCPUIDプロジェクトのAPIにアクセスし、公式ウェブサイトのダウンロードリンクを変更して、人気のあるCPU-ZとHWMonitorツールの悪意ある実行ファイルを配信しました。",
+      "publishedAt": "2026-04-10T13:12:42.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        4
+      ],
+      "reason": "Supply chain incident with malware distribution",
+      "suggestedTitle": "CPUID侵害：CPU-ZとHWMonitorを介したマルウェア配信",
+      "suggestedSummary": "ハッカーがCPUIDのAPIにアクセスし、CPU-ZとHWMonitorのダウンロードリンクを改変した結果、ユーザーは正規のソフトウェアではなくマルウェアをダウンロードすることになりました。このサプライチェーン攻撃は、ソフトウェア配信チャネルの脆弱性を浮き彫りにしています。セキュリティチームは、ダウンロードしたソフトウェアの整合性を確認し、妥協の兆候を監視し、より厳格なコード署名と配信方法の実装を検討するべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "dfc10ca342ea16e8727041a58935bdeab9c5295c856c918d775ed8d47bcc547e",
+      "source": "Google News Security",
+      "title": "中国、10PBのスーパーコンピュータ侵害に遭遇、ハッカーが軍事データを販売しようと試みる：報告 - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZm5xOGxvanJnUmZTSTM5bWhNY1ZKLWZkZEpISTBIN2Z1X1dBNVd0Mk92OUNNX0JseUx2aDBYUUdMdHZxcjUxR0pnR0hQTFJUY0pyMnotWkt0V0xvdzN2YlRGNnhpX2c5SmNBZXZDcUpmQjFad3MtMTNGVkxuejkzM2tCR0hFald5ZGxkWGVxOHEwdHpGaUdBcGFPbm1hZzdoUl96eHVwMjdRMjNTTUJsbGt5Nm9wNHNh?oc=5",
+      "summary": "中国、10PBのスーパーコンピュータ侵害に遭遇、ハッカーが軍事データを販売しようと試みる：報告  SDxCentral",
+      "publishedAt": "2026-04-10T19:43:27.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        10,
+        12
+      ],
+      "reason": "Nation-state cyber operation targeting military data",
+      "suggestedTitle": "中国の天津スーパーコンピューティングセンター、大規模なデータ侵害を受ける",
+      "suggestedSummary": "中国の天津スーパーコンピューティングセンターでの侵害により、10ペタバイトの軍事データが盗まれた。このデータ流出は、国家安全保障に対する戦略的脅威をもたらし、洗練されたサイバー攻撃に対する重要インフラのセキュリティ強化の重要性を浮き彫りにしている。セキュリティチームは、特に国家主体の攻撃者に対して、脅威検出と対応能力を強化するべきである。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "66abaac80b11ffd24400c3f654ab1bb4cc01350d901066770ff04ce14804aff3",
+      "source": "Google News Security",
+      "title": "OneDigital、Salesforceのデータ侵害の疑いについて顧客に警告 - ウェルスマネジメント",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjBQRzlraW5Nem5MQXI4ZWpUTlByZ2JscUhmeHBSZjNZbUlJbUdyUy11OG95aEpGNkhGekdoRkdUSHFoMDFEQ1ljNENYLVlZRjJ5TFU1TUw0SnJjWWh2QXhoRWFLWFYwTGVFaktjdWJ5bzNQTUhjQTJkNE9IWDd0aTE2MDRsWTNkQW9obkVjaWRGdEJhYWlOSDhUbU1oVTl5eW9xYw?oc=5",
+      "summary": "OneDigital、Salesforceのデータ侵害の疑いについて顧客に警告  ウェルスマネジメント",
+      "publishedAt": "2026-04-10T19:45:19.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "acfd2065a07ad47bfa1e4399253c89ee9d021a5227a563357735714dbc67ae58",
+      "source": "Google News Security",
+      "title": "DermCare Managementのデータ漏洩で個人情報が流出：マーフィー法律事務所が法的請求を調査 - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFNaVDlSZjFsV3lPclJSSDd4b1hzTWwyRkpvNmhiT1dnRW1jVDV2U0VtWXRMdXRMcjd3SVlMLVowWjZlZV9DWVZJeE5yeGxkaG9lUWliMGVXZlBpZE9KdjE1dENBYVdELVZEQkUwTUl4eDVCSS1OSW96OVI4X0I0VVJ3d1JHRFhXcE5LSVBwVGxBMk53aERVYUYwd3VES3A3NGpPamZIQVZfYjc4WW9yNDJ2czJER3hSYVVoRk56MmJxWVltYVJLWExLdU1DZEhWRlVQanlWY1dld3ZVNzl4MFp4M0w1S192YzVnQ1dkYlp4UE9uS2JNbFE0c2xwQ251cnJSaw?oc=5",
+      "summary": "DermCare Managementのデータ漏洩で個人情報が流出：マーフィー法律事務所が法的請求を調査 - GlobeNewswire",
+      "publishedAt": "2026-04-10T21:24:58.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dfc503c5e3d06eaf11677db20e7fd7fc453b93c785c61f802a80d02653d5db9c",
+      "source": "BleepingComputer",
+      "title": "約4,000台の米国産業機器がイランのサイバー攻撃にさらされる",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "summary": "イラン関連のハッカーによる米国の重要インフラネットワークに対するサイバー攻撃で標的とされた攻撃対象には、Rockwell Automation社製の数千台のインターネットに接続されたプログラマブルロジックコントローラー（PLC）が含まれています。",
+      "publishedAt": "2026-04-10T15:52:45.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1ac64b471562accb9d72ee0b084a81552d72b27e02569e9a4341e3f3137d8d70",
+      "source": "Dark Reading",
+      "title": "紛争がサイバー空間に移行する中、産業用コントローラーは依然として脆弱",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
+      "summary": "米国政府は、プログラマブルロジックコントローラーが標的にされていると警告しており、調査により179の脆弱な運用技術（OT）デバイスが発見されました。",
+      "publishedAt": "2026-04-10T13:30:00.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9ad66d1d69a5c0abc8ab585823b17a4a1930eeb28c7c1befb66a1c3eacb5ae33",
+      "source": "BleepingComputer",
+      "title": "マイクロソフト：カナダの従業員が給与海賊攻撃の標的に",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "Storm-2755として追跡されている金銭目的の脅威アクターが、給与海賊攻撃でアカウントを乗っ取った後、カナダの従業員の給与を盗んでいます。",
+      "publishedAt": "2026-04-10T11:56:14.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-11T00:49:43.514Z"
+  }
+}
