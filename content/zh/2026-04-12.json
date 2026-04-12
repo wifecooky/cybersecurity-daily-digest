@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-12",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "a4f7d3f6b46508bae42f70cd5858ac66121c2a218ed2819b384466e3e4b7dbcd",
+      "source": "Google News Security",
+      "title": "GTA 6 开发商 Rockstar Games 确认数据泄露，称对运营无影响 - VideoCardz.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzdvajNNdE80bXBCWkY4SWM5a3l4eW9qamQ0Skd3Sk42QU1PTkE5Yk5udW91QkxFVTF3cUF6WXdRMjdBR3BsemdwYlBHZVBIbERDUHZJVDFKaDI1UXR2WlVPSE01VDExYmtFajlxNmRHU196UGJsT3drZXFQXzVBSDBNQkFaWjQzaGlPSFRfZEFsYkppZEgtM243cDkwVG41Smp5QnJQd2tMWlhQeDVUUzN3QzVBSWJZ?oc=5",
+      "summary": "GTA 6 开发商 Rockstar Games 确认数据泄露，称对运营无影响 VideoCardz.com",
+      "publishedAt": "2026-04-11T19:24:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach with ransom threat",
+      "suggestedTitle": "Rockstar Games 遭遇数据泄露：勒索威胁迫在眉睫",
+      "suggestedSummary": "备受期待的 GTA 6 的开发商 Rockstar Games 已确认遭到恶意团体的数据泄露，该团体威胁称，除非在 4 月 14 日之前支付赎金，否则将泄露机密数据。尽管 Rockstar 声称此次泄露对公司数据或玩家信息“无实质性影响”，但据报道攻击者已访问了敏感信息。安全团队应监控潜在泄露并评估对其系统的影响，尤其是在使用 Rockstar 服务时。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "d7df947340d43f5bf7e4bbfd25df67629b507ae04cd53f0dd6b1cffe296b3307",
+      "source": "Google News Security",
+      "title": "中国在据称超级计算数据泄露后实施新的安全限制 - NTD新闻",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWtWNEEzYlhuaUhnLWlkTHFHTkVfaGZyaFBlWTkwZG1fRXIyNzZqUklHbnkwWDd1eWNQTC1lRHY1MXVPbXEtbWl1Ui1SaGFLQUx1NEZSWEpzVmZQc0pYbTE4T0k0bzRlVndTUXA2RGE3bFUzOEdmckxBVGpzQ2kyQ2NSQnNCa0xDZUhaa002SER1Q0t2M2lrUkhZUWpkemhqSlI4SlBza1paUQ?oc=5",
+      "summary": "中国在据称超级计算数据泄露后实施新的安全限制  NTD新闻",
+      "publishedAt": "2026-04-11T21:11:29.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2934cce4db881e0b2ba9a8805669225f144d305f5b84ccd38cea84cdc53e4e73",
+      "source": "BleepingComputer",
+      "title": "国际打击行动中识别出超过20,000名加密货币欺诈受害者",
+      "url": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+      "summary": "由英国国家犯罪局（NCA）主导的一项国际执法行动识别出超过20,000名加密货币欺诈受害者，这些受害者分布在加拿大、英国和美国。",
+      "publishedAt": "2026-04-11T14:20:40.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "759fdc9c8b2ae7346d564217c4511181cc63e99a4bb79d5da4a9e690763b85e1",
+      "source": "The Hacker News",
+      "title": "公民实验室：执法部门通过广告数据使用Webloc追踪5亿设备",
+      "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+      "summary": "匈牙利国内情报机构、萨尔瓦多国家警察以及多个美国执法和警察部门被指使用一种基于广告的全球地理定位监控系统Webloc。该工具由以色列公司Cobwebs Technologies开发，现由其继任者Penlink销售，两家公司于2023年7月合并。",
+      "publishedAt": "2026-04-11T06:02:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e46e006ed65f407be88a20befbdb5e7dbf6423e8ffbaa25d2223f254fabbc2e7",
+      "source": "Google News Security",
+      "title": "数据泄露影响数十万Interrail用户 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU5lbzBlY2VsWHpZNUtqX1pEcVJ3MGVuUUZ3aVVzZXc4RTd5a2lZNkQzQTJaQzhUOHdodDlqdVJtSnJJZ0wzeVRJLUpZQkNRMUFTd2RoQVhQdkZ1ZFJRZC1KMXBaRGJwWHZUeWk2QzB4ZGp5clFTSWpocEV6c2R4dUlnZ3J2X3RSU1F6d3ZsVEUxUG90ZXpvd21VdUEwUzYyenNjLXBKMVJ2cG1iZFE?oc=5",
+      "summary": "数据泄露影响数十万Interrail用户 Escudo Digital",
+      "publishedAt": "2026-04-11T05:10:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e4591b46fe2bf3f89477726d42664fddc1f740164e9290601a66750cfd3cd631",
+      "source": "Google News Security",
+      "title": "联邦政府启动对大规模Sterling银行数据泄露和涉嫌BVN保险库入侵的NDPC官方调查",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1XMmthTkxOY1Z0RjdneHJKd0FQRks3VWFEYkdzQzl1TFQ2Y05QNVU5Z29jb0hoeU9GSklpUnBlamltWl9XMGZsMlQweFVnVml6bGZodk84NmJHeTVuNkxpZDdJMHJYNnE1YnFlUllGclpuY0pJMHZ5SWt5cVdnTU5pLU9XdGpKTlJ1d1VCTzRIZjhiR21ta1pPdEMteVBIaXh5eEdhVkVHTTlXYXJz0gG0AUFVX3lxTE9qbXl3bkdLS2VBTS1TS01MWHVEbjYzbl9wNGZXdlppWW9vRF9MN29iRGtJU0RfOGE0Z3FERGpvNUVSdXZGN0JuTWo2SzN2MllzdWw2Z1k0WHFXMU80Nm9iWjV1cjVQNzVhZlZ2cmtrbGU5WUlscHJhaGREeVdEVFpxczRNaU1SRjBITlBvTDVoanBFbjFzVmRuZ3JpQnNOUmtHTlR2VEEwMmx2MVZFQUFSNmNNQw?oc=5",
+      "summary": "联邦政府启动对大规模Sterling银行数据泄露和涉嫌BVN保险库入侵的NDPC官方调查 thenigerianvoice.com",
+      "publishedAt": "2026-04-11T10:18:45.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-12T00:56:07.394Z"
+  }
+}

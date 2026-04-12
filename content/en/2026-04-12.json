@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-12",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "a4f7d3f6b46508bae42f70cd5858ac66121c2a218ed2819b384466e3e4b7dbcd",
+      "source": "Google News Security",
+      "title": "GTA 6 developer Rockstar Games confirms data breach, says there is no impact on operations - VideoCardz.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzdvajNNdE80bXBCWkY4SWM5a3l4eW9qamQ0Skd3Sk42QU1PTkE5Yk5udW91QkxFVTF3cUF6WXdRMjdBR3BsemdwYlBHZVBIbERDUHZJVDFKaDI1UXR2WlVPSE01VDExYmtFajlxNmRHU196UGJsT3drZXFQXzVBSDBNQkFaWjQzaGlPSFRfZEFsYkppZEgtM243cDkwVG41Smp5QnJQd2tMWlhQeDVUUzN3QzVBSWJZ?oc=5",
+      "summary": "GTA 6 developer Rockstar Games confirms data breach, says there is no impact on operations  VideoCardz.com",
+      "publishedAt": "2026-04-11T19:24:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach with ransom threat",
+      "suggestedTitle": "Rockstar Games Hit by Data Breach: Ransom Threat Looms",
+      "suggestedSummary": "Rockstar Games, the developer behind the highly anticipated GTA 6, has confirmed a data breach by a malicious group threatening to leak confidential data unless a ransom is paid by April 14. While Rockstar claims the breach is 'non-material' to company data or gamer info, the attackers have reportedly accessed sensitive information. Security teams should monitor for potential leaks and assess the impact on their systems, especially if using Rockstar's services.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "d7df947340d43f5bf7e4bbfd25df67629b507ae04cd53f0dd6b1cffe296b3307",
+      "source": "Google News Security",
+      "title": "China Imposes New Security Curbs After Alleged Supercomputing Data Breach - NTD News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWtWNEEzYlhuaUhnLWlkTHFHTkVfaGZyaFBlWTkwZG1fRXIyNzZqUklHbnkwWDd1eWNQTC1lRHY1MXVPbXEtbWl1Ui1SaGFLQUx1NEZSWEpzVmZQc0pYbTE4T0k0bzRlVndTUXA2RGE3bFUzOEdmckxBVGpzQ2kyQ2NSQnNCa0xDZUhaa002SER1Q0t2M2lrUkhZUWpkemhqSlI4SlBza1paUQ?oc=5",
+      "summary": "China Imposes New Security Curbs After Alleged Supercomputing Data Breach  NTD News",
+      "publishedAt": "2026-04-11T21:11:29.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2934cce4db881e0b2ba9a8805669225f144d305f5b84ccd38cea84cdc53e4e73",
+      "source": "BleepingComputer",
+      "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+      "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
+      "publishedAt": "2026-04-11T14:20:40.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "759fdc9c8b2ae7346d564217c4511181cc63e99a4bb79d5da4a9e690763b85e1",
+      "source": "The Hacker News",
+      "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+      "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+      "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc.\nThe tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after the two firms merged in July 2023",
+      "publishedAt": "2026-04-11T06:02:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e46e006ed65f407be88a20befbdb5e7dbf6423e8ffbaa25d2223f254fabbc2e7",
+      "source": "Google News Security",
+      "title": "Data breach hits hundreds of thousands of Interrail users - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU5lbzBlY2VsWHpZNUtqX1pEcVJ3MGVuUUZ3aVVzZXc4RTd5a2lZNkQzQTJaQzhUOHdodDlqdVJtSnJJZ0wzeVRJLUpZQkNRMUFTd2RoQVhQdkZ1ZFJRZC1KMXBaRGJwWHZUeWk2QzB4ZGp5clFTSWpocEV6c2R4dUlnZ3J2X3RSU1F6d3ZsVEUxUG90ZXpvd21VdUEwUzYyenNjLXBKMVJ2cG1iZFE?oc=5",
+      "summary": "Data breach hits hundreds of thousands of Interrail users  Escudo Digital",
+      "publishedAt": "2026-04-11T05:10:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e4591b46fe2bf3f89477726d42664fddc1f740164e9290601a66750cfd3cd631",
+      "source": "Google News Security",
+      "title": "FG Launches Official NDPC Probe Into Massive Sterling Bank Data Breach And Alleged BVN Vault Hack - thenigerianvoice.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU1XMmthTkxOY1Z0RjdneHJKd0FQRks3VWFEYkdzQzl1TFQ2Y05QNVU5Z29jb0hoeU9GSklpUnBlamltWl9XMGZsMlQweFVnVml6bGZodk84NmJHeTVuNkxpZDdJMHJYNnE1YnFlUllGclpuY0pJMHZ5SWt5cVdnTU5pLU9XdGpKTlJ1d1VCTzRIZjhiR21ta1pPdEMteVBIaXh5eEdhVkVHTTlXYXJz0gG0AUFVX3lxTE9qbXl3bkdLS2VBTS1TS01MWHVEbjYzbl9wNGZXdlppWW9vRF9MN29iRGtJU0RfOGE0Z3FERGpvNUVSdXZGN0JuTWo2SzN2MllzdWw2Z1k0WHFXMU80Nm9iWjV1cjVQNzVhZlZ2cmtrbGU5WUlscHJhaGREeVdEVFpxczRNaU1SRjBITlBvTDVoanBFbjFzVmRuZ3JpQnNOUmtHTlR2VEEwMmx2MVZFQUFSNmNNQw?oc=5",
+      "summary": "FG Launches Official NDPC Probe Into Massive Sterling Bank Data Breach And Alleged BVN Vault Hack  thenigerianvoice.com",
+      "publishedAt": "2026-04-11T10:18:45.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-12T00:56:02.668Z"
+  }
+}
