@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-13",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "a6d4a616a097fd33e3fd6acf1fb08dc72cffd9c287cbd84eecc9662f28306634",
+      "source": "The Hacker News",
+      "title": "Adobe修补了被积极利用的Acrobat Reader漏洞CVE-2026-34621",
+      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "summary": "Adobe已发布紧急更新，以修复Acrobat Reader中一个被积极利用的严重安全漏洞。该漏洞被分配了CVE标识符CVE-2026-34621，CVSS评分为8.6（满分10.0）。成功利用该漏洞可能允许攻击者在受影响的安装中运行恶意代码。",
+      "publishedAt": "2026-04-12T04:25:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        7,
+        19
+      ],
+      "reason": "Critical zero-day in Adobe Acrobat Reader",
+      "suggestedTitle": "Adobe Acrobat Reader零日漏洞CVE-2026-34621被积极利用",
+      "suggestedSummary": "Adobe已为Acrobat Reader中的一个严重零日漏洞CVE-2026-34621发布紧急补丁。该漏洞正在被积极利用，对用户构成重大风险。该漏洞允许远程代码执行，可能使攻击者能够完全控制受影响的系统。安全团队应优先进行补丁修复以减轻这一威胁，并确保系统更新至最新版本。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "03ff3c93fbdde2bdd758be411d40f60e931f9a652963beb4bf859e26fcf34634",
+      "source": "BleepingComputer",
+      "title": "关键的 Marimo 预认证 RCE 漏洞现正被积极利用",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+      "summary": "Marimo 中的一个关键预认证远程代码执行（RCE）漏洞现正被积极利用，用于凭证盗窃。[...]",
+      "publishedAt": "2026-04-12T14:20:31.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        25
+      ],
+      "reason": "RCE vulnerability under active exploitation",
+      "suggestedTitle": "Marimo 预认证 RCE 漏洞的积极利用",
+      "suggestedSummary": "Marimo 中的一个关键预认证远程代码执行漏洞目前正被积极利用。此漏洞允许攻击者在无需事先认证的情况下在易受攻击的系统上执行任意代码，构成严重威胁。使用 Marimo 的组织应立即应用可用补丁，并检查网络日志以发现妥协迹象，以防止未经授权的访问和潜在的数据泄露。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9883228d57fbd2d1d520cb9353d7c1a43d24193fce144fe5a2cf2f500b467067",
+      "source": "Google News Security",
+      "title": "Salesforce数据泄露和AI裁员重塑风险和估值叙事 - 雅虎财经",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWW1DMy1WYXhRNkxtd3lQdzl3MlExODFaajRCdDlHamN5WkE5U3NnZ3diUGEtWmE1clE1cm9SS3hkYzE4U19WOTY1SlYxVFdWLTZNN243b2xpQmxmRmpjUEZFSmZmdUlYc3d0WlhjWkpsOWE3RFc2TU1YOFpDb1VoQXZPZldiZGs1MG9NN0VZWDkyTEY5ejZnQlZtYVI0aGM?oc=5",
+      "summary": "Salesforce数据泄露和AI裁员重塑风险和估值叙事  雅虎财经",
+      "publishedAt": "2026-04-12T22:07:44.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b3dbe5f9ab786483ead2b47bed0a819252fee750e7cc184267580d9f13a90261",
+      "source": "The Hacker News",
+      "title": "CPUID泄露通过木马化的CPU-Z和HWMonitor下载分发STX RAT",
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "summary": "未知的威胁行为者入侵了CPUID（“cpuid[.]com”）网站，该网站托管着流行的硬件监控工具，如CPU-Z、HWMonitor、HWMonitor Pro和PerfMonitor，在不到24小时的时间内提供了这些软件的恶意可执行文件，并部署了一种名为STX RAT的远程访问木马。事件大约从4月9日15:00 UTC持续到4月10日10:00 UTC。",
+      "publishedAt": "2026-04-12T05:54:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "92293ba5997cabdb0be0d097cb70e798ca3d48fc9d56c0a1c56d57008607ac15",
+      "source": "Google News Security (CN)",
+      "title": "Adobe发布紧急安全更新修复Acrobat和Acrobat Reader存在的零日漏洞 - 蓝点网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vb3JrLWRsSEh6Q3o5NkVLVjVzaWhqRS1ILXYxbHgzdWVza2xsMFVSVWtEUkVyazdJSWFDeTh4UG83ZjFfRmcySkNzSEdxUkQwZG5zRnNyeHpkODNz?oc=5",
+      "summary": "Adobe发布紧急安全更新修复Acrobat和Acrobat Reader存在的零日漏洞 蓝点网",
+      "publishedAt": "2026-04-12T10:24:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "71dec33e393fa37f86e228b77fa4c4e9e28d5c45b6ab491a9f11a403d71117a5",
+      "source": "Google News Security (JP)",
+      "title": "微软Edge 147正式发布，“沉浸式阅读器”集成“Copilot”/修复60个漏洞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zTGlsVnV1aXNtaTREbnVwSEwyM0g3VEpvdGYzdmxoMjdFZlUxU3ByU0JKRWRnTE90Z29yZ3VpZFpkS0FVbXRWUHJoNG0yR3hzeFpDV2pIdVhBcU9IbzRKbThuc2tCOHBR?oc=5",
+      "summary": "微软Edge 147正式发布，“沉浸式阅读器”集成了“Copilot”/修复了60个漏洞",
+      "publishedAt": "2026-04-12T15:05:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-13T00:56:58.140Z"
+  }
+}

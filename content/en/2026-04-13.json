@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-13",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "a6d4a616a097fd33e3fd6acf1fb08dc72cffd9c287cbd84eecc9662f28306634",
+      "source": "The Hacker News",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.\nIt has been described as",
+      "publishedAt": "2026-04-12T04:25:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        7,
+        19
+      ],
+      "reason": "Critical zero-day in Adobe Acrobat Reader",
+      "suggestedTitle": "Adobe Acrobat Reader Zero-Day CVE-2026-34621 Actively Exploited",
+      "suggestedSummary": "Adobe has released emergency patches for a critical zero-day vulnerability, CVE-2026-34621, in Acrobat Reader. This flaw is being actively exploited in the wild, posing a significant risk to users. The vulnerability allows for remote code execution, potentially enabling attackers to take full control of affected systems. Security teams should prioritize patching to mitigate this threat and ensure systems are updated to the latest version.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "03ff3c93fbdde2bdd758be411d40f60e931f9a652963beb4bf859e26fcf34634",
+      "source": "BleepingComputer",
+      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+      "publishedAt": "2026-04-12T14:20:31.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        25
+      ],
+      "reason": "RCE vulnerability under active exploitation",
+      "suggestedTitle": "Active Exploitation of Marimo Pre-Auth RCE Vulnerability",
+      "suggestedSummary": "A critical pre-authentication remote code execution vulnerability in Marimo is currently under active exploitation. This flaw allows attackers to execute arbitrary code on vulnerable systems without prior authentication, posing a severe threat. Organizations using Marimo should apply available patches immediately and review network logs for signs of compromise to prevent unauthorized access and potential data breaches.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9883228d57fbd2d1d520cb9353d7c1a43d24193fce144fe5a2cf2f500b467067",
+      "source": "Google News Security",
+      "title": "Salesforce Data Breach And AI Layoffs Reshape Risk And Valuation Narrative - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWW1DMy1WYXhRNkxtd3lQdzl3MlExODFaajRCdDlHamN5WkE5U3NnZ3diUGEtWmE1clE1cm9SS3hkYzE4U19WOTY1SlYxVFdWLTZNN243b2xpQmxmRmpjUEZFSmZmdUlYc3d0WlhjWkpsOWE3RFc2TU1YOFpDb1VoQXZPZldiZGs1MG9NN0VZWDkyTEY5ejZnQlZtYVI0aGM?oc=5",
+      "summary": "Salesforce Data Breach And AI Layoffs Reshape Risk And Valuation Narrative  Yahoo Finance",
+      "publishedAt": "2026-04-12T22:07:44.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b3dbe5f9ab786483ead2b47bed0a819252fee750e7cc184267580d9f13a90261",
+      "source": "The Hacker News",
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX RAT.\nThe incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00 UTC, with",
+      "publishedAt": "2026-04-12T05:54:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "92293ba5997cabdb0be0d097cb70e798ca3d48fc9d56c0a1c56d57008607ac15",
+      "source": "Google News Security (CN)",
+      "title": "Adobe发布紧急安全更新修复Acrobat和Acrobat Reader存在的零日漏洞 - 蓝点网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vb3JrLWRsSEh6Q3o5NkVLVjVzaWhqRS1ILXYxbHgzdWVza2xsMFVSVWtEUkVyazdJSWFDeTh4UG83ZjFfRmcySkNzSEdxUkQwZG5zRnNyeHpkODNz?oc=5",
+      "summary": "Adobe发布紧急安全更新修复Acrobat和Acrobat Reader存在的零日漏洞  蓝点网",
+      "publishedAt": "2026-04-12T10:24:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "71dec33e393fa37f86e228b77fa4c4e9e28d5c45b6ab491a9f11a403d71117a5",
+      "source": "Google News Security (JP)",
+      "title": "「Microsoft Edge 147」が正式公開、「イマーシブ リーダー」に「Copilot」が統合／脆弱性の修正も60件実施 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zTGlsVnV1aXNtaTREbnVwSEwyM0g3VEpvdGYzdmxoMjdFZlUxU3ByU0JKRWRnTE90Z29yZ3VpZFpkS0FVbXRWUHJoNG0yR3hzeFpDV2pIdVhBcU9IbzRKbThuc2tCOHBR?oc=5",
+      "summary": "「Microsoft Edge 147」が正式公開、「イマーシブ リーダー」に「Copilot」が統合／脆弱性の修正も60件実施  窓の杜",
+      "publishedAt": "2026-04-12T15:05:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-13T00:56:54.761Z"
+  }
+}
