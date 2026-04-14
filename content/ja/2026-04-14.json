@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-14",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "50084ef656accde3e3b90e801306e904d4cc01149b3aed5864ce6aea07d3cb4a",
+      "source": "Dark Reading",
+      "title": "Adobe、数か月間放置されたゼロデイを修正",
+      "url": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
+      "summary": "攻撃者は、少なくとも4か月間、Adobe AcrobatおよびReaderのゼロデイを悪意のあるPDFファイルを使用して悪用していました。",
+      "publishedAt": "2026-04-13T20:52:38.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        10
+      ],
+      "reason": "Zero-day actively exploited",
+      "suggestedTitle": "Adobe Acrobatのゼロデイが悪用され、即時パッチが必要",
+      "suggestedSummary": "Adobeは、数か月間にわたり積極的に悪用されているAcrobatおよびReaderのゼロデイ脆弱性（CVE-2026-34621）に対する緊急パッチをリリースしました。攻撃者は悪意のあるPDFファイルを使用して、影響を受けたシステム上で任意のコードを実行します。セキュリティチームは、潜在的な悪用リスクを軽減するために、最新バージョンへの更新を優先する必要があります。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8b62ca8aba3e12329fb1f483eb3e36b418ffe049c392030056e29525185f37cc",
+      "source": "The Hacker News",
+      "title": "FBIとインドネシア警察、2000万ドルの詐欺未遂の背後にあるW3LLフィッシングネットワークを解体",
+      "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+      "summary": "米国連邦捜査局（FBI）は、インドネシア国家警察と協力して、W3LLという市販のツールキットを利用して数千人の被害者のアカウント資格情報を盗み、2000万ドル以上の詐欺を試みたグローバルなフィッシング作戦に関連するインフラを解体しました。同時に、当局は開発者とされる人物を拘束しました。",
+      "publishedAt": "2026-04-13T14:46:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6,
+        7
+      ],
+      "reason": "Major phishing network dismantled",
+      "suggestedTitle": "FBIとインドネシア警察、W3LLフィッシングネットワークを解体",
+      "suggestedSummary": "FBIとインドネシア当局は、2000万ドルの詐欺未遂を引き起こしたW3LLフィッシングネットワークの解体に成功しました。この作戦により、ネットワークの開発者が逮捕されました。セキュリティチームは、幅広い業界を対象に高度なフィッシング技術を用いたこのグループに対抗するため、防御策を見直すべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0277c6def94ea1038aac80e521f7bf8ef2771e9cd7ff40ee73e3e9f774e100d1",
+      "source": "BleepingComputer",
+      "title": "ロックスター・ゲームスの分析データが恐喝グループにより流出",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "summary": "ロックスター・ゲームスは、Anodotでの最近のセキュリティインシデントに関連したデータ侵害を受け、ShinyHuntersという恐喝グループがその盗まれたデータをデータ流出サイトで公開しました。",
+      "publishedAt": "2026-04-13T20:08:10.000Z",
+      "score": 58,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "95577062c0bec5e6177c046fb1424119d2eb5b68ee66ce0d96462aa11428a9fb",
+      "source": "BleepingComputer",
+      "title": "OpenAI、Axios攻撃後にmacOS証明書をローテーション、コード署名ワークフローに影響",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "summary": "OpenAIは、最近のサプライチェーン攻撃でGitHub Actionsワークフローが悪意のあるAxiosパッケージを実行した後、潜在的に露出したmacOSコード署名証明書をローテーションしています。[...]",
+      "publishedAt": "2026-04-13T17:39:10.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "b7a86d82606659e512b46d4163f97ca1c9df394905abe2b4eff28b2bb06a1927",
+      "source": "BleepingComputer",
+      "title": "wolfSSLライブラリの重大な欠陥により偽造証明書の使用が可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "summary": "wolfSSLのSSL/TLSライブラリにおける重大な脆弱性は、楕円曲線デジタル署名アルゴリズム（ECDSA）署名をチェックする際に、ハッシュアルゴリズムやそのサイズの不適切な検証を通じてセキュリティを弱体化させる可能性があります。",
+      "publishedAt": "2026-04-13T19:56:03.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1603825f6e29a7e3f48f35c8385adb3b6a7c0250c3578ede136187cc683a4d2b",
+      "source": "Dark Reading",
+      "title": "APT41、クラウド認証情報を収集するために「ゼロ検出」バックドアを提供",
+      "url": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+      "summary": "多産な中国支援の脅威グループがAWS、Google、Azure、Alibabaのクラウド環境を標的にし、タイポスクワッティングを使用してC2通信を隠蔽しています。",
+      "publishedAt": "2026-04-13T15:08:12.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "04402086cd52564edf0446673fc9717070692ff3f02587d427e0be0c790ae3a2",
+      "source": "The Hacker News",
+      "title": "北朝鮮のAPT37がFacebookのソーシャルエンジニアリングを利用してRokRATマルウェアを配信",
+      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "北朝鮮のハッキンググループであるAPT37（別名ScarCruft）は、新たな多段階のソーシャルエンジニアリングキャンペーンに関与しているとされています。このキャンペーンでは、脅威アクターがFacebook上でターゲットに接触し、ソーシャルメディアプラットフォームで友達として追加することで、信頼構築のプロセスをリモートアクセス型トロイの木馬であるRokRATの配信チャネルに変えました。",
+      "publishedAt": "2026-04-13T09:15:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-14T00:56:40.652Z"
+  }
+}

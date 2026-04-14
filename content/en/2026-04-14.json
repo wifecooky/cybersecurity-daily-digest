@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-14",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "50084ef656accde3e3b90e801306e904d4cc01149b3aed5864ce6aea07d3cb4a",
+      "source": "Dark Reading",
+      "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
+      "url": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
+      "summary": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
+      "publishedAt": "2026-04-13T20:52:38.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        10
+      ],
+      "reason": "Zero-day actively exploited",
+      "suggestedTitle": "Adobe Acrobat Zero-Day Exploited, Immediate Patch Required",
+      "suggestedSummary": "Adobe has released an emergency patch for a zero-day vulnerability (CVE-2026-34621) in Acrobat and Reader, which has been actively exploited for months. Attackers use maliciously crafted PDF files to execute arbitrary code on affected systems. Security teams should prioritize updating to the latest versions to mitigate potential exploitation risks.",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8b62ca8aba3e12329fb1f483eb3e36b418ffe049c392030056e29525185f37cc",
+      "source": "The Hacker News",
+      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+      "url": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in fraud.\nIn tandem, authorities detained the alleged developer, who has&",
+      "publishedAt": "2026-04-13T14:46:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6,
+        7
+      ],
+      "reason": "Major phishing network dismantled",
+      "suggestedTitle": "FBI and Indonesian Police Dismantle W3LL Phishing Network",
+      "suggestedSummary": "The FBI and Indonesian authorities have successfully dismantled the W3LL phishing network, responsible for $20 million in fraud attempts. The operation led to the arrest of the network's developer. Security teams should review their defenses against phishing attacks, as the group targeted a wide range of industries with sophisticated phishing techniques.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0277c6def94ea1038aac80e521f7bf8ef2771e9cd7ff40ee73e3e9f774e100d1",
+      "source": "BleepingComputer",
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
+      "publishedAt": "2026-04-13T20:08:10.000Z",
+      "score": 58,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "95577062c0bec5e6177c046fb1424119d2eb5b68ee66ce0d96462aa11428a9fb",
+      "source": "BleepingComputer",
+      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+      "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]",
+      "publishedAt": "2026-04-13T17:39:10.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "b7a86d82606659e512b46d4163f97ca1c9df394905abe2b4eff28b2bb06a1927",
+      "source": "BleepingComputer",
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
+      "publishedAt": "2026-04-13T19:56:03.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1603825f6e29a7e3f48f35c8385adb3b6a7c0250c3578ede136187cc683a4d2b",
+      "source": "Dark Reading",
+      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
+      "url": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
+      "summary": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
+      "publishedAt": "2026-04-13T15:08:12.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "04402086cd52564edf0446673fc9717070692ff3f02587d427e0be0c790ae3a2",
+      "source": "The Hacker News",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan called RokRAT.\n\"The threat actor used two Facebook",
+      "publishedAt": "2026-04-13T09:15:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-14T00:56:24.091Z"
+  }
+}
