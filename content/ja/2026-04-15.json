@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-15",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "ef570f46d8a54e1b532e55647591286d974273c3a76bec15921c1732234870da",
+      "source": "BleepingComputer",
+      "title": "マイクロソフト 2026年4月のパッチ火曜日で167の欠陥と2つのゼロデイを修正",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "summary": "本日はマイクロソフトの2026年4月のパッチ火曜日で、167の欠陥を修正するセキュリティアップデートが提供されており、2つのゼロデイ脆弱性が含まれています。[...]",
+      "publishedAt": "2026-04-14T17:41:13.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Critical Patch Tuesday release",
+      "suggestedTitle": "マイクロソフト 2026年4月のパッチ火曜日: 167の欠陥と2つのゼロデイを修正",
+      "suggestedSummary": "マイクロソフトの2026年4月のパッチ火曜日では、167のセキュリティ欠陥が修正され、その中には実際に悪用されている2つのゼロデイ脆弱性が含まれています。このアップデートには、Windows、Office、Azureに影響を与える特権昇格やリモートコード実行の脆弱性に対する重要なパッチが含まれています。セキュリティチームは、これらの更新を優先して適用し、悪用のリスクを軽減し、これらの高深刻度の脅威からシステムを保護することを推奨します。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "771fd1afbd0950184f0ff764122b53b07ba37112e61110c5f71ac263bd0af598",
+      "source": "BleepingComputer",
+      "title": "マグロウヒル、恐喝の脅威を受けてデータ侵害を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "教育会社マグロウヒルは、BleepingComputerへの声明で、ハッカーがSalesforceの設定ミスを悪用し、内部データにアクセスしたことを確認しました。",
+      "publishedAt": "2026-04-14T18:07:07.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5
+      ],
+      "reason": "Major data breach confirmed",
+      "suggestedTitle": "マグロウヒルのデータ侵害：恐喝の脅威が機密データを露呈",
+      "suggestedSummary": "教育会社マグロウヒルは、ハッカーによる恐喝の脅威を受けてデータ侵害を確認しました。この侵害では、無許可で機密データにアクセスされ、学生や教育機関に影響を与える可能性があります。セキュリティチームは、データ保護対策を見直し、漏洩した情報の不正使用を監視して潜在的なリスクを軽減する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c5147eb29152a2655b0ac6709a3aa58595a7c9825f35602ce6429fd029f7e4e1",
+      "source": "BleepingComputer",
+      "title": "100以上のChromeウェブストア拡張機能がユーザーアカウントとデータを盗む",
+      "url": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "summary": "公式Chromeウェブストアにある100以上の悪意のある拡張機能が、Google OAuth2ベアラートークンを盗み、バックドアを展開し、広告詐欺を行おうとしています。[...]",
+      "publishedAt": "2026-04-14T20:33:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6efb286a93770cd6b1eb93ba8490f61908508714910232796c7ac18649f452be",
+      "source": "The Hacker News",
+      "title": "新しいPHP Composerの脆弱性により任意のコマンド実行が可能に — パッチがリリース",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "PHPのパッケージマネージャーであるComposerにおいて、2つの高深刻度のセキュリティ脆弱性が公開されました。これらの脆弱性が悪用されると、任意のコマンドが実行される可能性があります。これらの脆弱性は、Perforce VCS（バージョン管理ソフトウェア）ドライバーに影響を与えるコマンドインジェクションの欠陥として説明されています。2つの脆弱性の詳細は以下の通りです -",
+      "publishedAt": "2026-04-14T15:57:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1df793308d06e5979c2e0dc576f0662f8dc280484d13e5b3c7d68593d1ee4cd8",
+      "source": "The Hacker News",
+      "title": "ShowDocのRCE脆弱性CVE-2025-0520が未パッチのサーバーで積極的に悪用される",
+      "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "summary": "中国で人気のある文書管理およびコラボレーションサービスであるShowDocに影響を与える重大なセキュリティ脆弱性が、実際に積極的に悪用されています。問題の脆弱性はCVE-2025-0520（別名CNVD-2020-26585）で、CVSSスコアは10.0中9.4です。これは、不適切な検証に起因する無制限のファイルアップロードのケースに関連しています。",
+      "publishedAt": "2026-04-14T05:50:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "52d527539e0e9af1491a0a313437e4edf9fe49591330587834e056debc692f5e",
+      "source": "The Hacker News",
+      "title": "CISA、Fortinet、Microsoft、Adobeソフトウェアの既知の脆弱性6件を追加",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は月曜日、既知の脆弱性（KEV）カタログに6件のセキュリティ脆弱性を追加しました。これらは、積極的に悪用されている証拠があるためです。脆弱性のリストは以下の通りです -\n\nCVE-2026-21643（CVSSスコア: 9.1） - Fortinet FortiClient EMSのSQLインジェクション脆弱性で、これにより...",
+      "publishedAt": "2026-04-14T05:39:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "548b141efff6d1b0eaae5500c63e9f89a09a6de521d0549cb7ebe020524ddd8f",
+      "source": "Google News Security",
+      "title": "ShowDocの脆弱性が積極的に悪用される - SCメディア",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHJyMlVsaGRzc01NRGk0YVg2dnhUcGNvaHhtcVJfZlVwRFlubkxUcnV3WldWMkF4NFNJaTV2V3VUdHBFOXQ3akc0SVd2cS1ySGI0N1I1cHhSdkJ6MXhiM1Q0N1REcU9NRzh1Y3hUekJwSENYbkVPdTI5UjNHUmVRTVVKRDRKME5xOU9EMDdDeUFYZHpGSnlTbUpfSWMzSko3U3JlZ0lB?oc=5",
+      "summary": "ShowDocの脆弱性が積極的に悪用される - SCメディア",
+      "publishedAt": "2026-04-14T15:59:49.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-15T00:57:00.312Z"
+  }
+}

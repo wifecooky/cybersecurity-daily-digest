@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-15",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "ef570f46d8a54e1b532e55647591286d974273c3a76bec15921c1732234870da",
+      "source": "BleepingComputer",
+      "title": "微软2026年4月补丁星期二修复167个漏洞，2个零日漏洞",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "summary": "今天是微软2026年4月的补丁星期二，发布了针对167个漏洞的安全更新，其中包括2个零日漏洞。 [...]",
+      "publishedAt": "2026-04-14T17:41:13.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Critical Patch Tuesday release",
+      "suggestedTitle": "微软2026年4月补丁星期二：修复167个漏洞，2个零日漏洞",
+      "suggestedSummary": "微软2026年4月补丁星期二解决了167个安全漏洞，其中包括两个在野外被积极利用的零日漏洞。此次更新包括针对影响Windows、Office和Azure的权限提升和远程代码执行漏洞的关键补丁。安全团队应优先处理这些更新，以减轻被利用的风险，并确保系统免受这些高严重性威胁的侵害。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "771fd1afbd0950184f0ff764122b53b07ba37112e61110c5f71ac263bd0af598",
+      "source": "BleepingComputer",
+      "title": "麦格劳-希尔确认数据泄露，因勒索威胁",
+      "url": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "教育公司麦格劳-希尔在给BleepingComputer的声明中确认，黑客利用Salesforce配置错误访问了其内部数据。[...]",
+      "publishedAt": "2026-04-14T18:07:07.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5
+      ],
+      "reason": "Major data breach confirmed",
+      "suggestedTitle": "麦格劳-希尔数据泄露：勒索威胁暴露敏感数据",
+      "suggestedSummary": "教育公司麦格劳-希尔在黑客勒索威胁后确认数据泄露。此次泄露涉及未经授权访问敏感数据，可能影响学生和教育机构。安全团队应审查数据保护措施，并监控任何被泄露信息的滥用情况，以减轻潜在风险。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c5147eb29152a2655b0ac6709a3aa58595a7c9825f35602ce6429fd029f7e4e1",
+      "source": "BleepingComputer",
+      "title": "超过100个Chrome网上应用店扩展程序窃取用户账户和数据",
+      "url": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "summary": "在官方Chrome网上应用店中，超过100个恶意扩展程序试图窃取Google OAuth2 Bearer令牌、部署后门并进行广告欺诈。[...]",
+      "publishedAt": "2026-04-14T20:33:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6efb286a93770cd6b1eb93ba8490f61908508714910232796c7ac18649f452be",
+      "source": "The Hacker News",
+      "title": "新的PHP Composer漏洞允许任意命令执行——补丁已发布",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "在PHP的包管理器Composer中披露了两个高危安全漏洞，如果被成功利用，可能导致任意命令执行。这些漏洞被描述为影响Perforce VCS（版本控制软件）驱动的命令注入缺陷。以下是这两个漏洞的详细信息——CVE-2026-40176（CVSS",
+      "publishedAt": "2026-04-14T15:57:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1df793308d06e5979c2e0dc576f0662f8dc280484d13e5b3c7d68593d1ee4cd8",
+      "source": "The Hacker News",
+      "title": "ShowDoc 远程代码执行漏洞 CVE-2025-0520 在未修补服务器上被积极利用",
+      "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "summary": "一个影响 ShowDoc 的关键安全漏洞正在野外被积极利用。ShowDoc 是中国流行的文档管理和协作服务。相关漏洞为 CVE-2025-0520（又名 CNVD-2020-26585），其 CVSS 评分为 9.4（满分 10.0）。该漏洞涉及由于不当验证导致的无限制文件上传问题。",
+      "publishedAt": "2026-04-14T05:50:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "52d527539e0e9af1491a0a313437e4edf9fe49591330587834e056debc692f5e",
+      "source": "The Hacker News",
+      "title": "CISA 添加 Fortinet、Microsoft 和 Adobe 软件中的 6 个已知被利用的漏洞",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "summary": "美国网络安全和基础设施安全局 (CISA) 于周一将六个安全漏洞添加到其已知被利用漏洞 (KEV) 目录中，理由是有证据表明这些漏洞正在被积极利用。漏洞列表如下 -\n\nCVE-2026-21643 (CVSS 分数：9.1) - Fortinet FortiClient EMS 中的 SQL 注入漏洞，可能允许攻击者...",
+      "publishedAt": "2026-04-14T05:39:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "548b141efff6d1b0eaae5500c63e9f89a09a6de521d0549cb7ebe020524ddd8f",
+      "source": "Google News Security",
+      "title": "ShowDoc 漏洞被积极利用 - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHJyMlVsaGRzc01NRGk0YVg2dnhUcGNvaHhtcVJfZlVwRFlubkxUcnV3WldWMkF4NFNJaTV2V3VUdHBFOXQ3akc0SVd2cS1ySGI0N1I1cHhSdkJ6MXhiM1Q0N1REcU9NRzh1Y3hUekJwSENYbkVPdTI5UjNHUmVRTVVKRDRKME5xOU9EMDdDeUFYZHpGSnlTbUpfSWMzSko3U3JlZ0lB?oc=5",
+      "summary": "ShowDoc 漏洞被积极利用  SC Media",
+      "publishedAt": "2026-04-14T15:59:49.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-15T00:56:51.900Z"
+  }
+}

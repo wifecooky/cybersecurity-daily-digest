@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-15",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "ef570f46d8a54e1b532e55647591286d974273c3a76bec15921c1732234870da",
+      "source": "BleepingComputer",
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
+      "publishedAt": "2026-04-14T17:41:13.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Critical Patch Tuesday release",
+      "suggestedTitle": "Microsoft April 2026 Patch Tuesday: 167 Flaws, 2 Zero-Days Fixed",
+      "suggestedSummary": "Microsoft's April 2026 Patch Tuesday addresses 167 security flaws, including two zero-day vulnerabilities actively exploited in the wild. The update includes critical patches for privilege escalation and remote code execution vulnerabilities affecting Windows, Office, and Azure. Security teams should prioritize these updates to mitigate risks of exploitation and ensure systems are protected against these high-severity threats.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "771fd1afbd0950184f0ff764122b53b07ba37112e61110c5f71ac263bd0af598",
+      "source": "BleepingComputer",
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "publishedAt": "2026-04-14T18:07:07.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5
+      ],
+      "reason": "Major data breach confirmed",
+      "suggestedTitle": "McGraw-Hill Data Breach: Extortion Threat Exposes Sensitive Data",
+      "suggestedSummary": "Education company McGraw-Hill has confirmed a data breach following an extortion threat by hackers. The breach involved unauthorized access to sensitive data, potentially impacting students and educational institutions. Security teams should review data protection measures and monitor for any misuse of compromised information to mitigate potential risks.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c5147eb29152a2655b0ac6709a3aa58595a7c9825f35602ce6429fd029f7e4e1",
+      "source": "BleepingComputer",
+      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
+      "url": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "summary": "More than 100 malicious extensions in the official Chrome Web Store are attempting to steal Google OAuth2 Bearer tokens, deploy backdoors, and carry out ad fraud. [...]",
+      "publishedAt": "2026-04-14T20:33:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6efb286a93770cd6b1eb93ba8490f61908508714910232796c7ac18649f452be",
+      "source": "The Hacker News",
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities have been described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below -\n\nCVE-2026-40176 (CVSS",
+      "publishedAt": "2026-04-14T15:57:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1df793308d06e5979c2e0dc576f0662f8dc280484d13e5b3c7d68593d1ee4cd8",
+      "source": "The Hacker News",
+      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+      "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0.\nIt relates to a case of unrestricted file upload that stems from improper validation of",
+      "publishedAt": "2026-04-14T05:50:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "52d527539e0e9af1491a0a313437e4edf9fe49591330587834e056debc692f5e",
+      "source": "The Hacker News",
+      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-21643 (CVSS score: 9.1) -  An SQL injection vulnerability in  Fortinet FortiClient EMS that could allow an",
+      "publishedAt": "2026-04-14T05:39:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "548b141efff6d1b0eaae5500c63e9f89a09a6de521d0549cb7ebe020524ddd8f",
+      "source": "Google News Security",
+      "title": "ShowDoc vulnerability actively exploited - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHJyMlVsaGRzc01NRGk0YVg2dnhUcGNvaHhtcVJfZlVwRFlubkxUcnV3WldWMkF4NFNJaTV2V3VUdHBFOXQ3akc0SVd2cS1ySGI0N1I1cHhSdkJ6MXhiM1Q0N1REcU9NRzh1Y3hUekJwSENYbkVPdTI5UjNHUmVRTVVKRDRKME5xOU9EMDdDeUFYZHpGSnlTbUpfSWMzSko3U3JlZ0lB?oc=5",
+      "summary": "ShowDoc vulnerability actively exploited  SC Media",
+      "publishedAt": "2026-04-14T15:59:49.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-15T00:56:45.590Z"
+  }
+}
