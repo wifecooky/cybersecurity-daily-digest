@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-16",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "822e88f5e3f424f8163660df40c39579d91759eb26cb58b832cb0659f97f2089",
+      "source": "BleepingComputer",
+      "title": "关键的Nginx UI认证绕过漏洞现已在野外被积极利用",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "summary": "支持模型上下文协议（MCP）的Nginx UI中存在一个关键漏洞，目前正在被利用以未经认证的方式完全接管服务器。[...]",
+      "publishedAt": "2026-04-15T22:35:09.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        73
+      ],
+      "reason": "Zero-day actively exploited",
+      "suggestedTitle": "关键的Nginx UI认证绕过漏洞正在被积极利用",
+      "suggestedSummary": "Nginx UI中支持模型上下文协议（MCP）的关键认证绕过漏洞（CVE-2026-33032）正在被积极利用。此漏洞允许攻击者完全控制Nginx服务器，包括重启、创建、修改和删除配置的能力。安全团队应优先修补受影响的系统，以减轻潜在的服务器接管风险，并确保实施强有力的访问控制。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8b1121031b9df65785521db39738bfd6f389e38fad96d36a21b80363ccfd1be6",
+      "source": "BleepingComputer",
+      "title": "新的AgingFly恶意软件用于攻击乌克兰政府和医院",
+      "url": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "summary": "一种名为'AgingFly'的新型恶意软件家族已被发现用于攻击地方政府和医院，从基于Chromium的浏览器和WhatsApp信使中窃取认证数据。",
+      "publishedAt": "2026-04-15T21:57:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7
+      ],
+      "reason": "Nation-state malware targeting critical sectors",
+      "suggestedTitle": "AgingFly恶意软件瞄准乌克兰政府和医院",
+      "suggestedSummary": "'AgingFly'恶意软件家族已被确认在针对乌克兰政府机构和医疗设施的网络攻击中使用。这种复杂的恶意软件被认为是国家级攻击的一部分，采用了先进的规避技术并瞄准敏感数据。安全团队应监测妥协指标并加强防御，以防止潜在的数据泄露和服务中断。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9cae4941967a615dbe6116092572f0273364581c5d512daebee58da0329f66a",
+      "source": "Dark Reading",
+      "title": "微软和Salesforce修补AI代理数据泄露漏洞",
+      "url": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "summary": "最近修复的Salesforce Agentforce和Microsoft Copilot中的两个提示注入漏洞可能会使外部攻击者泄露敏感数据。",
+      "publishedAt": "2026-04-15T12:00:00.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "6e6ec0d7c7c1a85f13f36d8dfde931dd618dea0b8d96bc2ab811d485bcdeb5a2",
+      "source": "BleepingComputer",
+      "title": "WordPress插件套件被黑客攻击，向数千个网站传播恶意软件",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+      "summary": "EssentialPlugin包中的30多个WordPress插件被植入恶意代码，使得运行这些插件的网站遭到未经授权的访问。",
+      "publishedAt": "2026-04-15T20:33:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2f38301e2f92ea121abb89a8496362d82fcc442fe9143c5801dbf9aaccac18c9",
+      "source": "BleepingComputer",
+      "title": "CISA标记Windows任务主机漏洞被用于攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "summary": "CISA警告美国政府机构要保护其系统免受Windows任务主机权限提升漏洞的影响，该漏洞可能允许攻击者获取SYSTEM权限。",
+      "publishedAt": "2026-04-15T14:51:05.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ff08ee9b18fa5f0bce0399498d4fbea7beecc2e26e5037459523c2cb95e3a453",
+      "source": "Google News Security",
+      "title": "108个恶意Chrome扩展被发现窃取2万用户的Google和Telegram数据 - Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXZmU3BQVTB0T2dsMXdwb2NFOHNaU2hGOGYxczhWTUM4Qml6YlJha3dsaWJnbHo2UTE1ZkI3eWlqb3FYYWpIWnhyaDcwbHZIbkc2cDlyM2NDMUs4ek5IaVJVS25pSlBuNVoxU05SX0xNSk1YcXp2VmRFSGhDMEVFU0kzTmVsVXNrUEVUbTg3Mjg2NW9heUFIRk1jY0dZLWtxNHY2MTRfbGtCbXd3?oc=5",
+      "summary": "108个恶意Chrome扩展被发现窃取2万用户的Google和Telegram数据  Bitdefender",
+      "publishedAt": "2026-04-15T10:54:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-16T00:58:05.336Z"
+  }
+}

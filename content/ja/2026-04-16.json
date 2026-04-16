@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-16",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "822e88f5e3f424f8163660df40c39579d91759eb26cb58b832cb0659f97f2089",
+      "source": "BleepingComputer",
+      "title": "重大なNginx UI認証バイパスの脆弱性が野放しで悪用されている",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "summary": "Model Context Protocol (MCP)サポートを持つNginx UIの重大な脆弱性が、認証なしでの完全なサーバー乗っ取りのために野放しで悪用されています。[...]",
+      "publishedAt": "2026-04-15T22:35:09.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        73
+      ],
+      "reason": "Zero-day actively exploited",
+      "suggestedTitle": "重大なNginx UI認証バイパスの脆弱性が活発に悪用されている",
+      "suggestedSummary": "Model Context Protocol (MCP)サポートを持つNginx UIの重大な認証バイパスの脆弱性（CVE-2026-33032）が野放しで活発に悪用されています。この脆弱性により、攻撃者はNginxサーバーを完全に制御し、再起動、作成、変更、削除の構成を行うことが可能になります。セキュリティチームは、影響を受けるシステムのパッチ適用を優先し、潜在的なサーバー乗っ取りを軽減し、堅牢なアクセス制御を確保するべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8b1121031b9df65785521db39738bfd6f389e38fad96d36a21b80363ccfd1be6",
+      "source": "BleepingComputer",
+      "title": "ウクライナ政府と病院を標的にした新しいAgingFlyマルウェア",
+      "url": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "summary": "新しいマルウェアファミリー「AgingFly」が、ChromiumベースのブラウザやWhatsAppメッセンジャーから認証データを盗む攻撃で、地方政府や病院を標的にしていることが確認されました。",
+      "publishedAt": "2026-04-15T21:57:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7
+      ],
+      "reason": "Nation-state malware targeting critical sectors",
+      "suggestedTitle": "AgingFlyマルウェアがウクライナ政府と病院を標的に",
+      "suggestedSummary": "『AgingFly』マルウェアファミリーは、ウクライナの政府機関や医療施設に対するサイバー攻撃で確認されています。この高度なマルウェアは、国家によるキャンペーンの一環であると考えられ、高度な回避技術を駆使し、機密データを狙っています。セキュリティチームは、侵害の兆候を監視し、潜在的なデータ漏洩やサービス中断から守るために防御を強化する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9cae4941967a615dbe6116092572f0273364581c5d512daebee58da0329f66a",
+      "source": "Dark Reading",
+      "title": "マイクロソフトとセールスフォース、AIエージェントのデータ漏洩の脆弱性を修正",
+      "url": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "summary": "最近修正されたSalesforce AgentforceとMicrosoft Copilotのプロンプトインジェクションにより、外部の攻撃者が機密データを漏洩させる可能性があった。",
+      "publishedAt": "2026-04-15T12:00:00.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "6e6ec0d7c7c1a85f13f36d8dfde931dd618dea0b8d96bc2ab811d485bcdeb5a2",
+      "source": "BleepingComputer",
+      "title": "WordPressプラグインスイートがハッキングされ、数千のサイトにマルウェアを配信",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+      "summary": "EssentialPluginパッケージに含まれる30以上のWordPressプラグインが不正なコードで侵害され、それを実行しているウェブサイトへの不正アクセスを可能にしています。",
+      "publishedAt": "2026-04-15T20:33:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2f38301e2f92ea121abb89a8496362d82fcc442fe9143c5801dbf9aaccac18c9",
+      "source": "BleepingComputer",
+      "title": "CISA、攻撃で悪用されているWindowsタスクホストの脆弱性を警告",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "summary": "CISAは、攻撃者がSYSTEM特権を取得する可能性のあるWindowsタスクホストの特権昇格脆弱性に対して、米国政府機関にシステムのセキュリティを確保するよう警告しました。",
+      "publishedAt": "2026-04-15T14:51:05.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ff08ee9b18fa5f0bce0399498d4fbea7beecc2e26e5037459523c2cb95e3a453",
+      "source": "Google News Security",
+      "title": "108の悪意のあるChrome拡張機能が20,000人のユーザーからGoogleとTelegramのデータを盗む - Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXZmU3BQVTB0T2dsMXdwb2NFOHNaU2hGOGYxczhWTUM4Qml6YlJha3dsaWJnbHo2UTE1ZkI3eWlqb3FYYWpIWnhyaDcwbHZIbkc2cDlyM2NDMUs4ek5IaVJVS25pSlBuNVoxU05SX0xNSk1YcXp2VmRFSGhDMEVFU0kzTmVsVXNrUEVUbTg3Mjg2NW9heUFIRk1jY0dZLWtxNHY2MTRfbGtCbXd3?oc=5",
+      "summary": "108の悪意のあるChrome拡張機能が20,000人のユーザーからGoogleとTelegramのデータを盗むことが発覚  Bitdefender",
+      "publishedAt": "2026-04-15T10:54:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-16T00:58:12.237Z"
+  }
+}

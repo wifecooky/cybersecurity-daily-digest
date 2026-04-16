@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-16",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "822e88f5e3f424f8163660df40c39579d91759eb26cb58b832cb0659f97f2089",
+      "source": "BleepingComputer",
+      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+      "publishedAt": "2026-04-15T22:35:09.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        73
+      ],
+      "reason": "Zero-day actively exploited",
+      "suggestedTitle": "Critical Nginx UI Auth Bypass Flaw Under Active Exploitation",
+      "suggestedSummary": "A critical authentication bypass vulnerability (CVE-2026-33032) in Nginx UI with Model Context Protocol (MCP) support is being actively exploited in the wild. This flaw allows attackers to take full control of Nginx servers, including the ability to restart, create, modify, and delete configurations. Security teams should prioritize patching affected systems to mitigate potential server takeovers and ensure robust access controls are in place.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8b1121031b9df65785521db39738bfd6f389e38fad96d36a21b80363ccfd1be6",
+      "source": "BleepingComputer",
+      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+      "url": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
+      "publishedAt": "2026-04-15T21:57:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7
+      ],
+      "reason": "Nation-state malware targeting critical sectors",
+      "suggestedTitle": "AgingFly Malware Targets Ukrainian Government and Hospitals",
+      "suggestedSummary": "The 'AgingFly' malware family has been identified in cyberattacks against Ukrainian government entities and healthcare facilities. This sophisticated malware is believed to be part of a nation-state campaign, employing advanced evasion techniques and targeting sensitive data. Security teams should monitor for indicators of compromise and enhance defenses to protect against potential data breaches and service disruptions.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b9cae4941967a615dbe6116092572f0273364581c5d512daebee58da0329f66a",
+      "source": "Dark Reading",
+      "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
+      "url": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "summary": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
+      "publishedAt": "2026-04-15T12:00:00.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "6e6ec0d7c7c1a85f13f36d8dfde931dd618dea0b8d96bc2ab811d485bcdeb5a2",
+      "source": "BleepingComputer",
+      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+      "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]",
+      "publishedAt": "2026-04-15T20:33:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2f38301e2f92ea121abb89a8496362d82fcc442fe9143c5801dbf9aaccac18c9",
+      "source": "BleepingComputer",
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+      "publishedAt": "2026-04-15T14:51:05.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ff08ee9b18fa5f0bce0399498d4fbea7beecc2e26e5037459523c2cb95e3a453",
+      "source": "Google News Security",
+      "title": "108 malicious Chrome extensions caught stealing Google and Telegram data from 20,000 users - Bitdefender",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXZmU3BQVTB0T2dsMXdwb2NFOHNaU2hGOGYxczhWTUM4Qml6YlJha3dsaWJnbHo2UTE1ZkI3eWlqb3FYYWpIWnhyaDcwbHZIbkc2cDlyM2NDMUs4ek5IaVJVS25pSlBuNVoxU05SX0xNSk1YcXp2VmRFSGhDMEVFU0kzTmVsVXNrUEVUbTg3Mjg2NW9heUFIRk1jY0dZLWtxNHY2MTRfbGtCbXd3?oc=5",
+      "summary": "108 malicious Chrome extensions caught stealing Google and Telegram data from 20,000 users  Bitdefender",
+      "publishedAt": "2026-04-15T10:54:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-16T00:58:01.009Z"
+  }
+}
