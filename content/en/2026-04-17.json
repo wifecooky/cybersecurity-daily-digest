@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-17",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "66bb19ee5530eb4c20dcffa6dbbe03366d8d7bd6bfcc28cea370a49e9b952ce3",
+      "source": "BleepingComputer",
+      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+      "summary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]",
+      "publishedAt": "2026-04-16T10:35:09.000Z",
+      "score": 48,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach and critical malware",
+      "suggestedTitle": "McGraw Hill Data Breach and ZionSiphon Malware Threat",
+      "suggestedSummary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, following a breach that exploited vulnerabilities in Salesforce. Concurrently, a new malware, ZionSiphon, is targeting water treatment systems, posing a significant threat to operational technology. Security teams should prioritize patching Salesforce systems and monitor for indicators of compromise related to ZionSiphon malware to protect critical infrastructure.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "21bcb1246c107ec9a9c70de6eb8d8170a66be4bc78b8ed324b629e96e385146f",
+      "source": "BleepingComputer",
+      "title": "New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "summary": "A researcher known as \"Chaotic Eclipse\" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed \"RedSun,\" in the past two weeks, protesting how the company works with cybersecurity researchers. [...]",
+      "publishedAt": "2026-04-16T20:19:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        7
+      ],
+      "reason": "Zero-day vulnerability and critical patch",
+      "suggestedTitle": "Microsoft Defender Zero-Day and Cisco Webex Critical Patch",
+      "suggestedSummary": "A proof-of-concept exploit for a Microsoft Defender zero-day, dubbed 'RedSun', allows attackers to gain SYSTEM privileges. Meanwhile, Cisco has released patches for critical vulnerabilities in Webex Services that require immediate customer action. Security teams should apply the Cisco patches promptly and monitor for exploitation attempts targeting the Defender zero-day to mitigate potential risks.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "52b0fdff8517d360c5af1b692e4b4681571ee88eea117c98955ab80330bf3977",
+      "source": "The Hacker News",
+      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+      "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service.\nThe details of the vulnerabilities are below -\n\nCVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
+      "publishedAt": "2026-04-16T11:27:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "89b6f4ae2fbe1c0008d022ec636cc3c999e1b344c8b8c672aa206f8d8dadad1d",
+      "source": "Dark Reading",
+      "title": "North Korea Uses ClickFix to Target macOS Users' Data",
+      "url": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
+      "summary": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
+      "publishedAt": "2026-04-16T19:42:45.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8a3f0949378c6ce03838306e78e6c7856b2065ac34061f77db75f395fade5cf2",
+      "source": "The Hacker News",
+      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+      "url": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
+      "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025.\n\"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos",
+      "publishedAt": "2026-04-16T17:52:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0800e3a93dfe76d115564be62b2e49bd700582103958bc93b9b3868ee65b2f2c",
+      "source": "BleepingComputer",
+      "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
+      "summary": "A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]",
+      "publishedAt": "2026-04-16T14:09:11.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1e9f9c995607208aee85d1476309d0bcbe1eb790864548a93a35dbef901c8a79",
+      "source": "The Hacker News",
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors.\nDubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
+      "publishedAt": "2026-04-16T10:20:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-17T00:55:50.636Z"
+  }
+}
