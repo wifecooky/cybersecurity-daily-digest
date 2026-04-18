@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-18",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "14af35108fd0d2987d97e0ec36a2527aed13c9c5fd255e4a99987264aa47ac90",
+      "source": "The Hacker News",
+      "title": "Apache ActiveMQ CVE-2026-34197 被添加到 CISA KEV 中，正被积极利用",
+      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "根据美国网络安全和基础设施安全局（CISA）的消息，最近披露的 Apache ActiveMQ Classic 中的一个高严重性安全漏洞正在被积极利用。为此，该机构已将该漏洞（跟踪编号为 CVE-2026-34197，CVSS 评分：8.8）添加到其已知被利用漏洞（KEV）目录中，要求联邦平民部门采取措施。",
+      "publishedAt": "2026-04-17T03:22:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        4
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "Apache ActiveMQ 漏洞 CVE-2026-34197 的积极利用",
+      "suggestedSummary": "Apache ActiveMQ Classic 中的一个高严重性安全漏洞，标识为 CVE-2026-34197，正在被积极利用。此漏洞允许攻击者在消息代理上执行未经授权的操作，可能导致数据泄露或服务中断。安全团队应优先应用可用补丁，并监控与 ActiveMQ 部署相关的异常活动。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ba9ef12bb345387eaacea1f0b38d2f26f418fd640937066a7dad2da2ee939f2f",
+      "source": "The Hacker News",
+      "title": "微软Defender三个零日漏洞被积极利用；其中两个仍未修补",
+      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+      "summary": "Huntress警告称，威胁行为者正在利用微软Defender中最近披露的三个安全漏洞，在受感染的系统中获取提升的权限。这些活动涉及对三个漏洞的利用，这些漏洞被命名为BlueHammer（需要GitHub登录）、RedSun和UnDefend，所有这些漏洞都是由一位名为Chaotic Eclipse的研究人员作为零日漏洞发布的。",
+      "publishedAt": "2026-04-17T13:21:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        60
+      ],
+      "reason": "Multiple Microsoft Defender zero-days exploited",
+      "suggestedTitle": "微软Defender零日漏洞在野利用",
+      "suggestedSummary": "微软Defender中的三个零日漏洞已被披露，并报告了积极的利用活动。其中两个漏洞仍未修补，对依赖Defender进行端点保护的系统构成重大风险。安全团队应实施缓解措施，监控妥协指标（IOCs），并应用任何可用的补丁以降低被利用的风险。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "be06d13fa19544979c1abeaefc723dc067aca03187ae249173956a5fb60c3dc7",
+      "source": "BleepingComputer",
+      "title": "Payouts King勒索软件利用QEMU虚拟机绕过终端安全",
+      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "summary": "Payouts King勒索软件正在使用QEMU模拟器作为反向SSH后门，在受感染的系统上运行隐藏的虚拟机，从而绕过终端安全。",
+      "publishedAt": "2026-04-17T19:10:19.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6ce9b911d5a5231e43b062860fe4bf1cb60695e9043d71cec2f9025cbdfa7d36",
+      "source": "Ars Technica Security",
+      "title": "美国制裁的货币兑换公司称1500万美元的盗窃由“不友好国家”实施",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "summary": "Grinex表示，所需的黑客资源“仅对……不友好国家”可用。",
+      "publishedAt": "2026-04-17T21:28:35.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5e87b3e26afccf4d9ec5818b4366daa12a6f76d0dc65bce97db00544b45e3b71",
+      "source": "BleepingComputer",
+      "title": "Grinex交易所指责“西方情报”导致1370万美元加密货币被盗",
+      "url": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+      "summary": "总部位于吉尔吉斯斯坦的加密货币交易所Grinex在遭受了一次价值1370万美元的黑客攻击后暂停了运营，此次攻击被归咎于西方情报机构。[...]",
+      "publishedAt": "2026-04-17T15:08:53.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8c7a3a3269f8c527d93b53e150ac8ba0c0503ca27442cd2f4e09f34f28b788e3",
+      "source": "The Hacker News",
+      "title": "行动PowerOFF查获53个DDoS域名，曝光300万犯罪账户",
+      "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "一项国际执法行动已关闭53个域名，并逮捕了四名与商业分布式拒绝服务（DDoS）操作有关的人，这些操作被超过75,000名网络犯罪分子使用。正在进行的行动被称为行动PowerOFF，破坏了对DDoS租用服务的访问，拆除了支持它们的技术基础设施，并获得了对",
+      "publishedAt": "2026-04-17T05:46:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4740dcf61dda966cd9fc11a004310a506fa74c4554f70ac841173fd7cb0626c7",
+      "source": "BleepingComputer",
+      "title": "微软：部分Windows服务器在四月补丁后进入重启循环",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "summary": "微软警告称，一些Windows域控制器在安装2026年四月安全更新后进入重启循环。",
+      "publishedAt": "2026-04-17T07:59:47.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-18T00:51:19.583Z"
+  }
+}

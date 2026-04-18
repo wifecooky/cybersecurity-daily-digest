@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-18",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "14af35108fd0d2987d97e0ec36a2527aed13c9c5fd255e4a99987264aa47ac90",
+      "source": "The Hacker News",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\nTo that end, the agency has added the vulnerability, tracked as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian",
+      "publishedAt": "2026-04-17T03:22:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        4
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "Active Exploitation of Apache ActiveMQ Vulnerability CVE-2026-34197",
+      "suggestedSummary": "A high-severity security flaw in Apache ActiveMQ Classic, identified as CVE-2026-34197, is being actively exploited. This vulnerability allows attackers to perform unauthorized operations on the message broker, potentially leading to data breaches or service disruptions. Security teams should prioritize applying available patches and monitor for unusual activity related to ActiveMQ deployments.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ba9ef12bb345387eaacea1f0b38d2f26f418fd640937066a7dad2da2ee939f2f",
+      "source": "The Hacker News",
+      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse (",
+      "publishedAt": "2026-04-17T13:21:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        60
+      ],
+      "reason": "Multiple Microsoft Defender zero-days exploited",
+      "suggestedTitle": "Exploitation of Microsoft Defender Zero-Days in the Wild",
+      "suggestedSummary": "Three zero-day vulnerabilities in Microsoft Defender have been disclosed, with active exploitation reported. Two of these vulnerabilities remain unpatched, posing significant risks to systems relying on Defender for endpoint protection. Security teams should implement mitigations, monitor for Indicators of Compromise (IOCs), and apply any available patches to reduce the risk of exploitation.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "be06d13fa19544979c1abeaefc723dc067aca03187ae249173956a5fb60c3dc7",
+      "source": "BleepingComputer",
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "summary": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
+      "publishedAt": "2026-04-17T19:10:19.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6ce9b911d5a5231e43b062860fe4bf1cb60695e9043d71cec2f9025cbdfa7d36",
+      "source": "Ars Technica Security",
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+      "publishedAt": "2026-04-17T21:28:35.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5e87b3e26afccf4d9ec5818b4366daa12a6f76d0dc65bce97db00544b45e3b71",
+      "source": "BleepingComputer",
+      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
+      "url": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+      "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]",
+      "publishedAt": "2026-04-17T15:08:53.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8c7a3a3269f8c527d93b53e150ac8ba0c0503ca27442cd2f4e09f34f28b788e3",
+      "source": "The Hacker News",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals.\nThe ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to",
+      "publishedAt": "2026-04-17T05:46:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4740dcf61dda966cd9fc11a004310a506fa74c4554f70ac841173fd7cb0626c7",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "summary": "Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]",
+      "publishedAt": "2026-04-17T07:59:47.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-18T00:51:14.269Z"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-18",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "14af35108fd0d2987d97e0ec36a2527aed13c9c5fd255e4a99987264aa47ac90",
+      "source": "The Hacker News",
+      "title": "Apache ActiveMQのCVE-2026-34197がCISA KEVに追加、活発な悪用が進行中",
+      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "summary": "最近公開されたApache ActiveMQ Classicの高深刻度のセキュリティ欠陥が、米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）によると、野外で活発に悪用されています。このため、同庁はこの脆弱性（CVE-2026-34197、CVSSスコア: 8.8）を既知の悪用脆弱性（KEV）カタログに追加し、連邦市民機関に対策を求めています。",
+      "publishedAt": "2026-04-17T03:22:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        4
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "Apache ActiveMQの脆弱性CVE-2026-34197の活発な悪用",
+      "suggestedSummary": "Apache ActiveMQ Classicの高深刻度のセキュリティ欠陥であるCVE-2026-34197が活発に悪用されています。この脆弱性により、攻撃者はメッセージブローカーで不正な操作を行うことができ、データ漏洩やサービスの中断につながる可能性があります。セキュリティチームは、利用可能なパッチの適用を優先し、ActiveMQの展開に関連する異常な活動を監視するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ba9ef12bb345387eaacea1f0b38d2f26f418fd640937066a7dad2da2ee939f2f",
+      "source": "The Hacker News",
+      "title": "3つのMicrosoft Defenderゼロデイが積極的に悪用される; 2つはまだ未修正",
+      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+      "summary": "Huntressは、脅威アクターが最近公開されたMicrosoft Defenderの3つのセキュリティ欠陥を悪用して、侵害されたシステムで特権を昇格させていると警告しています。この活動には、BlueHammer（GitHubサインインが必要）、RedSun、UnDefendというコードネームが付けられた3つの脆弱性の悪用が含まれており、これらはChaotic Eclipseとして知られる研究者によってゼロデイとして公開されました。",
+      "publishedAt": "2026-04-17T13:21:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        60
+      ],
+      "reason": "Multiple Microsoft Defender zero-days exploited",
+      "suggestedTitle": "Microsoft Defenderゼロデイの野外での悪用",
+      "suggestedSummary": "Microsoft Defenderの3つのゼロデイ脆弱性が公開され、積極的な悪用が報告されています。これらの脆弱性のうち2つは未修正のままであり、Defenderに依存するシステムにとって重大なリスクをもたらしています。セキュリティチームは、緩和策を実施し、侵害の指標（IOC）を監視し、利用可能なパッチを適用して悪用のリスクを低減する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "be06d13fa19544979c1abeaefc723dc067aca03187ae249173956a5fb60c3dc7",
+      "source": "BleepingComputer",
+      "title": "Payouts KingランサムウェアがQEMU仮想マシンを使用してエンドポイントセキュリティを回避",
+      "url": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "summary": "Payouts Kingランサムウェアは、QEMUエミュレーターをリバースSSHバックドアとして使用し、侵害されたシステム上で隠れた仮想マシンを実行してエンドポイントセキュリティを回避しています。",
+      "publishedAt": "2026-04-17T19:10:19.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6ce9b911d5a5231e43b062860fe4bf1cb60695e9043d71cec2f9025cbdfa7d36",
+      "source": "Ars Technica Security",
+      "title": "米国制裁対象の通貨交換所、1,500万ドルの強盗は「敵対的国家」によるものと発表",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "summary": "Grinexは、必要なハッキングリソースが「...敵対的国家にのみ利用可能」と述べている。",
+      "publishedAt": "2026-04-17T21:28:35.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5e87b3e26afccf4d9ec5818b4366daa12a6f76d0dc65bce97db00544b45e3b71",
+      "source": "BleepingComputer",
+      "title": "Grinex取引所、「西側諜報機関」による$1370万の暗号通貨ハッキングを非難",
+      "url": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
+      "summary": "キルギスに拠点を置く暗号通貨取引所Grinexは、西側諜報機関によるとされる$1370万のハッキング被害を受け、業務を停止しました。[...]",
+      "publishedAt": "2026-04-17T15:08:53.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8c7a3a3269f8c527d93b53e150ac8ba0c0503ca27442cd2f4e09f34f28b788e3",
+      "source": "The Hacker News",
+      "title": "オペレーション・パワーオフ、53のDDoSドメインを押収し、300万の犯罪アカウントを暴露",
+      "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "summary": "国際的な法執行機関の作戦により、商業的な分散型サービス拒否（DDoS）攻撃に関連する53のドメインが停止され、4人が逮捕されました。この攻撃は75,000人以上のサイバー犯罪者によって利用されていました。継続中の取り組みである「オペレーション・パワーオフ」は、DDoS-for-hireサービスへのアクセスを妨害し、それを支える技術インフラを停止し、アクセスを取得しました。",
+      "publishedAt": "2026-04-17T05:46:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4740dcf61dda966cd9fc11a004310a506fa74c4554f70ac841173fd7cb0626c7",
+      "source": "BleepingComputer",
+      "title": "マイクロソフト：一部のWindowsサーバーが4月のパッチ後に再起動ループに入る",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "summary": "マイクロソフトは、2026年4月のセキュリティアップデートをインストールした後、一部のWindowsドメインコントローラーが再起動ループに入ることを警告しています。",
+      "publishedAt": "2026-04-17T07:59:47.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-18T00:51:25.507Z"
+  }
+}
