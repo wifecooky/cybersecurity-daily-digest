@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-19",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "a35dc8442a06c1b64d8f7efb1190d95b8abbf9cda5d9acf4dc8ae849a968c615",
+      "source": "BleepingComputer",
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
+      "publishedAt": "2026-04-18T15:09:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Critical RCE vulnerability with PoC",
+      "suggestedTitle": "Critical RCE Flaw in Protobuf Library Exposed",
+      "suggestedSummary": "A critical remote code execution vulnerability has been discovered in the Protobuf library, with proof-of-concept exploit code now publicly available. The flaw allows attackers to execute arbitrary JavaScript code, posing significant risks to systems using this library. Security teams should prioritize patching affected systems to mitigate potential exploitation, as the vulnerability could lead to severe security breaches.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2a421f27e765a035eb01dcb70a6671faa2b0f0a702e8f0f8fa6ffae405222d3d",
+      "source": "Google News Security",
+      "title": "Grand Theft Auto-Maker Rockstar Games Data Breach: Hackers Claim Theft Of Nearly 80 Million Records Through Anodot And Snowflake Vulnerability - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOS1wUUo4SENjNE5IMnZLQ016Z2RXUzFlYU43M3ZUUmJwMFVmazF2ajM4VUZxdHFDZG5aTjQ1a0N3TXNVNF9HRUpxZVdybGNvd2wzaURLakZPNmdDSXdPZnZVY0xXa29zTnVIaXZ0NDNEQlhLb2pzYTN2V2Vfb1B5T0xOcUM3cEFGS1E?oc=5",
+      "summary": "Grand Theft Auto-Maker Rockstar Games Data Breach: Hackers Claim Theft Of Nearly 80 Million Records Through Anodot And Snowflake Vulnerability  Yahoo",
+      "publishedAt": "2026-04-18T13:31:05.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        21
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "Rockstar Games Data Breach: 80 Million Records Exposed",
+      "suggestedSummary": "Hackers have claimed to steal nearly 80 million records from Rockstar Games, exploiting vulnerabilities in Anodot and Snowflake. The breach exposes sensitive data, highlighting significant security weaknesses in the company's infrastructure. Security teams must assess and reinforce defenses against similar exploits to protect sensitive information from being compromised.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3e7e78ff1969c374193463c789e7db4a0ad8a262c982b986d11a4752a6387e95",
+      "source": "Google News Security",
+      "title": "Maryland Real Property Search Tool Taken Offline After Suspicious Activity Detected - Eye On Annapolis",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1EY1JQVGoydmc3eWh2NlNLR3ZPakZ4TUpkSS1DUGVHVjdXRUdtUURFWDI1bENETERFNFZlN2MzMEtQT010RDQxWWduejBvV1RoNWxodjJfc2pEVjFIaVRKUjVlQ3dLTWhRNlE0MTVRTDhaVTdydExOM0I3bGRmZVpTUkV5YVVDajhiSnN1UGZMSTcwOHJuVlQwZFRKSXU4VjhHNE5FWXBmZWUydUZMSlRPeG16c1Rld2NHRW9sOUo?oc=5",
+      "summary": "Maryland Real Property Search Tool Taken Offline After Suspicious Activity Detected  Eye On Annapolis",
+      "publishedAt": "2026-04-18T20:15:48.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ed4e9807235265609d9cf8870cf5d7e1140b1b122672eeb3f0940de94a1e18ab",
+      "source": "Google News Security",
+      "title": "Georgia Heritage Data Breach Affects 43,077 People - Claim Depot",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOXRyam85OERqNWlPY0p6S200c2lQMTBoZnNjY0dRLVlXVzBkMzM2VVlXMHBBcENzRF9wYXNmY2VZV0tRNlNMckJfRlF2Y2lXLUxtT2tHclhuUnlQc21CbXcwNHlhcmhGWWJBaHpEYnN3NjFpazJYS25GTXFkdw?oc=5",
+      "summary": "Georgia Heritage Data Breach Affects 43,077 People  Claim Depot",
+      "publishedAt": "2026-04-18T16:41:06.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "abdedecb0e43e29913f413924f9ebec56746fbefc8c2f15fdbb16decf776e10f",
+      "source": "The Hacker News",
+      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
+      "publishedAt": "2026-04-18T07:59:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a4bda5ebb936195a6b25eff739b6b9f91d0be5e1cf354fa6054fe58433101d82",
+      "source": "The Hacker News",
+      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+      "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.\nThe attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting",
+      "publishedAt": "2026-04-18T06:01:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "863ecf9f36bec1f02de916cfa6509f8bab2a34225039a9a563fa67fc130e74f9",
+      "source": "Google News Security",
+      "title": "Amtrak data breach enters HIBP after leak claim - Railway Supply",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGhPOTlRUlVRX1BoSkpaMWprNGZvRi1zUmZxYUxLUGJ4enZmTUdTOWFSMGZWLVJRZG50RFJ6QXhlWkVFamhWT2pHcll3MXlxODh6eWw1TGltc2ZUWU4tWHN0cl9JNXBPMUZDOXBzQjdNU1NPc1JMaTRzeDBQRm9yaw?oc=5",
+      "summary": "Amtrak data breach enters HIBP after leak claim  Railway Supply",
+      "publishedAt": "2026-04-18T08:08:55.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-19T00:57:52.194Z"
+  }
+}

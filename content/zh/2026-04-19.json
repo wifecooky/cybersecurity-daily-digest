@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-19",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "a35dc8442a06c1b64d8f7efb1190d95b8abbf9cda5d9acf4dc8ae849a968c615",
+      "source": "BleepingComputer",
+      "title": "Protobuf库中的关键漏洞允许JavaScript代码执行",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "summary": "已经发布了一个针对protobuf.js中关键远程代码执行漏洞的概念验证漏洞利用代码。protobuf.js是Google Protocol Buffers的广泛使用的JavaScript实现。[...]",
+      "publishedAt": "2026-04-18T15:09:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Critical RCE vulnerability with PoC",
+      "suggestedTitle": "Protobuf库中的关键RCE漏洞曝光",
+      "suggestedSummary": "在Protobuf库中发现了一个关键的远程代码执行漏洞，并且概念验证漏洞利用代码现已公开。该漏洞允许攻击者执行任意JavaScript代码，对使用该库的系统构成重大风险。安全团队应优先修补受影响的系统，以减轻潜在的利用风险，因为该漏洞可能导致严重的安全漏洞。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2a421f27e765a035eb01dcb70a6671faa2b0f0a702e8f0f8fa6ffae405222d3d",
+      "source": "Google News Security",
+      "title": "《侠盗猎车手》开发商Rockstar Games数据泄露：黑客声称通过Anodot和Snowflake漏洞窃取近8000万条记录 - 雅虎",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOS1wUUo4SENjNE5IMnZLQ016Z2RXUzFlYU43M3ZUUmJwMFVmazF2ajM4VUZxdHFDZG5aTjQ1a0N3TXNVNF9HRUpxZVdybGNvd2wzaURLakZPNmdDSXdPZnZVY0xXa29zTnVIaXZ0NDNEQlhLb2pzYTN2V2Vfb1B5T0xOcUM3cEFGS1E?oc=5",
+      "summary": "《侠盗猎车手》开发商Rockstar Games数据泄露：黑客声称通过Anodot和Snowflake漏洞窃取近8000万条记录 - 雅虎",
+      "publishedAt": "2026-04-18T13:31:05.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        21
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "Rockstar Games数据泄露：8000万条记录曝光",
+      "suggestedSummary": "黑客声称通过利用Anodot和Snowflake的漏洞，从Rockstar Games窃取了近8000万条记录。此次泄露暴露了敏感数据，突显了公司基础设施中显著的安全弱点。安全团队必须评估并加强防御，以防止类似的攻击危及敏感信息。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3e7e78ff1969c374193463c789e7db4a0ad8a262c982b986d11a4752a6387e95",
+      "source": "Google News Security",
+      "title": "马里兰州不动产搜索工具因检测到可疑活动而下线 - 关注安纳波利斯",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1EY1JQVGoydmc3eWh2NlNLR3ZPakZ4TUpkSS1DUGVHVjdXRUdtUURFWDI1bENETERFNFZlN2MzMEtQT010RDQxWWduejBvV1RoNWxodjJfc2pEVjFIaVRKUjVlQ3dLTWhRNlE0MTVRTDhaVTdydExOM0I3bGRmZVpTUkV5YVVDajhiSnN1UGZMSTcwOHJuVlQwZFRKSXU4VjhHNE5FWXBmZWUydUZMSlRPeG16c1Rld2NHRW9sOUo?oc=5",
+      "summary": "马里兰州不动产搜索工具因检测到可疑活动而下线 关注安纳波利斯",
+      "publishedAt": "2026-04-18T20:15:48.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ed4e9807235265609d9cf8870cf5d7e1140b1b122672eeb3f0940de94a1e18ab",
+      "source": "Google News Security",
+      "title": "乔治亚遗产数据泄露影响43,077人 - 索赔仓库",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOXRyam85OERqNWlPY0p6S200c2lQMTBoZnNjY0dRLVlXVzBkMzM2VVlXMHBBcENzRF9wYXNmY2VZV0tRNlNMckJfRlF2Y2lXLUxtT2tHclhuUnlQc21CbXcwNHlhcmhGWWJBaHpEYnN3NjFpazJYS25GTXFkdw?oc=5",
+      "summary": "乔治亚遗产数据泄露影响43,077人 索赔仓库",
+      "publishedAt": "2026-04-18T16:41:06.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "abdedecb0e43e29913f413924f9ebec56746fbefc8c2f15fdbb16decf776e10f",
+      "source": "The Hacker News",
+      "title": "$1374万美元黑客攻击导致被制裁的Grinex交易所关闭，情报机构声称负责",
+      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+      "summary": "Grinex是一家在吉尔吉斯斯坦注册的加密货币交易所，去年被英国和美国制裁。该交易所表示，由于指责西方情报机构进行了一次价值1374万美元的黑客攻击，它将暂停运营。交易所称其遭遇了一次大规模的网络攻击，并认为此攻击具有外国情报机构参与的特征。这次攻击导致超过1",
+      "publishedAt": "2026-04-18T07:59:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a4bda5ebb936195a6b25eff739b6b9f91d0be5e1cf354fa6054fe58433101d82",
+      "source": "The Hacker News",
+      "title": "Mirai变种Nexcorium利用CVE-2024-3721漏洞劫持TBK DVR用于DDoS僵尸网络",
+      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+      "summary": "根据Fortinet FortiGuard实验室和Palo Alto Networks Unit 42的研究，威胁行为者正在利用TBK DVR和已停止支持的TP-Link Wi-Fi路由器中的安全漏洞，在被攻陷的设备上部署Mirai僵尸网络变种。针对TBK DVR设备的攻击被发现利用了CVE-2024-3721（CVSS评分：6.3），这是一种中等严重性的命令注入漏洞。",
+      "publishedAt": "2026-04-18T06:01:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "863ecf9f36bec1f02de916cfa6509f8bab2a34225039a9a563fa67fc130e74f9",
+      "source": "Google News Security",
+      "title": "Amtrak数据泄露事件在泄漏声明后进入HIBP - 铁路供应",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGhPOTlRUlVRX1BoSkpaMWprNGZvRi1zUmZxYUxLUGJ4enZmTUdTOWFSMGZWLVJRZG50RFJ6QXhlWkVFamhWT2pHcll3MXlxODh6eWw1TGltc2ZUWU4tWHN0cl9JNXBPMUZDOXBzQjdNU1NPc1JMaTRzeDBQRm9yaw?oc=5",
+      "summary": "Amtrak数据泄露事件在泄漏声明后进入HIBP 铁路供应",
+      "publishedAt": "2026-04-18T08:08:55.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-19T00:57:56.502Z"
+  }
+}

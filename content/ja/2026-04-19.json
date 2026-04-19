@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-19",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "a35dc8442a06c1b64d8f7efb1190d95b8abbf9cda5d9acf4dc8ae849a968c615",
+      "source": "BleepingComputer",
+      "title": "Protobufライブラリの重大な欠陥によりJavaScriptコードの実行が可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "summary": "GoogleのProtocol Buffersの広く使用されているJavaScript実装であるprotobuf.jsにおける重大なリモートコード実行の欠陥に対する概念実証のエクスプロイトコードが公開されました。[...]",
+      "publishedAt": "2026-04-18T15:09:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Critical RCE vulnerability with PoC",
+      "suggestedTitle": "Protobufライブラリの重大なRCE欠陥が露呈",
+      "suggestedSummary": "Protobufライブラリにおいて重大なリモートコード実行の脆弱性が発見され、概念実証のエクスプロイトコードが公開されました。この欠陥により攻撃者は任意のJavaScriptコードを実行でき、ライブラリを使用するシステムに重大なリスクをもたらします。セキュリティチームは、影響を受けたシステムのパッチ適用を優先し、潜在的な悪用を軽減する必要があります。この脆弱性は深刻なセキュリティ侵害につながる可能性があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2a421f27e765a035eb01dcb70a6671faa2b0f0a702e8f0f8fa6ffae405222d3d",
+      "source": "Google News Security",
+      "title": "グランド・セフト・オート開発元のロックスター・ゲームスのデータ侵害：ハッカーがAnodotとSnowflakeの脆弱性を通じて約8,000万件の記録を盗んだと主張 - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOS1wUUo4SENjNE5IMnZLQ016Z2RXUzFlYU43M3ZUUmJwMFVmazF2ajM4VUZxdHFDZG5aTjQ1a0N3TXNVNF9HRUpxZVdybGNvd2wzaURLakZPNmdDSXdPZnZVY0xXa29zTnVIaXZ0NDNEQlhLb2pzYTN2V2Vfb1B5T0xOcUM3cEFGS1E?oc=5",
+      "summary": "グランド・セフト・オート開発元のロックスター・ゲームスのデータ侵害：ハッカーがAnodotとSnowflakeの脆弱性を通じて約8,000万件の記録を盗んだと主張 - Yahoo",
+      "publishedAt": "2026-04-18T13:31:05.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        21
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "ロックスター・ゲームスのデータ侵害：8,000万件の記録が流出",
+      "suggestedSummary": "ハッカーがAnodotとSnowflakeの脆弱性を悪用し、ロックスター・ゲームスから約8,000万件の記録を盗んだと主張しています。この侵害により、企業のインフラにおける重大なセキュリティの弱点が浮き彫りになりました。セキュリティチームは、同様の攻撃から機密情報を守るために、防御を評価し強化する必要があります。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3e7e78ff1969c374193463c789e7db4a0ad8a262c982b986d11a4752a6387e95",
+      "source": "Google News Security",
+      "title": "メリーランド不動産検索ツール、不審な活動が検出されたためオフラインに - アイ・オン・アナポリス",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1EY1JQVGoydmc3eWh2NlNLR3ZPakZ4TUpkSS1DUGVHVjdXRUdtUURFWDI1bENETERFNFZlN2MzMEtQT010RDQxWWduejBvV1RoNWxodjJfc2pEVjFIaVRKUjVlQ3dLTWhRNlE0MTVRTDhaVTdydExOM0I3bGRmZVpTUkV5YVVDajhiSnN1UGZMSTcwOHJuVlQwZFRKSXU4VjhHNE5FWXBmZWUydUZMSlRPeG16c1Rld2NHRW9sOUo?oc=5",
+      "summary": "メリーランド不動産検索ツール、不審な活動が検出されたためオフラインに  アイ・オン・アナポリス",
+      "publishedAt": "2026-04-18T20:15:48.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ed4e9807235265609d9cf8870cf5d7e1140b1b122672eeb3f0940de94a1e18ab",
+      "source": "Google News Security",
+      "title": "ジョージア・ヘリテージのデータ漏洩が43,077人に影響 - クレームデポ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPOXRyam85OERqNWlPY0p6S200c2lQMTBoZnNjY0dRLVlXVzBkMzM2VVlXMHBBcENzRF9wYXNmY2VZV0tRNlNMckJfRlF2Y2lXLUxtT2tHclhuUnlQc21CbXcwNHlhcmhGWWJBaHpEYnN3NjFpazJYS25GTXFkdw?oc=5",
+      "summary": "ジョージア・ヘリテージのデータ漏洩が43,077人に影響を与える  クレームデポ",
+      "publishedAt": "2026-04-18T16:41:06.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "abdedecb0e43e29913f413924f9ebec56746fbefc8c2f15fdbb16decf776e10f",
+      "source": "The Hacker News",
+      "title": "1,374万ドルのハッキングにより制裁を受けたGrinex取引所が閉鎖、情報機関の関与を主張",
+      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+      "summary": "昨年、英国と米国から制裁を受けたキルギスに拠点を置く暗号通貨取引所Grinexは、1,374万ドルのハッキングの責任を西側の情報機関にあるとし、運営を停止すると発表しました。同取引所は、外国の情報機関の関与を示す大規模なサイバー攻撃の被害に遭ったと述べています。この攻撃により、1",
+      "publishedAt": "2026-04-18T07:59:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a4bda5ebb936195a6b25eff739b6b9f91d0be5e1cf354fa6054fe58433101d82",
+      "source": "The Hacker News",
+      "title": "ミライ変種ネクソリウムがCVE-2024-3721を悪用してTBK DVRをDDoSボットネットに乗っ取る",
+      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+      "summary": "Fortinet FortiGuard LabsとPalo Alto Networks Unit 42の調査によると、脅威アクターがTBK DVRとサポート終了（EoL）となったTP-Link Wi-Fiルーターのセキュリティ欠陥を悪用し、侵害されたデバイスにミライボットネットの変種を展開しています。TBK DVRデバイスを標的とした攻撃は、CVE-2024-3721（CVSSスコア: 6.3）を悪用していることが判明しました。これは、中程度の深刻度のコマンドインジェクション脆弱性に影響を与えます。",
+      "publishedAt": "2026-04-18T06:01:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "863ecf9f36bec1f02de916cfa6509f8bab2a34225039a9a563fa67fc130e74f9",
+      "source": "Google News Security",
+      "title": "アムトラックのデータ漏洩が漏洩の主張を受けてHIBPに登録 - 鉄道供給",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGhPOTlRUlVRX1BoSkpaMWprNGZvRi1zUmZxYUxLUGJ4enZmTUdTOWFSMGZWLVJRZG50RFJ6QXhlWkVFamhWT2pHcll3MXlxODh6eWw1TGltc2ZUWU4tWHN0cl9JNXBPMUZDOXBzQjdNU1NPc1JMaTRzeDBQRm9yaw?oc=5",
+      "summary": "アムトラックのデータ漏洩が漏洩の主張を受けてHIBPに登録されました  鉄道供給",
+      "publishedAt": "2026-04-18T08:08:55.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-19T00:58:01.255Z"
+  }
+}
