@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-20",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "33970ff86ce1f0385d1fe1e2dfcc32b13b631fef576c2f4876fa621c4151962f",
+      "source": "Google News Security",
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVR5YW82WFQ1YS1ibmJoMDB2a3dsQWdVVzdKTWVQY05LUWhpcmwzVHc1blNjbmpFYWZhV3FESko2N2ZpN3FqOG5vcEtUV0FLS2RVMUVCSVZ0ZHA2ZWV2VGRyd1hxOThXZEhLRVNTTEw5NUtJUzlTN0FGV2xmVnNnb2JUSURwWjdQN1dXTDBBQzVVaEJra2l4cFdWS3g4MTY1eHdSbFd1VkxUZlVQNjNvUUpuUdIBuAFBVV95cUxQNF9wNlo3RmR3YXdBTVQtNmNZV0p4T0RBTU13Qzh6a3R6QXNubnNVZjdNSXFNcVp6S0E2akxZc09UQTVxak9BSEpOLV9HWDZWeEZja19yZTJ4MGRmRTJxUTFLOEFEUlgtblBUWG1VNlVfX29VNHNVTXAzNDE5bWRseEZkYkZnbjlyWmNaN2F5emM3cVNqZjh2VGszZklKUklIZnRINGpyazNMRjV5ZG1LNXpJNmlza3c2?oc=5",
+      "summary": "Vercel confirms breach as hackers claim to be selling stolen data  BleepingComputer",
+      "publishedAt": "2026-04-19T23:25:39.000Z",
+      "score": 36,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Major data breach with potential data sale",
+      "suggestedTitle": "Vercel Data Breach: Stolen Data on Sale",
+      "suggestedSummary": "Vercel, a cloud development platform, has confirmed a security breach after threat actors claimed to have stolen and are now selling user data. Details on the extent of the data compromised are still emerging, but the breach highlights significant risks to user privacy and platform security. Security teams should monitor for any unusual account activities and consider implementing additional security measures to protect sensitive data.",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ea7f27f8b9da054655e4e481a72f6cef2f4cef596398a601144cbf6eca327992",
+      "source": "Google News Security",
+      "title": "Carnival Corporation probes data breach after claims of 8.7M records theft - CyberInsider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0dSUDZYX0F3eEI4NEZyX211LWZuRlpWcjBmVjFhUjR6eDJfNkd0Z0pGQy1sM2ozbzEyam9WNzNSQ1YyMDZVOFhwQTQ3cWJGRHVyS3pMb2t2OWM4RXNrVEdQTnIyTDdKUXNUMWxaV0I1MnpjeERUMTlKdGJpNEpNSWM0VDlEVGtta21vUDVRbnBaR2Q5czJGN3N6Q1JSMXlJZ0E?oc=5",
+      "summary": "Carnival Corporation probes data breach after claims of 8.7M records theft  CyberInsider",
+      "publishedAt": "2026-04-19T19:32:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Large-scale data breach investigation",
+      "suggestedTitle": "Carnival Corporation Investigates 8.7M Records Breach",
+      "suggestedSummary": "Carnival Corporation is probing a data breach incident where attackers claim to have stolen 8.7 million records. The breach reportedly involves sensitive personal data, which could lead to identity theft and fraud. Security teams should be vigilant about monitoring for any signs of data misuse and ensure robust incident response plans are in place to mitigate potential impacts.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "92a0f18c8bacfa23378f8ffbe8a6805ca3a8a8ca7a35196d8f0f737757bdd396",
+      "source": "Google News Security",
+      "title": "Tangoe Data Breach Settlement: Claim Up To $5,750 By June 3 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFJ5a3o5M0RlOXlHVlNVdmtqME03OWFYazFWV2lhby0weUNXai11aGdQcXNFNG9tOWZtZTI0c05rNXFGOTd3TmtkQ3FBWjl2cXJlQkJjTTVzdGFoS0diQy1COG9fZi1GUzBqZzAwdHh5WWxRVGZLQ2xPMjAyNURJZkE1UEtfdFRpZllBVHduVnhjSDA5M3FiUUpZRERVR3lBelNQZHhtSzRDN2VR?oc=5",
+      "summary": "Tangoe Data Breach Settlement: Claim Up To $5,750 By June 3  Forbes",
+      "publishedAt": "2026-04-19T19:54:44.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e03806aed6d595cf1cf51a182a86ebc09f6a6b3804055bbe67a17af130beeb50",
+      "source": "BleepingComputer",
+      "title": "Apple account change alerts abused to send phishing emails",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
+      "publishedAt": "2026-04-19T16:03:01.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "da58a385f223347e3ec71bd808e3cd957b705cef0cb2f5f4370c793ad14ef289",
+      "source": "BleepingComputer",
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
+      "publishedAt": "2026-04-19T14:17:43.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "986444aefd6b6264b0b5bb40423f7b7899e9d7f57739303b4949242ffef4f0f1",
+      "source": "Google News Security",
+      "title": "Booking.com data breach: Unknown persons access booking data – Group changes PINs - Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUVDZlB4U1BoMkNDN2xfMENVWlJfNjhSdl92QTZOLUtvSUdoQ25qSFRPOU9SQUtwVVhUNEpmT0FDMV9oSGNESVVJZjVvLXY2N2F3R2hSYjJScGJHS2N0TlpSb0VzcV9odWhtR0xlekhzWmw3UXNPWXMybGd2R2UyR0Ffc01KdDlMTkR3TTRVZE5LenFfU0lGVFV2UWV3bkh2dGExRjAzYnk3cVdLS015VkFn?oc=5",
+      "summary": "Booking.com data breach: Unknown persons access booking data – Group changes PINs  Basic Tutorials",
+      "publishedAt": "2026-04-19T09:09:44.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-20T00:57:02.022Z"
+  }
+}

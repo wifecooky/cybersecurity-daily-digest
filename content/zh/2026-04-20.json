@@ -1,0 +1,99 @@
+{
+  "date": "2026-04-20",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "33970ff86ce1f0385d1fe1e2dfcc32b13b631fef576c2f4876fa621c4151962f",
+      "source": "Google News Security",
+      "title": "Vercel确认数据泄露，黑客声称正在出售被盗数据 - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVR5YW82WFQ1YS1ibmJoMDB2a3dsQWdVVzdKTWVQY05LUWhpcmwzVHc1blNjbmpFYWZhV3FESko2N2ZpN3FqOG5vcEtUV0FLS2RVMUVCSVZ0ZHA2ZWV2VGRyd1hxOThXZEhLRVNTTEw5NUtJUzlTN0FGV2xmVnNnb2JUSURwWjdQN1dXTDBBQzVVaEJra2l4cFdWS3g4MTY1eHdSbFd1VkxUZlVQNjNvUUpuUdIBuAFBVV95cUxQNF9wNlo3RmR3YXdBTVQtNmNZV0p4T0RBTU13Qzh6a3R6QXNubnNVZjdNSXFNcVp6S0E2akxZc09UQTVxak9BSEpOLV9HWDZWeEZja19yZTJ4MGRmRTJxUTFLOEFEUlgtblBUWG1VNlVfX29VNHNVTXAzNDE5bWRseEZkYkZnbjlyWmNaN2F5emM3cVNqZjh2VGszZklKUklIZnRINGpyazNMRjV5ZG1LNXpJNmlza3c2?oc=5",
+      "summary": "Vercel确认数据泄露，黑客声称正在出售被盗数据  BleepingComputer",
+      "publishedAt": "2026-04-19T23:25:39.000Z",
+      "score": 36,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Major data breach with potential data sale",
+      "suggestedTitle": "Vercel数据泄露：被盗数据正在出售",
+      "suggestedSummary": "云开发平台Vercel在威胁行为者声称窃取并正在出售用户数据后，已确认发生安全漏洞。有关数据泄露范围的详细信息仍在不断出现，但此次泄露突显了用户隐私和平台安全的重大风险。安全团队应监控任何异常的账户活动，并考虑实施额外的安全措施以保护敏感数据。",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ea7f27f8b9da054655e4e481a72f6cef2f4cef596398a601144cbf6eca327992",
+      "source": "Google News Security",
+      "title": "嘉年华公司调查数据泄露事件，声称870万条记录被盗 - CyberInsider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0dSUDZYX0F3eEI4NEZyX211LWZuRlpWcjBmVjFhUjR6eDJfNkd0Z0pGQy1sM2ozbzEyam9WNzNSQ1YyMDZVOFhwQTQ3cWJGRHVyS3pMb2t2OWM4RXNrVEdQTnIyTDdKUXNUMWxaV0I1MnpjeERUMTlKdGJpNEpNSWM0VDlEVGtta21vUDVRbnBaR2Q5czJGN3N6Q1JSMXlJZ0E?oc=5",
+      "summary": "嘉年华公司调查数据泄露事件，声称870万条记录被盗  CyberInsider",
+      "publishedAt": "2026-04-19T19:32:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4
+      ],
+      "reason": "Large-scale data breach investigation",
+      "suggestedTitle": "嘉年华公司调查870万条记录泄露事件",
+      "suggestedSummary": "嘉年华公司正在调查一起数据泄露事件，攻击者声称盗取了870万条记录。据报道，此次泄露涉及敏感个人数据，可能导致身份盗窃和欺诈。安全团队应警惕任何数据滥用的迹象，并确保制定强有力的事件响应计划，以减轻潜在影响。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "92a0f18c8bacfa23378f8ffbe8a6805ca3a8a8ca7a35196d8f0f737757bdd396",
+      "source": "Google News Security",
+      "title": "Tangoe数据泄露和解：在6月3日前索赔高达$5,750 - 福布斯",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFJ5a3o5M0RlOXlHVlNVdmtqME03OWFYazFWV2lhby0weUNXai11aGdQcXNFNG9tOWZtZTI0c05rNXFGOTd3TmtkQ3FBWjl2cXJlQkJjTTVzdGFoS0diQy1COG9fZi1GUzBqZzAwdHh5WWxRVGZLQ2xPMjAyNURJZkE1UEtfdFRpZllBVHduVnhjSDA5M3FiUUpZRERVR3lBelNQZHhtSzRDN2VR?oc=5",
+      "summary": "Tangoe数据泄露和解：在6月3日前索赔高达$5,750 福布斯",
+      "publishedAt": "2026-04-19T19:54:44.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e03806aed6d595cf1cf51a182a86ebc09f6a6b3804055bbe67a17af130beeb50",
+      "source": "BleepingComputer",
+      "title": "苹果账户变更提醒被滥用以发送网络钓鱼邮件",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "summary": "苹果账户变更通知被滥用，通过苹果服务器发送的合法邮件中夹带虚假iPhone购买网络钓鱼骗局，从而增加了其合法性，并可能使其绕过垃圾邮件过滤器。",
+      "publishedAt": "2026-04-19T16:03:01.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "da58a385f223347e3ec71bd808e3cd957b705cef0cb2f5f4370c793ad14ef289",
+      "source": "BleepingComputer",
+      "title": "NIST因提交量增加将停止对非优先漏洞进行评分",
+      "url": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "summary": "由于提交量的增加导致工作量加大，美国国家标准与技术研究院将停止对低优先级漏洞分配严重性评分。",
+      "publishedAt": "2026-04-19T14:17:43.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "986444aefd6b6264b0b5bb40423f7b7899e9d7f57739303b4949242ffef4f0f1",
+      "source": "Google News Security",
+      "title": "Booking.com数据泄露：未知人员访问预订数据——集团更改PIN码 - 基础教程",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUVDZlB4U1BoMkNDN2xfMENVWlJfNjhSdl92QTZOLUtvSUdoQ25qSFRPOU9SQUtwVVhUNEpmT0FDMV9oSGNESVVJZjVvLXY2N2F3R2hSYjJScGJHS2N0TlpSb0VzcV9odWhtR0xlekhzWmw3UXNPWXMybGd2R2UyR0Ffc01KdDlMTkR3TTRVZE5LenFfU0lGVFV2UWV3bkh2dGExRjAzYnk3cVdLS015VkFn?oc=5",
+      "summary": "Booking.com数据泄露：未知人员访问预订数据——集团更改PIN码 基础教程",
+      "publishedAt": "2026-04-19T09:09:44.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-20T00:57:05.783Z"
+  }
+}
