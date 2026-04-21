@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-21",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "8dbdeac91dd0394a9ae63d49a50124847e078bcf1e3dd4d9dbba869c9494395d",
+      "source": "BleepingComputer",
+      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
+      "publishedAt": "2026-04-20T22:23:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Major crypto heist by APT group",
+      "suggestedTitle": "Lazarus Group Suspected in $290M KelpDAO Crypto Heist",
+      "suggestedSummary": "State-sponsored North Korean hackers, likely the Lazarus Group, are suspected of orchestrating a $290 million crypto-heist targeting KelpDAO. The attack involved sophisticated techniques to exploit vulnerabilities within the decentralized finance (DeFi) ecosystem. This incident highlights the increasing threat posed by nation-state actors in the cryptocurrency sector, emphasizing the need for robust security measures and continuous monitoring to protect digital assets from such high-profile attacks.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "b94f7472793248db02169f05af9db784496ec9c51a57f518a27f4880a9215d19",
+      "source": "The Hacker News",
+      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
+      "publishedAt": "2026-04-20T07:34:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        79
+      ],
+      "reason": "Targeted malware on critical infrastructure",
+      "suggestedTitle": "ZionSiphon Malware Targets Israeli Water Systems",
+      "suggestedSummary": "Cybersecurity researchers have identified a new malware strain, ZionSiphon, targeting Israeli water and desalination operational technology (OT) systems. The malware leverages vulnerabilities in these critical infrastructures to potentially disrupt water supply operations. This discovery underscores the vulnerabilities in OT environments that could be exploited by adversaries, necessitating enhanced security protocols and incident response strategies to safeguard essential services against cyber threats.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c102ec363fe958f854d1f133b015caa0426ae17762ef23a84646afb8ab7d4a78",
+      "source": "BleepingComputer",
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+      "publishedAt": "2026-04-20T08:30:56.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        82
+      ],
+      "reason": "Critical updates for Windows Server",
+      "suggestedTitle": "Microsoft Releases Emergency Patches for Windows Server",
+      "suggestedSummary": "Microsoft has issued out-of-band updates to address critical issues affecting Windows Server systems. These updates aim to rectify problems that could lead to system instability and potential security vulnerabilities. Organizations relying on Windows Server are advised to apply these patches immediately to mitigate risks and ensure the integrity and availability of their IT infrastructure. This highlights the importance of staying current with vendor patches to protect against potential exploits.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c91cfe3b7aa6059a87d58360758daaf144eac1add868fab5988672a034a31225",
+      "source": "BleepingComputer",
+      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
+      "publishedAt": "2026-04-20T20:02:37.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "19befb054f5b49cbddec78380d1d8e940b0604e2559cc5065942b7ca17b68591",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+      "publishedAt": "2026-04-20T15:11:24.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "75748b4ffb03a76379b34556f4852286a70d17e9c97cff3b11c83173a4a592ad",
+      "source": "The Hacker News",
+      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+      "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.\n\"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
+      "publishedAt": "2026-04-20T10:42:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0df9344b69ef004bb1967490684517ad9f14e225de57ed23ea33bd918cc9d926",
+      "source": "The Hacker News",
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving",
+      "publishedAt": "2026-04-20T17:14:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d78b6ac54d0c945533111466ab0c358eeed2dba4f007aeab3bdd7c95dabc6993",
+      "source": "Google News Security",
+      "title": "CVE-2023-33538 TP-Link - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdjAyMElya21adlRMOTVqY3FYTVZxUnFvZkd5ZG5pRDdNRkRYZlM5c1VRRU1uMVN2czBOVWFoWFRodnAwazZ0RmxiRUxqV1JkOUFMQ0o1dHcyT2kwRDAxOXNWcWpjWWlkUU9KVUhXUVFVQUM0WkxHOUtHeHNVb3dqY29vRDhjUG9sdEMzQnI3YWtId204STVvcHBjVlNPQjA0ZEoxTDR5X0xQcFJrSmFYRl8zd3VrQk5rNGFfLVJRcGlWT0xjclhoNmpDd0g2M2hrenBGVXdVNV83WFNP?oc=5",
+      "summary": "CVE-2023-33538 TP-Link  Security Affairs",
+      "publishedAt": "2026-04-20T23:49:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-21T00:56:55.552Z"
+  }
+}

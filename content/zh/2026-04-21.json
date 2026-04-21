@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-21",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "8dbdeac91dd0394a9ae63d49a50124847e078bcf1e3dd4d9dbba869c9494395d",
+      "source": "BleepingComputer",
+      "title": "KelpDAO遭遇与Lazarus黑客有关的2.9亿美元盗窃案",
+      "url": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "summary": "由国家支持的朝鲜黑客可能是周六影响KelpDAO DeFi项目的2.9亿美元加密货币盗窃案的幕后黑手。[...]",
+      "publishedAt": "2026-04-20T22:23:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Major crypto heist by APT group",
+      "suggestedTitle": "Lazarus集团涉嫌2.9亿美元KelpDAO加密货币盗窃案",
+      "suggestedSummary": "由国家支持的朝鲜黑客，可能是Lazarus集团，被怀疑策划了一起针对KelpDAO的2.9亿美元加密货币盗窃案。此次攻击涉及利用去中心化金融（DeFi）生态系统中的漏洞的复杂技术。此事件突显了国家行为体在加密货币领域构成的日益严重的威胁，强调了需要采取强有力的安全措施和持续监控，以保护数字资产免受此类高调攻击。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "b94f7472793248db02169f05af9db784496ec9c51a57f518a27f4880a9215d19",
+      "source": "The Hacker News",
+      "title": "研究人员检测到针对以色列水务和海水淡化OT系统的ZionSiphon恶意软件",
+      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+      "summary": "网络安全研究人员发现了一种名为ZionSiphon的新型恶意软件，该软件似乎专门针对以色列的水处理和海水淡化系统。Darktrace将该恶意软件命名为ZionSiphon，突显其能够建立持久性、篡改本地配置文件以及扫描本地子网中与操作技术（OT）相关的服务的能力。",
+      "publishedAt": "2026-04-20T07:34:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        79
+      ],
+      "reason": "Targeted malware on critical infrastructure",
+      "suggestedTitle": "ZionSiphon恶意软件瞄准以色列水系统",
+      "suggestedSummary": "网络安全研究人员已识别出一种名为ZionSiphon的新型恶意软件，目标是以色列的水务和海水淡化操作技术（OT）系统。该恶意软件利用这些关键基础设施中的漏洞，可能会扰乱供水操作。这一发现突显了OT环境中的漏洞可能被对手利用，因此需要加强安全协议和事件响应策略，以保护关键服务免受网络威胁。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c102ec363fe958f854d1f133b015caa0426ae17762ef23a84646afb8ab7d4a78",
+      "source": "BleepingComputer",
+      "title": "微软发布紧急更新以修复 Windows Server 问题",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "summary": "微软已发布带外（OOB）更新，以修复在安装 2026 年 4 月安全更新后影响 Windows Server 系统的问题。",
+      "publishedAt": "2026-04-20T08:30:56.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        82
+      ],
+      "reason": "Critical updates for Windows Server",
+      "suggestedTitle": "微软发布 Windows Server 紧急补丁",
+      "suggestedSummary": "微软已发布带外更新，以解决影响 Windows Server 系统的关键问题。这些更新旨在解决可能导致系统不稳定和潜在安全漏洞的问题。依赖 Windows Server 的组织被建议立即应用这些补丁，以降低风险并确保其 IT 基础设施的完整性和可用性。这强调了保持供应商补丁更新以防止潜在漏洞的重要性。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c91cfe3b7aa6059a87d58360758daaf144eac1add868fab5988672a034a31225",
+      "source": "BleepingComputer",
+      "title": "绅士勒索软件现在使用SystemBC进行机器人驱动的攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "summary": "在对一名团伙成员实施的绅士勒索软件攻击进行调查后，发现了一个由超过1,570个主机组成的SystemBC代理恶意软件僵尸网络，这些主机被认为是企业受害者。",
+      "publishedAt": "2026-04-20T20:02:37.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "19befb054f5b49cbddec78380d1d8e940b0604e2559cc5065942b7ca17b68591",
+      "source": "BleepingComputer",
+      "title": "微软：Teams在帮助台冒充攻击中被越来越多地滥用",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "summary": "微软警告称，威胁行为者越来越多地滥用外部Microsoft Teams协作，并依赖合法工具来访问企业网络和进行横向移动。[...]",
+      "publishedAt": "2026-04-20T15:11:24.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "75748b4ffb03a76379b34556f4852286a70d17e9c97cff3b11c83173a4a592ad",
+      "source": "The Hacker News",
+      "title": "Anthropic MCP设计漏洞导致远程代码执行，威胁AI供应链",
+      "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+      "summary": "网络安全研究人员发现了模型上下文协议（MCP）架构中的一个关键“设计缺陷”，这可能为远程代码执行铺平道路，并对人工智能（AI）供应链产生连锁效应。\"这一漏洞允许在任何运行易受攻击MCP实现的系统上执行任意命令（RCE），使攻击者能够直接访问",
+      "publishedAt": "2026-04-20T10:42:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0df9344b69ef004bb1967490684517ad9f14e225de57ed23ea33bd918cc9d926",
+      "source": "The Hacker News",
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) 通过恶意GGUF模型文件实现远程代码执行",
+      "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "SGLang中披露了一个严重的安全漏洞，如果被成功利用，可能导致易受攻击的系统上远程代码执行。该漏洞被追踪为CVE-2026-5760，CVSS评分为9.8分（满分10.0）。它被描述为命令注入导致任意代码执行的情况。SGLang是一种高性能、开源的服务。",
+      "publishedAt": "2026-04-20T17:14:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d78b6ac54d0c945533111466ab0c358eeed2dba4f007aeab3bdd7c95dabc6993",
+      "source": "Google News Security",
+      "title": "CVE-2023-33538 TP-Link - 安全事务",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdjAyMElya21adlRMOTVqY3FYTVZxUnFvZkd5ZG5pRDdNRkRYZlM5c1VRRU1uMVN2czBOVWFoWFRodnAwazZ0RmxiRUxqV1JkOUFMQ0o1dHcyT2kwRDAxOXNWcWpjWWlkUU9KVUhXUVFVQUM0WkxHOUtHeHNVb3dqY29vRDhjUG9sdEMzQnI3YWtId204STVvcHBjVlNPQjA0ZEoxTDR5X0xQcFJrSmFYRl8zd3VrQk5rNGFfLVJRcGlWT0xjclhoNmpDd0g2M2hrenBGVXdVNV83WFNP?oc=5",
+      "summary": "CVE-2023-33538 TP-Link 安全事务",
+      "publishedAt": "2026-04-20T23:49:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-21T00:57:01.007Z"
+  }
+}
