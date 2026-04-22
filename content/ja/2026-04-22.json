@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-22",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "7b9b166d19b273f4388f062286e9b9044ce290dab89670180493e02463c9b6df",
+      "source": "The Hacker News",
+      "title": "CISA、8つの悪用された脆弱性をKEVに追加、2026年4月から5月の連邦期限を設定",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は月曜日に、Cisco Catalyst SD-WAN Managerに影響を与える3つの欠陥を含む8つの新しい脆弱性を既知の悪用脆弱性（KEV）カタログに追加しました。これらは、活発な悪用の証拠があるとされています。脆弱性のリストは以下の通りです - CVE-2023-27351（CVSSスコア：8.2） - PaperCutにおける不適切な認証の脆弱性",
+      "publishedAt": "2026-04-21T06:23:00.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        5,
+        13
+      ],
+      "reason": "CISA adds 8 new KEV vulnerabilities.",
+      "suggestedTitle": "CISA、8つの悪用された脆弱性をKEVカタログに追加",
+      "suggestedSummary": "CISAは、攻撃で積極的に悪用されている重大なSD-WANの欠陥を含む8つの新しい脆弱性を既知の悪用脆弱性（KEV）カタログに追加しました。米国政府機関には、これらの脆弱性に対するシステムの安全を確保するために4日間の期限が与えられています。この追加は、タイムリーなパッチ管理の重要性を強調し、セキュリティチームが重要なインフラストラクチャを保護するために対処しなければならない継続的な脅威の状況を浮き彫りにしています。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "0ff6aa0cb361955117f4a143979701571defa14ad5957a892f697fcabc906d7e",
+      "source": "The Hacker News",
+      "title": "NGateキャンペーンがブラジルを標的に、HandyPayをトロイの木馬化してNFCデータとPINを盗む",
+      "url": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "サイバーセキュリティ研究者たちは、NGateと呼ばれるAndroidマルウェアファミリーの新しいバージョンを発見しました。このバージョンは、NFCGateの代わりにHandyPayという正当なアプリケーションを悪用しています。「脅威アクターは、NFCデータを中継するために使用されるこのアプリを取得し、AI生成と思われる悪意のあるコードでパッチを当てました」とESETのセキュリティ研究者Lukáš Štefankoは述べています。",
+      "publishedAt": "2026-04-21T12:45:00.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        4,
+        14
+      ],
+      "reason": "New Android malware variant detected.",
+      "suggestedTitle": "NGate AndroidマルウェアがNFC決済データを標的に",
+      "suggestedSummary": "セキュリティ研究者たちは、HandyPayアプリをトロイの木馬化してNFC決済データを狙うNGate Androidマルウェアの新しいバリアントを発見しました。このバージョンはカードデータとPINを盗むように設計されており、NFC決済システムを利用するAndroidユーザーにとって重大な脅威となっています。組織は、無許可のアプリインストールを監視し、信頼できないソースからのアプリダウンロードのリスクについてユーザーを教育することで、モバイルセキュリティの態勢を強化すべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "cd6e81c44f616bdab49d082d536149807b85b17ac5aceb1da57e8bf4e637c9c5",
+      "source": "Dark Reading",
+      "title": "Google、AIベースの反重力ツールの重大なRCE欠陥を修正",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+      "summary": "ファイルシステム操作のためのエージェントAI製品におけるプロンプトインジェクションの脆弱性は、サニタイズの問題であり、サンドボックスのエスケープと任意のコード実行を可能にしていました。",
+      "publishedAt": "2026-04-21T15:00:50.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        9,
+        12
+      ],
+      "reason": "Google patches critical RCE flaw.",
+      "suggestedTitle": "Google、反重力IDEの重大なRCEを修正",
+      "suggestedSummary": "Googleは、プロンプトインジェクション攻撃に対して脆弱だった反重力IDEの重大なリモートコード実行脆弱性に対するパッチをリリースしました。この脆弱性により、攻撃者は細工された入力を通じて影響を受けたシステム上で任意のコードを実行することが可能でした。セキュリティチームは、このパッチを適用することを優先し、GoogleのエージェントAIツールを使用する開発環境の整合性を確保し、潜在的な悪用を防ぐべきです。",
+      "relatedSources": [
+        "Dark Reading",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "47a57328f021e21e4886a9fbcc70f68edfe8dca1743b3dd4372c97143da23fb5",
+      "source": "Krebs on Security",
+      "title": "「Scattered Spider」のメンバー「Tylerb」が有罪を認める",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "summary": "24歳のイギリス国籍であるサイバー犯罪グループ「Scattered Spider」の上級メンバーが、電信詐欺の共謀と悪質な身分詐称で有罪を認めました。タイラー・ロバート・ブキャナンは、2022年夏に行われた一連のテキストメッセージを利用したフィッシング攻撃における自身の役割を認め、この攻撃によりグループは少なくとも12の主要なテクノロジー企業に侵入し、投資家から数千万ドル相当の暗号通貨を盗みました。",
+      "publishedAt": "2026-04-21T14:53:59.000Z",
+      "score": 45,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "c60eb0d4cb1174e55640766d5115731586a5ebc812382ed14608a30d11ee07d5",
+      "source": "BleepingComputer",
+      "title": "フランス政府機関がデータ侵害を確認、ハッカーがデータ販売を提案",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "summary": "フランスの行政文書の発行と管理を担当する政府機関であるFrance Titresは、脅威アクターが攻撃を主張し、市民のデータを盗んだとされるデータ侵害を開示しました。",
+      "publishedAt": "2026-04-21T21:46:04.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "1a54d13f224ac1ad2fdc43cee21a635383cf948a94dedbf10950c76ce170cbb8",
+      "source": "Google News Security",
+      "title": "Vercelの侵害：RobloxのチートダウンロードがAIツールのOAuth悪用を通じて200万ドルのデータ窃盗につながった方法 - セキュリティ・ブールバード",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUTlJdTdfQ25mb0VxRVlTTnpTNXB0SDFUMzdRSWhLTEVlMjBOM3Jwdjh0RFJZcGM1eEpNU1dkUFAySWxXdC0za0UyZi1ubk5LeVFGMWJCalpLQWMyMWZDVmRVVDB2eUczNGZMS3pEU1paX1JhQU94MWtzQm9vd2htOXBGTHVTbUFNYXQ2V3dTb2o5alhOd0hSTENHa3RkblpuczNneDlMTFNYTlcwWjNMV0xUM3padEMxUTYzcWN3Z1NYQnFNVDNBRlVacw?oc=5",
+      "summary": "Vercelの侵害：RobloxのチートダウンロードがAIツールのOAuth悪用を通じて200万ドルのデータ窃盗につながった方法 - セキュリティ・ブールバード",
+      "publishedAt": "2026-04-21T15:58:53.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "ada5912f03db18cfb5240885b43fa73e9bcfe57c0d674d394218cb9256f96341",
+      "source": "Dark Reading",
+      "title": "エクスプロイトがWindows Defenderを攻撃ツールに変貌させる",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+      "summary": "3つの概念実証エクスプロイトが、Microsoftの組み込みセキュリティプラットフォームに対する実際の攻撃で使用されており、そのうち2つは未修正です。",
+      "publishedAt": "2026-04-21T19:12:40.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d998305944305524abe5094694b6e85f56c5ecf896641c646248f8858369bbc0",
+      "source": "BleepingComputer",
+      "title": "積極的に悪用されているApache ActiveMQの脆弱性が6,400台のサーバーに影響",
+      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "非営利のセキュリティ組織であるShadowserverは、オンラインに公開されている6,400台以上のApache ActiveMQサーバーが、高深刻度のコードインジェクション脆弱性を悪用する継続的な攻撃に対して脆弱であることを発見しました。",
+      "publishedAt": "2026-04-21T11:17:51.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-22T00:53:40.582Z"
+  }
+}

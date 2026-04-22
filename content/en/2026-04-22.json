@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-22",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "7b9b166d19b273f4388f062286e9b9044ce290dab89670180493e02463c9b6df",
+      "source": "The Hacker News",
+      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
+      "publishedAt": "2026-04-21T06:23:00.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        5,
+        13
+      ],
+      "reason": "CISA adds 8 new KEV vulnerabilities.",
+      "suggestedTitle": "CISA Adds 8 Exploited Flaws to KEV Catalog",
+      "suggestedSummary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including a critical SD-WAN flaw actively exploited in attacks. U.S. government agencies have been given a four-day deadline to secure their systems against these vulnerabilities. This addition underscores the importance of timely patch management and highlights the ongoing threat landscape that security teams must navigate to protect critical infrastructure.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "0ff6aa0cb361955117f4a143979701571defa14ad5957a892f697fcabc906d7e",
+      "source": "The Hacker News",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "url": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate.\n\"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+      "publishedAt": "2026-04-21T12:45:00.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        4,
+        14
+      ],
+      "reason": "New Android malware variant detected.",
+      "suggestedTitle": "NGate Android Malware Targets NFC Payment Data",
+      "suggestedSummary": "Security researchers have uncovered a new variant of the NGate Android malware that targets NFC payment data by trojanizing the HandyPay app. This iteration is designed to steal card data and PINs, posing a significant threat to Android users utilizing NFC payment systems. Organizations should enhance their mobile security posture by monitoring for unauthorized app installations and educating users on the risks of downloading apps from untrusted sources.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "cd6e81c44f616bdab49d082d536149807b85b17ac5aceb1da57e8bf4e637c9c5",
+      "source": "Dark Reading",
+      "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+      "summary": "The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
+      "publishedAt": "2026-04-21T15:00:50.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        9,
+        12
+      ],
+      "reason": "Google patches critical RCE flaw.",
+      "suggestedTitle": "Google Patches Critical RCE in Antigravity IDE",
+      "suggestedSummary": "Google has released a patch for a critical remote code execution vulnerability in its Antigravity IDE, which was susceptible to prompt injection attacks. This vulnerability allowed attackers to execute arbitrary code on affected systems through crafted inputs. Security teams should prioritize applying this patch to prevent potential exploitation and ensure the integrity of development environments using Google's agentic AI tools.",
+      "relatedSources": [
+        "Dark Reading",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "47a57328f021e21e4886a9fbcc70f68edfe8dca1743b3dd4372c97143da23fb5",
+      "source": "Krebs on Security",
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
+      "publishedAt": "2026-04-21T14:53:59.000Z",
+      "score": 45,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "c60eb0d4cb1174e55640766d5115731586a5ebc812382ed14608a30d11ee07d5",
+      "source": "BleepingComputer",
+      "title": "French govt agency confirms breach as hacker offers to sell data",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+      "publishedAt": "2026-04-21T21:46:04.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "1a54d13f224ac1ad2fdc43cee21a635383cf948a94dedbf10950c76ce170cbb8",
+      "source": "Google News Security",
+      "title": "Vercel Breach: How a Roblox Cheat Download Led to a $2M Data Heist Through AI Tool OAuth Abuse - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUTlJdTdfQ25mb0VxRVlTTnpTNXB0SDFUMzdRSWhLTEVlMjBOM3Jwdjh0RFJZcGM1eEpNU1dkUFAySWxXdC0za0UyZi1ubk5LeVFGMWJCalpLQWMyMWZDVmRVVDB2eUczNGZMS3pEU1paX1JhQU94MWtzQm9vd2htOXBGTHVTbUFNYXQ2V3dTb2o5alhOd0hSTENHa3RkblpuczNneDlMTFNYTlcwWjNMV0xUM3padEMxUTYzcWN3Z1NYQnFNVDNBRlVacw?oc=5",
+      "summary": "Vercel Breach: How a Roblox Cheat Download Led to a $2M Data Heist Through AI Tool OAuth Abuse  Security Boulevard",
+      "publishedAt": "2026-04-21T15:58:53.000Z",
+      "score": 31,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "ada5912f03db18cfb5240885b43fa73e9bcfe57c0d674d394218cb9256f96341",
+      "source": "Dark Reading",
+      "title": "Exploits Turn Windows Defender into Attacker Tool",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+      "summary": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
+      "publishedAt": "2026-04-21T19:12:40.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d998305944305524abe5094694b6e85f56c5ecf896641c646248f8858369bbc0",
+      "source": "BleepingComputer",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "url": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+      "publishedAt": "2026-04-21T11:17:51.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-22T00:53:28.623Z"
+  }
+}
