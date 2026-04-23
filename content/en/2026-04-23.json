@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-23",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "3408d66c076a85f9d89584f8fef0af4196b67ef28e7e54fd776ed23446231e58",
+      "source": "BleepingComputer",
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+      "publishedAt": "2026-04-22T20:04:46.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4,
+        60
+      ],
+      "reason": "Active exploitation of RCE vulnerability",
+      "suggestedTitle": "Mirai Campaign Exploits RCE in D-Link Routers",
+      "suggestedSummary": "A new Mirai-based malware campaign is actively exploiting a remote code execution (RCE) vulnerability, CVE-2025-29635, in end-of-life D-Link routers. This high-severity flaw allows attackers to execute arbitrary commands on affected devices, potentially leading to a large-scale botnet formation. Security teams should ensure these routers are decommissioned or replaced to mitigate this threat.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "eac6a3f458bdf9b392d6963f10150aa3ca68d7bf103aa0db3d3d5fc6804a622d",
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw.\n\"Improper verification of cryptographic",
+      "publishedAt": "2026-04-22T09:29:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        7,
+        10
+      ],
+      "reason": "Critical ASP.NET vulnerability patched",
+      "suggestedTitle": "Emergency Patch for Critical ASP.NET Core Flaw Released",
+      "suggestedSummary": "Microsoft has issued out-of-band security updates to address a critical privilege escalation vulnerability in ASP.NET Core, identified as CVE-2026-40372. The flaw, which affects both macOS and Linux systems, allows attackers to gain elevated privileges through improper authentication handling. Organizations are urged to apply these patches immediately to protect their systems from potential exploitation.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c5206ce595763fe067f823d2ce1081fa86742ca13fb1099463eec7aab25be602",
+      "source": "Google News Security",
+      "title": "France's national agency for managing IDs and passports suffered a data breach last week - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZYMGpOWmFhd1FMQVppQjBUWUFycmJwX0VJVk9WemNKSUcyb0pQenZUZHkyWkVRLUh2Nmkzb3Nra0x2S2pnYnNGa1d2MDhnTUp0LXpfMHBkOHctdnZQTnZnNlo5UUM3YUtTTDBBbFFLMEk5aE5KQTFKYU9XLVpNZjJwZENsLXdlV3B1d1VqWlVlbm96SHlxZUtxaTk2bmltMXJtS1RYeFVFOFM1b3FmZWVWc2QtWFlJUEZDX3hjS21UN0tQNEFwR1VZWU5hR1VfWU9FWWpqTmU?oc=5",
+      "summary": "France's national agency for managing IDs and passports suffered a data breach last week  Engadget",
+      "publishedAt": "2026-04-22T20:14:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        14,
+        15
+      ],
+      "reason": "Major data breach in government agency",
+      "suggestedTitle": "French Government Agency Suffers Massive Data Breach",
+      "suggestedSummary": "France's national agency for managing IDs and passports has confirmed a data breach, with hackers claiming to have stolen 19 million records. The breach reportedly includes sensitive information from both individual and professional accounts. Security teams should be aware of potential phishing campaigns and identity theft attempts stemming from this incident.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a86ea35299a79ab802714c612f22b305f233fed722dd020ebe354b259472eabe",
+      "source": "BleepingComputer",
+      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+      "publishedAt": "2026-04-22T20:58:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca9e5514dcd9282a4e0b61481c727cf2214052b9affc2e32bfa8c791cb178ac0",
+      "source": "Dark Reading",
+      "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
+      "url": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
+      "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication.",
+      "publishedAt": "2026-04-22T20:51:55.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "93cf09371d05d8a115b4fbdebfe78bbd1c5635afab85421cc9144ac1f6a8347d",
+      "source": "Google News Security",
+      "title": "Citizens, Frost blame vendor after data breach claim - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW11REFXUWtXLUhjMkp5RmJESUdIM0U1LVd6WVZINVB3SkZKWFo1QldvbGhlVmZqXzY3QzFJVXFWUkI1dlhpS0pzQjY5TV96eGdkeWxkdkZLbS1fd2J4R1I4c1kxQ1RMUnFMTkVPVDd2X1hQRlA2MDZjLW1vYUlFUnM1RHZlT3dxdjYxYk1hZnY?oc=5",
+      "summary": "Citizens, Frost blame vendor after data breach claim  American Banker",
+      "publishedAt": "2026-04-22T21:38:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "212a7dfcc8f74c2f612ebcc60658dc442885982e7242a480d020c2cd207436cd",
+      "source": "The Hacker News",
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alpine, while also introducing a new v2.1.21 tag that does not correspond to an official release. The",
+      "publishedAt": "2026-04-22T17:55:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "59cd169f35fd447a6604d4c5f1ee3461d9d9bf6edfed079760f5c605ef541f15",
+      "source": "BleepingComputer",
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+      "publishedAt": "2026-04-22T12:57:42.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-23T00:57:55.524Z"
+  }
+}

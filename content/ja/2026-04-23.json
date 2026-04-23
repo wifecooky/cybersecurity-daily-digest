@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-23",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "3408d66c076a85f9d89584f8fef0af4196b67ef28e7e54fd776ed23446231e58",
+      "source": "BleepingComputer",
+      "title": "新たなMiraiキャンペーンがEoL D-LinkルーターのRCE脆弱性を悪用",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "新しいMiraiベースのマルウェアキャンペーンが、D-Link DIR-823Xルーターに影響を与える高深刻度のコマンドインジェクション脆弱性CVE-2025-29635を積極的に悪用し、デバイスをボットネットに参加させています。[...]",
+      "publishedAt": "2026-04-22T20:04:46.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4,
+        60
+      ],
+      "reason": "Active exploitation of RCE vulnerability",
+      "suggestedTitle": "MiraiキャンペーンがD-LinkルーターのRCEを悪用",
+      "suggestedSummary": "新しいMiraiベースのマルウェアキャンペーンが、エンドオブライフのD-Linkルーターにおけるリモートコード実行（RCE）脆弱性CVE-2025-29635を積極的に悪用しています。この高深刻度の欠陥により、攻撃者は影響を受けたデバイス上で任意のコマンドを実行でき、大規模なボットネットの形成につながる可能性があります。セキュリティチームは、これらのルーターを廃止または交換して、この脅威を軽減する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "eac6a3f458bdf9b392d6963f10150aa3ca68d7bf103aa0db3d3d5fc6804a622d",
+      "source": "The Hacker News",
+      "title": "マイクロソフト、重大なASP.NET CoreのCVE-2026-40372特権昇格バグを修正",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+      "summary": "マイクロソフトは、攻撃者が特権を昇格させる可能性のあるASP.NET Coreのセキュリティ脆弱性に対処するための緊急アップデートをリリースしました。この脆弱性はCVE-2026-40372として追跡されており、CVSSスコアは10.0中9.1です。重要度は「重要」と評価されています。匿名の研究者がこの欠陥を発見し、報告したとされています。「暗号化の不適切な検証",
+      "publishedAt": "2026-04-22T09:29:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        7,
+        10
+      ],
+      "reason": "Critical ASP.NET vulnerability patched",
+      "suggestedTitle": "重大なASP.NET Coreの欠陥に対する緊急パッチがリリース",
+      "suggestedSummary": "マイクロソフトは、CVE-2026-40372として特定されたASP.NET Coreの重大な特権昇格脆弱性に対処するための緊急セキュリティアップデートを発行しました。この欠陥はmacOSおよびLinuxシステムに影響を及ぼし、不適切な認証処理を通じて攻撃者が特権を獲得することを可能にします。組織は、潜在的な悪用からシステムを保護するために、これらのパッチを直ちに適用することが求められています。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c5206ce595763fe067f823d2ce1081fa86742ca13fb1099463eec7aab25be602",
+      "source": "Google News Security",
+      "title": "フランスのIDおよびパスポート管理の国家機関が先週データ侵害を受けた - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZYMGpOWmFhd1FMQVppQjBUWUFycmJwX0VJVk9WemNKSUcyb0pQenZUZHkyWkVRLUh2Nmkzb3Nra0x2S2pnYnNGa1d2MDhnTUp0LXpfMHBkOHctdnZQTnZnNlo5UUM3YUtTTDBBbFFLMEk5aE5KQTFKYU9XLVpNZjJwZENsLXdlV3B1d1VqWlVlbm96SHlxZUtxaTk2bmltMXJtS1RYeFVFOFM1b3FmZWVWc2QtWFlJUEZDX3hjS21UN0tQNEFwR1VZWU5hR1VfWU9FWWpqTmU?oc=5",
+      "summary": "フランスのIDおよびパスポート管理の国家機関が先週データ侵害を受けた  Engadget",
+      "publishedAt": "2026-04-22T20:14:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        14,
+        15
+      ],
+      "reason": "Major data breach in government agency",
+      "suggestedTitle": "フランス政府機関が大規模なデータ侵害を受ける",
+      "suggestedSummary": "フランスのIDおよびパスポート管理の国家機関がデータ侵害を確認し、ハッカーが1900万件の記録を盗んだと主張しています。この侵害には、個人およびプロフェッショナルアカウントからの機密情報が含まれていると報告されています。セキュリティチームは、この事件に起因するフィッシングキャンペーンやアイデンティティ盗難の試みに注意する必要があります。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a86ea35299a79ab802714c612f22b305f233fed722dd020ebe354b259472eabe",
+      "source": "BleepingComputer",
+      "title": "Apple、削除された通知データを保持するiOSのバグを修正",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "Appleは、削除対象としてマークされた通知がデバイスに保存されたままになる可能性がある通知サービスの欠陥を修正するために、iPhoneおよびiPadデバイス向けに緊急のセキュリティアップデートをリリースしました。",
+      "publishedAt": "2026-04-22T20:58:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca9e5514dcd9282a4e0b61481c727cf2214052b9affc2e32bfa8c791cb178ac0",
+      "source": "Dark Reading",
+      "title": "『ジェントルメン』がランサムウェアの注目株に急浮上",
+      "url": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
+      "summary": "その名前が示すほど礼儀正しくはないこのランサムウェア集団は、オペレーションの拡大速度とその洗練さで研究者たちを驚かせています。",
+      "publishedAt": "2026-04-22T20:51:55.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "93cf09371d05d8a115b4fbdebfe78bbd1c5635afab85421cc9144ac1f6a8347d",
+      "source": "Google News Security",
+      "title": "シチズンズとフロスト、データ侵害の申し立て後にベンダーを非難 - アメリカン・バンカー",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW11REFXUWtXLUhjMkp5RmJESUdIM0U1LVd6WVZINVB3SkZKWFo1QldvbGhlVmZqXzY3QzFJVXFWUkI1dlhpS0pzQjY5TV96eGdkeWxkdkZLbS1fd2J4R1I4c1kxQ1RMUnFMTkVPVDd2X1hQRlA2MDZjLW1vYUlFUnM1RHZlT3dxdjYxYk1hZnY?oc=5",
+      "summary": "シチズンズとフロスト、データ侵害の申し立て後にベンダーを非難 - アメリカン・バンカー",
+      "publishedAt": "2026-04-22T21:38:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "212a7dfcc8f74c2f612ebcc60658dc442885982e7242a480d020c2cd207436cd",
+      "source": "The Hacker News",
+      "title": "悪意のあるKICS DockerイメージとVS Code拡張機能がCheckmarxのサプライチェーンを攻撃",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "サイバーセキュリティ研究者は、公式の「checkmarx/kics」Docker Hubリポジトリにプッシュされた悪意のあるイメージについて警告しました。 本日公開された警告で、ソフトウェアサプライチェーンセキュリティ会社のSocketは、未知の脅威アクターが既存のタグ（v2.1.20やalpineを含む）を上書きし、公式リリースに対応しない新しいv2.1.21タグを導入したことを明らかにしました。",
+      "publishedAt": "2026-04-22T17:55:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "59cd169f35fd447a6604d4c5f1ee3461d9d9bf6edfed079760f5c605ef541f15",
+      "source": "BleepingComputer",
+      "title": "新たなnpmサプライチェーン攻撃が認証トークンを盗むために自己拡散",
+      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "Node Package Manager（npm）エコシステムを標的とした新たなサプライチェーン攻撃が、開発者の認証情報を盗み、侵害されたアカウントから公開されたパッケージを通じて拡散を試みています。",
+      "publishedAt": "2026-04-22T12:57:42.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-23T00:58:09.231Z"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-23",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "3408d66c076a85f9d89584f8fef0af4196b67ef28e7e54fd776ed23446231e58",
+      "source": "BleepingComputer",
+      "title": "新的Mirai活动利用D-Link路由器中的RCE漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "一个新的基于Mirai的恶意软件活动正在积极利用CVE-2025-29635，这是一个影响D-Link DIR-823X路由器的高危命令注入漏洞，将设备加入僵尸网络。[...]",
+      "publishedAt": "2026-04-22T20:04:46.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4,
+        60
+      ],
+      "reason": "Active exploitation of RCE vulnerability",
+      "suggestedTitle": "Mirai活动利用D-Link路由器中的RCE漏洞",
+      "suggestedSummary": "一个新的基于Mirai的恶意软件活动正在积极利用CVE-2025-29635，这是一个影响已停止服务的D-Link路由器的远程代码执行（RCE）漏洞。此高危漏洞允许攻击者在受影响设备上执行任意命令，可能导致大规模僵尸网络的形成。安全团队应确保这些路由器被停用或更换以减轻这一威胁。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "eac6a3f458bdf9b392d6963f10150aa3ca68d7bf103aa0db3d3d5fc6804a622d",
+      "source": "The Hacker News",
+      "title": "微软修补关键的ASP.NET Core CVE-2026-40372权限提升漏洞",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+      "summary": "微软已发布紧急更新，以解决ASP.NET Core中的安全漏洞，该漏洞可能允许攻击者提升权限。该漏洞被追踪为CVE-2026-40372，CVSS评分为9.1（满分10.0），严重性评级为重要。一位匿名研究人员被认为发现并报告了该漏洞。",
+      "publishedAt": "2026-04-22T09:29:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        7,
+        10
+      ],
+      "reason": "Critical ASP.NET vulnerability patched",
+      "suggestedTitle": "紧急修补关键的ASP.NET Core漏洞",
+      "suggestedSummary": "微软已发布紧急安全更新，以解决ASP.NET Core中被识别为CVE-2026-40372的关键权限提升漏洞。该漏洞影响macOS和Linux系统，允许攻击者通过不当的身份验证处理获得提升的权限。各组织被敦促立即应用这些补丁，以保护其系统免受潜在的利用。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c5206ce595763fe067f823d2ce1081fa86742ca13fb1099463eec7aab25be602",
+      "source": "Google News Security",
+      "title": "法国国家身份证和护照管理机构上周遭遇数据泄露 - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZYMGpOWmFhd1FMQVppQjBUWUFycmJwX0VJVk9WemNKSUcyb0pQenZUZHkyWkVRLUh2Nmkzb3Nra0x2S2pnYnNGa1d2MDhnTUp0LXpfMHBkOHctdnZQTnZnNlo5UUM3YUtTTDBBbFFLMEk5aE5KQTFKYU9XLVpNZjJwZENsLXdlV3B1d1VqWlVlbm96SHlxZUtxaTk2bmltMXJtS1RYeFVFOFM1b3FmZWVWc2QtWFlJUEZDX3hjS21UN0tQNEFwR1VZWU5hR1VfWU9FWWpqTmU?oc=5",
+      "summary": "法国国家身份证和护照管理机构上周遭遇数据泄露  Engadget",
+      "publishedAt": "2026-04-22T20:14:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        14,
+        15
+      ],
+      "reason": "Major data breach in government agency",
+      "suggestedTitle": "法国政府机构遭遇重大数据泄露",
+      "suggestedSummary": "法国负责管理身份证和护照的国家机构已确认发生数据泄露，黑客声称窃取了1900万条记录。据报道，泄露的信息包括个人和专业账户的敏感信息。安全团队应注意此事件可能引发的网络钓鱼活动和身份盗窃企图。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a86ea35299a79ab802714c612f22b305f233fed722dd020ebe354b259472eabe",
+      "source": "BleepingComputer",
+      "title": "苹果修复保留已删除通知数据的iOS漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "苹果已为iPhone和iPad设备发布了紧急安全更新，以修复通知服务中的一个漏洞。该漏洞可能导致标记为删除的通知仍然存储在设备上。[...]",
+      "publishedAt": "2026-04-22T20:58:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca9e5514dcd9282a4e0b61481c727cf2214052b9affc2e32bfa8c791cb178ac0",
+      "source": "Dark Reading",
+      "title": "《绅士》勒索软件迅速崛起",
+      "url": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
+      "summary": "尽管名字听起来彬彬有礼，这个勒索软件团伙却以其快速扩张的行动和复杂性给研究人员留下了深刻印象。",
+      "publishedAt": "2026-04-22T20:51:55.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "93cf09371d05d8a115b4fbdebfe78bbd1c5635afab85421cc9144ac1f6a8347d",
+      "source": "Google News Security",
+      "title": "公民银行和Frost银行在数据泄露指控后指责供应商 - 美国银行家",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeW11REFXUWtXLUhjMkp5RmJESUdIM0U1LVd6WVZINVB3SkZKWFo1QldvbGhlVmZqXzY3QzFJVXFWUkI1dlhpS0pzQjY5TV96eGdkeWxkdkZLbS1fd2J4R1I4c1kxQ1RMUnFMTkVPVDd2X1hQRlA2MDZjLW1vYUlFUnM1RHZlT3dxdjYxYk1hZnY?oc=5",
+      "summary": "公民银行和Frost银行在数据泄露指控后指责供应商  美国银行家",
+      "publishedAt": "2026-04-22T21:38:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "212a7dfcc8f74c2f612ebcc60658dc442885982e7242a480d020c2cd207436cd",
+      "source": "The Hacker News",
+      "title": "恶意KICS Docker镜像和VS Code扩展影响Checkmarx供应链",
+      "url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "网络安全研究人员警告称，恶意镜像已被推送到官方“checkmarx/kics”Docker Hub仓库。在今天发布的警报中，软件供应链安全公司Socket透露，未知的威胁行为者成功覆盖了现有标签，包括v2.1.20和alpine，同时还引入了一个不对应于官方发布的新v2.1.21标签。",
+      "publishedAt": "2026-04-22T17:55:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "59cd169f35fd447a6604d4c5f1ee3461d9d9bf6edfed079760f5c605ef541f15",
+      "source": "BleepingComputer",
+      "title": "新的 npm 供应链攻击自我传播以窃取身份验证令牌",
+      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "一场针对 Node Package Manager (npm) 生态系统的新供应链攻击正在窃取开发者凭证，并试图通过从被攻陷账户发布的包进行传播。[...]",
+      "publishedAt": "2026-04-22T12:57:42.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-23T00:57:59.258Z"
+  }
+}
