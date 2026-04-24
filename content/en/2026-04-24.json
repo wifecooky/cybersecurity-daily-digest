@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-24",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "2a8a869be828e731b87a064529e03bfe0003a62e3c5d7334eec4ed5f45984a33",
+      "source": "Google News Security",
+      "title": "Shai-Hulud: The Third Coming — Bitwarden CLI Backdoored in Latest Supply Chain Campaign - OX Security",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lc2U5SHdfQzItOXdGdGVZV3Y5U09VdUpnYWtpdVlNSS1BMnh5cDE4R0oyRVN2RzFnWklFWjhhRE5mSkJPT2VpTS1SZ3NWVGlUeElYTmFWUXliY1ltVGVLLVBGY1pZVmxEYzlJUWlXaEVEVElZWkhCSDVxaHJFejA?oc=5",
+      "summary": "Shai-Hulud: The Third Coming — Bitwarden CLI Backdoored in Latest Supply Chain Campaign  OX Security",
+      "publishedAt": "2026-04-23T14:26:18.000Z",
+      "score": 41,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        2,
+        4
+      ],
+      "reason": "Supply chain attack on Bitwarden",
+      "suggestedTitle": "Bitwarden CLI Supply Chain Attack: Developer Credentials at Risk",
+      "suggestedSummary": "Bitwarden's CLI npm package was compromised in a supply chain attack, with attackers uploading a malicious package to steal developer credentials. This incident is part of a broader campaign targeting open-source tools, highlighting the vulnerabilities in software supply chains. Security teams should ensure their package management systems are secure and consider using tools for detecting malicious packages.",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a5fa3b51cbb60ed77f7cbf8ea1bfe8e0f7948335be20cdc5325a8aa6e3cd0f93",
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-04-23T11:05:57.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        96,
+        103
+      ],
+      "reason": "Zero-day vulnerability in Microsoft Defender",
+      "suggestedTitle": "CISA Orders Patch for Microsoft Defender Zero-Day Exploitation",
+      "suggestedSummary": "CISA has mandated U.S. federal agencies to patch a zero-day vulnerability in Microsoft Defender, exploited for privilege escalation. The flaw, known as BlueHammer, affects multiple versions of Defender and has a CVSS score of 9.8. Security teams must prioritize patching this vulnerability to prevent unauthorized access and potential data breaches.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2f56054aea2b92a46f2fb395fc6e60007bb5882525baccac774d1e766ee64aa2",
+      "source": "BleepingComputer",
+      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+      "publishedAt": "2026-04-23T14:16:21.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        17,
+        25
+      ],
+      "reason": "Massive health data breach in the UK",
+      "suggestedTitle": "UK Biobank Data Breach: 500,000 Health Records for Sale",
+      "suggestedSummary": "A significant data breach at UK Biobank has resulted in the health data of 500,000 individuals being offered for sale online, reportedly in China. This breach exposes sensitive personal and medical information, raising concerns about privacy and data protection. Security teams should assess their data protection strategies and ensure robust incident response plans are in place.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9b6af8f963b017a35ccdbd365d7e6a1144a91959c7a007cb51f95ff005ae6c90",
+      "source": "Dark Reading",
+      "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+      "summary": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
+      "publishedAt": "2026-04-24T01:00:00.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "a6551dc3f91654cd230cef955348c3addafe8c758d9f5c948ce796f1da9ee84d",
+      "source": "BleepingComputer",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "publishedAt": "2026-04-23T21:33:45.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c73a9102e037e25db0d0125c073dd194666c579ee3f140a602718a0810138df3",
+      "source": "The Hacker News",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+      "publishedAt": "2026-04-23T18:16:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "235aff900d91f63ed859e2f1d26189a9650d6fd86557e3926dbd9575894973de",
+      "source": "BleepingComputer",
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+      "publishedAt": "2026-04-23T12:28:39.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-24T00:59:05.704Z"
+  }
+}

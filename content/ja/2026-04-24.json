@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-24",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "2a8a869be828e731b87a064529e03bfe0003a62e3c5d7334eec4ed5f45984a33",
+      "source": "Google News Security",
+      "title": "シャイ＝フルード：第三の到来 — 最新のサプライチェーンキャンペーンでバックドアが仕掛けられたBitwarden CLI - OXセキュリティ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lc2U5SHdfQzItOXdGdGVZV3Y5U09VdUpnYWtpdVlNSS1BMnh5cDE4R0oyRVN2RzFnWklFWjhhRE5mSkJPT2VpTS1SZ3NWVGlUeElYTmFWUXliY1ltVGVLLVBGY1pZVmxEYzlJUWlXaEVEVElZWkhCSDVxaHJFejA?oc=5",
+      "summary": "シャイ＝フルード：第三の到来 — 最新のサプライチェーンキャンペーンでバックドアが仕掛けられたBitwarden CLI - OXセキュリティ",
+      "publishedAt": "2026-04-23T14:26:18.000Z",
+      "score": 41,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        1,
+        2,
+        4
+      ],
+      "reason": "Supply chain attack on Bitwarden",
+      "suggestedTitle": "Bitwarden CLIサプライチェーン攻撃：開発者の資格情報が危険にさらされる",
+      "suggestedSummary": "BitwardenのCLI npmパッケージがサプライチェーン攻撃で侵害され、攻撃者が開発者の資格情報を盗むために悪意のあるパッケージをアップロードしました。この事件はオープンソースツールを標的としたより広範なキャンペーンの一部であり、ソフトウェアサプライチェーンの脆弱性を浮き彫りにしています。セキュリティチームはパッケージ管理システムの安全性を確保し、悪意のあるパッケージを検出するためのツールの使用を検討するべきです。",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "a5fa3b51cbb60ed77f7cbf8ea1bfe8e0f7948335be20cdc5325a8aa6e3cd0f93",
+      "source": "BleepingComputer",
+      "title": "CISA、ゼロデイとして悪用されたBlueHammerの脆弱性の修正を連邦機関に命令",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "summary": "CISAは、ゼロデイ攻撃で悪用されたMicrosoft Defenderの特権昇格の脆弱性（BlueHammerと名付けられた）を修正するよう米国連邦機関に命令しました。[...]",
+      "publishedAt": "2026-04-23T11:05:57.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        96,
+        103
+      ],
+      "reason": "Zero-day vulnerability in Microsoft Defender",
+      "suggestedTitle": "CISA、Microsoft Defenderのゼロデイ脆弱性修正を命令",
+      "suggestedSummary": "CISAは、特権昇格のために悪用されたMicrosoft Defenderのゼロデイ脆弱性の修正を米国連邦機関に命じました。この脆弱性はBlueHammerとして知られ、Defenderの複数のバージョンに影響を与え、CVSSスコアは9.8です。セキュリティチームは、この脆弱性の修正を優先し、不正アクセスや潜在的なデータ漏洩を防ぐ必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2f56054aea2b92a46f2fb395fc6e60007bb5882525baccac774d1e766ee64aa2",
+      "source": "BleepingComputer",
+      "title": "化粧品大手Rituals、顧客に影響を与えるデータ漏洩を公表",
+      "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "summary": "オランダの化粧品大手Ritualsは、攻撃者が「My Rituals」会員データベースから顧客の個人情報を盗んだことを受け、データ漏洩を公表しました。被害を受けた顧客数は明らかにされていません。[...]",
+      "publishedAt": "2026-04-23T14:16:21.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        17,
+        25
+      ],
+      "reason": "Massive health data breach in the UK",
+      "suggestedTitle": "UK Biobankのデータ漏洩：50万人の健康記録が販売中",
+      "suggestedSummary": "UK Biobankでの重大なデータ漏洩により、50万人の個人の健康データがオンラインで販売されていると報告されています。特に中国での販売が報告されており、この漏洩は個人情報と医療情報の機密性を脅かしています。セキュリティチームはデータ保護戦略を評価し、強固なインシデント対応計画を確保する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9b6af8f963b017a35ccdbd365d7e6a1144a91959c7a007cb51f95ff005ae6c90",
+      "source": "Dark Reading",
+      "title": "中国のAPTが複数のクラウドツールを悪用しモンゴルをスパイ",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+      "summary": "脅威アクターは、コマンド＆コントロールをサポートするために多くの選択肢を自らに与え、Microsoft Outlook、Slack、Discord、file.ioを利用してオンライン諜報活動を行った。",
+      "publishedAt": "2026-04-24T01:00:00.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "a6551dc3f91654cd230cef955348c3addafe8c758d9f5c948ce796f1da9ee84d",
+      "source": "BleepingComputer",
+      "title": "ハッカーがBreeze Cache WordPressプラグインのファイルアップロードバグを悪用",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "ハッカーは、認証なしでサーバーに任意のファイルをアップロードできるBreeze Cacheプラグインの重大な脆弱性を積極的に悪用しています。",
+      "publishedAt": "2026-04-23T21:33:45.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c73a9102e037e25db0d0125c073dd194666c579ee3f140a602718a0810138df3",
+      "source": "The Hacker News",
+      "title": "UNC6692、Microsoft Teamsを通じてITヘルプデスクを装いSNOWマルウェアを展開",
+      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "未だ文書化されていない脅威活動クラスターであるUNC6692が、Microsoft Teamsを介したソーシャルエンジニアリング戦術を利用して、侵害されたホストにカスタムマルウェアスイートを展開する様子が観察されています。「近年の多くの侵入と同様に、UNC6692はITヘルプデスクの従業員を装うことに大きく依存し、被害者にアカウントからのMicrosoft Teamsチャット招待を受け入れるように説得しました。",
+      "publishedAt": "2026-04-23T18:16:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "235aff900d91f63ed859e2f1d26189a9650d6fd86557e3926dbd9575894973de",
+      "source": "BleepingComputer",
+      "title": "英国、中国のハッカーがプロキシネットワークを使用して検出を回避していると警告",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "summary": "英国の国家サイバーセキュリティセンター（NCSC-UK）と国際的なパートナーは、中国に関連するハッカーが、検出を回避し悪意のある活動を隠すために、ハイジャックされた消費者デバイスの大規模なプロキシネットワークをますます利用していると警告しました。",
+      "publishedAt": "2026-04-23T12:28:39.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-24T00:59:17.398Z"
+  }
+}
