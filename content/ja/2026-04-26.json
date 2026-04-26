@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-26",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "4171e137a7cb442b696047f9af7a093a01cdee418aaa118786596af693748dd8",
+      "source": "Google News Security (JP)",
+      "title": "35億人に影響するChromeの脆弱性、19件の修正を含む最新版が公開 アップデートを",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fYmVTZzUtU0RyV080aXZsU3NacC14SkdYZ2V1QkNkODZLRldLT2NUamlxRnQ4dDBHLUVScm1vRUh2UmlKMGplMTBzLVlXZ1VMQWl5RktSOW54Umh0YmhkWHJiQkZrSjBQRlE5aHdxWWJ3UkNWMnk1ZnIxOUxIT2s?oc=5",
+      "summary": "35億人に影響するChromeの脆弱性、19件の修正を含む最新版が公開 アップデートを Yahoo!ニュース",
+      "publishedAt": "2026-04-25T23:03:11.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        13
+      ],
+      "reason": "Critical Chrome vulnerabilities patched",
+      "suggestedTitle": "Google、複数の脆弱性を修正する重要なChromeアップデートを公開",
+      "suggestedSummary": "GoogleはChromeのアップデートを公開し、19件の脆弱性を修正しました。その中には、35億人以上のユーザーに影響を与える可能性のある重要なものも含まれています。最新のChromeOS 147アップデートでは、71件の脆弱性が修正され、その中には「重要」と分類されるものもあります。これらの脆弱性が悪用されると、攻撃者が任意のコードを実行したり、セキュリティ制限を回避したりする可能性があります。セキュリティチームは、潜在的な悪用から保護するために、優先的にパッチを適用する必要があります。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5fe0ae0a95979aac03d80e44501ba708c4261cab6fea3536e87e4b7d2734152a",
+      "source": "The Hacker News",
+      "title": "CISA、4つの悪用された脆弱性をKEVに追加、連邦政府の期限を2026年5月に設定",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は金曜日、SimpleHelp、Samsung MagicINFO 9 Server、およびD-Link DIR-823Xシリーズルーターに影響を与える4つの脆弱性を、既知の悪用された脆弱性（KEV）カタログに追加しました。これらの脆弱性は、積極的に悪用されている証拠があります。脆弱性のリストは以下の通りです - CVE-2024-57726（CVSSスコア：9.9） - 認証の欠如による脆弱性",
+      "publishedAt": "2026-04-25T05:08:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "CISA adds exploited flaws to KEV",
+      "suggestedTitle": "CISA、既知の悪用された脆弱性カタログに4つの脆弱性を追加",
+      "suggestedSummary": "サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、4つの新しい脆弱性を既知の悪用された脆弱性（KEV）カタログに追加し、これらの欠陥に対処するための連邦政府の期限を2026年5月に設定しました。これらの脆弱性は積極的に悪用されており、影響を受けるシステムに重大なリスクをもたらしています。セキュリティチームは、コンプライアンスを確保し、潜在的な脅威から保護するために、更新や緩和策を確認し適用する必要があります。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b7373807e2d783a7d63b8e375dd66bf6afb7878cdd0d96e8f896aadcc13953db",
+      "source": "Google News Security",
+      "title": "ハッカーがITヘルプデスクスタッフを装いMicrosoft Teamsを利用して組織に侵入 - サイバーセキュリティニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZV2tYMFprb0xaVkV6M2IyVTc2a0pqZXlmMWNwSVVSc0dCNU9sRjlEUHJCLUk4WWJUR3NpRDhLZWwtVEdmMTlDdEtUWUNYODZXTXJnaVRLb1hzMkhTSnV4aEFzMzBCOTk1d1g0YXFseEtIUzZKZGfSAXtBVV95cUxNal9QU2tKRHNCd01rc1ZQMl96T0o5NUExRThUYzl6LU1LcGQ1VG13Z2lzX0hTeEI3Zy1yT0RLUWg2Qll4UFpvSUM3M2hRNUV1R3BxUEZyNzVnVzBiN2NxYnQ4dlNfOGlVZ1p5Nmw3LUZ3NElVTTVkNVZkQ1E?oc=5",
+      "summary": "ハッカーがITヘルプデスクスタッフを装いMicrosoft Teamsを利用して組織に侵入 - サイバーセキュリティニュース",
+      "publishedAt": "2026-04-25T22:18:59.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "380f1dd579632cf2dce3db033794dcb8a651b7fe8e26aba1c503ca4c76bba342",
+      "source": "BleepingComputer",
+      "title": "脅威アクターがMicrosoft Teamsを利用して新しい「Snow」マルウェアを展開",
+      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "summary": "UNC6692として追跡されている脅威グループが、ソーシャルエンジニアリングを利用して「Snow」と名付けられた新しいカスタムマルウェアスイートを展開しています。このスイートには、ブラウザ拡張機能、トンネラー、バックドアが含まれています。",
+      "publishedAt": "2026-04-25T15:07:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f0b1615d1a1c924e9322d64196f40f1a77c60e63d5c8277add20fa47524ce32b",
+      "source": "Google News Security",
+      "title": "メドトロニック、一部のITシステムでのサイバーセキュリティ侵害を公表 - MassDevice",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aRV9XdEptektVMEdUUHAwYmlCdFhDaHhqWHlsREZQR0ttcTdvZDBGaEl1QURtNWtROGQ3OWdmdnFVdlI3ak1EOEZmLV83X0k1S01iOTVjbkZCSDZibWlEdWJLbjgxbW55djVaeUhxaVV4Zw?oc=5",
+      "summary": "メドトロニック、一部のITシステムでのサイバーセキュリティ侵害を公表  MassDevice",
+      "publishedAt": "2026-04-25T17:20:42.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "526082447899ceacb209c56bc25aa49c3cd94a19a58e01be2879afc9188905d1",
+      "source": "Google News Security",
+      "title": "医療企業への大規模なデータ侵害により160,312人のアメリカ人の個人および医療記録が潜在的に漏洩",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84U0lVT2V0MU1jSk5sSm9YRGFHWEJRWHVMdlBRLWZNcXJNYkJQWmptV1BsVHRGWGpJYVdlRGFpcDJlbjBGdGfSAeYBQVVfeXFMUHliUUotVnRldkRmY29NUE1jVVZTb2tlekpyeEtsc3c2Y0R6NklnNWpoVWRYc2dZeTl5bTNGeUZBSnQwNlhaQ3l6eGxWa01oZXpwa1UwQ0dYTnI5VnB3dFpWUl9xVElaN0Z2X25CanFOX1ZkZzdxU0t0YVIwYk80RnNUUmozRUJoRTJxd2RSWm9iLXcyZnpwWnBTazBucGRJVHY2cDk3SDRhUmhZMDNXWWZiSGxacDYyV0JoM2I1VXNIZi1FRDk2NFdsUGRiajZXWUdxOGE5ZDNYVHlfZV9UaXRqdjF3eXc?oc=5",
+      "summary": "医療企業への大規模なデータ侵害により160,312人のアメリカ人の個人および医療記録が潜在的に漏洩したとThe Daily Hodlが報じています。",
+      "publishedAt": "2026-04-25T17:44:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "692091535a1e0ca8316471cdac24ab6fd2abecf3b4ae93be7db75c0d60540650",
+      "source": "Google News Security",
+      "title": "アメリカ最大のホームセキュリティブランドADT、ShinyHuntersグループに関連するデータ侵害を確認 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU29JVE4yRG5PTk5RYkNaQnRZUmJDMEUxeWJCUHhodW1razROUmc4UVlKejF1WXZRbnY2aUpGRW5rcXlOYWxDeVdJRS1qdXMxRVB5R3g4VHlwZTNlMnVBakkxbXZQbDdmX0hBVGliaXNuMmtDN09BZVNzWXFWR2txcFdKMnJrQXNCU2ZBQ3p0S3Z6OHR5Ty0zc3pMV3FPLVhjWkdiWUQwWmZHdUF1UXpFM0dlZ0VoWmRSdk9j0gG6AUFVX3lxTFBCOWdUOGtoWUE4Ym9YTi1PT2RTRklvUHdEdG5RVFJ1Y2RyWXVMNUtJSmhod3pDTDZLa3JleHVRTTJ6cWZOS1VheTJ1SWs4WmhJZ2tVU1UzeGNwSW5tYzczUV9fUWJvU3k3MEJrWG1OSUpCTnBMTk5YS3cycTg3Q09GMk1rRktKZThCbnVvTnV2RkVNaV9UeWVrYmUwR21aVWRPcGxyUVdMMzVxSFhpN0lhSE00RWRGalVYdw?oc=5",
+      "summary": "アメリカ最大のホームセキュリティブランドADT、ShinyHuntersグループに関連するデータ侵害を確認  Neowin",
+      "publishedAt": "2026-04-25T13:16:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-26T01:01:21.349Z"
+  }
+}

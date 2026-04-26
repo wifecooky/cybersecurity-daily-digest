@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-26",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "4171e137a7cb442b696047f9af7a093a01cdee418aaa118786596af693748dd8",
+      "source": "Google News Security (JP)",
+      "title": "35億人に影響するChromeの脆弱性、19件の修正を含む最新版が公開 アップデートを - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fYmVTZzUtU0RyV080aXZsU3NacC14SkdYZ2V1QkNkODZLRldLT2NUamlxRnQ4dDBHLUVScm1vRUh2UmlKMGplMTBzLVlXZ1VMQWl5RktSOW54Umh0YmhkWHJiQkZrSjBQRlE5aHdxWWJ3UkNWMnk1ZnIxOUxIT2s?oc=5",
+      "summary": "35億人に影響するChromeの脆弱性、19件の修正を含む最新版が公開 アップデートを  Yahoo!ニュース",
+      "publishedAt": "2026-04-25T23:03:11.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        13
+      ],
+      "reason": "Critical Chrome vulnerabilities patched",
+      "suggestedTitle": "Google Releases Critical Chrome Updates to Patch Multiple Vulnerabilities",
+      "suggestedSummary": "Google has released updates for Chrome, addressing 19 vulnerabilities, including critical ones that could impact over 3.5 billion users. The latest ChromeOS 147 update also fixes 71 vulnerabilities, some of which are classified as 'Critical'. These vulnerabilities, if exploited, could allow attackers to execute arbitrary code or bypass security restrictions. Security teams should prioritize patching to protect against potential exploitation.",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "5fe0ae0a95979aac03d80e44501ba708c4261cab6fea3536e87e4b7d2734152a",
+      "source": "The Hacker News",
+      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is below -\n\nCVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
+      "publishedAt": "2026-04-25T05:08:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "CISA adds exploited flaws to KEV",
+      "suggestedTitle": "CISA Adds Four Exploited Vulnerabilities to Known Exploited Vulnerabilities Catalog",
+      "suggestedSummary": "The Cybersecurity and Infrastructure Security Agency (CISA) has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, with a federal deadline set for May 2026 to address these flaws. These vulnerabilities are actively being exploited, posing significant risks to affected systems. Security teams should review and apply updates or mitigations to ensure compliance and protect against potential threats.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b7373807e2d783a7d63b8e375dd66bf6afb7878cdd0d96e8f896aadcc13953db",
+      "source": "Google News Security",
+      "title": "Hackers Leverage Microsoft Teams to Breach Organizations Posing as IT Helpdesk Staff - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZV2tYMFprb0xaVkV6M2IyVTc2a0pqZXlmMWNwSVVSc0dCNU9sRjlEUHJCLUk4WWJUR3NpRDhLZWwtVEdmMTlDdEtUWUNYODZXTXJnaVRLb1hzMkhTSnV4aEFzMzBCOTk1d1g0YXFseEtIUzZKZGfSAXtBVV95cUxNal9QU2tKRHNCd01rc1ZQMl96T0o5NUExRThUYzl6LU1LcGQ1VG13Z2lzX0hTeEI3Zy1yT0RLUWg2Qll4UFpvSUM3M2hRNUV1R3BxUEZyNzVnVzBiN2NxYnQ4dlNfOGlVZ1p5Nmw3LUZ3NElVTTVkNVZkQ1E?oc=5",
+      "summary": "Hackers Leverage Microsoft Teams to Breach Organizations Posing as IT Helpdesk Staff  CyberSecurityNews",
+      "publishedAt": "2026-04-25T22:18:59.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "380f1dd579632cf2dce3db033794dcb8a651b7fe8e26aba1c503ca4c76bba342",
+      "source": "BleepingComputer",
+      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
+      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
+      "publishedAt": "2026-04-25T15:07:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f0b1615d1a1c924e9322d64196f40f1a77c60e63d5c8277add20fa47524ce32b",
+      "source": "Google News Security",
+      "title": "Medtronic discloses cybersecurity breach in certain IT systems - MassDevice",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aRV9XdEptektVMEdUUHAwYmlCdFhDaHhqWHlsREZQR0ttcTdvZDBGaEl1QURtNWtROGQ3OWdmdnFVdlI3ak1EOEZmLV83X0k1S01iOTVjbkZCSDZibWlEdWJLbjgxbW55djVaeUhxaVV4Zw?oc=5",
+      "summary": "Medtronic discloses cybersecurity breach in certain IT systems  MassDevice",
+      "publishedAt": "2026-04-25T17:20:42.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "526082447899ceacb209c56bc25aa49c3cd94a19a58e01be2879afc9188905d1",
+      "source": "Google News Security",
+      "title": "Personal and Medical Records of 160,312 Americans Potentially Exposed After Major Data Breach Hits Healthcare Firm - The Daily Hodl",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84U0lVT2V0MU1jSk5sSm9YRGFHWEJRWHVMdlBRLWZNcXJNYkJQWmptV1BsVHRGWGpJYVdlRGFpcDJlbjBGdGfSAeYBQVVfeXFMUHliUUotVnRldkRmY29NUE1jVVZTb2tlekpyeEtsc3c2Y0R6NklnNWpoVWRYc2dZeTl5bTNGeUZBSnQwNlhaQ3l6eGxWa01oZXpwa1UwQ0dYTnI5VnB3dFpWUl9xVElaN0Z2X25CanFOX1ZkZzdxU0t0YVIwYk80RnNUUmozRUJoRTJxd2RSWm9iLXcyZnpwWnBTazBucGRJVHY2cDk3SDRhUmhZMDNXWWZiSGxacDYyV0JoM2I1VXNIZi1FRDk2NFdsUGRiajZXWUdxOGE5ZDNYVHlfZV9UaXRqdjF3eXc?oc=5",
+      "summary": "Personal and Medical Records of 160,312 Americans Potentially Exposed After Major Data Breach Hits Healthcare Firm  The Daily Hodl",
+      "publishedAt": "2026-04-25T17:44:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "692091535a1e0ca8316471cdac24ab6fd2abecf3b4ae93be7db75c0d60540650",
+      "source": "Google News Security",
+      "title": "America's largest home security brand ADT confirms data breach linked to ShinyHunters group - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU29JVE4yRG5PTk5RYkNaQnRZUmJDMEUxeWJCUHhodW1razROUmc4UVlKejF1WXZRbnY2aUpGRW5rcXlOYWxDeVdJRS1qdXMxRVB5R3g4VHlwZTNlMnVBakkxbXZQbDdmX0hBVGliaXNuMmtDN09BZVNzWXFWR2txcFdKMnJrQXNCU2ZBQ3p0S3Z6OHR5Ty0zc3pMV3FPLVhjWkdiWUQwWmZHdUF1UXpFM0dlZ0VoWmRSdk9j0gG6AUFVX3lxTFBCOWdUOGtoWUE4Ym9YTi1PT2RTRklvUHdEdG5RVFJ1Y2RyWXVMNUtJSmhod3pDTDZLa3JleHVRTTJ6cWZOS1VheTJ1SWs4WmhJZ2tVU1UzeGNwSW5tYzczUV9fUWJvU3k3MEJrWG1OSUpCTnBMTk5YS3cycTg3Q09GMk1rRktKZThCbnVvTnV2RkVNaV9UeWVrYmUwR21aVWRPcGxyUVdMMzVxSFhpN0lhSE00RWRGalVYdw?oc=5",
+      "summary": "America's largest home security brand ADT confirms data breach linked to ShinyHunters group  Neowin",
+      "publishedAt": "2026-04-25T13:16:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-26T01:00:20.010Z"
+  }
+}
