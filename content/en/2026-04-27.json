@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-27",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "3dc44585fe696a45d8ec2e38899515907997885cb9bb66f7e8c8702a41688051",
+      "source": "BleepingComputer",
+      "title": "American utility firm Itron discloses breach of internal IT network",
+      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
+      "publishedAt": "2026-04-26T14:22:34.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "North Korean Hackers Suspected in Major Data Breach",
+      "suggestedSummary": "American utility firm Itron disclosed a breach of its internal IT network, raising concerns about potential nation-state involvement. Simultaneously, reports suggest North Korean hackers leaked 100,000 records, necessitating a comprehensive cybersecurity review. These incidents underscore the persistent threat from APT groups targeting critical infrastructure and sensitive data. Security teams should bolster defenses against sophisticated attacks, monitor IOCs, and ensure robust incident response plans.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3393e01d3c8ebd2f1f4fd2ff2ac6eab54ef487875d401c63689439cdaecffb11",
+      "source": "Google News Security",
+      "title": "New alleged breach hits Nigerian lender as cyber attacks mount on financial sector - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0VVSjdyMTJQSmUyV0RvcHlRdTVYeEwyT2w4eEYyRk5QRVQtVUdIUThmTVBnZEp6Vlh5SjZPRWtMSHJ5T3VEX1BkbTh4TnZGcmlPUHI0TzdXcHhWQzJQLXNYaHREb2xHN1cyWFBOMV9GbjNnZUxpZXZ0SXFKZkVHSUdXdTdhX2VFVTFjR3NlZTNpM0EzMVhNZm1QUTQ5NVRVZVgzZ2lBQnFLcWwwWmpfRjFzd0JBdlFIWHpnaVlhSlBZWnM?oc=5",
+      "summary": "New alleged breach hits Nigerian lender as cyber attacks mount on financial sector  Business News Nigeria",
+      "publishedAt": "2026-04-26T23:22:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "07cbfe0ad50052f4d0674c4ac4ab72a5485cee6a5913c06ec0de1640e6cb2bf1",
+      "source": "Google News Security (JP)",
+      "title": "LogonTracer に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ub282aVNDS1Q2eS1CZHE1d2thdVRaSDQyWWw1WUlCUXM2YkRkd25fN1lDZlJXb1Y3UkdsVEFWb2VneDdnTnc4YnJnUjVWam51dGVodVJMcXhCdndVT1cyVzI3Mldwa1Rtbk9iVUFKNUlKRlNGenFCbVBPcE84Yk0?oc=5",
+      "summary": "LogonTracer に複数の脆弱性（ScanNetSecurity）  Yahoo!ニュース",
+      "publishedAt": "2026-04-26T23:04:23.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ac0df458536dee786526960c9f8a0a718ef0c257267c3add72a4b3ec4d7334e9",
+      "source": "Google News Security (JP)",
+      "title": "WordPressプラグイン・テーマの脆弱性最新情報 第27回 WordPress脆弱性36件、未認証攻撃も　今すぐ対応すべきプラグインはどれか【4月9日〜4月15日】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGpHdU1YRFBVUXh5WjdZd1ZGZDRCTTVHSERobVNjcnhGVUx0VlhPelBGSFhuWTNoNmxaX1oyX1BGdFVhQzFVWlZvaXhzNU1PdmdpZUJlejlBanFpcHJ4dk9iUGhGUmFPOVR5OHYzU1dNRFFzZFVxY2tnSzF2QWJ4aVFPd3hMVmdSVkHSAXxBVV95cUxPaDJyMV8zTjZoaF96NTlWZWh4Y2VrdlJGRUxLTkNSSjJTNklQbnN6a1UwTlU4YWxaNnoyTk4tS2l5UFNVMkUwQ2ZaZFhxVWtieGNlMzNNYS1qNmpSYXozVy1nS3huTHMzVkRPZDZuWFhJdXRLMjkzdkhwRnUy?oc=5",
+      "summary": "WordPressプラグイン・テーマの脆弱性最新情報 第27回 WordPress脆弱性36件、未認証攻撃も　今すぐ対応すべきプラグインはどれか【4月9日〜4月15日】  ｄメニューニュース",
+      "publishedAt": "2026-04-26T23:43:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-27T01:00:20.418Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-27",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "3dc44585fe696a45d8ec2e38899515907997885cb9bb66f7e8c8702a41688051",
+      "source": "BleepingComputer",
+      "title": "アメリカの公共事業会社イートロン、内部ITネットワークの侵害を公表",
+      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "summary": "イートロン社は、米国証券取引委員会（SEC）への8-K提出を通じて、許可されていない第三者が特定の内部システムにアクセスしたサイバーセキュリティインシデントを公表しました。",
+      "publishedAt": "2026-04-26T14:22:34.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "北朝鮮のハッカーが大規模なデータ侵害の疑い",
+      "suggestedSummary": "アメリカの公共事業会社イートロンが内部ITネットワークの侵害を公表し、国家的関与の可能性に対する懸念を引き起こしています。同時に、北朝鮮のハッカーが10万件の記録を漏洩したとする報告があり、包括的なサイバーセキュリティの見直しが必要とされています。これらの事件は、重要インフラと機密データを狙うAPTグループからの持続的な脅威を浮き彫りにしています。セキュリティチームは、高度な攻撃に対する防御を強化し、IOCを監視し、堅牢なインシデント対応計画を確保する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3393e01d3c8ebd2f1f4fd2ff2ac6eab54ef487875d401c63689439cdaecffb11",
+      "source": "Google News Security",
+      "title": "新たな疑惑の侵害がナイジェリアの貸し手を襲う、金融セクターでサイバー攻撃が増加 - ビジネスニュースナイジェリア",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0VVSjdyMTJQSmUyV0RvcHlRdTVYeEwyT2w4eEYyRk5QRVQtVUdIUThmTVBnZEp6Vlh5SjZPRWtMSHJ5T3VEX1BkbTh4TnZGcmlPUHI0TzdXcHhWQzJQLXNYaHREb2xHN1cyWFBOMV9GbjNnZUxpZXZ0SXFKZkVHSUdXdTdhX2VFVTFjR3NlZTNpM0EzMVhNZm1QUTQ5NVRVZVgzZ2lBQnFLcWwwWmpfRjFzd0JBdlFIWHpnaVlhSlBZWnM?oc=5",
+      "summary": "新たな疑惑の侵害がナイジェリアの貸し手を襲う、金融セクターでサイバー攻撃が増加 - ビジネスニュースナイジェリア",
+      "publishedAt": "2026-04-26T23:22:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "07cbfe0ad50052f4d0674c4ac4ab72a5485cee6a5913c06ec0de1640e6cb2bf1",
+      "source": "Google News Security (JP)",
+      "title": "LogonTracerに複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ub282aVNDS1Q2eS1CZHE1d2thdVRaSDQyWWw1WUlCUXM2YkRkd25fN1lDZlJXb1Y3UkdsVEFWb2VneDdnTnc4YnJnUjVWam51dGVodVJMcXhCdndVT1cyVzI3Mldwa1Rtbk9iVUFKNUlKRlNGenFCbVBPcE84Yk0?oc=5",
+      "summary": "LogonTracerに複数の脆弱性（ScanNetSecurity） Yahoo!ニュース",
+      "publishedAt": "2026-04-26T23:04:23.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ac0df458536dee786526960c9f8a0a718ef0c257267c3add72a4b3ec4d7334e9",
+      "source": "Google News Security (JP)",
+      "title": "WordPressプラグイン・テーマの脆弱性最新情報 第27回 WordPress脆弱性36件、未認証攻撃も 今すぐ対応すべきプラグインはどれか【4月9日〜4月15日】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGpHdU1YRFBVUXh5WjdZd1ZGZDRCTTVHSERobVNjcnhGVUx0VlhPelBGSFhuWTNoNmxaX1oyX1BGdFVhQzFVWlZvaXhzNU1PdmdpZUJlejlBanFpcHJ4dk9iUGhGUmFPOVR5OHYzU1dNRFFzZFVxY2tnSzF2QWJ4aVFPd3hMVmdSVkHSAXxBVV95cUxPaDJyMV8zTjZoaF96NTlWZWh4Y2VrdlJGRUxLTkNSSjJTNklQbnN6a1UwTlU4YWxaNnoyTk4tS2l5UFNVMkUwQ2ZaZFhxVWtieGNlMzNNYS1qNmpSYXozVy1nS3huTHMzVkRPZDZuWFhJdXRLMjkzdkhwRnUy?oc=5",
+      "summary": "WordPressプラグイン・テーマの脆弱性最新情報 第27回 WordPress脆弱性36件、未認証攻撃も 今すぐ対応すべきプラグインはどれか【4月9日〜4月15日】 ｄメニューニュース",
+      "publishedAt": "2026-04-26T23:43:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-27T01:00:30.180Z"
+  }
+}

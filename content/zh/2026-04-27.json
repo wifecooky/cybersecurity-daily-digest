@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-27",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "3dc44585fe696a45d8ec2e38899515907997885cb9bb66f7e8c8702a41688051",
+      "source": "BleepingComputer",
+      "title": "美国公用事业公司Itron披露内部IT网络遭入侵",
+      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "summary": "Itron公司通过向美国证券交易委员会（SEC）提交的8-K文件披露了一起网络安全事件，其中一名未经授权的第三方访问了某些内部系统。",
+      "publishedAt": "2026-04-26T14:22:34.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "朝鲜黑客涉嫌重大数据泄露",
+      "suggestedSummary": "美国公用事业公司Itron披露其内部IT网络遭入侵，引发了对潜在国家行为者参与的担忧。同时，有报道称朝鲜黑客泄露了10万条记录，这需要进行全面的网络安全审查。这些事件凸显了APT组织对关键基础设施和敏感数据的持续威胁。安全团队应加强防御以抵御复杂攻击，监控IOC，并确保健全的事件响应计划。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "3393e01d3c8ebd2f1f4fd2ff2ac6eab54ef487875d401c63689439cdaecffb11",
+      "source": "Google News Security",
+      "title": "随着网络攻击增加，尼日利亚金融机构再遭新指控泄露 - 尼日利亚商业新闻",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0VVSjdyMTJQSmUyV0RvcHlRdTVYeEwyT2w4eEYyRk5QRVQtVUdIUThmTVBnZEp6Vlh5SjZPRWtMSHJ5T3VEX1BkbTh4TnZGcmlPUHI0TzdXcHhWQzJQLXNYaHREb2xHN1cyWFBOMV9GbjNnZUxpZXZ0SXFKZkVHSUdXdTdhX2VFVTFjR3NlZTNpM0EzMVhNZm1QUTQ5NVRVZVgzZ2lBQnFLcWwwWmpfRjFzd0JBdlFIWHpnaVlhSlBZWnM?oc=5",
+      "summary": "随着网络攻击增加，尼日利亚金融机构再遭新指控泄露  尼日利亚商业新闻",
+      "publishedAt": "2026-04-26T23:22:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "07cbfe0ad50052f4d0674c4ac4ab72a5485cee6a5913c06ec0de1640e6cb2bf1",
+      "source": "Google News Security (JP)",
+      "title": "LogonTracer 存在多个漏洞（ScanNetSecurity） - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ub282aVNDS1Q2eS1CZHE1d2thdVRaSDQyWWw1WUlCUXM2YkRkd25fN1lDZlJXb1Y3UkdsVEFWb2VneDdnTnc4YnJnUjVWam51dGVodVJMcXhCdndVT1cyVzI3Mldwa1Rtbk9iVUFKNUlKRlNGenFCbVBPcE84Yk0?oc=5",
+      "summary": "LogonTracer 存在多个漏洞（ScanNetSecurity） 雅虎新闻",
+      "publishedAt": "2026-04-26T23:04:23.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ac0df458536dee786526960c9f8a0a718ef0c257267c3add72a4b3ec4d7334e9",
+      "source": "Google News Security (JP)",
+      "title": "WordPress插件和主题的最新漏洞信息 第27期 WordPress 36个漏洞，包括未经认证的攻击 立即需要修复的插件有哪些【4月9日至4月15日】 - ｄ菜单新闻",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGpHdU1YRFBVUXh5WjdZd1ZGZDRCTTVHSERobVNjcnhGVUx0VlhPelBGSFhuWTNoNmxaX1oyX1BGdFVhQzFVWlZvaXhzNU1PdmdpZUJlejlBanFpcHJ4dk9iUGhGUmFPOVR5OHYzU1dNRFFzZFVxY2tnSzF2QWJ4aVFPd3hMVmdSVkHSAXxBVV95cUxPaDJyMV8zTjZoaF96NTlWZWh4Y2VrdlJGRUxLTkNSSjJTNklQbnN6a1UwTlU4YWxaNnoyTk4tS2l5UFNVMkUwQ2ZaZFhxVWtieGNlMzNNYS1qNmpSYXozVy1nS3huTHMzVkRPZDZuWFhJdXRLMjkzdkhwRnUy?oc=5",
+      "summary": "WordPress插件和主题的最新漏洞信息 第27期 WordPress 36个漏洞，包括未经认证的攻击 立即需要修复的插件有哪些【4月9日至4月15日】 ｄ菜单新闻",
+      "publishedAt": "2026-04-26T23:43:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-27T01:00:24.772Z"
+  }
+}
