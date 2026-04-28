@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-28",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "717788eabf3702e938ebd0f7ebd6009564fd97851030bc2b3525e03cf3ce716b",
+      "source": "The Hacker News",
+      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+      "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that access to that repository was facilitated through the initial supply chain attack of March 23, 2026,",
+      "publishedAt": "2026-04-27T14:19:00.000Z",
+      "score": 54,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Supply chain security incident",
+      "suggestedTitle": "Checkmarx GitHub Repository Data Leaked on Dark Web",
+      "suggestedSummary": "Checkmarx has confirmed a security breach where data from their GitHub repositories has been posted on the dark web following a cyberattack in March 2023. The breach is part of an ongoing investigation into a supply chain security incident, potentially affecting numerous projects relying on these repositories. Security teams should assess their dependencies on Checkmarx repositories and monitor for any signs of compromise or further exploitation.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "31979ad1308031c63e448e6fa6e4c3cf5e634918832ac44a3d95eae59e5d42e0",
+      "source": "BleepingComputer",
+      "title": "Home security giant ADT data breach affects 5.5 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-04-27T14:43:11.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        19
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "ADT Data Breach Exposes 5.5 Million Customers' Information",
+      "suggestedSummary": "Home security giant ADT has confirmed a data breach impacting 5.5 million individuals, with personal information stolen by the ShinyHunters extortion group. The breach includes sensitive data such as names, addresses, and email addresses. Security teams should advise affected users to be vigilant against phishing attempts and consider implementing additional security measures to protect personal information.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "04e19230876259cc0e3bf1c4c17994a517c1aee714f3a50ee7ac77aa5045cd6b",
+      "source": "BleepingComputer",
+      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
+      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
+      "publishedAt": "2026-04-27T13:50:42.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        15
+      ],
+      "reason": "Healthcare data breach affecting millions",
+      "suggestedTitle": "Medtronic Cybersecurity Breach Exposes 9 Million Records",
+      "suggestedSummary": "Medtronic, a leading medical device company, has disclosed a cybersecurity breach where hackers accessed data from its IT systems, affecting approximately 9 million records. This breach raises concerns over the security of medical data and the potential for exploitation. Organizations in the healthcare sector should review their security protocols and ensure robust defenses against unauthorized access to sensitive data.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9ec5afbc3a933d925ca2f7915ad3bd1bac3efc516c43f8738265d022159ee142",
+      "source": "The Hacker News",
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025.\nThat's according to a report published by Positive Technologies, which found the threat actors to be leveraging an exploit chain comprising three vulnerabilities to execute commands remotely on susceptible",
+      "publishedAt": "2026-04-27T11:54:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "8f6239bed8da113554ff3dc337f726972900d28fa4f99d318198a39d020e54e9",
+      "source": "BleepingComputer",
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "publishedAt": "2026-04-27T21:41:01.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "976a8d7f697e3b15b2e91704fffc24f82728f4d0fcfad3c718f8efc03a3f3624",
+      "source": "Dark Reading",
+      "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
+      "url": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+      "summary": "A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom \"Snow\" malware in a multipronged campaign.",
+      "publishedAt": "2026-04-27T20:12:34.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba7048b9f012f4d6a2580c0ca948e51fb72a2af5133cb298806e8fa8d1cc667c",
+      "source": "Ars Technica Security",
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "summary": "If you're one of millions using element-data, it's time to check for compromise.",
+      "publishedAt": "2026-04-27T21:04:03.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3f2b8c79a0cf17db84d1e2a70855763d922aed0c7d127de9d8c85d135d12ba91",
+      "source": "BleepingComputer",
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
+      "publishedAt": "2026-04-27T15:17:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "92da9408659f56edc330826b1a831177958238ba9ade28f9d0203e4d6edf59e8",
+      "source": "Dark Reading",
+      "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+      "summary": "A researcher discovered five different exploit paths that stem from an architectural weakness in how Windows' Remote Procedure Call (RPC) mechanism handles connections to unavailable services.",
+      "publishedAt": "2026-04-27T15:31:41.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-28T01:01:49.362Z"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2026-04-28",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "717788eabf3702e938ebd0f7ebd6009564fd97851030bc2b3525e03cf3ce716b",
+      "source": "The Hacker News",
+      "title": "Checkmarx、3月23日の攻撃後にGitHubリポジトリデータがダークウェブに投稿されたことを確認",
+      "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+      "summary": "Checkmarxは、サプライチェーンのセキュリティインシデントに関連する継続中の調査において、サイバー犯罪グループが同社に関連するデータをダークウェブに公開したことを明らかにしました。「現在の証拠に基づき、このデータはCheckmarxのGitHubリポジトリから発生したと考えており、そのリポジトリへのアクセスは2026年3月23日の初期のサプライチェーン攻撃を通じて可能になったと信じています。」",
+      "publishedAt": "2026-04-27T14:19:00.000Z",
+      "score": 54,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Supply chain security incident",
+      "suggestedTitle": "CheckmarxのGitHubリポジトリデータがダークウェブに漏洩",
+      "suggestedSummary": "Checkmarxは、2023年3月のサイバー攻撃後にGitHubリポジトリからのデータがダークウェブに投稿されたセキュリティ侵害を確認しました。この侵害は、サプライチェーンのセキュリティインシデントに関する継続中の調査の一環であり、これらのリポジトリに依存する多数のプロジェクトに影響を及ぼす可能性があります。セキュリティチームは、Checkmarxリポジトリへの依存関係を評価し、妥協やさらなる悪用の兆候を監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "31979ad1308031c63e448e6fa6e4c3cf5e634918832ac44a3d95eae59e5d42e0",
+      "source": "BleepingComputer",
+      "title": "ホームセキュリティ大手ADTのデータ侵害が550万人に影響",
+      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "summary": "データ侵害通知サービス「Have I Been Pwned」によると、今月初めにホームセキュリティ大手ADTのシステムが侵害され、ShinyHuntersという恐喝グループが550万人の個人情報を盗んだ。 [...]",
+      "publishedAt": "2026-04-27T14:43:11.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        2,
+        19
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "ADTのデータ侵害で550万人の顧客情報が流出",
+      "suggestedSummary": "ホームセキュリティ大手ADTは、550万人に影響を与えるデータ侵害を確認しました。ShinyHuntersという恐喝グループによって個人情報が盗まれました。侵害には、名前、住所、メールアドレスなどの機密データが含まれています。セキュリティチームは、影響を受けたユーザーに対し、フィッシング詐欺に対する警戒を強化し、個人情報を保護するための追加のセキュリティ対策を検討するよう助言すべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "04e19230876259cc0e3bf1c4c17994a517c1aee714f3a50ee7ac77aa5045cd6b",
+      "source": "BleepingComputer",
+      "title": "メドトロニック、ハッカーによる900万件の記録盗難を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "summary": "医療機器の大手企業メドトロニックは先週、ハッカーがそのネットワークに侵入し、「特定の企業ITシステム」内のデータにアクセスしたことを明らかにしました。",
+      "publishedAt": "2026-04-27T13:50:42.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        15
+      ],
+      "reason": "Healthcare data breach affecting millions",
+      "suggestedTitle": "メドトロニックのサイバーセキュリティ侵害で900万件の記録が露出",
+      "suggestedSummary": "医療機器のリーディングカンパニーであるメドトロニックは、ハッカーが同社のITシステムからデータにアクセスし、約900万件の記録に影響を与えたサイバーセキュリティ侵害を明らかにしました。この侵害は、医療データのセキュリティと悪用の可能性に対する懸念を引き起こしています。医療分野の組織は、セキュリティプロトコルを見直し、機密データへの不正アクセスに対する強力な防御を確保する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9ec5afbc3a933d925ca2f7915ad3bd1bac3efc516c43f8738265d022159ee142",
+      "source": "The Hacker News",
+      "title": "PhantomCoreがTrueConfの脆弱性を悪用しロシアのネットワークに侵入",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "summary": "ウクライナ支持のハクティビストグループであるPhantomCoreが、2025年9月以降、ロシアでTrueConfビデオ会議ソフトウェアを実行しているサーバーを積極的に標的にした攻撃に関与しているとされています。Positive Technologiesが発表した報告によると、脅威アクターは3つの脆弱性からなるエクスプロイトチェーンを利用し、脆弱なシステムでリモートコマンドを実行しています。",
+      "publishedAt": "2026-04-27T11:54:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "8f6239bed8da113554ff3dc337f726972900d28fa4f99d318198a39d020e54e9",
+      "source": "BleepingComputer",
+      "title": "GlassWormマルウェア攻撃が73のOpenVSX「スリーパー」拡張機能を通じて再来",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "summary": "新たなGlasswormキャンペーンが、OpenVSXエコシステムを標的にしており、73の「スリーパー」拡張機能がアップデート後に悪意のある動作を開始します。[...]",
+      "publishedAt": "2026-04-27T21:41:01.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "976a8d7f697e3b15b2e91704fffc24f82728f4d0fcfad3c718f8efc03a3f3624",
+      "source": "Dark Reading",
+      "title": "UNC6692、ソーシャルエンジニアリング、マルウェア、クラウド悪用を組み合わせる",
+      "url": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+      "summary": "新たに発見された脅威アクターが、Microsoft Teams、AWS S3バケット、カスタム「Snow」マルウェアを使用して多面的なキャンペーンを展開している。",
+      "publishedAt": "2026-04-27T20:12:34.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba7048b9f012f4d6a2580c0ca948e51fb72a2af5133cb298806e8fa8d1cc667c",
+      "source": "Ars Technica Security",
+      "title": "月間100万ダウンロードのオープンソースパッケージがユーザーの認証情報を盗んでいた",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "summary": "element-dataを使用している数百万人の一人であるならば、侵害の有無を確認する時です。",
+      "publishedAt": "2026-04-27T21:04:03.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3f2b8c79a0cf17db84d1e2a70855763d922aed0c7d127de9d8c85d135d12ba91",
+      "source": "BleepingComputer",
+      "title": "月間110万ダウンロードのPyPIパッケージがハッキングされ、情報窃取ツールを配布",
+      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "summary": "攻撃者が人気のあるPython Package Index (PyPI) の elementary-data パッケージの悪意のあるバージョンを公開し、開発者の機密データや暗号通貨ウォレットを盗む試みを行いました。",
+      "publishedAt": "2026-04-27T15:17:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "92da9408659f56edc330826b1a831177958238ba9ade28f9d0203e4d6edf59e8",
+      "source": "Dark Reading",
+      "title": "未修正の『PhantomRPC』の脆弱性によりWindowsで特権昇格が可能に",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+      "summary": "ある研究者が、Windowsのリモートプロシージャコール（RPC）メカニズムが利用できないサービスへの接続を処理する方法におけるアーキテクチャ上の弱点から生じる5つの異なるエクスプロイト経路を発見しました。",
+      "publishedAt": "2026-04-27T15:31:41.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-28T01:02:16.078Z"
+  }
+}
