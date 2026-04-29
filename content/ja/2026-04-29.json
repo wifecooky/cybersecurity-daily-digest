@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-29",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "7dbdaf39b9a6abe66252ac508446cf7026a3b597fc91e63dc5bcf2b843ea1957",
+      "source": "BleepingComputer",
+      "title": "ハッカーが重大なLiteLLMの事前認証SQLi脆弱性を悪用",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "summary": "ハッカーは、CVE-2026-42208として追跡されている重大な脆弱性を悪用して、LiteLLMオープンソースの大規模言語モデル（LLM）ゲートウェイに保存されている機密情報を狙っています。 [...]",
+      "publishedAt": "2026-04-28T21:07:23.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Active exploitation of critical flaw",
+      "suggestedTitle": "重大なLiteLLM SQLインジェクション脆弱性が悪用される",
+      "suggestedSummary": "ハッカーは、LiteLLMオープンソースの大規模言語モデルにおける重大なSQLインジェクション脆弱性を積極的に悪用しています。この事前認証の欠陥により、攻撃者はシステムに保存された機密情報にアクセスし、操作することが可能です。セキュリティチームは、この脆弱性の修正を優先し、不正アクセスやデータ侵害の兆候を監視する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "06693064f9a742f3cbab695be783c1fd49946a1b3260c84db15c9b09c281fbe8",
+      "source": "The Hacker News",
+      "title": "研究者がGitHubのCVE-2026-3854 RCE脆弱性を発見、単一のGitプッシュで悪用可能",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "summary": "サイバーセキュリティ研究者は、GitHub.comおよびGitHub Enterprise Serverに影響を与える重大なセキュリティ脆弱性の詳細を公開しました。この脆弱性により、認証されたユーザーが単一の「git push」コマンドでリモートコード実行を取得する可能性があります。CVE-2026-3854（CVSSスコア: 8.7）として追跡されているこの脆弱性は、リポジトリへのプッシュアクセスを持つ攻撃者がコマンドインジェクションを利用して達成できるケースです。",
+      "publishedAt": "2026-04-28T18:19:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        27
+      ],
+      "reason": "Critical GitHub RCE vulnerability",
+      "suggestedTitle": "GitHubの重大なCVE-2026-3854 RCE脆弱性が公開される",
+      "suggestedSummary": "研究者は、GitHubにおける重大なリモートコード実行（RCE）脆弱性であるCVE-2026-3854を公開しました。この脆弱性は単一のGitプッシュコマンドで悪用可能です。この欠陥は、影響を受けたシステム上で任意のコードを実行できるため、重大なリスクをもたらします。セキュリティチームは直ちにパッチを適用し、疑わしい活動のためにアクセスログを確認するべきです。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "daa3438d332c71c60e97d73f7b34c84d76e0643a750f08440441b38cbfd3075c",
+      "source": "The Hacker News",
+      "title": "マイクロソフト、Windows ShellのCVE-2026-32202の積極的な悪用を確認",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "マイクロソフトは月曜日に、Windows Shellに影響を与える高深刻度のセキュリティ欠陥に関するアドバイザリを改訂し、この欠陥が実際に悪用されていることを認めました。この脆弱性はCVE-2026-32202（CVSSスコア：4.3）であり、攻撃者が機密情報にアクセスできる可能性のあるなりすましの脆弱性です。これは、Patch Tuesdayの更新の一環として対処されました。",
+      "publishedAt": "2026-04-28T05:50:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        67
+      ],
+      "reason": "Active exploitation of Windows Shell CVE",
+      "suggestedTitle": "Windows ShellのCVE-2026-32202が積極的に悪用される",
+      "suggestedSummary": "マイクロソフトは、Windows Shellにおける高深刻度の脆弱性CVE-2026-32202の積極的な悪用を確認しました。この欠陥により、攻撃者は任意のコードを実行でき、システム全体の侵害につながる可能性があります。セキュリティチームは、すべてのシステムに最新の更新プログラムを適用し、侵害の兆候を監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "cc8599285a16b760867d888935f0a63b50da283461271a9912de1b60737d9963",
+      "source": "Dark Reading",
+      "title": "対立するランサムウェアグループが互いのデータを漏洩",
+      "url": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+      "summary": "0APTとKryBitが互いに攻撃し合った際、インフラストラクチャと運用データが露呈し、防御側にランサムウェアの運用に関する貴重な洞察を提供した。",
+      "publishedAt": "2026-04-28T20:13:30.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6009cbf3da29f017079459af1d79dc03496edaf631ee013e25c18b4e47a0343f",
+      "source": "Dark Reading",
+      "title": "Vidar、混沌とした情報窃取市場でトップに躍り出る",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+      "summary": "このマルウェアは、昨年の法執行機関によるLummaとRhadamanthysの摘発によって生じたギャップを埋めました。",
+      "publishedAt": "2026-04-28T19:07:16.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bf86d64e39b97b1fb9cb8f80d8aa804457b48d516886f15919395949e569cce2",
+      "source": "BleepingComputer",
+      "title": "米国、フィンランドで逮捕されたScattered Spiderハッカーを起訴",
+      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "summary": "今月初めにフィンランドで逮捕された19歳の米国とエストニアの二重国籍者が、悪名高いScattered Spiderハッキング集団の多産なメンバーであったとされ、米国で連邦起訴を受けています。[...]",
+      "publishedAt": "2026-04-28T15:39:52.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d91e9d8e67f17f9701a13bc65f394a18899c9be435fe352de9b2a425cd6a58e6",
+      "source": "BleepingComputer",
+      "title": "Checkmarx、LAPSUS$ハッカーが盗まれたGitHubデータを漏洩したことを確認",
+      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "summary": "アプリケーションセキュリティ企業のCheckmarxは、LAPSUS$脅威グループが同社のプライベートGitHubリポジトリから盗まれたデータを漏洩したことを確認しました。[...]",
+      "publishedAt": "2026-04-28T14:50:40.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b01ecc0c744e0efc7d4f2ad320fbacf7f4dd1e5d9e8f6111b08ae1d5335653a3",
+      "source": "The Hacker News",
+      "title": "中国のシルクタイフーンハッカー、COVID研究へのサイバー攻撃で米国に引き渡される",
+      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "summary": "シルクタイフーンハッキンググループのメンバーであるとされる中国国籍の人物が、イタリアから米国に引き渡されました。徐沢偉（34歳）は、2025年7月にイタリア当局に逮捕され、中国政府が支援する脅威グループとの関係と、2020年2月から2021年6月にかけて米国の組織や政府機関に対するサイバー攻撃を指揮した疑いが持たれています。",
+      "publishedAt": "2026-04-28T07:57:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-29T01:03:23.398Z"
+  }
+}
