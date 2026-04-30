@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-30",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "3c143ad9ff3332b22b9c781b44b11e8b04a20fc2c18748438225d31105d94620",
+      "source": "The Hacker News",
+      "title": "CISA 将被积极利用的 ConnectWise 和 Windows 漏洞添加到 KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "美国网络安全和基础设施安全局（CISA）周二根据活跃利用的证据，将影响 ConnectWise ScreenConnect 和 Microsoft Windows 的两个安全漏洞添加到其已知被利用漏洞（KEV）目录中。漏洞如下所示 -\n\nCVE-2024-1708（CVSS 分数：8.4）- ConnectWise ScreenConnect 中的路径遍历漏洞",
+      "publishedAt": "2026-04-29T08:46:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        9
+      ],
+      "reason": "Immediate patching required by CISA",
+      "suggestedTitle": "CISA 命令立即修补 Windows 零日漏洞",
+      "suggestedSummary": "美国网络安全和基础设施安全局（CISA）已要求联邦机构修补一个被积极利用的 Windows 零日漏洞。此漏洞被标识为 CVE-2026-32202，影响 Windows Shell 并允许远程代码执行。安全团队必须优先修补此漏洞，以防止潜在的系统妥协，因为该漏洞正被威胁行为者积极瞄准。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "10e13a11efe58fdd6ec74ec9970707433b199c03f6cfda43d58e611ffef6e784",
+      "source": "The Hacker News",
+      "title": "与SAP相关的npm包在凭证窃取供应链攻击中被攻破",
+      "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "网络安全研究人员正在对一场新的供应链攻击活动发出警告，该活动针对与SAP相关的npm包，使用凭证窃取恶意软件进行攻击。据Aikido Security、SafeDep、Socket、StepSecurity和谷歌旗下的Wiz的报告称，这场自称为mini Shai-Hulud的活动已经影响了与SAP的JavaScript和云应用程序相关的以下包。",
+      "publishedAt": "2026-04-29T16:26:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Supply chain attack on npm packages",
+      "suggestedTitle": "通过被攻破的SAP npm包进行凭证窃取",
+      "suggestedSummary": "一场供应链攻击已攻破官方SAP npm包，注入凭证窃取恶意软件。此攻击针对使用这些包的开发人员，可能会暴露敏感信息和凭证。安全团队应审核其npm依赖项并监控可疑活动，特别是使用与SAP相关的包，以降低数据泄露的风险。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "50ec19ccbd82d6b55692238941e8a22eb6ea421bff79bade5a9fccfed38eaf00",
+      "source": "The Hacker News",
+      "title": "朝鲜新一波攻击利用AI插入的npm恶意软件、虚假公司和远程访问木马",
+      "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+      "summary": "网络安全研究人员在一个npm包中发现了恶意代码，该包作为Anthropic的Claude Opus大型语言模型（LLM）项目的依赖项。涉事包名为“@validate-sdk/v2”，在npm上被列为用于哈希、验证、编码/解码和安全随机生成的实用软件开发工具包（SDK）。然而，其真实目的却是恶意的。",
+      "publishedAt": "2026-04-29T14:43:00.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "683b742482c06bf66e53ed2ecc30104907142ddc2c464e0ef59f0b18fc8a367d",
+      "source": "BleepingComputer",
+      "title": "黑客利用青龙任务调度器中的RCE漏洞进行加密货币挖矿",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "summary": "黑客正在利用青龙开源任务调度工具中的两个身份验证绕过漏洞，在开发者的服务器上部署加密货币挖矿程序。",
+      "publishedAt": "2026-04-29T20:50:35.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f57a5722ce9caba82ca51a8d69a4a9e57896a302406a3e42c8bcf295f3dd6715",
+      "source": "BleepingComputer",
+      "title": "cPanel、WHM紧急更新修复关键身份验证绕过漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "summary": "一个影响cPanel和WebHost Manager (WHM)仪表盘的所有版本（最新版本除外）的关键漏洞可能被利用，以在未经身份验证的情况下获取对控制面板的访问权限。[...]",
+      "publishedAt": "2026-04-29T15:51:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fecc3be9652fa088131adf17e63f342ce928f9c467d25f90a164b797c0347a1",
+      "source": "The Hacker News",
+      "title": "发现关键的cPanel身份验证漏洞——立即更新您的服务器",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel已发布安全更新，以解决影响各种身份验证路径的安全问题，该问题可能允许攻击者获得对控制面板软件的访问权限。根据cPanel周二发布的警报，该问题影响所有当前支持的版本。此问题已在以下版本中得到解决——11.110.0.97、11.118.0.63、11.126.0.54、11.132.0.29",
+      "publishedAt": "2026-04-29T09:37:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "35cdd45a8bf58252df2eb3e2f2dc1436cabdf49206169171e0f05198e15f1ea2",
+      "source": "Google News Security",
+      "title": "关键的 GitHub 漏洞暴露了数百万个代码库 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3lPQVVyVHlmdmVyLV9KVDl1M01Gc0tqek1waGlXcU9DN0NNVDBLdGNzRFZRMHUzQ3BqSHBJeEFvQ2tfQzVndHZOb040UTNhTGlFRjVBaF93bnNQVnZQT2FQVGEtd3FsZmM2MHNzMHR3cGdmZUZMUWFWQ2duUTF3QVh4R21HVjhMc0pRcHhDMzFsTHZlbjBJ0gGcAUFVX3lxTE9la3JFb3NHYkw1VmNFMWlrYXZ3RnFzeThxU2RsaWRXMXZIS2ZzZDV4RGhGMkdtMjB3VTZQRTBsMmp6THhmQzEwUE9rVGNJUTlTVm9QamE4b29hcEtfRGllcnZ3N3pNbHkyU2dzandYNjJQLXZ6M2RtVElNZHFaNjhEeWliNkVhc2pmQzFQZHlyeXY3cC1UZV9yNWRxaQ?oc=5",
+      "summary": "关键的 GitHub 漏洞暴露了数百万个代码库  SecurityWeek",
+      "publishedAt": "2026-04-29T06:27:49.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-30T01:02:31.120Z"
+  }
+}

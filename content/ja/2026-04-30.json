@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-30",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "3c143ad9ff3332b22b9c781b44b11e8b04a20fc2c18748438225d31105d94620",
+      "source": "The Hacker News",
+      "title": "CISA、ConnectWiseとWindowsの積極的に悪用されている脆弱性をKEVに追加",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は火曜日、ConnectWise ScreenConnectとMicrosoft Windowsに影響を与える2つのセキュリティ脆弱性を、積極的な悪用の証拠に基づいて、既知の悪用されている脆弱性（KEV）カタログに追加しました。脆弱性は以下の通りです - CVE-2024-1708（CVSSスコア: 8.4）- ConnectWise ScreenConnectのパストラバーサル脆弱性",
+      "publishedAt": "2026-04-29T08:46:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        9
+      ],
+      "reason": "Immediate patching required by CISA",
+      "suggestedTitle": "CISA、Windowsゼロデイの即時パッチ適用を命令",
+      "suggestedSummary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、ゼロデイとして積極的に悪用されているWindowsの重大な脆弱性のパッチ適用を連邦機関に命じました。この脆弱性はCVE-2026-32202として特定されており、Windows Shellに影響を与え、リモートコード実行を可能にします。セキュリティチームは、この脆弱性が脅威アクターによって積極的に狙われているため、システムの潜在的な侵害を防ぐためにこのパッチを優先する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "10e13a11efe58fdd6ec74ec9970707433b199c03f6cfda43d58e611ffef6e784",
+      "source": "The Hacker News",
+      "title": "SAP関連のnpmパッケージが資格情報窃取のサプライチェーン攻撃で侵害される",
+      "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "サイバーセキュリティ研究者たちは、資格情報窃取マルウェアを用いた新たなサプライチェーン攻撃キャンペーンについて警鐘を鳴らしています。この攻撃はSAP関連のnpmパッケージを標的にしています。Aikido Security、SafeDep、Socket、StepSecurity、そしてGoogle傘下のWizからの報告によると、このキャンペーンは「ミニ・シャイ＝フルード」と名乗り、SAPのJavaScriptおよびクラウドアプリケーションに関連する以下のパッケージに影響を及ぼしています。",
+      "publishedAt": "2026-04-29T16:26:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Supply chain attack on npm packages",
+      "suggestedTitle": "侵害されたSAP npmパッケージによる資格情報窃取",
+      "suggestedSummary": "サプライチェーン攻撃により公式のSAP npmパッケージが侵害され、資格情報窃取マルウェアが注入されました。この攻撃はこれらのパッケージを使用する開発者を標的とし、機密情報や資格情報が露出する可能性があります。セキュリティチームは、データ侵害のリスクを軽減するために、npmの依存関係を監査し、特にSAP関連のパッケージを使用している場合は不審な活動を監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "50ec19ccbd82d6b55692238941e8a22eb6ea421bff79bade5a9fccfed38eaf00",
+      "source": "The Hacker News",
+      "title": "新たなDPRK攻撃の波がAI挿入のnpmマルウェア、偽企業、RATを利用",
+      "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+      "summary": "サイバーセキュリティ研究者たちは、AnthropicのClaude Opus大規模言語モデル（LLM）によるプロジェクトの依存関係として悪意のあるパッケージが挿入された後、npmパッケージに悪意のあるコードを発見しました。問題のパッケージは「@validate-sdk/v2」で、npm上ではハッシュ化、検証、エンコード/デコード、セキュアなランダム生成のためのユーティリティソフトウェア開発キット（SDK）としてリストされています。しかし、その実態は",
+      "publishedAt": "2026-04-29T14:43:00.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "683b742482c06bf66e53ed2ecc30104907142ddc2c464e0ef59f0b18fc8a367d",
+      "source": "BleepingComputer",
+      "title": "ハッカーがQinglongタスクスケジューラのRCE脆弱性を悪用して暗号通貨マイニングを実行",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "summary": "ハッカーは、Qinglongオープンソースタスクスケジューリングツールの2つの認証バイパス脆弱性を悪用し、開発者のサーバーに暗号通貨マイナーを展開しています。",
+      "publishedAt": "2026-04-29T20:50:35.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f57a5722ce9caba82ca51a8d69a4a9e57896a302406a3e42c8bcf295f3dd6715",
+      "source": "BleepingComputer",
+      "title": "cPanelとWHMの緊急アップデートが重大な認証バイパスバグを修正",
+      "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "summary": "最新バージョン以外のすべてのcPanelおよびWebHost Manager (WHM) ダッシュボードに影響を与える重大な脆弱性が、認証なしでコントロールパネルにアクセスするために悪用される可能性がありました。",
+      "publishedAt": "2026-04-29T15:51:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fecc3be9652fa088131adf17e63f342ce928f9c467d25f90a164b797c0347a1",
+      "source": "The Hacker News",
+      "title": "重大なcPanel認証の脆弱性が特定される — すぐにサーバーを更新してください",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanelは、攻撃者がコントロールパネルソフトウェアにアクセスできる可能性のある、さまざまな認証経路に影響を与えるセキュリティ問題に対処するためのセキュリティアップデートをリリースしました。cPanelが火曜日に発表した警告によると、この問題は現在サポートされているすべてのバージョンに影響を及ぼします。この問題は以下のバージョンで対処されています - 11.110.0.97 11.118.0.63 11.126.0.54 11.132.0.29",
+      "publishedAt": "2026-04-29T09:37:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "35cdd45a8bf58252df2eb3e2f2dc1436cabdf49206169171e0f05198e15f1ea2",
+      "source": "Google News Security",
+      "title": "重大なGitHubの脆弱性が数百万のリポジトリを露呈 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3lPQVVyVHlmdmVyLV9KVDl1M01Gc0tqek1waGlXcU9DN0NNVDBLdGNzRFZRMHUzQ3BqSHBJeEFvQ2tfQzVndHZOb040UTNhTGlFRjVBaF93bnNQVnZQT2FQVGEtd3FsZmM2MHNzMHR3cGdmZUZMUWFWQ2duUTF3QVh4R21HVjhMc0pRcHhDMzFsTHZlbjBJ0gGcAUFVX3lxTE9la3JFb3NHYkw1VmNFMWlrYXZ3RnFzeThxU2RsaWRXMXZIS2ZzZDV4RGhGMkdtMjB3VTZQRTBsMmp6THhmQzEwUE9rVGNJUTlTVm9QamE4b29hcEtfRGllcnZ3N3pNbHkyU2dzandYNjJQLXZ6M2RtVElNZHFaNjhEeWliNkVhc2pmQzFQZHlyeXY3cC1UZV9yNWRxaQ?oc=5",
+      "summary": "重大なGitHubの脆弱性が数百万のリポジトリを露呈しました  SecurityWeek",
+      "publishedAt": "2026-04-29T06:27:49.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-30T01:02:41.422Z"
+  }
+}

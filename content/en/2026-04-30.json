@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-30",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "3c143ad9ff3332b22b9c781b44b11e8b04a20fc2c18748438225d31105d94620",
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in  ConnectWise ScreenConnect",
+      "publishedAt": "2026-04-29T08:46:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        9
+      ],
+      "reason": "Immediate patching required by CISA",
+      "suggestedTitle": "CISA Orders Immediate Patching of Windows Zero-Day",
+      "suggestedSummary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has mandated federal agencies to patch a critical Windows vulnerability actively exploited as a zero-day. This flaw, identified as CVE-2026-32202, affects Windows Shell and allows for remote code execution. Security teams must prioritize this patch to prevent potential system compromises, as the vulnerability is being actively targeted by threat actors.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "10e13a11efe58fdd6ec74ec9970707433b199c03f6cfda43d58e611ffef6e784",
+      "source": "The Hacker News",
+      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application",
+      "publishedAt": "2026-04-29T16:26:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Supply chain attack on npm packages",
+      "suggestedTitle": "Credential Theft via Compromised SAP npm Packages",
+      "suggestedSummary": "A supply chain attack has compromised official SAP npm packages, injecting credential-stealing malware. The attack targets developers using these packages, potentially exposing sensitive information and credentials. Security teams should audit their npm dependencies and monitor for suspicious activity, particularly if using SAP-related packages, to mitigate the risk of data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "50ec19ccbd82d6b55692238941e8a22eb6ea421bff79bade5a9fccfed38eaf00",
+      "source": "The Hacker News",
+      "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+      "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+      "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real",
+      "publishedAt": "2026-04-29T14:43:00.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "683b742482c06bf66e53ed2ecc30104907142ddc2c464e0ef59f0b18fc8a367d",
+      "source": "BleepingComputer",
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "publishedAt": "2026-04-29T20:50:35.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f57a5722ce9caba82ca51a8d69a4a9e57896a302406a3e42c8bcf295f3dd6715",
+      "source": "BleepingComputer",
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+      "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+      "publishedAt": "2026-04-29T15:51:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fecc3be9652fa088131adf17e63f342ce928f9c467d25f90a164b797c0347a1",
+      "source": "The Hacker News",
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -\n\n11.110.0.97\n11.118.0.63\n11.126.0.54\n11.132.0.29",
+      "publishedAt": "2026-04-29T09:37:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "35cdd45a8bf58252df2eb3e2f2dc1436cabdf49206169171e0f05198e15f1ea2",
+      "source": "Google News Security",
+      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3lPQVVyVHlmdmVyLV9KVDl1M01Gc0tqek1waGlXcU9DN0NNVDBLdGNzRFZRMHUzQ3BqSHBJeEFvQ2tfQzVndHZOb040UTNhTGlFRjVBaF93bnNQVnZQT2FQVGEtd3FsZmM2MHNzMHR3cGdmZUZMUWFWQ2duUTF3QVh4R21HVjhMc0pRcHhDMzFsTHZlbjBJ0gGcAUFVX3lxTE9la3JFb3NHYkw1VmNFMWlrYXZ3RnFzeThxU2RsaWRXMXZIS2ZzZDV4RGhGMkdtMjB3VTZQRTBsMmp6THhmQzEwUE9rVGNJUTlTVm9QamE4b29hcEtfRGllcnZ3N3pNbHkyU2dzandYNjJQLXZ6M2RtVElNZHFaNjhEeWliNkVhc2pmQzFQZHlyeXY3cC1UZV9yNWRxaQ?oc=5",
+      "summary": "Critical GitHub Vulnerability Exposed Millions of Repositories  SecurityWeek",
+      "publishedAt": "2026-04-29T06:27:49.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-30T01:02:25.188Z"
+  }
+}
