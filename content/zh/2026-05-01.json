@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-01",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "b644a996f7e781b56e0ca9bc466e47f18a6377c75c5272f8cc18fb209676caab",
+      "source": "Ars Technica Security",
+      "title": "多年来最严重的Linux威胁让全球措手不及",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "summary": "CopyFail威胁多租户服务器、CI/CD工作流、Kubernetes容器等。",
+      "publishedAt": "2026-04-30T20:20:48.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        39,
+        82
+      ],
+      "reason": "Critical Linux vulnerability disclosure",
+      "suggestedTitle": "关键的“复制失败”漏洞影响主要Linux发行版",
+      "suggestedSummary": "一个被称为“复制失败”的关键本地权限提升漏洞已在Linux内核中被披露，自2017年以来影响了主要发行版。该漏洞允许攻击者通过一个简单的732字节漏洞利用脚本获得root访问权限。该漏洞近十年来未被发现，对多租户服务器、CI/CD工作流和Kubernetes容器构成重大风险。安全团队必须优先修补以减轻潜在的利用。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c35445644fb22fe2cf4b386237b035cde504a8480c36c82fa5b755b8472a9779",
+      "source": "BleepingComputer",
+      "title": "关键的cPanel和WHM漏洞被利用为零日漏洞，PoC现已可用",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "cPanel、WHM和WP Squared中的关键CVE-2026-41940身份验证绕过漏洞正在被积极利用，自二月下旬以来已被尝试利用。[...]",
+      "publishedAt": "2026-04-30T11:40:31.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        84
+      ],
+      "reason": "Zero-day exploitation in cPanel",
+      "suggestedTitle": "cPanel中的零日漏洞被利用：CVE-2026-41940",
+      "suggestedSummary": "在cPanel、WHM和WP Squared中发现了一个关键的零日漏洞CVE-2026-41940，允许身份验证绕过。现已提供概念验证的漏洞利用程序，增加了立即修补的紧迫性。此漏洞对网络托管环境构成重大威胁，可能允许未经授权的访问和对服务器资源的控制。管理员应应用可用的补丁并加强访问控制以防止漏洞被利用。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "056988ca71043a90206e5fe1fb46bec5547d3ad9a1c2eacae40288aee844b2a5",
+      "source": "The Hacker News",
+      "title": "谷歌修复CVSS 10 Gemini CLI CI RCE和Cursor漏洞，启用代码执行",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "summary": "谷歌已解决Gemini CLI中一个最高严重性安全漏洞——\"@google/gemini-cli\" npm包和\"google-github-actions/run-gemini-cli\" GitHub Actions工作流中的漏洞，该漏洞可能允许攻击者在主机系统上执行任意命令。\"该漏洞允许无特权的外部攻击者强制加载他们自己的恶意内容作为Gemini配置，\"",
+      "publishedAt": "2026-04-30T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        83
+      ],
+      "reason": "High-severity Google Gemini CLI flaw",
+      "suggestedTitle": "谷歌修复Gemini CLI中的关键RCE漏洞",
+      "suggestedSummary": "谷歌已发布补丁，修复了Gemini CLI中被识别为CVSS 10.0的关键远程代码执行漏洞。该漏洞允许攻击者通过'@google/gemini-cli' npm包执行任意代码，对使用此库的系统构成严重风险。建议安全团队立即更新到最新版本，以防止潜在的漏洞利用。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4b9e4685775c8c8591adfe15e03e1d44ff80472bd5c1242faeb927fe9aec8e3a",
+      "source": "Dark Reading",
+      "title": "又一款AI辅助软件扫描发现9年历史的Linux漏洞",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+      "summary": "概念验证漏洞利用代码仅有10行，但幸运的是，补丁已经可用。",
+      "publishedAt": "2026-04-30T20:41:18.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c5d2cc462ee28932090c9f5e24e8f8770f9c4544144747df488b29efa3d77f8",
+      "source": "Google News Security",
+      "title": "纽约因导致数据泄露的失误对Delta Dental处以罚款 - 彭博法律新闻",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlFfZnRINHN0ekk2SW9aaEdFX0U3TUJORV90SjY3X3ZwNHM1Mk5aU19ZMHJYZUZScmVTM3hGQlJVb0VqeDB0aVVlYzl6UTZEektfUVFhUkFJUklsSFZmemI5azVmcTdIaENKVzhtXzE3NlYzcUlWLWNiTXF6akVLNEJSQXhXbDRpXzZqbDZ1Z1hGVmdqZjdSSS1ReWY4bXBKNzBEbEZVcU1wV3lxd2ZZTTVfRQ?oc=5",
+      "summary": "纽约因导致数据泄露的失误对Delta Dental处以罚款  彭博法律新闻",
+      "publishedAt": "2026-04-30T21:54:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "02ef86b727ec16cb1653521fbea7f6fa6f334964a69a1ab4de10a63a0e5fd97b",
+      "source": "Google News Security",
+      "title": "Frontwave信用社披露涉及会员社会安全号码的数据泄露 - CU Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcV9vV3Y5clhXOEFSaV9FY2I5RTIyMDZpUVFmamVGMDV3ZGN5M3hXa2ltTkNZRE13ZFRtSTRwaVhMZFUtd2o3bDNpcWlIMjFyaUNONWdGeURoTjZtM3kxLXVLU1o4U2dBUWN4ZlMwS1BEcThMOHhFZ1d5eXpJNWVBLUROWlFlZHF3aGZZQkxUT3lfM2NwSkN6Vg?oc=5",
+      "summary": "Frontwave信用社披露涉及会员社会安全号码的数据泄露  CU Today",
+      "publishedAt": "2026-04-30T21:56:15.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bd78b71a7d3053ba40540297bafc23822a85f1c664c5c577af66262fa989aa90",
+      "source": "Google News Security",
+      "title": "空客子公司遭受200万美元勒索软件攻击 - Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblNnMEtWYTBOcjlGeE5aTTZqcWhFWUFHZ01XQnVwSGlBRXNPektJaXN3OGs2bW5sZnNKd2ZsV1RvNHpSb3MzTUlXTXN4bFR5NXBLUU1XQ3RZNmVZV0h3SHZ0UkhxY1k0eXZ6S21qOVJfLXhYSjItaV9td1lpTExxYUJyQ014QWMyQjhCYTB6SnRGeFNCbDAySU9kSWFLRjdINlVVZjJSYWFOQQ?oc=5",
+      "summary": "空客子公司遭受200万美元勒索软件攻击 - Manufacturing.net",
+      "publishedAt": "2026-04-30T20:28:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fe64b3a38c186fc75c17395950c75776e8e0a7d68d409a0c9e96698c04eba0be",
+      "source": "BleepingComputer",
+      "title": "FBI将网络犯罪分子与货物盗窃攻击的急剧增加联系起来",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "summary": "美国联邦调查局（FBI）警告运输和物流行业，网络支持的货物盗窃急剧上升，预计到2025年，美国和加拿大的损失将达到近7.25亿美元。",
+      "publishedAt": "2026-04-30T16:32:18.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "87a514066bee98196e62f13e50f395f20d227c65c13a1909444063bab19fd054",
+      "source": "Google News Security",
+      "title": "Movistar秘鲁数据泄露影响400万用户 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjBLY3liLU5nQUFndm51LUw2UkVsNUE5Vjh1TXZuX2hSUTM1RlBPZHRwQkxELWdnSmVMVzRmak80dVVoNl9OQTJnZS1NOUR4OTE2Qno1NVNKcGZTenVkdUZueUw4bFE1Qlhhb3NwZnlkbGZ0bjE3bWdaMVg5Z0tQRnRSUzRpbXpMdC1Ycm1XNGc0bkhvMnByeGRrd0pQUUozUmFZ?oc=5",
+      "summary": "Movistar秘鲁数据泄露影响400万用户  Escudo Digital",
+      "publishedAt": "2026-04-30T05:10:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-01T01:07:41.089Z"
+  }
+}

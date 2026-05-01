@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-01",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "b644a996f7e781b56e0ca9bc466e47f18a6377c75c5272f8cc18fb209676caab",
+      "source": "Ars Technica Security",
+      "title": "数年ぶりに発生した最も深刻なLinuxの脅威が世界を驚かせる",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "summary": "CopyFailは、マルチテナントサーバー、CI/CDワークフロー、Kubernetesコンテナなどを脅かします。",
+      "publishedAt": "2026-04-30T20:20:48.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        39,
+        82
+      ],
+      "reason": "Critical Linux vulnerability disclosure",
+      "suggestedTitle": "重大な『Copy Fail』脆弱性が主要なLinuxディストリビューションに影響",
+      "suggestedSummary": "『Copy Fail』と名付けられた重大なローカル特権昇格の脆弱性がLinuxカーネルで公開され、2017年以降の主要なディストリビューションに影響を与えています。この欠陥により、攻撃者は732バイトの単純なエクスプロイトスクリプトでルートアクセスを取得できます。この脆弱性はほぼ10年間未発見であり、マルチテナントサーバー、CI/CDワークフロー、Kubernetesコンテナに重大なリスクをもたらします。セキュリティチームは、潜在的な悪用を軽減するためにパッチ適用を優先しなければなりません。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c35445644fb22fe2cf4b386237b035cde504a8480c36c82fa5b755b8472a9779",
+      "source": "BleepingComputer",
+      "title": "重大なcPanelとWHMのバグがゼロデイとして悪用され、PoCが利用可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "cPanel、WHM、WP Squaredにおける重大なCVE-2026-41940認証バイパス脆弱性が野放し状態で積極的に悪用されており、2月下旬から試みが行われてきました。[...]",
+      "publishedAt": "2026-04-30T11:40:31.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        84
+      ],
+      "reason": "Zero-day exploitation in cPanel",
+      "suggestedTitle": "cPanelでゼロデイが悪用される：CVE-2026-41940",
+      "suggestedSummary": "cPanel、WHM、WP Squaredにおいて、認証バイパスを可能にする重大なゼロデイ脆弱性CVE-2026-41940が確認されました。概念実証のエクスプロイトが現在利用可能であり、即時のパッチ適用が急務となっています。この脆弱性はウェブホスティング環境に重大な脅威をもたらし、不正なアクセスやサーバーリソースの制御を許す可能性があります。管理者は利用可能なパッチを適用し、アクセス制御を強化して悪用を防ぐべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "056988ca71043a90206e5fe1fb46bec5547d3ad9a1c2eacae40288aee844b2a5",
+      "source": "The Hacker News",
+      "title": "Google、CVSS 10 Gemini CLI CI RCEおよびカーソルの脆弱性を修正し、コード実行を可能に",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "summary": "Googleは、Gemini CLIの最大深刻度のセキュリティ脆弱性を修正しました。この脆弱性は、npmパッケージ「@google/gemini-cli」とGitHub Actionsワークフロー「google-github-actions/run-gemini-cli」に存在し、攻撃者がホストシステム上で任意のコマンドを実行できる可能性がありました。「この脆弱性により、特権のない外部攻撃者が自らの悪意のあるコンテンツをGeminiの設定として読み込ませることが可能でした。」",
+      "publishedAt": "2026-04-30T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        83
+      ],
+      "reason": "High-severity Google Gemini CLI flaw",
+      "suggestedTitle": "Google、Gemini CLIの重大なRCE脆弱性に対応",
+      "suggestedSummary": "Googleは、CVSS 10.0と評価されたGemini CLIの重大なリモートコード実行脆弱性に対するパッチをリリースしました。この脆弱性は、npmパッケージ「@google/gemini-cli」を介して攻撃者が任意のコードを実行できるもので、このライブラリを使用するシステムに深刻なリスクをもたらします。セキュリティチームは、潜在的な悪用から保護するために、直ちに最新バージョンに更新することを推奨します。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4b9e4685775c8c8591adfe15e03e1d44ff80472bd5c1242faeb927fe9aec8e3a",
+      "source": "Dark Reading",
+      "title": "AI支援のソフトウェアスキャンで9年前のLinuxバグを発見",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+      "summary": "概念実証のエクスプロイトコードはわずか10行ですが、幸運にもパッチはすでに利用可能です。",
+      "publishedAt": "2026-04-30T20:41:18.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c5d2cc462ee28932090c9f5e24e8f8770f9c4544144747df488b29efa3d77f8",
+      "source": "Google News Security",
+      "title": "ニューヨーク、データ侵害につながる不備でデルタ・デンタルに罰金 - ブルームバーグ・ロー・ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlFfZnRINHN0ekk2SW9aaEdFX0U3TUJORV90SjY3X3ZwNHM1Mk5aU19ZMHJYZUZScmVTM3hGQlJVb0VqeDB0aVVlYzl6UTZEektfUVFhUkFJUklsSFZmemI5azVmcTdIaENKVzhtXzE3NlYzcUlWLWNiTXF6akVLNEJSQXhXbDRpXzZqbDZ1Z1hGVmdqZjdSSS1ReWY4bXBKNzBEbEZVcU1wV3lxd2ZZTTVfRQ?oc=5",
+      "summary": "ニューヨーク、データ侵害につながる不備でデルタ・デンタルに罰金 - ブルームバーグ・ロー・ニュース",
+      "publishedAt": "2026-04-30T21:54:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "02ef86b727ec16cb1653521fbea7f6fa6f334964a69a1ab4de10a63a0e5fd97b",
+      "source": "Google News Security",
+      "title": "Frontwave CU、会員の社会保障番号を含むデータ漏洩を公表 - CU Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcV9vV3Y5clhXOEFSaV9FY2I5RTIyMDZpUVFmamVGMDV3ZGN5M3hXa2ltTkNZRE13ZFRtSTRwaVhMZFUtd2o3bDNpcWlIMjFyaUNONWdGeURoTjZtM3kxLXVLU1o4U2dBUWN4ZlMwS1BEcThMOHhFZ1d5eXpJNWVBLUROWlFlZHF3aGZZQkxUT3lfM2NwSkN6Vg?oc=5",
+      "summary": "Frontwave CU、会員の社会保障番号を含むデータ漏洩を公表 - CU Today",
+      "publishedAt": "2026-04-30T21:56:15.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bd78b71a7d3053ba40540297bafc23822a85f1c664c5c577af66262fa989aa90",
+      "source": "Google News Security",
+      "title": "エアバス子会社が200万ドルのランサムウェア攻撃の被害に - Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblNnMEtWYTBOcjlGeE5aTTZqcWhFWUFHZ01XQnVwSGlBRXNPektJaXN3OGs2bW5sZnNKd2ZsV1RvNHpSb3MzTUlXTXN4bFR5NXBLUU1XQ3RZNmVZV0h3SHZ0UkhxY1k0eXZ6S21qOVJfLXhYSjItaV9td1lpTExxYUJyQ014QWMyQjhCYTB6SnRGeFNCbDAySU9kSWFLRjdINlVVZjJSYWFOQQ?oc=5",
+      "summary": "エアバス子会社が200万ドルのランサムウェア攻撃の被害に  Manufacturing.net",
+      "publishedAt": "2026-04-30T20:28:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fe64b3a38c186fc75c17395950c75776e8e0a7d68d409a0c9e96698c04eba0be",
+      "source": "BleepingComputer",
+      "title": "FBI、サイバー犯罪者を貨物窃盗攻撃の急増に関連付ける",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "summary": "米国連邦捜査局（FBI）は、輸送および物流業界に対し、サイバーを利用した貨物窃盗の急増について警告しました。2025年には、米国とカナダでの推定損失が7億2500万ドルに達すると予測されています。",
+      "publishedAt": "2026-04-30T16:32:18.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "87a514066bee98196e62f13e50f395f20d227c65c13a1909444063bab19fd054",
+      "source": "Google News Security",
+      "title": "Movistarペルーのデータ漏洩が400万人のユーザーに影響 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjBLY3liLU5nQUFndm51LUw2UkVsNUE5Vjh1TXZuX2hSUTM1RlBPZHRwQkxELWdnSmVMVzRmak80dVVoNl9OQTJnZS1NOUR4OTE2Qno1NVNKcGZTenVkdUZueUw4bFE1Qlhhb3NwZnlkbGZ0bjE3bWdaMVg5Z0tQRnRSUzRpbXpMdC1Ycm1XNGc0bkhvMnByeGRrd0pQUUozUmFZ?oc=5",
+      "summary": "Movistarペルーのデータ漏洩が400万人のユーザーに影響を与える  Escudo Digital",
+      "publishedAt": "2026-04-30T05:10:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-01T01:07:50.338Z"
+  }
+}

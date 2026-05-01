@@ -1,0 +1,143 @@
+{
+  "date": "2026-05-01",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "b644a996f7e781b56e0ca9bc466e47f18a6377c75c5272f8cc18fb209676caab",
+      "source": "Ars Technica Security",
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+      "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+      "publishedAt": "2026-04-30T20:20:48.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        39,
+        82
+      ],
+      "reason": "Critical Linux vulnerability disclosure",
+      "suggestedTitle": "Critical 'Copy Fail' Vulnerability Impacts Major Linux Distros",
+      "suggestedSummary": "A critical local privilege escalation vulnerability, dubbed 'Copy Fail', has been disclosed in the Linux kernel, affecting major distributions since 2017. The flaw allows an attacker to gain root access with a simple 732-byte exploit script. This vulnerability has been undetected for nearly a decade, posing significant risks to multi-tenant servers, CI/CD workflows, and Kubernetes containers. Security teams must prioritize patching to mitigate potential exploitation.",
+      "relatedSources": [
+        "Ars Technica Security",
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c35445644fb22fe2cf4b386237b035cde504a8480c36c82fa5b755b8472a9779",
+      "source": "BleepingComputer",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "publishedAt": "2026-04-30T11:40:31.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        84
+      ],
+      "reason": "Zero-day exploitation in cPanel",
+      "suggestedTitle": "Zero-Day Exploited in cPanel: CVE-2026-41940",
+      "suggestedSummary": "A critical zero-day vulnerability, CVE-2026-41940, has been identified in cPanel, WHM, and WP Squared, allowing authentication bypass. A proof-of-concept exploit is now available, increasing the urgency for immediate patching. This vulnerability presents a significant threat to web hosting environments, potentially allowing unauthorized access and control over server resources. Administrators should apply available patches and strengthen access controls to prevent exploitation.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "056988ca71043a90206e5fe1fb46bec5547d3ad9a1c2eacae40288aee844b2a5",
+      "source": "The Hacker News",
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.\n\"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\"",
+      "publishedAt": "2026-04-30T07:07:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        83
+      ],
+      "reason": "High-severity Google Gemini CLI flaw",
+      "suggestedTitle": "Google Addresses Critical RCE Flaw in Gemini CLI",
+      "suggestedSummary": "Google has released patches for a critical remote code execution vulnerability in the Gemini CLI, identified as CVSS 10.0. The flaw allows attackers to execute arbitrary code via the '@google/gemini-cli' npm package, posing severe risks to systems using this library. Security teams are advised to update to the latest version immediately to protect against potential exploitation.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4b9e4685775c8c8591adfe15e03e1d44ff80472bd5c1242faeb927fe9aec8e3a",
+      "source": "Dark Reading",
+      "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+      "summary": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
+      "publishedAt": "2026-04-30T20:41:18.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2c5d2cc462ee28932090c9f5e24e8f8770f9c4544144747df488b29efa3d77f8",
+      "source": "Google News Security",
+      "title": "New York Fines Delta Dental for Lapses Leading to Data Breach - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYlFfZnRINHN0ekk2SW9aaEdFX0U3TUJORV90SjY3X3ZwNHM1Mk5aU19ZMHJYZUZScmVTM3hGQlJVb0VqeDB0aVVlYzl6UTZEektfUVFhUkFJUklsSFZmemI5azVmcTdIaENKVzhtXzE3NlYzcUlWLWNiTXF6akVLNEJSQXhXbDRpXzZqbDZ1Z1hGVmdqZjdSSS1ReWY4bXBKNzBEbEZVcU1wV3lxd2ZZTTVfRQ?oc=5",
+      "summary": "New York Fines Delta Dental for Lapses Leading to Data Breach  Bloomberg Law News",
+      "publishedAt": "2026-04-30T21:54:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "02ef86b727ec16cb1653521fbea7f6fa6f334964a69a1ab4de10a63a0e5fd97b",
+      "source": "Google News Security",
+      "title": "Frontwave CU Discloses Data Breach Involving Member SSNs - CU Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcV9vV3Y5clhXOEFSaV9FY2I5RTIyMDZpUVFmamVGMDV3ZGN5M3hXa2ltTkNZRE13ZFRtSTRwaVhMZFUtd2o3bDNpcWlIMjFyaUNONWdGeURoTjZtM3kxLXVLU1o4U2dBUWN4ZlMwS1BEcThMOHhFZ1d5eXpJNWVBLUROWlFlZHF3aGZZQkxUT3lfM2NwSkN6Vg?oc=5",
+      "summary": "Frontwave CU Discloses Data Breach Involving Member SSNs  CU Today",
+      "publishedAt": "2026-04-30T21:56:15.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bd78b71a7d3053ba40540297bafc23822a85f1c664c5c577af66262fa989aa90",
+      "source": "Google News Security",
+      "title": "Airbus Subsidiary Victim of $2M Ransomware Attack - Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblNnMEtWYTBOcjlGeE5aTTZqcWhFWUFHZ01XQnVwSGlBRXNPektJaXN3OGs2bW5sZnNKd2ZsV1RvNHpSb3MzTUlXTXN4bFR5NXBLUU1XQ3RZNmVZV0h3SHZ0UkhxY1k0eXZ6S21qOVJfLXhYSjItaV9td1lpTExxYUJyQ014QWMyQjhCYTB6SnRGeFNCbDAySU9kSWFLRjdINlVVZjJSYWFOQQ?oc=5",
+      "summary": "Airbus Subsidiary Victim of $2M Ransomware Attack  Manufacturing.net",
+      "publishedAt": "2026-04-30T20:28:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "fe64b3a38c186fc75c17395950c75776e8e0a7d68d409a0c9e96698c04eba0be",
+      "source": "BleepingComputer",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
+      "publishedAt": "2026-04-30T16:32:18.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "87a514066bee98196e62f13e50f395f20d227c65c13a1909444063bab19fd054",
+      "source": "Google News Security",
+      "title": "Movistar Peru data breach impacts 4 million users - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjBLY3liLU5nQUFndm51LUw2UkVsNUE5Vjh1TXZuX2hSUTM1RlBPZHRwQkxELWdnSmVMVzRmak80dVVoNl9OQTJnZS1NOUR4OTE2Qno1NVNKcGZTenVkdUZueUw4bFE1Qlhhb3NwZnlkbGZ0bjE3bWdaMVg5Z0tQRnRSUzRpbXpMdC1Ycm1XNGc0bkhvMnByeGRrd0pQUUozUmFZ?oc=5",
+      "summary": "Movistar Peru data breach impacts 4 million users  Escudo Digital",
+      "publishedAt": "2026-04-30T05:10:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-01T01:07:25.478Z"
+  }
+}
