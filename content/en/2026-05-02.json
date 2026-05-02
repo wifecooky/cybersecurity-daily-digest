@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-02",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "7d2c4872711f328e6baa38104f3a9c87274c372ec4e36adb13d2ff5e194e2270",
+      "source": "BleepingComputer",
+      "title": "15-year-old detained over French govt agency data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "publishedAt": "2026-05-01T17:52:06.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach with potential impact",
+      "suggestedTitle": "French Government Agency Data Breach: Teen Detained",
+      "suggestedSummary": "French authorities have detained a 15-year-old suspect involved in a cyberattack on a government agency, where sensitive data was stolen and sold online. The breach raises concerns about data security within government networks and the involvement of minors in cybercrime. Security teams should review their data protection measures and monitor for potential exploitation of similar vulnerabilities.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "29b49c79f6805c6f576c75c7f201f8ed18104ae3156ec3e79f4cfc2a02aede6a",
+      "source": "Ars Technica Security",
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "summary": "The outage has hampered communication concerning a critical vulnerability that gives root.",
+      "publishedAt": "2026-05-01T19:12:26.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8,
+        84
+      ],
+      "reason": "Critical Linux vulnerability disclosure",
+      "suggestedTitle": "Linux Kernel Vulnerability 'CopyFail' Exposed",
+      "suggestedSummary": "A critical Linux kernel vulnerability, dubbed 'CopyFail', has been identified, allowing potential privilege escalation. This flaw, which has existed unnoticed for nine years, affects multiple kernel versions and could be exploited for unauthorized access. Security teams should prioritize patching affected systems and monitor for exploit attempts to mitigate potential risks.",
+      "relatedSources": [
+        "Ars Technica Security",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "366f54031300a070092e8fbe39074dc8c1da1348ccdc765fd84f8cac87b00cdc",
+      "source": "The Hacker News",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.\nRyan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
+      "publishedAt": "2026-05-01T09:56:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "ec61c439249d2132cd382d22ff21c75aae97d9fe888cdbf679d57cf15ca31b65",
+      "source": "Dark Reading",
+      "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
+      "summary": "North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
+      "publishedAt": "2026-05-01T20:34:27.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3e1cba5e2b32fc5c754d60b6e039c4b2de2bfdce7a9d6d8f54e7ab8b3db17585",
+      "source": "Google News Security",
+      "title": "City of Gardendale cybersecurity breach - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREFscWNnbHpCWTN3cndkVktaTHk0SlgzS2JhMDM1bkV6TVA5UVJ3R1MzblFtNkVYa3ZwQUxMMExDXzM4UDJTcWdZcExmQV8xcE5yLUpuT3V5VlRrX1JhNkZuWDZUTGh6ZEhOamJjYzVjNFVzcnZvN3lIN0hVVkw2aQ?oc=5",
+      "summary": "City of Gardendale cybersecurity breach  WBRC",
+      "publishedAt": "2026-05-01T23:16:51.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0dab7b1728fd900b8e1ae1f9b5001d752eeb2891de46cd45b12656c536971aa6",
+      "source": "The Hacker News",
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
+      "publishedAt": "2026-05-01T18:09:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "21b2db671eec2b908637ef97c49353e27e50664a10052d6ace1d90aae5e08821",
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+      "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.\nTrend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
+      "publishedAt": "2026-05-01T14:02:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-02T00:59:28.174Z"
+  }
+}

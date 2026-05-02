@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-02",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "7d2c4872711f328e6baa38104f3a9c87274c372ec4e36adb13d2ff5e194e2270",
+      "source": "BleepingComputer",
+      "title": "フランス政府機関のデータ侵害で15歳の少年を拘束",
+      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "summary": "フランス当局は、フランス・ティトル（ANTS）へのサイバー攻撃で盗まれたデータを販売した疑いで15歳の少年を拘束しました。この機関は行政文書の発行と管理を担当しています。[...]",
+      "publishedAt": "2026-05-01T17:52:06.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach with potential impact",
+      "suggestedTitle": "フランス政府機関のデータ侵害：少年を拘束",
+      "suggestedSummary": "フランス当局は、政府機関へのサイバー攻撃に関与した疑いで15歳の少年を拘束しました。この攻撃では機密データが盗まれ、オンラインで販売されました。この侵害は、政府ネットワーク内のデータセキュリティに関する懸念を引き起こし、未成年者のサイバー犯罪への関与が問題視されています。セキュリティチームはデータ保護対策を見直し、同様の脆弱性の悪用の可能性を監視する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "29b49c79f6805c6f576c75c7f201f8ed18104ae3156ec3e79f4cfc2a02aede6a",
+      "source": "Ars Technica Security",
+      "title": "Ubuntuインフラが1日以上ダウン",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+      "summary": "この障害により、ルート権限を与える重大な脆弱性に関するコミュニケーションが妨げられています。",
+      "publishedAt": "2026-05-01T19:12:26.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8,
+        84
+      ],
+      "reason": "Critical Linux vulnerability disclosure",
+      "suggestedTitle": "Linuxカーネルの脆弱性『CopyFail』が露呈",
+      "suggestedSummary": "『CopyFail』と名付けられた重大なLinuxカーネルの脆弱性が特定され、特権昇格の可能性があります。この欠陥は9年間見過ごされており、複数のカーネルバージョンに影響を与え、不正アクセスに利用される可能性があります。セキュリティチームは、影響を受けたシステムのパッチ適用を優先し、潜在的なリスクを軽減するためにエクスプロイトの試みを監視する必要があります。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "366f54031300a070092e8fbe39074dc8c1da1348ccdc765fd84f8cac87b00cdc",
+      "source": "The Hacker News",
+      "title": "ブラックキャットランサムウェア攻撃で2人のサイバーセキュリティ専門家に4年の刑",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "米国司法省（DoJ）は木曜日、2023年にブラックキャットランサムウェア攻撃を支援したとして、2人のサイバーセキュリティ専門家にそれぞれ4年の懲役刑を言い渡したことを発表しました。ジョージア州のライアン・ゴールドバーグ（40歳）とテキサス州のケビン・マーティン（36歳）は、2023年4月から12月にかけて米国全土の複数の被害者に対してランサムウェアを展開したとして非難されました。",
+      "publishedAt": "2026-05-01T09:56:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "ec61c439249d2132cd382d22ff21c75aae97d9fe888cdbf679d57cf15ca31b65",
+      "source": "Dark Reading",
+      "title": "2026年に盗まれた暗号通貨の76%が北朝鮮に",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
+      "summary": "北朝鮮の脅威アクターは、毎年、時には毎週のように歴史的な暗号通貨の強奪を行っています。AIが彼らを支援している可能性があります。",
+      "publishedAt": "2026-05-01T20:34:27.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3e1cba5e2b32fc5c754d60b6e039c4b2de2bfdce7a9d6d8f54e7ab8b3db17585",
+      "source": "Google News Security",
+      "title": "ガーデンデール市のサイバーセキュリティ侵害 - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREFscWNnbHpCWTN3cndkVktaTHk0SlgzS2JhMDM1bkV6TVA5UVJ3R1MzblFtNkVYa3ZwQUxMMExDXzM4UDJTcWdZcExmQV8xcE5yLUpuT3V5VlRrX1JhNkZuWDZUTGh6ZEhOamJjYzVjNFVzcnZvN3lIN0hVVkw2aQ?oc=5",
+      "summary": "ガーデンデール市のサイバーセキュリティ侵害　WBRC",
+      "publishedAt": "2026-05-01T23:16:51.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0dab7b1728fd900b8e1ae1f9b5001d752eeb2891de46cd45b12656c536971aa6",
+      "source": "The Hacker News",
+      "title": "Google AppSheetフィッシングキャンペーンを通じて3万件のFacebookアカウントがハッキングされる",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "新たに発見されたベトナム関連の作戦が、Google AppSheetを「フィッシングリレー」として利用し、Facebookアカウントを侵害することを目的としたフィッシングメールを配信していることが観察されています。この活動はGuardioによってAccountDumplingとコードネームが付けられ、脅威アクターによって運営される違法なストアフロントを通じて盗まれたアカウントが販売されています。合計で約3万件のFacebookアカウントが",
+      "publishedAt": "2026-05-01T18:09:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "21b2db671eec2b908637ef97c49353e27e50664a10052d6ace1d90aae5e08821",
+      "source": "The Hacker News",
+      "title": "中国関連のハッカーがアジア諸国政府、NATO加盟国、ジャーナリスト、活動家を標的に",
+      "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+      "summary": "サイバーセキュリティ研究者は、南アジア、東アジア、東南アジアの政府および防衛部門、さらにNATOに加盟するヨーロッパの一国を標的にした、中国と関連する新たなスパイ活動キャンペーンの詳細を明らかにしました。トレンドマイクロは、この活動を一時的にSHADOW-EARTH-053と呼ばれる脅威活動クラスターに帰属させています。この敵対的集団は評価されています。",
+      "publishedAt": "2026-05-01T14:02:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-02T00:59:38.487Z"
+  }
+}
