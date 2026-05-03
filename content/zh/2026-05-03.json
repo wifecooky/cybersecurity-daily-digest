@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-03",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "503b8da9bc8e58ba8e27d81de21cf8bc779a09f7d4e66ff361885ecab0f64f47",
+      "source": "The Hacker News",
+      "title": "Trellix确认源代码泄露，未经授权的库访问",
+      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "summary": "网络安全公司Trellix宣布遭遇了一次泄露事件，导致其“部分”源代码被未经授权访问。公司表示“最近发现”其源代码库被入侵，并已开始与“顶尖的法证专家”合作，立即解决此问题。同时，公司也已通知执法部门。",
+      "publishedAt": "2026-05-02T06:41:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        4
+      ],
+      "reason": "Major cybersecurity company breach",
+      "suggestedTitle": "Trellix源代码泄露：未经授权的访问已确认",
+      "suggestedSummary": "Trellix已确认发生了一起重大安全泄露事件，涉及其源代码库的未经授权访问。这次泄露可能会暴露网络安全公司使用的敏感信息和工具。安全团队应警惕任何可能从此次泄露中出现的异常活动或工具，因为攻击者可能利用暴露的代码开发新的漏洞或攻击。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f9b886d4fb95b6ba1a049a93f384efb76d8c015273ca39f86b758237e7268ea6",
+      "source": "BleepingComputer",
+      "title": "关键的 cPanel 漏洞在“Sorry”勒索软件攻击中被大规模利用",
+      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "summary": "一个新披露的 cPanel 漏洞，编号为 CVE-2026-41940，正在被大规模利用，以入侵网站并在“Sorry”勒索软件攻击中加密数据。[...]",
+      "publishedAt": "2026-05-02T21:54:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "关键的 cPanel 漏洞 CVE-2026-41940 在勒索软件攻击中被大规模利用",
+      "suggestedSummary": "cPanel 中的一个关键漏洞，编号为 CVE-2026-41940，正在被积极利用，导致广泛的“Sorry”勒索软件攻击。此漏洞允许攻击者入侵网站，可能会危及敏感数据和系统。安全团队应优先修补受影响的 cPanel 安装，并监控与此漏洞相关的妥协指标（IOCs），以防止勒索软件的部署。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e7c4a8efe43028c1fb15fdde693ae487216359fcd9a980afe2cc84ce448f7cc",
+      "source": "Google News Security (JP)",
+      "title": "CISA在KEV目录中新增ScreenConnect和Windows的两个漏洞 已确认被利用：安全新闻警报 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUWxabVBidG9XMlhZYzA0V29fZEtFS1JlRHNxRGtKb2E0Q0FrYW5rNDVRSmRrXy1BWUtrcDYzaFo0SGVxRUNtaWstMllZWXktajZXYjVjYjlQVlBXMjNiOW1QVVZrbno1eVozTm8wNW0xa2pk?oc=5",
+      "summary": "CISA在KEV目录中新增ScreenConnect和Windows的两个漏洞 已确认被利用：安全新闻警报 ITmedia",
+      "publishedAt": "2026-05-02T22:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "06823a26b82f2c0f4e28b54ebaa5342f0eb1cdc7aff6072104f7ed48619a0ded",
+      "source": "BleepingComputer",
+      "title": "ConsentFix v3 攻击针对 Azure 进行自动化 OAuth 滥用",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "summary": "一种被称为 ConsentFix v3 的新型攻击正在黑客论坛上流传，它在之前技术的基础上增加了自动化和扩展潜力。[...]",
+      "publishedAt": "2026-05-02T14:32:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dbac24c7faf22999277d5fc5fe41a29ab1d7e102036ab054f36eef3ec2339266",
+      "source": "Google News Security",
+      "title": "ADT确认数据泄露可能导致全国客户信息暴露 - strategicrevenue.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUR4QnFJY0FzVUpiLV9NOU9Rb0tfSjNqT3hOQVo1Y0MxT3dCZWRhRmRiMl80eW9LV3JPNjRHbXRIYlVETkw1S0tKRzlLaXlxd3VoSlh2X2EtcGJIdWNFa0ZSUndBUWtCeHNmcjB4RnFac3hWUnVGQWhYQjFWVjJJVHFNVlY4dk1SYlFGS2ZYXzc1Y1Z0WkpUXzVCVGdTVVlKQTRia0RHMkhlUFBKQ0gzcw?oc=5",
+      "summary": "ADT确认数据泄露可能导致全国客户信息暴露  strategicrevenue.com",
+      "publishedAt": "2026-05-02T13:06:07.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "29592d5cc55b19016d2657f9cc96eae77bbfc31770103458a18ee5d46a63284a",
+      "source": "Google News Security (CN)",
+      "title": "微软与CISA警告影响几乎所有主流Linux系统的严重漏洞 - Linux - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4MFdrQU9vUkJ3YWNoN1BfM2FpMHozY0ZNQTUxVUQ4WVJseVFQUjVLSG5DMTdzTjBUQVlRUWJQTmVwOG5qczNkMHFEMXB5SldlYmlYNzB1dXF4TW9uZjAwTA?oc=5",
+      "summary": "微软与CISA警告影响几乎所有主流Linux系统的严重漏洞 - Linux  cnBeta.COM",
+      "publishedAt": "2026-05-02T18:40:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7977d2dba9c88558a9cc7be6502fa21116104c37d5b0e400ada77f3bbb8d1ad3",
+      "source": "Google News Security",
+      "title": "Vimeo确认数据泄露影响用户 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkp3M3ZhcjEyY3VsUjBjeFJYSkMtTEpMakJPcFBhdFV6aG1OdHdSZ1ZWamNVX0FmMzFGLXZPQ3p6RkkwazVUdUI0VThqWmtGNnNXY0FnclJNZlFLbTNhei0yUmFTUU14M3ptQ19XMy15elhMVjhsdTBuZXRBaDlKY2laeHBqTkgzV0xTRlJtaERjVGJ0UElpS1h3?oc=5",
+      "summary": "Vimeo确认数据泄露影响用户 Escudo Digital",
+      "publishedAt": "2026-05-02T05:20:04.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-03T01:05:49.051Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-03",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "503b8da9bc8e58ba8e27d81de21cf8bc779a09f7d4e66ff361885ecab0f64f47",
+      "source": "The Hacker News",
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the",
+      "publishedAt": "2026-05-02T06:41:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        4
+      ],
+      "reason": "Major cybersecurity company breach",
+      "suggestedTitle": "Trellix Source Code Breach: Unauthorized Access Confirmed",
+      "suggestedSummary": "Trellix has confirmed a significant security breach involving unauthorized access to its source code repository. This breach could potentially expose sensitive information and tools used by the cybersecurity firm. Security teams should be vigilant for any unusual activity or tools that could emerge from this breach, as attackers may leverage the exposed code to develop new exploits or attacks.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f9b886d4fb95b6ba1a049a93f384efb76d8c015273ca39f86b758237e7268ea6",
+      "source": "BleepingComputer",
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+      "publishedAt": "2026-05-02T21:54:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "Critical cPanel Flaw CVE-2026-41940 Mass-Exploited in Ransomware Attacks",
+      "suggestedSummary": "A critical vulnerability in cPanel, tracked as CVE-2026-41940, is being actively exploited in the wild, leading to widespread 'Sorry' ransomware attacks. This flaw allows attackers to breach websites, potentially compromising sensitive data and systems. Security teams should prioritize patching affected cPanel installations and monitor for indicators of compromise (IOCs) related to this vulnerability to prevent ransomware deployment.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e7c4a8efe43028c1fb15fdde693ae487216359fcd9a980afe2cc84ce448f7cc",
+      "source": "Google News Security (JP)",
+      "title": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加 悪用を確認済：セキュリティニュースアラート - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUWxabVBidG9XMlhZYzA0V29fZEtFS1JlRHNxRGtKb2E0Q0FrYW5rNDVRSmRrXy1BWUtrcDYzaFo0SGVxRUNtaWstMllZWXktajZXYjVjYjlQVlBXMjNiOW1QVVZrbno1eVozTm8wNW0xa2pk?oc=5",
+      "summary": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加 悪用を確認済：セキュリティニュースアラート  ITmedia",
+      "publishedAt": "2026-05-02T22:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "06823a26b82f2c0f4e28b54ebaa5342f0eb1cdc7aff6072104f7ed48619a0ded",
+      "source": "BleepingComputer",
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
+      "publishedAt": "2026-05-02T14:32:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dbac24c7faf22999277d5fc5fe41a29ab1d7e102036ab054f36eef3ec2339266",
+      "source": "Google News Security",
+      "title": "ADT Confirms Data Breach Potentially Exposing Customer Information Nationwide - strategicrevenue.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUR4QnFJY0FzVUpiLV9NOU9Rb0tfSjNqT3hOQVo1Y0MxT3dCZWRhRmRiMl80eW9LV3JPNjRHbXRIYlVETkw1S0tKRzlLaXlxd3VoSlh2X2EtcGJIdWNFa0ZSUndBUWtCeHNmcjB4RnFac3hWUnVGQWhYQjFWVjJJVHFNVlY4dk1SYlFGS2ZYXzc1Y1Z0WkpUXzVCVGdTVVlKQTRia0RHMkhlUFBKQ0gzcw?oc=5",
+      "summary": "ADT Confirms Data Breach Potentially Exposing Customer Information Nationwide  strategicrevenue.com",
+      "publishedAt": "2026-05-02T13:06:07.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "29592d5cc55b19016d2657f9cc96eae77bbfc31770103458a18ee5d46a63284a",
+      "source": "Google News Security (CN)",
+      "title": "微软与CISA警告影响几乎所有主流Linux系统的严重漏洞- Linux - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4MFdrQU9vUkJ3YWNoN1BfM2FpMHozY0ZNQTUxVUQ4WVJseVFQUjVLSG5DMTdzTjBUQVlRUWJQTmVwOG5qczNkMHFEMXB5SldlYmlYNzB1dXF4TW9uZjAwTA?oc=5",
+      "summary": "微软与CISA警告影响几乎所有主流Linux系统的严重漏洞- Linux  cnBeta.COM",
+      "publishedAt": "2026-05-02T18:40:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7977d2dba9c88558a9cc7be6502fa21116104c37d5b0e400ada77f3bbb8d1ad3",
+      "source": "Google News Security",
+      "title": "Vimeo confirms data breach affecting users - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkp3M3ZhcjEyY3VsUjBjeFJYSkMtTEpMakJPcFBhdFV6aG1OdHdSZ1ZWamNVX0FmMzFGLXZPQ3p6RkkwazVUdUI0VThqWmtGNnNXY0FnclJNZlFLbTNhei0yUmFTUU14M3ptQ19XMy15elhMVjhsdTBuZXRBaDlKY2laeHBqTkgzV0xTRlJtaERjVGJ0UElpS1h3?oc=5",
+      "summary": "Vimeo confirms data breach affecting users  Escudo Digital",
+      "publishedAt": "2026-05-02T05:20:04.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-03T01:05:44.270Z"
+  }
+}

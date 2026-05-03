@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-03",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "503b8da9bc8e58ba8e27d81de21cf8bc779a09f7d4e66ff361885ecab0f64f47",
+      "source": "The Hacker News",
+      "title": "Trellix、ソースコードの不正アクセスを確認",
+      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "summary": "サイバーセキュリティ企業のTrellixは、ソースコードの「一部」への不正アクセスを許した侵害が発生したと発表しました。同社は、ソースコードリポジトリの侵害を「最近特定」し、問題を直ちに解決するために「主要な法医学専門家」と協力を開始したと述べています。また、この問題について法執行機関に通知したとも述べています。",
+      "publishedAt": "2026-05-02T06:41:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        4
+      ],
+      "reason": "Major cybersecurity company breach",
+      "suggestedTitle": "Trellixのソースコード侵害：不正アクセスが確認される",
+      "suggestedSummary": "Trellixは、ソースコードリポジトリへの不正アクセスを含む重大なセキュリティ侵害を確認しました。この侵害により、サイバーセキュリティ企業が使用する機密情報やツールが露出する可能性があります。セキュリティチームは、この侵害から新たなエクスプロイトや攻撃を開発するために攻撃者が露出したコードを利用する可能性があるため、異常な活動やツールに警戒する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f9b886d4fb95b6ba1a049a93f384efb76d8c015273ca39f86b758237e7268ea6",
+      "source": "BleepingComputer",
+      "title": "重大なcPanelの脆弱性が「Sorry」ランサムウェア攻撃で大量に悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "summary": "新たに公開されたcPanelの脆弱性CVE-2026-41940が大量に悪用され、ウェブサイトが侵害され「Sorry」ランサムウェア攻撃でデータが暗号化されています。",
+      "publishedAt": "2026-05-02T21:54:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active exploitation of critical vulnerability",
+      "suggestedTitle": "ランサムウェア攻撃で大量に悪用されるcPanelの重大な脆弱性CVE-2026-41940",
+      "suggestedSummary": "CVE-2026-41940として追跡されているcPanelの重大な脆弱性が、野放し状態で積極的に悪用されており、広範囲にわたる「Sorry」ランサムウェア攻撃を引き起こしています。この脆弱性により、攻撃者はウェブサイトに侵入し、機密データやシステムが危険にさらされる可能性があります。セキュリティチームは、影響を受けたcPanelのインストールを優先的に修正し、この脆弱性に関連する侵害の兆候（IOC）を監視してランサムウェアの展開を防ぐべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e7c4a8efe43028c1fb15fdde693ae487216359fcd9a980afe2cc84ce448f7cc",
+      "source": "Google News Security (JP)",
+      "title": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加 悪用を確認済：セキュリティニュースアラート - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NUWxabVBidG9XMlhZYzA0V29fZEtFS1JlRHNxRGtKb2E0Q0FrYW5rNDVRSmRrXy1BWUtrcDYzaFo0SGVxRUNtaWstMllZWXktajZXYjVjYjlQVlBXMjNiOW1QVVZrbno1eVozTm8wNW0xa2pk?oc=5",
+      "summary": "CISA、KEVカタログにScreenConnectとWindowsの脆弱性2件を追加 悪用を確認済：セキュリティニュースアラート ITmedia",
+      "publishedAt": "2026-05-02T22:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "06823a26b82f2c0f4e28b54ebaa5342f0eb1cdc7aff6072104f7ed48619a0ded",
+      "source": "BleepingComputer",
+      "title": "ConsentFix v3攻撃がAzureを標的に自動化されたOAuth悪用を実行",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "summary": "ConsentFix v3と呼ばれる新しい攻撃タイプがハッカーフォーラムで流通しており、以前の手法に自動化とスケーリングの可能性を追加しています。[...]",
+      "publishedAt": "2026-05-02T14:32:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "dbac24c7faf22999277d5fc5fe41a29ab1d7e102036ab054f36eef3ec2339266",
+      "source": "Google News Security",
+      "title": "ADT、全国的に顧客情報が漏洩する可能性のあるデータ侵害を確認",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUR4QnFJY0FzVUpiLV9NOU9Rb0tfSjNqT3hOQVo1Y0MxT3dCZWRhRmRiMl80eW9LV3JPNjRHbXRIYlVETkw1S0tKRzlLaXlxd3VoSlh2X2EtcGJIdWNFa0ZSUndBUWtCeHNmcjB4RnFac3hWUnVGQWhYQjFWVjJJVHFNVlY4dk1SYlFGS2ZYXzc1Y1Z0WkpUXzVCVGdTVVlKQTRia0RHMkhlUFBKQ0gzcw?oc=5",
+      "summary": "ADT、全国的に顧客情報が漏洩する可能性のあるデータ侵害を確認しました  strategicrevenue.com",
+      "publishedAt": "2026-05-02T13:06:07.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "29592d5cc55b19016d2657f9cc96eae77bbfc31770103458a18ee5d46a63284a",
+      "source": "Google News Security (CN)",
+      "title": "マイクロソフトとCISA、ほぼすべての主要なLinuxシステムに影響を与える深刻な脆弱性を警告",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4MFdrQU9vUkJ3YWNoN1BfM2FpMHozY0ZNQTUxVUQ4WVJseVFQUjVLSG5DMTdzTjBUQVlRUWJQTmVwOG5qczNkMHFEMXB5SldlYmlYNzB1dXF4TW9uZjAwTA?oc=5",
+      "summary": "マイクロソフトとCISA、ほぼすべての主要なLinuxシステムに影響を与える深刻な脆弱性を警告 - Linux cnBeta.COM",
+      "publishedAt": "2026-05-02T18:40:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7977d2dba9c88558a9cc7be6502fa21116104c37d5b0e400ada77f3bbb8d1ad3",
+      "source": "Google News Security",
+      "title": "Vimeo、ユーザーに影響を及ぼすデータ侵害を確認 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkp3M3ZhcjEyY3VsUjBjeFJYSkMtTEpMakJPcFBhdFV6aG1OdHdSZ1ZWamNVX0FmMzFGLXZPQ3p6RkkwazVUdUI0VThqWmtGNnNXY0FnclJNZlFLbTNhei0yUmFTUU14M3ptQ19XMy15elhMVjhsdTBuZXRBaDlKY2laeHBqTkgzV0xTRlJtaERjVGJ0UElpS1h3?oc=5",
+      "summary": "Vimeo、ユーザーに影響を及ぼすデータ侵害を確認  Escudo Digital",
+      "publishedAt": "2026-05-02T05:20:04.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-03T01:05:52.869Z"
+  }
+}
