@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-04",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "6377a3ca95ba12a07311b4e88bf216eb50018e8de2135dfb30b0ee6398933919",
+      "source": "BleepingComputer",
+      "title": "Instructure confirms data breach, ShinyHunters claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+      "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+      "publishedAt": "2026-05-03T22:16:27.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Major data breach impacting educational tech",
+      "suggestedTitle": "Instructure Confirms Data Breach Amid ShinyHunters Attack Claims",
+      "suggestedSummary": "Instructure, a major educational technology company, has confirmed a data breach reportedly orchestrated by the hacking group ShinyHunters. This incident marks the second breach for Instructure within a year. The breach may involve sensitive educational data, raising concerns about data security in educational platforms. Security teams should evaluate their current defenses against similar threat actors and ensure robust incident response plans are in place.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "e5b1244b82b7f0b61dea5a3f7fe6cd312eaa37d36490caef9b65e34578ed91d9",
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
+      "publishedAt": "2026-05-03T06:26:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        16
+      ],
+      "reason": "CISA KEV addition signals active exploitation",
+      "suggestedTitle": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+      "suggestedSummary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical Linux root access vulnerability, CVE-2026-31431, to its Known Exploited Vulnerabilities (KEV) catalog. This vulnerability, actively exploited in the wild, allows attackers to gain unauthorized root access on affected Linux systems. Security teams should prioritize patching affected systems and monitor for any indicators of compromise associated with this CVE.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "28bf494b44b74c1dcd57adcd99e2ae5a7e60948cd2a8b6544d03a7df2455d20c",
+      "source": "BleepingComputer",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "publishedAt": "2026-05-03T18:11:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3880310ac4955a7a903b765d8b8c7651720350dccc75f0c88ff3f00f53ddecee",
+      "source": "BleepingComputer",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+      "publishedAt": "2026-05-03T14:11:21.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "aa8109897c0678eb0e89c6a0bb835d978fc210ab3db76fcf2889f14cba2b407f",
+      "source": "Google News Security",
+      "title": "ShinyHunters Claim NVIDIA GeForce NOW User Database Theft - SQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zTmljQ2J2d012VXFBdlhNdFVOUk5UWEJPM21yMnRyS0pDdjRES3RpR0cyVm5VclhGRGszYlRwMUdEZExQNkhmTGFNdEQtUG5UejdSNnZaVTdwUGZlVndZWjhpX0EtVFNVb0FaakpEenF2TmFpR0JqRmlpUXQ?oc=5",
+      "summary": "ShinyHunters Claim NVIDIA GeForce NOW User Database Theft  SQ Magazine",
+      "publishedAt": "2026-05-03T13:08:12.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "22adafe25d16ffafc3f0d324373b41a1f51d608ac0d107fa2142079f869bd4b2",
+      "source": "Google News Security (JP)",
+      "title": "Thunderbird 150.0.1緊急アップデート公開、メモリ破損で任意コード実行の恐れ—4件の脆弱性をMozillaが修正 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxV2xqQ2lTQ0xhV0pDZzd1MkExZmFFWFBucmxfaTAtdml3UDZxVl9WTHdBOUJYejNqMjRmeWV4U3pnLURHeDJmMXNSQWpzMW96MEZRYmpxM0poRlA0RmpZa0F1akd0U3dET055NzhWUFhQeG8?oc=5",
+      "summary": "Thunderbird 150.0.1緊急アップデート公開、メモリ破損で任意コード実行の恐れ—4件の脆弱性をMozillaが修正  innovaTopia",
+      "publishedAt": "2026-05-03T08:54:52.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-04T01:03:23.482Z"
+  }
+}
