@@ -1,0 +1,122 @@
+{
+  "date": "2026-05-05",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "c6c4f6483c3897237ee87dd910a01934becf87c96eb35a23ac9e538a977e7340",
+      "source": "Dark Reading",
+      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
+      "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
+      "publishedAt": "2026-05-04T20:56:34.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Phishing campaign using RMM tools",
+      "suggestedTitle": "Stealthy Phishing Campaign Exploits RMM Tools",
+      "suggestedSummary": "A sophisticated phishing campaign is leveraging remote monitoring and management (RMM) tools, specifically SimpleHelp and ScreenConnect, to evade detection. The attackers have targeted over 80 organizations, primarily using socially engineered messages. This method allows them to infiltrate systems undetected, posing a significant threat to enterprise security. Security teams should monitor for unusual RMM tool usage and strengthen phishing defenses.",
+      "relatedSources": [
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7a1d5a77d1736e081eda73dd6d549b2f7aeffae0344d9f80a80ade0c47ce572e",
+      "source": "The Hacker News",
+      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts. \nThe",
+      "publishedAt": "2026-05-04T16:34:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        11
+      ],
+      "reason": "Critical vulnerability in MOVEit Automation",
+      "suggestedTitle": "MOVEit Automation Flaw Allows Authentication Bypass",
+      "suggestedSummary": "Progress Software has released patches for critical vulnerabilities in MOVEit Automation, including an authentication bypass flaw. This vulnerability could allow attackers to access systems without credentials, posing a high risk to data integrity and confidentiality. Affected versions should be updated immediately to mitigate potential exploitation. Organizations using MOVEit should prioritize this patch to protect sensitive data transfers.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2e0f55b259ecf30ae04702b146b10e21b19b3adbab004bee1503af0c61d3facf",
+      "source": "The Hacker News",
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel.\nThe activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
+      "publishedAt": "2026-05-04T09:27:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        12
+      ],
+      "reason": "Exploitation of cPanel vulnerability",
+      "suggestedTitle": "Critical cPanel Vulnerability Exploited in Attacks",
+      "suggestedSummary": "A critical vulnerability in cPanel, a popular web hosting control panel, is being actively exploited by threat actors targeting government and MSP networks. This flaw allows attackers to execute unauthorized code, potentially compromising thousands of servers. Security teams should apply available patches and monitor for indicators of compromise to prevent unauthorized access and data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b1f4fe808a5795c95b2016345de702106a57f91d775379f927f4ffad339ca7c7",
+      "source": "The Hacker News",
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities.\n\"Both waves followed a nearly identical",
+      "publishedAt": "2026-05-04T11:57:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "070e4ec894dfe8eac0aa13d8481dfa19799c1231564ec010ad05d93ee03892da",
+      "source": "BleepingComputer",
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
+      "publishedAt": "2026-05-04T22:12:57.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c144ef28cfc306dd2979c4658114539d424e4a6ee2a5eb12f89c8bd1dce5d5ff",
+      "source": "BleepingComputer",
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
+      "publishedAt": "2026-05-04T11:28:15.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cc9f3eb245c5fc62f822c33913b82173705cfcb1cfc90936b7cbe2790950cb95",
+      "source": "Google News Security",
+      "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnk5Y0xQa040b0tnQ09TdlZiUnp3cVV3amhicFppMzF4MU16NHo3cnZ5cjZtU3I3YzhVXzZzbDBlZWI5c05XTVJwSkwxbWNiMm9lSm1JY1lhR2J6dlVFcUlsMDlhRWduQVVubkRLMmNzdjMtT3dYbU9hY0ZXNVdhTjk3Y1ZydzU1NTk4TFRIU1o5RXFTLWfSAZsBQVVfeXFMT2ZvQ20xb1ByUk9yREhqY3hOZVZ3LVRfS0ZKa3pteERqLWM0Z21sdW9INUdtQ0lTcU1sSGpXNHFuRDYwbDBRNkJtQkIwQXlpOVhmQXFpWVRjN2NsUjhsRUJrZ0pPZHpPbjIxYm9SUldYSlFjaEUtWjBuOVV5Y2tlOU9zX1BFYzhiVXlZMGFzbk9QWkhCRkhXOGNuRWM?oc=5",
+      "summary": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation  SecurityWeek",
+      "publishedAt": "2026-05-04T08:25:04.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-05T00:57:57.059Z"
+  }
+}

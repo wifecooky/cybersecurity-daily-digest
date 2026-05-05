@@ -1,0 +1,122 @@
+{
+  "date": "2026-05-05",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "c6c4f6483c3897237ee87dd910a01934becf87c96eb35a23ac9e538a977e7340",
+      "source": "Dark Reading",
+      "title": "RMMツールがステルス型フィッシングキャンペーンを促進",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
+      "summary": "攻撃者は、80以上の組織に影響を与えたキャンペーンで検出を回避するために、2つのリモート監視および管理（RMM）ツールを悪用しています。",
+      "publishedAt": "2026-05-04T20:56:34.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Phishing campaign using RMM tools",
+      "suggestedTitle": "ステルス型フィッシングキャンペーンがRMMツールを悪用",
+      "suggestedSummary": "高度なフィッシングキャンペーンが、リモート監視および管理（RMM）ツール、特にSimpleHelpとScreenConnectを利用して検出を回避しています。攻撃者は主に社会工学的メッセージを使用して80以上の組織を標的にしています。この手法により、システムに検出されずに侵入することが可能となり、企業のセキュリティに重大な脅威をもたらしています。セキュリティチームは、異常なRMMツールの使用を監視し、フィッシング防御を強化する必要があります。",
+      "relatedSources": [
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "7a1d5a77d1736e081eda73dd6d549b2f7aeffae0344d9f80a80ade0c47ce572e",
+      "source": "The Hacker News",
+      "title": "進展が認証バイパスを可能にする重大なMOVEit Automationバグを修正",
+      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "summary": "Progress Softwareは、認証バイパスを引き起こす可能性のある重大なバグを含む、MOVEit Automationの2つのセキュリティ欠陥に対処するための更新をリリースしました。MOVEit Automation（旧Central）は、安全なサーバーベースの管理ファイル転送（MFT）ソリューションであり、カスタムスクリプトを必要とせずに、企業環境でのファイル移動ワークフローをスケジュールおよび自動化するために使用されます。",
+      "publishedAt": "2026-05-04T16:34:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        11
+      ],
+      "reason": "Critical vulnerability in MOVEit Automation",
+      "suggestedTitle": "MOVEit Automationの欠陥が認証バイパスを許可",
+      "suggestedSummary": "Progress Softwareは、認証バイパスの欠陥を含むMOVEit Automationの重大な脆弱性に対するパッチをリリースしました。この脆弱性により、攻撃者が資格情報なしでシステムにアクセスできる可能性があり、データの整合性と機密性に高いリスクをもたらします。影響を受けるバージョンは、潜在的な悪用を軽減するために直ちに更新する必要があります。MOVEitを使用している組織は、機密データ転送を保護するためにこのパッチを優先するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "2e0f55b259ecf30ae04702b146b10e21b19b3adbab004bee1503af0c61d3facf",
+      "source": "The Hacker News",
+      "title": "政府およびMSPネットワークを標的にしたcPanelの重大な脆弱性の武器化",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "summary": "以前は知られていなかった脅威アクターが、最近公開されたcPanelの脆弱性を悪用して、東南アジアの政府および軍事機関、フィリピン、ラオス、カナダ、南アフリカ、米国の一部のマネージドサービスプロバイダー（MSP）およびホスティングプロバイダーを標的にしていることが観察されています。この活動は、2026年5月2日にCtrl-Alt-Intelによって検出されました。",
+      "publishedAt": "2026-05-04T09:27:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        12
+      ],
+      "reason": "Exploitation of cPanel vulnerability",
+      "suggestedTitle": "攻撃で悪用されるcPanelの重大な脆弱性",
+      "suggestedSummary": "人気のあるウェブホスティングコントロールパネルであるcPanelの重大な脆弱性が、政府およびMSPネットワークを標的にする脅威アクターによって積極的に悪用されています。この欠陥により、攻撃者は不正なコードを実行でき、数千のサーバーが危険にさらされる可能性があります。セキュリティチームは、利用可能なパッチを適用し、不正アクセスやデータ侵害を防ぐために妥協の指標を監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "b1f4fe808a5795c95b2016345de702106a57f91d775379f927f4ffad339ca7c7",
+      "source": "The Hacker News",
+      "title": "シルバーフォックス、インドとロシアで税務テーマのフィッシングを通じてABCDoorマルウェアを展開",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "summary": "中国拠点のサイバー犯罪グループ「シルバーフォックス」は、新たなマルウェア「ABCDoor」を用いて、ロシアとインドの組織を標的とする新たなキャンペーンに関与していることが判明しました。この活動では、2025年12月にインドの所得税部門からの通信を模倣したフィッシングメールが使用され、その後、ロシアの組織を狙った類似のキャンペーンが行われました。「両方の波はほぼ同一の手法に従っていました。",
+      "publishedAt": "2026-05-04T11:57:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "070e4ec894dfe8eac0aa13d8481dfa19799c1231564ec010ad05d93ee03892da",
+      "source": "BleepingComputer",
+      "title": "Weaver E-cologyの重大なバグが3月以降の攻撃で悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "summary": "ハッカーは、Weaver E-cologyのオフィスオートメーションにおける重大な脆弱性（CVE-2026-22679）を3月中旬から悪用し、探索コマンドを実行しています。",
+      "publishedAt": "2026-05-04T22:12:57.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c144ef28cfc306dd2979c4658114539d424e4a6ee2a5eb12f89c8bd1dce5d5ff",
+      "source": "BleepingComputer",
+      "title": "CISA、「コピー失敗」脆弱性がLinuxシステムをルート化するために悪用されていると発表",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "summary": "CISAは、Theoriの研究者が「コピー失敗」というLinuxのセキュリティ脆弱性を公開し、概念実証（PoC）を共有した翌日に、脅威アクターがこの脆弱性を悪用し始めたと警告しました。",
+      "publishedAt": "2026-05-04T11:28:15.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cc9f3eb245c5fc62f822c33913b82173705cfcb1cfc90936b7cbe2790950cb95",
+      "source": "Google News Security",
+      "title": "進行中のcPanel悪用で40,000以上のサーバーが侵害される - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnk5Y0xQa040b0tnQ09TdlZiUnp3cVV3amhicFppMzF4MU16NHo3cnZ5cjZtU3I3YzhVXzZzbDBlZWI5c05XTVJwSkwxbWNiMm9lSm1JY1lhR2J6dlVFcUlsMDlhRWduQVVubkRLMmNzdjMtT3dYbU9hY0ZXNVdhTjk3Y1ZydzU1NTk4TFRIU1o5RXFTLWfSAZsBQVVfeXFMT2ZvQ20xb1ByUk9yREhqY3hOZVZ3LVRfS0ZKa3pteERqLWM0Z21sdW9INUdtQ0lTcU1sSGpXNHFuRDYwbDBRNkJtQkIwQXlpOVhmQXFpWVRjN2NsUjhsRUJrZ0pPZHpPbjIxYm9SUldYSlFjaEUtWjBuOVV5Y2tlOU9zX1BFYzhiVXlZMGFzbk9QWkhCRkhXOGNuRWM?oc=5",
+      "summary": "進行中のcPanel悪用で40,000以上のサーバーが侵害される - SecurityWeek",
+      "publishedAt": "2026-05-04T08:25:04.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-05T00:58:09.758Z"
+  }
+}
