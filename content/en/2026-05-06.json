@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-06",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "fbf3573b9b6f3277eec78977254fb4c247d8350d02f138d5156ca49aa6712163",
+      "source": "BleepingComputer",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
+      "publishedAt": "2026-05-05T21:20:23.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach and APT activity",
+      "suggestedTitle": "Instructure Data Breach and ScarCruft's BirdCall Malware: A Double Threat",
+      "suggestedSummary": "Instructure, an education technology giant, has suffered a data breach affecting 8,800 schools and universities, with 280 million records reportedly stolen. Concurrently, the North Korean APT group ScarCruft has compromised a gaming platform to deploy BirdCall malware on Android and Windows systems. Both incidents highlight the increasing threats to educational and gaming sectors, emphasizing the need for enhanced security measures and monitoring of network traffic for unusual activity.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "33eb93910e3d5ab1571464a3b9327a210376ddba43c3b617db1d57dde8f0171a",
+      "source": "BleepingComputer",
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-05T13:03:46.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "a35751f286e7c5613d60df6044b2357cd1843aac8e4d962fda6d7c20bc338d19",
+      "source": "BleepingComputer",
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+      "publishedAt": "2026-05-05T19:21:18.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1c5def54464295ad6bb1e2c6866560c0a5a2daa88e6681ded0e6a647a581a696",
+      "source": "Dark Reading",
+      "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+      "summary": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
+      "publishedAt": "2026-05-05T20:40:11.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-06T00:58:09.366Z"
+  }
+}

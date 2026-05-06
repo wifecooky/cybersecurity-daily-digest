@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-06",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "fbf3573b9b6f3277eec78977254fb4c247d8350d02f138d5156ca49aa6712163",
+      "source": "BleepingComputer",
+      "title": "Instructureのハッカーが8,800の学校や大学からのデータ窃盗を主張",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "summary": "教育技術の大手企業Instructureの侵害の背後にいるハッカーが、8,809の大学、学区、オンライン教育プラットフォームから学生と職員のための2億8千万件のデータ記録を盗んだと主張しています。[...]",
+      "publishedAt": "2026-05-05T21:20:23.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach and APT activity",
+      "suggestedTitle": "Instructureのデータ侵害とScarCruftのBirdCallマルウェア：二重の脅威",
+      "suggestedSummary": "教育技術の大手企業Instructureは、8,800の学校と大学に影響を及ぼすデータ侵害を受け、2億8千万件の記録が盗まれたと報告されています。同時に、北朝鮮のAPTグループScarCruftがゲームプラットフォームを侵害し、AndroidとWindowsシステムにBirdCallマルウェアを展開しました。両方の事件は、教育とゲームセクターに対する脅威の増加を浮き彫りにし、セキュリティ対策の強化とネットワークトラフィックの異常な活動の監視の必要性を強調しています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "33eb93910e3d5ab1571464a3b9327a210376ddba43c3b617db1d57dde8f0171a",
+      "source": "BleepingComputer",
+      "title": "Vimeoのデータ漏洩で119,000人の個人情報が流出",
+      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "summary": "データ漏洩通知サービスHave I Been Pwnedによると、ShinyHuntersという恐喝グループが、4月にオンラインビデオプラットフォームVimeoをハッキングし、119,000人以上の個人情報を盗みました。",
+      "publishedAt": "2026-05-05T13:03:46.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "a35751f286e7c5613d60df6044b2357cd1843aac8e4d962fda6d7c20bc338d19",
+      "source": "BleepingComputer",
+      "title": "サプライチェーン攻撃でバックドアを展開するためにトロイの木馬化されたDAEMON Tools",
+      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "summary": "ハッカーはDAEMON Toolsソフトウェアのインストーラーをトロイの木馬化し、4月8日以降、公式ウェブサイトから製品をダウンロードした数千のシステムにバックドアを配信しました。",
+      "publishedAt": "2026-05-05T19:21:18.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1c5def54464295ad6bb1e2c6866560c0a5a2daa88e6681ded0e6a647a581a696",
+      "source": "Dark Reading",
+      "title": "Trellixのソースコード流出、サプライチェーンの脅威の増大を浮き彫りに",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+      "summary": "情報は乏しいが、このような流出はセキュリティ製品の制御がどこにあるかや、検出がどのように設計されているかを明らかにする可能性があり、攻撃者に優位性を与える。",
+      "publishedAt": "2026-05-05T20:40:11.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-06T00:58:24.334Z"
+  }
+}
