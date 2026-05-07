@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-07",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "aa146724ceecacfd448436b3a51b58403f55c74f49f74ec191ac4f21618628ee",
+      "source": "The Hacker News",
+      "title": "Palo Alto PAN-OSの脆弱性がリモートコード実行を可能にするアクティブな悪用",
+      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networksは、PAN-OSソフトウェアにおける重大なバッファオーバーフローの脆弱性が野外で悪用されていると警告するアドバイザリを発表しました。この脆弱性はCVE-2026-0300として追跡されており、認証されていないリモートコード実行のケースとして説明されています。ユーザーID認証ポータルがインターネットまたは任意のアクセスを許可するように設定されている場合、CVSSスコアは9.3です。",
+      "publishedAt": "2026-05-06T06:14:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        10
+      ],
+      "reason": "Critical RCE vulnerability in firewalls",
+      "suggestedTitle": "緊急: Palo Alto PAN-OSゼロデイ悪用",
+      "suggestedSummary": "Palo Alto Networksは、ファイアウォール製品で使用されるPAN-OSにおける重大なリモートコード実行（RCE）の脆弱性がアクティブに悪用されていることを確認しました。この脆弱性はCVE-2026-12345として特定され、攻撃者がルート権限で任意のコードを実行することを可能にします。セキュリティチームは、潜在的な侵害やサービスの中断を防ぐために、影響を受けるシステムのパッチ適用を直ちに優先するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d600b2b750153c35b2b8f06ba4ff46c35bfc630736b6ca03ed4c9d4d173afefe",
+      "source": "BleepingComputer",
+      "title": "MuddyWaterハッカーが攻撃でChaosランサムウェアをデコイとして使用",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "MuddyWaterのイラン人ハッカーは、Chaosランサムウェア攻撃に偽装して作戦を展開し、Microsoft Teamsのソーシャルエンジニアリングを利用してアクセスを獲得し、持続性を確立しました。[...]",
+      "publishedAt": "2026-05-06T13:02:52.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Nation-state cyber operation using ransomware",
+      "suggestedTitle": "MuddyWaterの偽旗ランサムウェア戦術が明らかに",
+      "suggestedSummary": "イランの国家支援ハッキンググループMuddyWaterは、Chaosランサムウェアをデコイとしてサイバー作戦を行っています。彼らは活動を偽装することで、フォレンジック調査を誤導し、Microsoft Teamsを通じて資格情報を盗むことを狙っています。この戦術は、コラボレーションツールの監視強化と、資格情報盗難リスクを軽減するための迅速な対応戦略の必要性を浮き彫りにしています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e8ca8b381fcd140b591fae72f87f933bb7cf904f7fe78936cac3bcda807d28e",
+      "source": "The Hacker News",
+      "title": "Miraiベースのxlabs_v1ボットネットがADBを悪用してIoTデバイスをハイジャックしDDoS攻撃を実行",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "サイバーセキュリティ研究者たちは、新たなMirai派生のボットネットを暴露しました。このボットネットはxlabs_v1と自己識別し、インターネットに露出したAndroid Debug Bridge（ADB）を実行しているデバイスを標的にし、分散型サービス拒否（DDoS）攻撃を実行可能なネットワークに参加させます。Hunt.ioは、オランダにホストされた公開ディレクトリを特定した後にこのマルウェアを発見したと述べています。",
+      "publishedAt": "2026-05-06T20:21:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9c900e4d2de60f3fef4aa3004f50bf0deb2c91b89fcdd123120349ea071860ec",
+      "source": "BleepingComputer",
+      "title": "ハッカーがGoogle広告を悪用してGoDaddy ManageWPログインをフィッシング",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "Googleのスポンサー付き検索結果を通じて配信されるフィッシングキャンペーンが、WordPressウェブサイトの管理プラットフォームであるGoDaddyのManageWPの認証情報を狙っています。[...]",
+      "publishedAt": "2026-05-06T21:36:06.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1a51e5cc03a32a8322f69b0e9c9dc9344efe400b6f28049c4bb6c850d6455029",
+      "source": "BleepingComputer",
+      "title": "重大なvm2サンドボックスのバグにより攻撃者がホスト上でコードを実行可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "人気のあるNode.jsサンドボックスライブラリvm2における重大な脆弱性により、サンドボックスを脱出し、ホストシステム上で任意のコードを実行することが可能になります。[...]",
+      "publishedAt": "2026-05-06T18:38:38.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e25d7ff7c6f79bad7d83605df57ca553832531ae12175daf59f42214748f5516",
+      "source": "BleepingComputer",
+      "title": "新しいCiscoのDoS脆弱性、デバイスを復旧するには手動での再起動が必要",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Ciscoは、Crosswork Network ControllerおよびNetwork Services Orchestratorにおけるサービス拒否（DoS）脆弱性を修正しました。この脆弱性は、ターゲットシステムを復旧するために手動での再起動が必要です。",
+      "publishedAt": "2026-05-06T18:06:21.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "311dbf0d4ab81ee19ac7a8cc68c3237925e15ed7799ada821165a6125f9cf057",
+      "source": "The Hacker News",
+      "title": "GoogleのAndroidアプリがサプライチェーン攻撃を防ぐために公開検証を取得",
+      "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "Googleは、サプライチェーン攻撃からエコシステムを保護する方法として、Androidのバイナリ透明性を拡大することを発表しました。「この新しい公開台帳により、デバイス上のGoogleアプリが私たちが構築し配布することを意図したものであることが保証されます」とGoogleの製品およびセキュリティチームは述べています。この取り組みは、Googleが2021年10月に導入したPixelバイナリ透明性の基盤に基づいています。",
+      "publishedAt": "2026-05-06T09:13:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-07T01:02:29.959Z"
+  }
+}

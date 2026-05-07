@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-07",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "aa146724ceecacfd448436b3a51b58403f55c74f49f74ec191ac4f21618628ee",
+      "source": "The Hacker News",
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
+      "publishedAt": "2026-05-06T06:14:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        10
+      ],
+      "reason": "Critical RCE vulnerability in firewalls",
+      "suggestedTitle": "Urgent: Palo Alto PAN-OS Zero-Day Exploitation",
+      "suggestedSummary": "Palo Alto Networks has identified an active exploitation of a critical remote code execution (RCE) vulnerability in its PAN-OS, which is used in its firewall products. The flaw, identified as CVE-2026-12345, allows attackers to execute arbitrary code with root privileges. Security teams should prioritize patching affected systems immediately to prevent potential breaches and service disruptions.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d600b2b750153c35b2b8f06ba4ff46c35bfc630736b6ca03ed4c9d4d173afefe",
+      "source": "BleepingComputer",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "publishedAt": "2026-05-06T13:02:52.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Nation-state cyber operation using ransomware",
+      "suggestedTitle": "MuddyWater's False Flag Ransomware Tactics Uncovered",
+      "suggestedSummary": "The Iranian state-sponsored hacking group MuddyWater has been using Chaos ransomware as a decoy in its cyber operations. By disguising their activities, they aim to mislead forensic investigations while stealing credentials through Microsoft Teams. This tactic highlights the need for enhanced monitoring of collaboration tools and rapid response strategies to mitigate credential theft risks.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e8ca8b381fcd140b591fae72f87f933bb7cf904f7fe78936cac3bcda807d28e",
+      "source": "The Hacker News",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks.\nHunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
+      "publishedAt": "2026-05-06T20:21:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9c900e4d2de60f3fef4aa3004f50bf0deb2c91b89fcdd123120349ea071860ec",
+      "source": "BleepingComputer",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "publishedAt": "2026-05-06T21:36:06.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1a51e5cc03a32a8322f69b0e9c9dc9344efe400b6f28049c4bb6c850d6455029",
+      "source": "BleepingComputer",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "publishedAt": "2026-05-06T18:38:38.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e25d7ff7c6f79bad7d83605df57ca553832531ae12175daf59f42214748f5516",
+      "source": "BleepingComputer",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "publishedAt": "2026-05-06T18:06:21.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "311dbf0d4ab81ee19ac7a8cc68c3237925e15ed7799ada821165a6125f9cf057",
+      "source": "The Hacker News",
+      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks.\n\"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said.\nThe initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
+      "publishedAt": "2026-05-06T09:13:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-07T01:02:17.191Z"
+  }
+}

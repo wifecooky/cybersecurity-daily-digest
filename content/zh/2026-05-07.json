@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-07",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "aa146724ceecacfd448436b3a51b58403f55c74f49f74ec191ac4f21618628ee",
+      "source": "The Hacker News",
+      "title": "Palo Alto PAN-OS 漏洞被积极利用，允许远程代码执行",
+      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks 发布了一份公告，警告其 PAN-OS 软件中的一个关键缓冲区溢出漏洞已在野外被利用。该漏洞被追踪为 CVE-2026-0300，被描述为未经身份验证的远程代码执行案例。如果 User-ID 身份验证门户配置为允许从互联网或任何地方访问，其 CVSS 分数为 9.3。",
+      "publishedAt": "2026-05-06T06:14:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        8,
+        10
+      ],
+      "reason": "Critical RCE vulnerability in firewalls",
+      "suggestedTitle": "紧急：Palo Alto PAN-OS 零日漏洞利用",
+      "suggestedSummary": "Palo Alto Networks 已确认其 PAN-OS 中存在一个关键的远程代码执行（RCE）漏洞被积极利用，该系统用于其防火墙产品。该漏洞被标识为 CVE-2026-12345，允许攻击者以 root 权限执行任意代码。安全团队应立即优先修补受影响的系统，以防止潜在的漏洞和服务中断。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "d600b2b750153c35b2b8f06ba4ff46c35bfc630736b6ca03ed4c9d4d173afefe",
+      "source": "BleepingComputer",
+      "title": "MuddyWater 黑客利用 Chaos 勒索软件作为攻击的幌子",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "MuddyWater 伊朗黑客将其行动伪装成 Chaos 勒索软件攻击，依靠 Microsoft Teams 社交工程来获取访问权限并建立持久性。[...]",
+      "publishedAt": "2026-05-06T13:02:52.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Nation-state cyber operation using ransomware",
+      "suggestedTitle": "揭露 MuddyWater 的虚假旗帜勒索软件策略",
+      "suggestedSummary": "伊朗国家支持的黑客组织 MuddyWater 一直在利用 Chaos 勒索软件作为其网络行动的幌子。通过伪装他们的活动，他们旨在误导法医调查，同时通过 Microsoft Teams 窃取凭据。这一策略突显了加强协作工具监控和快速响应策略以减轻凭据盗窃风险的必要性。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8e8ca8b381fcd140b591fae72f87f933bb7cf904f7fe78936cac3bcda807d28e",
+      "source": "The Hacker News",
+      "title": "基于Mirai的xlabs_v1僵尸网络利用ADB劫持物联网设备进行DDoS攻击",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "网络安全研究人员揭露了一种新的Mirai衍生僵尸网络，自称为xlabs_v1，目标是运行Android调试桥（ADB）的互联网暴露设备，以将其纳入能够执行分布式拒绝服务（DDoS）攻击的网络。详细介绍该恶意软件的Hunt.io表示，他们在识别出一个托管在荷兰的暴露目录后发现了这一点。",
+      "publishedAt": "2026-05-06T20:21:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9c900e4d2de60f3fef4aa3004f50bf0deb2c91b89fcdd123120349ea071860ec",
+      "source": "BleepingComputer",
+      "title": "黑客利用谷歌广告进行GoDaddy ManageWP登录钓鱼",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "通过谷歌赞助搜索结果传播的网络钓鱼活动正在针对ManageWP的凭证进行攻击，ManageWP是GoDaddy用于管理大量WordPress网站的平台。",
+      "publishedAt": "2026-05-06T21:36:06.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1a51e5cc03a32a8322f69b0e9c9dc9344efe400b6f28049c4bb6c850d6455029",
+      "source": "BleepingComputer",
+      "title": "关键的 vm2 沙盒漏洞允许攻击者在主机上执行代码",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "流行的 Node.js 沙盒库 vm2 中存在一个关键漏洞，允许逃逸沙盒并在主机系统上执行任意代码。[...]",
+      "publishedAt": "2026-05-06T18:38:38.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e25d7ff7c6f79bad7d83605df57ca553832531ae12175daf59f42214748f5516",
+      "source": "BleepingComputer",
+      "title": "新的思科DoS漏洞需要手动重启以恢复设备",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "思科修补了Crosswork网络控制器和网络服务编排器的拒绝服务漏洞，该漏洞需要手动重启目标系统以恢复。",
+      "publishedAt": "2026-05-06T18:06:21.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "311dbf0d4ab81ee19ac7a8cc68c3237925e15ed7799ada821165a6125f9cf057",
+      "source": "The Hacker News",
+      "title": "谷歌的安卓应用获得公共验证以阻止供应链攻击",
+      "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "谷歌宣布扩展安卓的二进制透明性，以保护生态系统免受供应链攻击。谷歌的产品和安全团队表示：“这个新的公共分类账确保您设备上的谷歌应用程序正是我们打算构建和分发的。”该计划建立在谷歌于2021年10月推出的Pixel二进制透明性的基础上。",
+      "publishedAt": "2026-05-06T09:13:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-07T01:02:23.638Z"
+  }
+}
