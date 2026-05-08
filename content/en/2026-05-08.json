@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-08",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "a783d2e2635e0892fb19beb7a212d49f9cd998d2b7fe9b038376051b495165a1",
+      "source": "The Hacker News",
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1.\nIt allows \"a remotely authenticated user with administrative access to achieve remote code",
+      "publishedAt": "2026-05-07T17:55:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6,
+        9
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "Ivanti EPMM RCE Vulnerability Exploited in Zero-Day Attacks",
+      "suggestedSummary": "Ivanti has disclosed a high-severity remote code execution (RCE) vulnerability in Endpoint Manager Mobile (EPMM), identified as CVE-2026-6973. The flaw is currently under active exploitation, allowing attackers to gain admin-level access to affected systems. Security teams should prioritize patching to mitigate the risk of unauthorized access and potential data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "dc2f9b25ad9ba1f126b5b00b4d20018dbea81583914395b8e64b830402ff15b5",
+      "source": "BleepingComputer",
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
+      "publishedAt": "2026-05-07T22:36:54.000Z",
+      "score": 58,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach affecting education sector",
+      "suggestedTitle": "ShinyHunters Breach Instructure's Canvas, Impacting Schools Nationwide",
+      "suggestedSummary": "The ShinyHunters extortion group has launched a significant attack on Instructure's Canvas platform, leading to a widespread data breach affecting thousands of educational institutions. The breach has resulted in the compromise of sensitive data and service disruptions. Organizations using Canvas should review their security measures and prepare for potential data exposure.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5e4141220139e691e74a785f8e700a16930265527f44afebb0ff6af1de6134ce",
+      "source": "The Hacker News",
+      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments.\n\"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
+      "publishedAt": "2026-05-07T17:45:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "0e040c97188ccac15f63e74e9c24a2e3474cfaf0a6d683f30cb8158c69e1e0e0",
+      "source": "BleepingComputer",
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+      "publishedAt": "2026-05-07T22:06:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1831aaceaf926cbe78c440f0ae5dd3b015a54a8851bd5d4c7527109cf1a9c33d",
+      "source": "BleepingComputer",
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+      "publishedAt": "2026-05-07T10:57:59.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "7e34f6af1a4ddfd1c55c3ee97a8b1df59174925c270d07e12434a9c98a966ca9",
+      "source": "Ars Technica Security",
+      "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+      "publishedAt": "2026-05-07T19:18:16.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "96e612ecd454fd0982f7d313af4435d1e9f11e7d79a75366dc197632307d2959",
+      "source": "Google News Security",
+      "title": "Cybercrime group crashes Penn’s Canvas system, demands ransom to prevent data release - The Daily Pennsylvanian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORk50S3VoU19lMF83cEV2NTBRTVZQaTdpS3ltcy1idXBuN3JrZ2Nic1dKbWNKcWd3VHItSXQtQldQcWpnNzBrSm1uaUd4SmRFZVBjOFloUEVad2xiaUlNRmQ0a0llbkREMFVuWHJkVE90WW5hZmFoMEpUMGVBNjdLNEpqeVdPNXVZTmk2RmFyeUI?oc=5",
+      "summary": "Cybercrime group crashes Penn’s Canvas system, demands ransom to prevent data release  The Daily Pennsylvanian",
+      "publishedAt": "2026-05-07T21:00:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-08T01:02:47.281Z"
+  }
+}

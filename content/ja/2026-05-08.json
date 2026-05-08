@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-08",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "a783d2e2635e0892fb19beb7a212d49f9cd998d2b7fe9b038376051b495165a1",
+      "source": "The Hacker News",
+      "title": "Ivanti EPMM CVE-2026-6973 RCEがアクティブな攻撃で管理者レベルのアクセスを許可",
+      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivantiは、Endpoint Manager Mobile (EPMM) に影響を与える新しいセキュリティの欠陥が、限定的な攻撃で悪用されていると警告しています。この高深刻度の脆弱性、CVE-2026-6973 (CVSSスコア: 7.2) は、バージョン12.6.1.1、12.7.0.1、および12.8.0.1より前のEPMMに影響を与える不適切な入力検証のケースです。これにより、「リモートで認証されたユーザーが管理者アクセスを持ってリモートコードを実行することが可能になります。",
+      "publishedAt": "2026-05-07T17:55:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        6,
+        9
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "Ivanti EPMM RCE脆弱性がゼロデイ攻撃で悪用",
+      "suggestedSummary": "Ivantiは、Endpoint Manager Mobile (EPMM) における高深刻度のリモートコード実行 (RCE) 脆弱性、CVE-2026-6973を公開しました。この欠陥は現在アクティブに悪用されており、攻撃者が影響を受けたシステムに管理者レベルのアクセスを得ることが可能です。セキュリティチームは、未承認のアクセスや潜在的なデータ漏洩のリスクを軽減するために、パッチ適用を優先すべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "dc2f9b25ad9ba1f126b5b00b4d20018dbea81583914395b8e64b830402ff15b5",
+      "source": "BleepingComputer",
+      "title": "キャンバスのログインポータルがShinyHuntersの大規模な恐喝キャンペーンでハッキングされる",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "summary": "ShinyHuntersという恐喝グループが、教育技術の大手企業Instructureを再び侵害し、今回は別の脆弱性を利用して数百の大学やカレッジのキャンバスログインポータルを改ざんしました。[...]",
+      "publishedAt": "2026-05-07T22:36:54.000Z",
+      "score": 58,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major data breach affecting education sector",
+      "suggestedTitle": "ShinyHuntersがInstructureのキャンバスを侵害、全国の学校に影響",
+      "suggestedSummary": "ShinyHuntersという恐喝グループがInstructureのキャンバスプラットフォームに対して大規模な攻撃を開始し、数千の教育機関に影響を及ぼすデータ侵害を引き起こしました。この侵害により、機密データの漏洩やサービスの中断が発生しています。キャンバスを使用している組織は、セキュリティ対策を見直し、潜在的なデータ漏洩に備えるべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5e4141220139e691e74a785f8e700a16930265527f44afebb0ff6af1de6134ce",
+      "source": "The Hacker News",
+      "title": "PCPJack 資格情報窃取ツールが5つのCVEを悪用し、クラウドシステム内でワームのように拡散",
+      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "サイバーセキュリティ研究者は、PCPJackと呼ばれる新しい資格情報窃取フレームワークの詳細を公開しました。このフレームワークは、公開されたクラウドインフラストラクチャを標的とし、TeamPCPに関連するアーティファクトを環境から排除します。「このツールセットは、クラウド、コンテナ、開発者、生産性、金融サービスから資格情報を収集し、攻撃者が制御するインフラストラクチャを通じてデータを外部に送信しようとします。",
+      "publishedAt": "2026-05-07T17:45:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "0e040c97188ccac15f63e74e9c24a2e3474cfaf0a6d683f30cb8158c69e1e0e0",
+      "source": "BleepingComputer",
+      "title": "新たなTCLBankerマルウェアがWhatsAppとOutlookを通じて自己拡散",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "summary": "59の銀行、フィンテック、暗号通貨プラットフォームを標的とする新しいトロイの木馬「TCLBanker」は、Logitech AI Prompt Builderのトロイの木馬化されたMSIインストーラーを使用してシステムに感染します。",
+      "publishedAt": "2026-05-07T22:06:52.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1831aaceaf926cbe78c440f0ae5dd3b015a54a8851bd5d4c7527109cf1a9c33d",
+      "source": "BleepingComputer",
+      "title": "パロアルトネットワークスのファイアウォールゼロデイが約1か月間悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "summary": "パロアルトネットワークスは、国家が支援するハッカーと疑われる者が、約1か月にわたり重大なPAN-OSファイアウォールのゼロデイ脆弱性を悪用していると顧客に警告しました。",
+      "publishedAt": "2026-05-07T10:57:59.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "7e34f6af1a4ddfd1c55c3ee97a8b1df59174925c270d07e12434a9c98a966ca9",
+      "source": "Ars Technica Security",
+      "title": "Mozilla、Mythosによって発見された271の脆弱性は「ほとんど誤検知がない」と発表",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "summary": "Firefoxの開発者は、AI支援によるバグ発見に「完全に賛同している」と述べています。",
+      "publishedAt": "2026-05-07T19:18:16.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "96e612ecd454fd0982f7d313af4435d1e9f11e7d79a75366dc197632307d2959",
+      "source": "Google News Security",
+      "title": "サイバー犯罪グループがペンのCanvasシステムをクラッシュさせ、データ公開を防ぐために身代金を要求 - デイリー・ペンシルバニアン",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORk50S3VoU19lMF83cEV2NTBRTVZQaTdpS3ltcy1idXBuN3JrZ2Nic1dKbWNKcWd3VHItSXQtQldQcWpnNzBrSm1uaUd4SmRFZVBjOFloUEVad2xiaUlNRmQ0a0llbkREMFVuWHJkVE90WW5hZmFoMEpUMGVBNjdLNEpqeVdPNXVZTmk2RmFyeUI?oc=5",
+      "summary": "サイバー犯罪グループがペンのCanvasシステムをクラッシュさせ、データ公開を防ぐために身代金を要求 - デイリー・ペンシルバニアン",
+      "publishedAt": "2026-05-07T21:00:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-08T01:02:59.981Z"
+  }
+}
