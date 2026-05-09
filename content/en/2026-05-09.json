@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-09",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "9c47acd124506034d778d5f6b0bf79245bc0730f711286cb9b97287b14adef22",
+      "source": "Krebs on Security",
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
+      "publishedAt": "2026-05-08T02:58:46.000Z",
+      "score": 30,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        34
+      ],
+      "reason": "Major data breach affecting education",
+      "suggestedTitle": "Canvas Data Breach Disrupts Education Nationwide",
+      "suggestedSummary": "The widely-used education technology platform Canvas has suffered a significant data breach, disrupting schools and colleges across the U.S. The breach, attributed to an ongoing data extortion attack, has led to the exposure of sensitive information and operational interruptions. Security teams should be aware of potential data leaks and take immediate action to secure educational data systems and verify their integrity.",
+      "relatedSources": [
+        "Krebs on Security",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "b7768951c894e8ae561ad64ab49d70ea39f3bb3857da91340122d319a4c4430e",
+      "source": "The Hacker News",
+      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+      "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
+      "publishedAt": "2026-05-08T05:12:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        7,
+        9
+      ],
+      "reason": "Linux zero-day vulnerability",
+      "suggestedTitle": "Linux 'Dirty Frag' Zero-Day Grants Root Access",
+      "suggestedSummary": "A newly discovered Linux zero-day exploit, dubbed 'Dirty Frag', allows local attackers to escalate privileges to root across major distributions. This vulnerability, which currently lacks a patch, affects multiple versions of the Linux kernel, posing a significant threat to systems where local access can be obtained. Security teams should prioritize monitoring for unusual local activity and consider implementing temporary mitigations until patches are released.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "04d49de085b45831d4c9cc2829ed5d9c8011410dd78139999892ad53ac3405ed",
+      "source": "BleepingComputer",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "publishedAt": "2026-05-08T16:18:31.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6214ddfda433bcc05c46dea6ae0345a420f663eabd6ad3d4631f7b767724c848",
+      "source": "BleepingComputer",
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-08T10:42:22.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "109ea3debc6066727ef00a9732635515a0990f2f5f487d0a4d192412d1b05b01",
+      "source": "BleepingComputer",
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+      "publishedAt": "2026-05-08T13:23:23.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db0a16fc5ba6ab43cbe42adbd96bf79ff5b4f1b4dcc967dfcdcc49fca4e8d88c",
+      "source": "BleepingComputer",
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-05-08T12:16:32.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "72122a919b861688b7998e7264319b491f367a177fc75141708acbfbded66ecd",
+      "source": "Google News Security",
+      "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjJUeEZIQUJrWDFranVEdnhLNDdSbjkxN0ZFVnRzNGtRRk1LLVFoblVpT1I3cUhDZUZSdlJzQnBoeE1BNmpRQXpOeGRYUFB3clF2Q3Y0TGVQaW9IRjNLcmtTVXlXcjhYenRvMW0wckNDdmF4LTAyV09OREVDcFNrTkZfV3BFY1FTU2EtNmhxZjVUOTZacFHSAZsBQVVfeXFMUEVPMmgwQldLQTExYndxS0ZnQjR5T3pQQlJzYUpOdWVOM3JvVDhsLXNtUndoZ2w4UXJzb25BYmZ3THZLdUZzelVCam9HbWpwajR6Nm5udV82NW4tQjh6YmlkNmhFMWhJT3pMZXN0UXE0YWplQTRxQXJnbkRTRk5KOUtjYUFiYm04SGhtU2s1aXRPMU05WnNORndOZ0U?oc=5",
+      "summary": "AI Firm Braintrust Prompts API Key Rotation After Data Breach  SecurityWeek",
+      "publishedAt": "2026-05-08T11:14:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-09T01:01:53.527Z"
+  }
+}

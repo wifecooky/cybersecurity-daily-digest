@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-09",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "9c47acd124506034d778d5f6b0bf79245bc0730f711286cb9b97287b14adef22",
+      "source": "Krebs on Security",
+      "title": "Canvasの侵害が全国の学校と大学に影響",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "summary": "広く利用されている教育技術プラットフォームCanvasを標的とした進行中のデータ恐喝攻撃により、米国中の学区や大学で授業や課題が混乱しました。サイバー犯罪グループがサービスのログインページを身代金要求で改ざんし、約9,000の教育機関における2億7,500万人の学生と教職員のデータを漏洩させると脅迫しました。",
+      "publishedAt": "2026-05-08T02:58:46.000Z",
+      "score": 30,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        34
+      ],
+      "reason": "Major data breach affecting education",
+      "suggestedTitle": "Canvasのデータ侵害が全国の教育に影響",
+      "suggestedSummary": "広く利用されている教育技術プラットフォームCanvasが重大なデータ侵害を受け、米国中の学校や大学に混乱をもたらしました。この侵害は進行中のデータ恐喝攻撃に起因しており、機密情報の露出や運営の中断を引き起こしています。セキュリティチームはデータ漏洩の可能性に注意を払い、教育データシステムを保護し、その整合性を確認するために直ちに行動を起こすべきです。",
+      "relatedSources": [
+        "Krebs on Security",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "b7768951c894e8ae561ad64ab49d70ea39f3bb3857da91340122d319a4c4430e",
+      "source": "The Hacker News",
+      "title": "LinuxカーネルのDirty Frag LPEエクスプロイトが主要ディストリビューションでルートアクセスを可能に",
+      "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "summary": "Linuxカーネルに影響を与える新しい未修正のローカル特権昇格（LPE）脆弱性に関する詳細が明らかになりました。Dirty Fragと名付けられたこの脆弱性は、最近公開されたLinuxカーネルに影響を与えるLPEの欠陥であるCopy Fail（CVE-2026-31431、CVSSスコア：7.8）の後継とされています。この脆弱性はLinuxカーネルのメンテナに報告されました。",
+      "publishedAt": "2026-05-08T05:12:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        7,
+        9
+      ],
+      "reason": "Linux zero-day vulnerability",
+      "suggestedTitle": "Linux『Dirty Frag』ゼロデイがルートアクセスを許可",
+      "suggestedSummary": "新たに発見されたLinuxのゼロデイエクスプロイト『Dirty Frag』は、ローカル攻撃者が主要ディストリビューションでルートへの特権を昇格させることを可能にします。この脆弱性は現在パッチがなく、複数のバージョンのLinuxカーネルに影響を与えており、ローカルアクセスが得られるシステムにとって重大な脅威となっています。セキュリティチームは異常なローカル活動を監視し、パッチがリリースされるまで一時的な緩和策を実施することを優先すべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "04d49de085b45831d4c9cc2829ed5d9c8011410dd78139999892ad53ac3405ed",
+      "source": "BleepingComputer",
+      "title": "NVIDIA、アルメニアのユーザーに影響を与えるGeForce NOWのデータ漏洩を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "summary": "NVIDIAはBleepingComputerに対する声明で、GeForce NOWのユーザー情報がデータ漏洩により流出したことを確認しました。",
+      "publishedAt": "2026-05-08T16:18:31.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "6214ddfda433bcc05c46dea6ae0345a420f663eabd6ad3d4631f7b767724c848",
+      "source": "BleepingComputer",
+      "title": "Zaraのデータ漏洩で197,000人の個人情報が流出",
+      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "summary": "データ漏洩通知サービスHave I Been Pwnedによると、スペインのファストファッション小売業者Zaraのデータベースにアクセスしたハッカーが、197,000人以上の顧客のデータを盗んだ。",
+      "publishedAt": "2026-05-08T10:42:22.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "109ea3debc6066727ef00a9732635515a0990f2f5f487d0a4d192412d1b05b01",
+      "source": "BleepingComputer",
+      "title": "RansomHouseハッカーがTrellixのソースコード侵害を主張",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "summary": "先週明らかになったTrellixのソースコードリポジトリへの攻撃は、RansomHouse脅威グループによって主張され、侵入の証拠として少数の画像がリークされました。",
+      "publishedAt": "2026-05-08T13:23:23.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db0a16fc5ba6ab43cbe42adbd96bf79ff5b4f1b4dcc967dfcdcc49fca4e8d88c",
+      "source": "BleepingComputer",
+      "title": "CISA、ゼロデイ攻撃で悪用されたIvantiの脆弱性を修正するために連邦機関に4日間の猶予を与える",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "CISAは、ゼロデイ攻撃で悪用されたIvanti Endpoint Manager Mobile (EPMM)の高深刻度の脆弱性からネットワークを保護するために、米国連邦機関に4日間の猶予を与えました。",
+      "publishedAt": "2026-05-08T12:16:32.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "72122a919b861688b7998e7264319b491f367a177fc75141708acbfbded66ecd",
+      "source": "Google News Security",
+      "title": "AI企業Braintrust、データ漏洩後にAPIキーのローテーションを促す - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcjJUeEZIQUJrWDFranVEdnhLNDdSbjkxN0ZFVnRzNGtRRk1LLVFoblVpT1I3cUhDZUZSdlJzQnBoeE1BNmpRQXpOeGRYUFB3clF2Q3Y0TGVQaW9IRjNLcmtTVXlXcjhYenRvMW0wckNDdmF4LTAyV09OREVDcFNrTkZfV3BFY1FTU2EtNmhxZjVUOTZacFHSAZsBQVVfeXFMUEVPMmgwQldLQTExYndxS0ZnQjR5T3pQQlJzYUpOdWVOM3JvVDhsLXNtUndoZ2w4UXJzb25BYmZ3THZLdUZzelVCam9HbWpwajR6Nm5udV82NW4tQjh6YmlkNmhFMWhJT3pMZXN0UXE0YWplQTRxQXJnbkRTRk5KOUtjYUFiYm04SGhtU2s1aXRPMU05WnNORndOZ0U?oc=5",
+      "summary": "AI企業Braintrust、データ漏洩後にAPIキーのローテーションを促す - SecurityWeek",
+      "publishedAt": "2026-05-08T11:14:01.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-09T01:02:03.384Z"
+  }
+}
