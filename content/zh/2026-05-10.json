@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-10",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "7432b1ba6ff8016cf5e2398c788e997db6e6609140cf291f2efa53104aaa5d4d",
+      "source": "BleepingComputer",
+      "title": "JDownloader 网站被黑，安装程序被替换为 Python RAT 恶意软件",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "summary": "本周早些时候，流行的 JDownloader 下载管理器网站遭到入侵，分发了恶意的 Windows 和 Linux 安装程序，其中 Windows 负载被发现部署了基于 Python 的远程访问木马。[...]",
+      "publishedAt": "2026-05-09T19:27:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Active exploitation of malware and data breach",
+      "suggestedTitle": "JDownloader 网站被入侵和 Atrium Health 数据泄露",
+      "suggestedSummary": "JDownloader 网站被入侵，通过其安装程序分发了基于 Python 的远程访问木马（RAT）。这种 RAT 恶意软件构成了重大威胁，因为它可以为攻击者提供对受感染系统的未经授权的访问。同时，Atrium Health Navicent 报告了一起数据泄露事件，可能影响患者记录和个人信息。这些事件突显了监控和保护软件分发渠道以及医疗数据系统免受未经授权访问和利用的关键需求。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "cd0fbd2d50457298cacc5d36d8ea9ff2f10f5ad7755886598b31d846cfcc3fdf",
+      "source": "Google News Security",
+      "title": "Canvas网络安全漏洞影响新汉诺威县学校和北卡罗来纳大学威尔明顿分校 - WECT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUJrMUtocDlSWkI2ZjBIcTVwcjFwalFsN2NDa19sTUcyVEdIc2J5LUFuOXE3RHNOSzBtbjYxbFJ2TkY5UW1LVUE1STliMTBqVnV3Umo0eXZYa2JpaExneHZlS3REQXFvZFI1dk9JeWR4a0tRTXJKb1p0YjAzbGhCQXhVNThweG85YzlQNk5JOG9LRG0yTURXSHNNWGE5WnlxZnfSAbYBQVVfeXFMT2tBVHFhdTBaV3hZdGZtR1NUb25NcTNHV0doaE5UWHZHcFhPendxNDVoeks3ZGgxSjRFUUpfdWpiNjB2VHVSOWw4SjFCY2dlOTVTQlRDb3pzMzBIZXZnQXdPVWJ5X0Z0TFhJM3FlZjIxSDRjMEQ3VjhEM1h0ZUJZQTZJMVVWaV9UWlMtenJ2YkY4T19Kb1RIcTlXd3haVU9Pd0tvM3EyQ1VMNEdZby1JYVVTb1p1U3c?oc=5",
+      "summary": "Canvas网络安全漏洞影响新汉诺威县学校和北卡罗来纳大学威尔明顿分校 WECT",
+      "publishedAt": "2026-05-09T21:02:28.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca5b815fc2a64753e24fdf69b603b4712192bfa4560536b26960fed0a8f22853",
+      "source": "Google News Security",
+      "title": "Canvas黑客攻击：家庭现在需要做些什么 - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzRoWERENWNFS3RPdWNmU0RWaFo5Vk85VFJaaVhiMGZPU2d5MU5EVWtLalZKU0U0WHJDVGpyWmVMRU9CZHVEWXl1ZTZtUmNrUEVNaDdqck1nakZPUlFnOERzcXB3TXlTSEJUcWxXT25uTk14MzlWTFFSNzEyZ19MMEhJWjdfREp6V2ljZEE3VnA0MEhpSHFUeGx5eG1hQmFFMzhBcFMxQjVsZmlrWGJsU3R4bWRFanViVjZJdw?oc=5",
+      "summary": "Canvas黑客攻击：家庭现在需要做些什么  WRAL",
+      "publishedAt": "2026-05-09T22:06:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2b69afe22132df0c9a2b4d5b0e9503ca1df131a14878b019fa93aedeff8ca0ea",
+      "source": "Google News Security (JP)",
+      "title": "网络安全股有望受益于AI风险",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BaE5oMHpBbDBTNkZBOHY3bVcyc0FLOEFpN2RoQldXcU9DTWZPb0R0Unh3dExkN0cteFBFOVp5QnhFRV92bC1HVFlyckxVWGdMZU9Vb1pfYmdOaHc2SjBsclRCQkxJcXZkSXhidGhQckI?oc=5",
+      "summary": "网络安全股有望受益于AI风险 撰写 Investing.com - 外汇 | 股票市场 | 财务 | 金融新闻",
+      "publishedAt": "2026-05-09T21:46:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-10T01:07:30.930Z"
+  }
+}

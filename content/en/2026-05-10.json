@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-10",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "7432b1ba6ff8016cf5e2398c788e997db6e6609140cf291f2efa53104aaa5d4d",
+      "source": "BleepingComputer",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+      "publishedAt": "2026-05-09T19:27:58.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Active exploitation of malware and data breach",
+      "suggestedTitle": "JDownloader Site Compromised and Atrium Health Data Breach",
+      "suggestedSummary": "The JDownloader website was compromised, leading to the distribution of a Python-based Remote Access Trojan (RAT) through its installers. This RAT malware poses a significant threat as it can provide attackers with unauthorized access to infected systems. Concurrently, Atrium Health Navicent reported a data breach potentially impacting patient records and personal information. These incidents highlight the critical need for monitoring and securing software distribution channels and healthcare data systems against unauthorized access and exploitation.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "cd0fbd2d50457298cacc5d36d8ea9ff2f10f5ad7755886598b31d846cfcc3fdf",
+      "source": "Google News Security",
+      "title": "Canvas cybersecurity breach impacts New Hanover County Schools, UNCW - WECT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUJrMUtocDlSWkI2ZjBIcTVwcjFwalFsN2NDa19sTUcyVEdIc2J5LUFuOXE3RHNOSzBtbjYxbFJ2TkY5UW1LVUE1STliMTBqVnV3Umo0eXZYa2JpaExneHZlS3REQXFvZFI1dk9JeWR4a0tRTXJKb1p0YjAzbGhCQXhVNThweG85YzlQNk5JOG9LRG0yTURXSHNNWGE5WnlxZnfSAbYBQVVfeXFMT2tBVHFhdTBaV3hZdGZtR1NUb25NcTNHV0doaE5UWHZHcFhPendxNDVoeks3ZGgxSjRFUUpfdWpiNjB2VHVSOWw4SjFCY2dlOTVTQlRDb3pzMzBIZXZnQXdPVWJ5X0Z0TFhJM3FlZjIxSDRjMEQ3VjhEM1h0ZUJZQTZJMVVWaV9UWlMtenJ2YkY4T19Kb1RIcTlXd3haVU9Pd0tvM3EyQ1VMNEdZby1JYVVTb1p1U3c?oc=5",
+      "summary": "Canvas cybersecurity breach impacts New Hanover County Schools, UNCW  WECT",
+      "publishedAt": "2026-05-09T21:02:28.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ca5b815fc2a64753e24fdf69b603b4712192bfa4560536b26960fed0a8f22853",
+      "source": "Google News Security",
+      "title": "Canvas hack: What families need to do right now - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzRoWERENWNFS3RPdWNmU0RWaFo5Vk85VFJaaVhiMGZPU2d5MU5EVWtLalZKU0U0WHJDVGpyWmVMRU9CZHVEWXl1ZTZtUmNrUEVNaDdqck1nakZPUlFnOERzcXB3TXlTSEJUcWxXT25uTk14MzlWTFFSNzEyZ19MMEhJWjdfREp6V2ljZEE3VnA0MEhpSHFUeGx5eG1hQmFFMzhBcFMxQjVsZmlrWGJsU3R4bWRFanViVjZJdw?oc=5",
+      "summary": "Canvas hack: What families need to do right now  WRAL",
+      "publishedAt": "2026-05-09T22:06:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2b69afe22132df0c9a2b4d5b0e9503ca1df131a14878b019fa93aedeff8ca0ea",
+      "source": "Google News Security (JP)",
+      "title": "サイバーセキュリティ株はAIリスクの恩恵を受ける見通し 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BaE5oMHpBbDBTNkZBOHY3bVcyc0FLOEFpN2RoQldXcU9DTWZPb0R0Unh3dExkN0cteFBFOVp5QnhFRV92bC1HVFlyckxVWGdMZU9Vb1pfYmdOaHc2SjBsclRCQkxJcXZkSXhidGhQckI?oc=5",
+      "summary": "サイバーセキュリティ株はAIリスクの恩恵を受ける見通し 執筆  Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "publishedAt": "2026-05-09T21:46:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-10T01:07:25.394Z"
+  }
+}
