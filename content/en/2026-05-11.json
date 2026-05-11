@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-11",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "3e9b7f44ca6d46894d00e5049e22e2b9a57270afa2e4ca0c81219b9af5833a82",
+      "source": "Google News Security",
+      "title": "Hackers Breach Canvas Platform, Exposing Data of 30 Million Students — Platform Goes Dark During Finals Week - USA Herald",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMS05cXBMYzRma2ZxczFtYi14Z0ZEZW1BZXF1Y294M0RCY3pLVDRiSHVXbGdUNlVab1NjS2daY3RibGtBSDhwVmt2dHFoZ252TDNwd254ZVlPdjByZEtTZGxxR0dQY3ZuSGk3blpzUkp2MzBEaGJ3SFBoenVqeUhPT094UXFwRVd4TEsxRzJsMVBFUWtaUnpGQ3BlN201NllxaEpPQXByYVM5aGl1cWRkcnUxTWFWZ1ZGSFhqT253aHJhX08tTVB3?oc=5",
+      "summary": "Hackers Breach Canvas Platform, Exposing Data of 30 Million Students — Platform Goes Dark During Finals Week  USA Herald",
+      "publishedAt": "2026-05-10T20:16:39.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4,
+        25
+      ],
+      "reason": "Major data breach, active exploitation",
+      "suggestedTitle": "Canvas Platform Breach Exposes 30 Million Students' Data",
+      "suggestedSummary": "Hackers have breached the Canvas learning platform, exposing the personal data of 30 million students. This attack, attributed to the ShinyHunters group, exploited vulnerabilities in the platform's Free-For-Teacher accounts, leading to a significant data compromise. The breach has caused the platform to go offline during critical academic periods, highlighting the urgent need for enhanced security measures in educational technology solutions.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "23da6d08319b1d18d51dd6891bba3827fe57833f65cc594214e283e9ee67ce4b",
+      "source": "Google News Security (JP)",
+      "title": "Palo Alto PAN-OSのゼロデイ 脆弱性 CVE-2026-0300、ハッカーがサイバー攻撃に悪用 パッチは5月13日予定 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzNDcDlJbTROcXB1dlRpdkhHR0ZoY2J4V3p2a0FScW5nNlNTWE0tdUdqY0c1YVBCdkN0NEZ0dFczYkVTMlhsa0F1RHQxaDRJaFk5dEI1eFRHQ29DWklYd3NzQXoxc2R5aVBlWl81WXlzalA4S0JNM0J3MTFvSE9lUWVzZjc3TklPRlJvLXdTay1GZ3RpVmN2VzZOblhZYkE?oc=5",
+      "summary": "Palo Alto PAN-OSのゼロデイ 脆弱性 CVE-2026-0300、ハッカーがサイバー攻撃に悪用 パッチは5月13日予定  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-10T22:30:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        16
+      ],
+      "reason": "Zero-day vulnerability in PAN-OS",
+      "suggestedTitle": "Palo Alto PAN-OS Zero-Day Vulnerability Under Exploitation",
+      "suggestedSummary": "A zero-day vulnerability (CVE-2026-0300) in Palo Alto Networks' PAN-OS is being actively exploited by attackers. This vulnerability involves a buffer overflow that could enable attackers to execute arbitrary code, potentially leading to unauthorized access or denial of service. A patch is expected on May 13th, but security teams must implement temporary mitigations to protect their networks until the patch is available.",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e5b11a6ea0de768863c9bacf4bc0ff8112447332e846994e654ff3abbcc45b47",
+      "source": "The Hacker News",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.\nThe out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera.\nOllama is a",
+      "publishedAt": "2026-05-10T12:41:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "76fbd6f212f00707598b35813ad61657f38d02712d83d902b5ea15413468131d",
+      "source": "Google News Security (CN)",
+      "title": "国安部揭露蓝牙一键连接的泄密漏洞 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemtJMkFWTTd6Q2RjUTFVX2lRZnlQUVozMndTVkJMamdhbjgwZEx2SExPelpjWUFXWl82QW00UDVMMi1Zell6Y01uVkVNTDlVc21kYXptV0lTZE5aTHVqRkl1cTRHQ3FYWmY3RHRyQnM3Zmk1MGNqMEhyYWZfbnZBREhDUTVrZ1c5?oc=5",
+      "summary": "国安部揭露蓝牙一键连接的泄密漏洞  搜狐网",
+      "publishedAt": "2026-05-11T00:05:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "94c40687501fcd46f91508898ff2ed2ca3d66abb6c17103fa968c0d985d96cb2",
+      "source": "Google News Security (JP)",
+      "title": "Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzA5c1pXOWRjSTBnOTRPMHRyV3BLc3hMeldFY2N4NndfYVpzRHlvZ1lkb1JUNVZCeC1HbmdZS3VKTjVJMk1Yd1drZUx5dUREV3ZfajIyN0xrZV9pN0NJQXVaSnpTVlJDQzJPOFdKNjZDRzFqUkRmZHdIU0JyWFdJaDg3d2l6cHlqM3Vua0FNd0VEbVRLU1VBTzJFU2NMWEE?oc=5",
+      "summary": "Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-10T21:00:20.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cb806609528c54c526ae9446276ff3cd6d4a3b2f0da280ee16caeac35c9b9e72",
+      "source": "BleepingComputer",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
+      "publishedAt": "2026-05-10T17:52:15.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b3e16ca9fe1ca339d50a9415cb7b2465298d9d0f24c3a366f8ceb260eeb95d1f",
+      "source": "Google News Security",
+      "title": "Braintrust AWS Data Breach Prompts Urgent API Key Rotation for AI Platform Customers - Rescana",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3NDVW51RHB5eGFBbXpUN0lBVzktOENxWGFKTnMzMWdZLUQ0eHFGa3hlXzJ1YTA4a2FSV2IwUVMtaTkwZ3o1MGNEcFlUeWMwWDJRMmItZk4tVEROdEhEdW5qWkFYNVN5MzJlNVBrZVpjU3JIdUZRQmF3cGQzOEJhb2tBQkhjTEJBdDhMV0xxWEpOdnE4a1FpX3JxZU5hZ0t0NUR0MEhQbjcySkdvUHQ5UFRGRQ?oc=5",
+      "summary": "Braintrust AWS Data Breach Prompts Urgent API Key Rotation for AI Platform Customers  Rescana",
+      "publishedAt": "2026-05-10T16:41:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-11T01:07:29.970Z"
+  }
+}

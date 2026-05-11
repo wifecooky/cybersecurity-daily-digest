@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-11",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "3e9b7f44ca6d46894d00e5049e22e2b9a57270afa2e4ca0c81219b9af5833a82",
+      "source": "Google News Security",
+      "title": "ハッカーがCanvasプラットフォームに侵入、3000万人の学生のデータが流出 — 期末試験週にプラットフォームが停止 - USAヘラルド",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMS05cXBMYzRma2ZxczFtYi14Z0ZEZW1BZXF1Y294M0RCY3pLVDRiSHVXbGdUNlVab1NjS2daY3RibGtBSDhwVmt2dHFoZ252TDNwd254ZVlPdjByZEtTZGxxR0dQY3ZuSGk3blpzUkp2MzBEaGJ3SFBoenVqeUhPT094UXFwRVd4TEsxRzJsMVBFUWtaUnpGQ3BlN201NllxaEpPQXByYVM5aGl1cWRkcnUxTWFWZ1ZGSFhqT253aHJhX08tTVB3?oc=5",
+      "summary": "ハッカーがCanvasプラットフォームに侵入、3000万人の学生のデータが流出 — 期末試験週にプラットフォームが停止 - USAヘラルド",
+      "publishedAt": "2026-05-10T20:16:39.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        4,
+        25
+      ],
+      "reason": "Major data breach, active exploitation",
+      "suggestedTitle": "Canvasプラットフォームの侵害で3000万人の学生のデータが流出",
+      "suggestedSummary": "ハッカーがCanvas学習プラットフォームに侵入し、3000万人の学生の個人データが流出しました。この攻撃はShinyHuntersグループによるもので、プラットフォームのFree-For-Teacherアカウントの脆弱性を悪用し、重大なデータ漏洩を引き起こしました。この侵害により、重要な学術期間中にプラットフォームがオフラインとなり、教育技術ソリューションにおけるセキュリティ対策の強化の緊急性が浮き彫りになっています。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "23da6d08319b1d18d51dd6891bba3827fe57833f65cc594214e283e9ee67ce4b",
+      "source": "Google News Security (JP)",
+      "title": "Palo Alto PAN-OSのゼロデイ脆弱性CVE-2026-0300、ハッカーがサイバー攻撃に悪用 パッチは5月13日予定 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzNDcDlJbTROcXB1dlRpdkhHR0ZoY2J4V3p2a0FScW5nNlNTWE0tdUdqY0c1YVBCdkN0NEZ0dFczYkVTMlhsa0F1RHQxaDRJaFk5dEI1eFRHQ29DWklYd3NzQXoxc2R5aVBlWl81WXlzalA4S0JNM0J3MTFvSE9lUWVzZjc3TklPRlJvLXdTay1GZ3RpVmN2VzZOblhZYkE?oc=5",
+      "summary": "Palo Alto PAN-OSのゼロデイ脆弱性CVE-2026-0300、ハッカーがサイバー攻撃に悪用 パッチは5月13日予定 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-10T22:30:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        14,
+        16
+      ],
+      "reason": "Zero-day vulnerability in PAN-OS",
+      "suggestedTitle": "Palo Alto PAN-OSのゼロデイ脆弱性が悪用される",
+      "suggestedSummary": "Palo Alto NetworksのPAN-OSにおけるゼロデイ脆弱性（CVE-2026-0300）が攻撃者によって積極的に悪用されています。この脆弱性はバッファオーバーフローを含み、攻撃者が任意のコードを実行することを可能にし、不正アクセスやサービス拒否につながる可能性があります。パッチは5月13日に予定されていますが、セキュリティチームはパッチが利用可能になるまでネットワークを保護するための一時的な緩和策を実施する必要があります。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e5b11a6ea0de768863c9bacf4bc0ff8112447332e846994e654ff3abbcc45b47",
+      "source": "The Hacker News",
+      "title": "Ollamaの境界外読み取り脆弱性がリモートプロセスメモリリークを可能に",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "サイバーセキュリティ研究者は、Ollamaにおける重大なセキュリティ脆弱性を公開しました。この脆弱性が成功裏に悪用されると、リモートの未認証の攻撃者がプロセスメモリ全体をリークする可能性があります。この境界外読み取りの欠陥は、世界中で30万以上のサーバーに影響を与える可能性があり、CVE-2026-7482（CVSSスコア: 9.1）として追跡されています。CyeraによってBleeding Llamaとコードネームが付けられました。Ollamaは",
+      "publishedAt": "2026-05-10T12:41:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "76fbd6f212f00707598b35813ad61657f38d02712d83d902b5ea15413468131d",
+      "source": "Google News Security (CN)",
+      "title": "国安部、ブルートゥースのワンクリック接続における情報漏洩の脆弱性を暴露 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemtJMkFWTTd6Q2RjUTFVX2lRZnlQUVozMndTVkJMamdhbjgwZEx2SExPelpjWUFXWl82QW00UDVMMi1Zell6Y01uVkVNTDlVc21kYXptV0lTZE5aTHVqRkl1cTRHQ3FYWmY3RHRyQnM3Zmk1MGNqMEhyYWZfbnZBREhDUTVrZ1c5?oc=5",
+      "summary": "国安部、ブルートゥースのワンクリック接続における情報漏洩の脆弱性を暴露 - 搜狐网",
+      "publishedAt": "2026-05-11T00:05:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "94c40687501fcd46f91508898ff2ed2ca3d66abb6c17103fa968c0d985d96cb2",
+      "source": "Google News Security (JP)",
+      "title": "Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzA5c1pXOWRjSTBnOTRPMHRyV3BLc3hMeldFY2N4NndfYVpzRHlvZ1lkb1JUNVZCeC1HbmdZS3VKTjVJMk1Yd1drZUx5dUREV3ZfajIyN0xrZV9pN0NJQXVaSnpTVlJDQzJPOFdKNjZDRzFqUkRmZHdIU0JyWFdJaDg3d2l6cHlqM3Vua0FNd0VEbVRLU1VBTzJFU2NMWEE?oc=5",
+      "summary": "Chromeの拡張機能「Claude in Chrome」の脆弱性でAIエージェントの乗っ取りが可能に 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-10T21:00:20.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cb806609528c54c526ae9446276ff3cd6d4a3b2f0da280ee16caeac35c9b9e72",
+      "source": "BleepingComputer",
+      "title": "ハッカーがGoogle広告とClaude.aiチャットを悪用してMacマルウェアを拡散",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "summary": "攻撃者がGoogle広告と正規のClaude.ai共有チャットを悪用したマルバタイジングキャンペーンを展開しています。「Claude mac download」を検索するユーザーは、claude.aiをターゲットサイトとしてリストするスポンサー付き検索結果に遭遇する可能性がありますが、それはMacにマルウェアをインストールする指示に導かれます。",
+      "publishedAt": "2026-05-10T17:52:15.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b3e16ca9fe1ca339d50a9415cb7b2465298d9d0f24c3a366f8ceb260eeb95d1f",
+      "source": "Google News Security",
+      "title": "BraintrustのAWSデータ侵害がAIプラットフォーム顧客に緊急のAPIキーのローテーションを促す - Rescana",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3NDVW51RHB5eGFBbXpUN0lBVzktOENxWGFKTnMzMWdZLUQ0eHFGa3hlXzJ1YTA4a2FSV2IwUVMtaTkwZ3o1MGNEcFlUeWMwWDJRMmItZk4tVEROdEhEdW5qWkFYNVN5MzJlNVBrZVpjU3JIdUZRQmF3cGQzOEJhb2tBQkhjTEJBdDhMV0xxWEpOdnE4a1FpX3JxZU5hZ0t0NUR0MEhQbjcySkdvUHQ5UFRGRQ?oc=5",
+      "summary": "BraintrustのAWSデータ侵害がAIプラットフォーム顧客に緊急のAPIキーのローテーションを促す - Rescana",
+      "publishedAt": "2026-05-10T16:41:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-11T01:07:43.412Z"
+  }
+}
