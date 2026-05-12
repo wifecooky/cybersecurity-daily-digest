@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-12",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "6e90b4bcf13a89779ce5dc9d255be27924ecef38ef71809806d09848079c34f9",
+      "source": "The Hacker News",
+      "title": "ハッカーがAIを使用して初のゼロデイ2FAバイパスを大量悪用のために開発",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Googleは月曜日、ゼロデイエクスプロイトを使用する未知の脅威アクターを特定したと発表しました。このエクスプロイトは、人工知能（AI）システムを使用して開発された可能性が高いとされ、脆弱性の発見とエクスプロイト生成において、悪意のある文脈で実際に使用された初めてのケースとなります。この活動は、サイバー犯罪の脅威アクターによるものとされています。",
+      "publishedAt": "2026-05-11T15:45:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        6
+      ],
+      "reason": "AI-assisted zero-day exploit development",
+      "suggestedTitle": "AI駆動のゼロデイエクスプロイトで2FAバイパスが発見される",
+      "suggestedSummary": "Googleは、AIを使用して開発されたゼロデイエクスプロイトを公開しました。このエクスプロイトはウェブ管理ツールを標的とし、攻撃者が二要素認証（2FA）をバイパスすることを可能にします。このエクスプロイトは未知の脅威アクターに帰属されており、攻撃技術の大きな進展を示しています。AIを活用してエクスプロイトの効果を自動化し、強化しています。セキュリティチームは、2FAの実装を優先的に見直し、異常なアクセスパターンを監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "9990d483fa212ca30c0af2c0619b8ce116d1a0601a6585b71771e6ad62f02e4f",
+      "source": "Ars Technica Security",
+      "title": "Linux、2週間で2つ目の深刻な脆弱性に直面",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "summary": "本番バージョンのパッチがオンラインで提供されており、すぐにインストールする必要があります。",
+      "publishedAt": "2026-05-11T22:28:19.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        11,
+        60
+      ],
+      "reason": "New Linux vulnerability with active exploitation",
+      "suggestedTitle": "Linuxシステムを脅かす重大な『Dirty Frag』脆弱性",
+      "suggestedSummary": "Linuxシステムで新たな特権昇格の脆弱性『Dirty Frag』が確認され、実際に悪用されているとの報告があります。この脆弱性により攻撃者がルートアクセスを得ることが可能となり、企業環境に重大なリスクをもたらします。影響を受けるシステムは、潜在的な侵害を軽減するために、利用可能なパッチを直ちに適用する必要があります。セキュリティチームは、侵害の兆候を監視し、Linuxディストリビューションが迅速に更新されるようにする必要があります。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c64fae3240336ec57595cbfeff0e2843cafd732a9abd2aeb315b937161859718",
+      "source": "BleepingComputer",
+      "title": "公式CheckMarx Jenkinsパッケージが情報窃取マルウェアにより侵害される",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarxは週末に、Jenkins Marketplaceに不正なバージョンのJenkinsアプリケーションセキュリティテスト（AST）プラグインが公開されたと警告しました。[...]",
+      "publishedAt": "2026-05-11T22:03:06.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        4
+      ],
+      "reason": "Supply chain attack on Jenkins plugin",
+      "suggestedTitle": "サプライチェーン攻撃で侵害されたCheckmarx Jenkinsプラグイン",
+      "suggestedSummary": "Checkmarxは、以前のKICSに対するサプライチェーン攻撃に続き、Jenkinsアプリケーションセキュリティテスト（AST）プラグインの侵害されたバージョンが配布されたことを確認しました。この不正なバージョンには情報窃取マルウェアが含まれており、インストールされたシステムにリスクをもたらします。セキュリティチームは、Jenkinsプラグインの整合性を確認し、データの流出を防ぐために侵害されたバージョンを削除する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "fd565e0e1c48ed309504507d5009415cbdbdf5c8fe0804befacab629cef8b1b8",
+      "source": "BleepingComputer",
+      "title": "新しいGhostLockツールがWindows APIを悪用してファイルアクセスをブロック",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "セキュリティ研究者がGhostLockという概念実証ツールを公開しました。このツールは、正当なWindowsファイルAPIがどのように悪用され、ローカルまたはSMBネットワーク共有に保存されたファイルへのアクセスをブロックする攻撃に利用されるかを示しています。",
+      "publishedAt": "2026-05-11T22:02:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "891f96cecb492c170ca8d6830741050386c7fb81bc942aac56d8641fb9729400",
+      "source": "The Hacker News",
+      "title": "cPanel CVE-2026-41940 がファイルマネージャーバックドアを展開するために積極的に悪用されている",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "Mr_Rot13という名前の脅威アクターが、最近公開された重大なcPanelの欠陥を悪用し、侵害された環境にファイルマネージャーというコードネームのバックドアを展開したとされています。この攻撃はCVE-2026-41940を悪用しており、cPanelとWebHost Manager (WHM) に影響を与える脆弱性で、認証バイパスを引き起こし、リモート攻撃者がコントロールの権限を高めることを可能にします。",
+      "publishedAt": "2026-05-11T17:54:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "66a5a210c30e3fe647bb8fa3fd690e70475e92847ea443076bef4869c9dd99f8",
+      "source": "Google News Security",
+      "title": "アイデンティティセキュリティ企業SailPointがGitHubリポジトリの侵害を公表 - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG5pZWdoNnY5UUZ2RjZaTTE2cEN3MkZodHAwQTF4VmdEYWFsTzJUY0JvYVFSUWFsd2ZjNlBFbU54bUdWTDBxZ05USS16SzdhTElBUU9pSGhxVlV3elI2RmN1cFNuTHZpbS0yNE5vbjhid3h1TmhkQl9KTFVqRjdmTlAxN093c2R6TlhYYm9fTDZOaEFlaGt4bmxWOUg3ZC1sSlNfSnlVY2pTYWlQWWJPYnV1TjlUelcwZktF?oc=5",
+      "summary": "アイデンティティセキュリティ企業SailPointがGitHubリポジトリの侵害を公表  Security Affairs",
+      "publishedAt": "2026-05-11T18:08:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5ded0a3ef2a2a2c8152c83f718f9fd00be39f7a7893ca679925d430f1a2fb6f2",
+      "source": "Google News Security",
+      "title": "新たな「Dirty Frag」Linux脆弱性が攻撃で悪用された可能性 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWVYUzVzRy1vbjl2UWNVcmcyRkgwaG9NTWZHWHFMVy1aYlpBWG00cHJGeEJhVFhSWjJ6TU0xWXJMQURkOF9jYm5mbGlhWWYtUElObGc5ekZFdENMM19LOTNTUkdNV21hUF8yU2RuTWRCSHNDZ0Yxcjl2QjJKanBWRkZRZlA4MDFESFlDaVlYNDU2QTg2dGVFVkp30gGfAUFVX3lxTE83XzhBZzJOMGVOLUxOTXhRcEtvUVFSLXdjZ3U3UWxVcGNIbVphS2pqN29uMFBYd2dDUGFZRlQwb1JDZzBDeHpoa05wai04TmFibUx4X01CV213ZUNEcWtjMWdqeWJndlZ4blo0eHVxYURVNW9RMGlQNVpsc3hFSnY0TWlyUy0xVGl4YzdLWmtrZ0NLQy1yNW5NZDdnal9HNA?oc=5",
+      "summary": "新たな「Dirty Frag」Linux脆弱性が攻撃で悪用された可能性がある  SecurityWeek",
+      "publishedAt": "2026-05-11T08:15:28.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b19874679d6bbf05ce0be2705f2ae9b4d62011b75d17bacedfd9cad5305aedc0",
+      "source": "Google News Security (JP)",
+      "title": "無料メールソフト「Thunderbird」がセキュリティアップデート ～3件の脆弱性を修正／v150.0.2がリリース - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nNUkyamt3YjV5Y012b2x4LTdBWldPamZGTDFTNml1d0VPSU1oSGdOc3JlQnZKRkxsVkkwN0wyTDd5anFKcW1WOUhHSXRZckZqcWpNOWZTcDFid0ZITmtNUlR0QzR1U2Zv?oc=5",
+      "summary": "無料メールソフト「Thunderbird」がセキュリティアップデート ～3件の脆弱性を修正／v150.0.2がリリース 窓の杜",
+      "publishedAt": "2026-05-11T03:51:09.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-12T01:01:55.272Z"
+  }
+}

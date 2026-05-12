@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-12",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "6e90b4bcf13a89779ce5dc9d255be27924ecef38ef71809806d09848079c34f9",
+      "source": "The Hacker News",
+      "title": "黑客利用人工智能开发首个已知的零日双因素认证绕过工具进行大规模利用",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "谷歌周一披露，它发现了一名未知的威胁行为者使用了一个零日漏洞，该漏洞可能是通过人工智能（AI）系统开发的。这标志着该技术首次在野外被用于恶意环境中的漏洞发现和漏洞生成。据信，这一活动是网络犯罪威胁行为者的工作。",
+      "publishedAt": "2026-05-11T15:45:00.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        6
+      ],
+      "reason": "AI-assisted zero-day exploit development",
+      "suggestedTitle": "发现利用AI驱动的零日漏洞绕过双因素认证",
+      "suggestedSummary": "谷歌披露了一个使用AI开发的零日漏洞，该漏洞针对网络管理工具，允许攻击者绕过双因素认证（2FA）。这一漏洞被归因于一个未知的威胁行为者，代表了攻击技术的重大进步，利用AI自动化并增强了漏洞的有效性。安全团队应优先审查其2FA实施情况，并监控异常访问模式。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "9990d483fa212ca30c0af2c0619b8ce116d1a0601a6585b71771e6ad62f02e4f",
+      "source": "Ars Technica Security",
+      "title": "Linux在短短几周内遭遇第二个严重漏洞",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "summary": "生产版本的补丁正在上线，应尽快安装。",
+      "publishedAt": "2026-05-11T22:28:19.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        11,
+        60
+      ],
+      "reason": "New Linux vulnerability with active exploitation",
+      "suggestedTitle": "严重的“Dirty Frag”漏洞威胁Linux系统",
+      "suggestedSummary": "一个新的权限提升漏洞，被称为“Dirty Frag”，已在Linux系统中被发现，并报告了正在进行的利用活动。此漏洞允许攻击者获得root访问权限，对企业环境构成重大风险。受影响的系统应立即应用可用的补丁，以减轻潜在的入侵。安全团队必须监控妥协指标，并确保Linux发行版得到及时更新。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c64fae3240336ec57595cbfeff0e2843cafd732a9abd2aeb315b937161859718",
+      "source": "BleepingComputer",
+      "title": "官方CheckMarx Jenkins软件包被信息窃取器入侵",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarx在周末警告称，其Jenkins应用安全测试（AST）插件的一个恶意版本已在Jenkins Marketplace上发布。[...]",
+      "publishedAt": "2026-05-11T22:03:06.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        4
+      ],
+      "reason": "Supply chain attack on Jenkins plugin",
+      "suggestedTitle": "Checkmarx Jenkins插件在供应链攻击中被入侵",
+      "suggestedSummary": "Checkmarx已确认其Jenkins应用安全测试（AST）插件的一个被入侵版本被分发，这是继之前对KICS的供应链攻击之后的事件。这个恶意版本包含一个信息窃取器，对安装了该插件的系统构成风险。安全团队应验证其Jenkins插件的完整性，并移除任何被入侵的版本以防止数据外泄。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "fd565e0e1c48ed309504507d5009415cbdbdf5c8fe0804befacab629cef8b1b8",
+      "source": "BleepingComputer",
+      "title": "新工具GhostLock利用Windows API阻止文件访问",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "一位安全研究人员发布了一个名为GhostLock的概念验证工具，展示了如何滥用合法的Windows文件API在攻击中阻止对本地存储或SMB网络共享文件的访问。[...]",
+      "publishedAt": "2026-05-11T22:02:00.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "891f96cecb492c170ca8d6830741050386c7fb81bc942aac56d8641fb9729400",
+      "source": "The Hacker News",
+      "title": "cPanel CVE-2026-41940 正在被积极利用以部署 Filemanager 后门",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "一个名为 Mr_Rot13 的威胁行为者被指利用最近披露的 cPanel 严重漏洞，在受感染的环境中部署代号为 Filemanager 的后门。此次攻击利用了 CVE-2026-41940 漏洞，该漏洞影响 cPanel 和 WebHost Manager (WHM)，可能导致身份验证绕过，并允许远程攻击者获得对控制面板的更高控制权。",
+      "publishedAt": "2026-05-11T17:54:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "66a5a210c30e3fe647bb8fa3fd690e70475e92847ea443076bef4869c9dd99f8",
+      "source": "Google News Security",
+      "title": "身份安全公司SailPoint披露GitHub代码库泄露 - 安全事务",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG5pZWdoNnY5UUZ2RjZaTTE2cEN3MkZodHAwQTF4VmdEYWFsTzJUY0JvYVFSUWFsd2ZjNlBFbU54bUdWTDBxZ05USS16SzdhTElBUU9pSGhxVlV3elI2RmN1cFNuTHZpbS0yNE5vbjhid3h1TmhkQl9KTFVqRjdmTlAxN093c2R6TlhYYm9fTDZOaEFlaGt4bmxWOUg3ZC1sSlNfSnlVY2pTYWlQWWJPYnV1TjlUelcwZktF?oc=5",
+      "summary": "身份安全公司SailPoint披露GitHub代码库泄露  安全事务",
+      "publishedAt": "2026-05-11T18:08:22.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5ded0a3ef2a2a2c8152c83f718f9fd00be39f7a7893ca679925d430f1a2fb6f2",
+      "source": "Google News Security",
+      "title": "新的“Dirty Frag”Linux漏洞可能在攻击中被利用 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWVYUzVzRy1vbjl2UWNVcmcyRkgwaG9NTWZHWHFMVy1aYlpBWG00cHJGeEJhVFhSWjJ6TU0xWXJMQURkOF9jYm5mbGlhWWYtUElObGc5ekZFdENMM19LOTNTUkdNV21hUF8yU2RuTWRCSHNDZ0Yxcjl2QjJKanBWRkZRZlA4MDFESFlDaVlYNDU2QTg2dGVFVkp30gGfAUFVX3lxTE83XzhBZzJOMGVOLUxOTXhRcEtvUVFSLXdjZ3U3UWxVcGNIbVphS2pqN29uMFBYd2dDUGFZRlQwb1JDZzBDeHpoa05wai04TmFibUx4X01CV213ZUNEcWtjMWdqeWJndlZ4blo0eHVxYURVNW9RMGlQNVpsc3hFSnY0TWlyUy0xVGl4YzdLWmtrZ0NLQy1yNW5NZDdnal9HNA?oc=5",
+      "summary": "新的“Dirty Frag”Linux漏洞可能在攻击中被利用 - SecurityWeek",
+      "publishedAt": "2026-05-11T08:15:28.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b19874679d6bbf05ce0be2705f2ae9b4d62011b75d17bacedfd9cad5305aedc0",
+      "source": "Google News Security (JP)",
+      "title": "免费邮件软件“Thunderbird”进行安全更新 ～修复3个漏洞／v150.0.2发布 - 窗之森",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nNUkyamt3YjV5Y012b2x4LTdBWldPamZGTDFTNml1d0VPSU1oSGdOc3JlQnZKRkxsVkkwN0wyTDd5anFKcW1WOUhHSXRZckZqcWpNOWZTcDFid0ZITmtNUlR0QzR1U2Zv?oc=5",
+      "summary": "免费邮件软件“Thunderbird”进行安全更新 ～修复3个漏洞／v150.0.2发布 窗之森",
+      "publishedAt": "2026-05-11T03:51:09.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-12T01:01:46.542Z"
+  }
+}
