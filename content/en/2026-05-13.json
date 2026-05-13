@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-13",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "c0c6bef42a6a85fcaba83ad07035cf03b0205b2b283e63840ff3d7d9775d0147",
+      "source": "The Hacker News",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.\nThe affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "publishedAt": "2026-05-12T11:46:00.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        10,
+        20
+      ],
+      "reason": "Supply chain attack on npm and PyPI",
+      "suggestedTitle": "Mini Shai-Hulud Worm Targets npm and PyPI Packages",
+      "suggestedSummary": "A new supply chain attack, attributed to the threat actor TeamPCP, has compromised hundreds of packages across npm and PyPI repositories. The Mini Shai-Hulud worm is self-propagating and capable of stealing credentials, posing a significant risk to developers and organizations relying on these ecosystems. Security teams should review dependency lists and monitor for unusual package behavior to mitigate potential impacts.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "799a27d5ea5cda0e57364c59d8519f49ae84491f09c1ebee224a137f55ff4d91",
+      "source": "BleepingComputer",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "publishedAt": "2026-05-12T18:23:09.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        82
+      ],
+      "reason": "Critical RCE vulnerabilities in Fortinet products",
+      "suggestedTitle": "Fortinet Alerts on Critical RCE Vulnerabilities in Products",
+      "suggestedSummary": "Fortinet has issued patches for two critical remote code execution vulnerabilities affecting FortiSandbox and FortiAuthenticator products. These vulnerabilities, with CVSS scores of 9.8, could allow attackers to execute arbitrary code and gain control over affected systems. Organizations using these products should apply the patches immediately to secure their networks and prevent potential exploitation.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9e29a68e65e11c86fa021d69955cbd6493109a08efdd6b426a4ffc44ef3f3472",
+      "source": "BleepingComputer",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "publishedAt": "2026-05-12T17:07:01.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "637e4f60e64d60ae8c9e7827b6c61ba9e8088bc25e8dc419232e86431ddf878b",
+      "source": "Google News Security",
+      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
+      "summary": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever  WIRED",
+      "publishedAt": "2026-05-12T21:52:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d71b4b0ed3889969e5088b8c82ce58fdd446672ad9cae4046bfc2a73c6062903",
+      "source": "The Hacker News",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "publishedAt": "2026-05-12T14:47:00.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "face64b31b1e2505a41c031e6f2ff0bb4d5c0c883134257da650a4270d5d05cd",
+      "source": "The Hacker News",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues.\n\"Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across",
+      "publishedAt": "2026-05-12T06:55:00.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-13T01:06:04.077Z"
+  }
+}
