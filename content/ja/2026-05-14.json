@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-14",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "dd5b9c02568f12ae00c421c6ab06a94a71a759887c3b4e3af28e168c0d61787c",
+      "source": "The Hacker News",
+      "title": "アゼルバイジャンのエネルギー企業がマイクロソフトエクスチェンジの繰り返しの悪用に見舞われる",
+      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "中国と関連のある脅威アクターが、2025年12月末から2026年2月末にかけて、アゼルバイジャンの無名の石油・ガス会社を標的とした「マルチウェーブ侵入」に関与していることが判明しました。これは標的範囲の拡大を示しています。この活動は、Bitdefenderによって中程度から高い信頼度で、FamousSparrow（別名UAT-9244）として知られるハッキンググループに帰属されています。",
+      "publishedAt": "2026-05-13T13:00:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        9
+      ],
+      "reason": "Nation-state APT targeting energy sector",
+      "suggestedTitle": "中国のAPTがアゼルバイジャンのエネルギーセクターを標的に",
+      "suggestedSummary": "中国と関連のある脅威アクター『FamousSparrow』が、アゼルバイジャンのエネルギー企業を標的とした複数の侵入に関与していることが判明しました。このグループは、ネットワークへのアクセスを得て持続するために、マイクロソフトエクスチェンジの脆弱性を悪用しています。これは、国家支援のアクターからの重要インフラへの継続的なリスクを浮き彫りにし、堅牢なパッチ管理と脅威検出能力の必要性を強調しています。",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6d553018431bba664281e72ecd8918f4eee6ece092a05da17092755d62b5815d",
+      "source": "BleepingComputer",
+      "title": "新たな重大なEximメール送信プログラムの欠陥によりリモートコード実行が可能に",
+      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "Eximオープンソースのメール転送エージェントの特定の構成に影響を与える重大な脆弱性は、認証されていないリモート攻撃者によって任意のコードを実行するために悪用される可能性があります。",
+      "publishedAt": "2026-05-13T20:23:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        33
+      ],
+      "reason": "Critical RCE vulnerability in popular software",
+      "suggestedTitle": "Eximメール送信プログラムの脆弱性がリモートコード実行を許可",
+      "suggestedSummary": "Eximメール転送エージェントの重大な脆弱性は、特定の構成が設定されている場合にリモートコード実行を許可する可能性があります。公開されている概念実証により、脅威アクターがこの欠陥を悪用して影響を受けたシステムを制御する可能性があります。Eximを使用している組織は、パッチの適用を優先し、構成を見直して潜在的な悪用リスクを軽減するべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0cb4435b7c1fd1775fb57cf480c8b77d9212f444831df6a55909e416a009cb62",
+      "source": "BleepingComputer",
+      "title": "ウエスト・ファーマシューティカル、ハッカーがデータを盗みシステムを暗号化したと発表",
+      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "ウエスト・ファーマシューティカル・サービスは、サイバー攻撃の標的となり、データの流出とシステムの暗号化が行われたことを明らかにしました。",
+      "publishedAt": "2026-05-13T22:23:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4b02b94ec3b023c08393ec1f3c707e870c26ccaa31a298f02f6b12cf2d4dce75",
+      "source": "Dark Reading",
+      "title": "攻撃者がRubyGemsを利用してデータのデッドドロップを実行",
+      "url": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+      "summary": "脅威アクターが、公開されている英国政府のサーバーを標的としたスクレーパーを含むRubyGemsパッケージを公開していますが、その目的は明確ではありません。",
+      "publishedAt": "2026-05-13T21:09:20.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b44c908a4158d2aed3e0db2b5925d03d254d544a96d6bc4112c8877c7228a332",
+      "source": "The Hacker News",
+      "title": "マイクロソフトのMDASH AIシステムがパッチ火曜日で修正された16のWindowsの脆弱性を発見",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "summary": "マイクロソフトは、脆弱性の発見と修正を大規模に促進するための新しいマルチモデルAI駆動システム「MDASH」を発表しました。これは、限定的なプライベートプレビューの一環として一部の顧客によってテストされています。MDASHは、マルチモデルエージェンティックスキャニングハーネスの略で、異なる脆弱性に対してカスタムAIエージェントを使用するモデル非依存のシステムとして設計されています。",
+      "publishedAt": "2026-05-13T13:46:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "634366b267c3183ca43a196363e932904cb7175337f3c7fc13b18084088f67a8",
+      "source": "BleepingComputer",
+      "title": "Foxconn、Nitrogenランサムウェア集団によるサイバー攻撃を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "summary": "世界最大の電子機器メーカーであるFoxconnは、サイバー攻撃を受けた後、北米の一部の工場が通常の操業再開に向けて取り組んでいると発表しました。[...]",
+      "publishedAt": "2026-05-13T12:49:54.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-14T01:07:37.961Z"
+  }
+}

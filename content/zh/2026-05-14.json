@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-14",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "dd5b9c02568f12ae00c421c6ab06a94a71a759887c3b4e3af28e168c0d61787c",
+      "source": "The Hacker News",
+      "title": "阿塞拜疆能源公司遭遇微软Exchange多次攻击",
+      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "一个与中国有关联的威胁行为者被指与2025年12月底至2026年2月底期间针对一家未具名的阿塞拜疆石油和天然气公司的“多波次入侵”有关，这标志着其目标的扩展。Bitdefender以中到高的信心将此活动归因于一个名为FamousSparrow（又名UAT-9244）的黑客组织，该组织在某种程度上与之相关。",
+      "publishedAt": "2026-05-13T13:00:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        9
+      ],
+      "reason": "Nation-state APT targeting energy sector",
+      "suggestedTitle": "中国APT组织瞄准阿塞拜疆能源行业",
+      "suggestedSummary": "一个与中国有关联的威胁行为者“FamousSparrow”被指与多次入侵阿塞拜疆一家能源公司有关。该组织利用微软Exchange的漏洞来获取访问权限并在网络中持久存在。这突显了国家支持的行为者对关键基础设施的持续风险，强调了强有力的补丁管理和威胁检测能力的必要性。",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6d553018431bba664281e72ecd8918f4eee6ece092a05da17092755d62b5815d",
+      "source": "BleepingComputer",
+      "title": "新的关键Exim邮件程序漏洞允许远程代码执行",
+      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "影响某些Exim开源邮件传输代理配置的关键漏洞可能被未经身份验证的远程攻击者利用来执行任意代码。",
+      "publishedAt": "2026-05-13T20:23:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        33
+      ],
+      "reason": "Critical RCE vulnerability in popular software",
+      "suggestedTitle": "Exim邮件程序漏洞允许远程代码执行",
+      "suggestedSummary": "Exim邮件传输代理中的关键漏洞可能在某些配置下允许远程代码执行。由于存在公开可用的概念验证，威胁行为者可能利用此漏洞来控制受影响的系统。使用Exim的组织应优先修补并审查其配置以减轻潜在的利用风险。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0cb4435b7c1fd1775fb57cf480c8b77d9212f444831df6a55909e416a009cb62",
+      "source": "BleepingComputer",
+      "title": "西氏制药称黑客窃取数据并加密系统",
+      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "西氏制药服务公司披露，其成为一起网络攻击的目标，导致数据外泄和系统加密。[...]",
+      "publishedAt": "2026-05-13T22:23:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4b02b94ec3b023c08393ec1f3c707e870c26ccaa31a298f02f6b12cf2d4dce75",
+      "source": "Dark Reading",
+      "title": "攻击者利用RubyGems进行数据死投",
+      "url": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+      "summary": "威胁行为者正在发布包含针对面向公众的英国政府服务器的抓取工具的RubyGems包，但其目标尚不明确。",
+      "publishedAt": "2026-05-13T21:09:20.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b44c908a4158d2aed3e0db2b5925d03d254d544a96d6bc4112c8877c7228a332",
+      "source": "The Hacker News",
+      "title": "微软的MDASH AI系统发现16个Windows漏洞并在补丁星期二修复",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "summary": "微软推出了一种新的多模型人工智能（AI）驱动系统，名为MDASH，以促进大规模漏洞发现和修复，并补充说，作为有限私人预览的一部分，某些客户正在测试该系统。MDASH，全称为多模型代理扫描工具，设计为一个模型无关的系统，使用定制的AI代理来处理不同的漏洞。",
+      "publishedAt": "2026-05-13T13:46:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "634366b267c3183ca43a196363e932904cb7175337f3c7fc13b18084088f67a8",
+      "source": "BleepingComputer",
+      "title": "富士康确认遭到氮气勒索软件团伙的网络攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "summary": "富士康，这家全球最大的电子产品制造商表示，其位于北美的一些工厂在遭受网络攻击后，正在努力恢复正常运营。",
+      "publishedAt": "2026-05-13T12:49:54.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-14T01:07:32.146Z"
+  }
+}

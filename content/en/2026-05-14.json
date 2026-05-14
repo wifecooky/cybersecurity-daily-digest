@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-14",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "dd5b9c02568f12ae00c421c6ab06a94a71a759887c3b4e3af28e168c0d61787c",
+      "source": "The Hacker News",
+      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+      "publishedAt": "2026-05-13T13:00:00.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        9
+      ],
+      "reason": "Nation-state APT targeting energy sector",
+      "suggestedTitle": "Chinese APT Targets Azerbaijani Energy Sector",
+      "suggestedSummary": "A Chinese-affiliated threat actor, 'FamousSparrow', has been linked to multiple intrusions targeting an Azerbaijani energy firm. The group is exploiting vulnerabilities in Microsoft Exchange to gain access and persist within the network. This highlights the ongoing risk to critical infrastructure from state-sponsored actors, emphasizing the need for robust patch management and threat detection capabilities.",
+      "relatedSources": [
+        "The Hacker News",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "6d553018431bba664281e72ecd8918f4eee6ece092a05da17092755d62b5815d",
+      "source": "BleepingComputer",
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "publishedAt": "2026-05-13T20:23:50.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6,
+        33
+      ],
+      "reason": "Critical RCE vulnerability in popular software",
+      "suggestedTitle": "Exim Mailer Vulnerability Allows Remote Code Execution",
+      "suggestedSummary": "A critical vulnerability in the Exim mail transfer agent could allow remote code execution when certain configurations are in place. With a publicly available proof-of-concept, threat actors could exploit this flaw to gain control over affected systems. Organizations using Exim should prioritize patching and review their configurations to mitigate potential exploitation risks.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0cb4435b7c1fd1775fb57cf480c8b77d9212f444831df6a55909e416a009cb62",
+      "source": "BleepingComputer",
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+      "publishedAt": "2026-05-13T22:23:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4b02b94ec3b023c08393ec1f3c707e870c26ccaa31a298f02f6b12cf2d4dce75",
+      "source": "Dark Reading",
+      "title": "Attackers Weaponize RubyGems for Data Dead Drops",
+      "url": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+      "summary": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
+      "publishedAt": "2026-05-13T21:09:20.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b44c908a4158d2aed3e0db2b5925d03d254d544a96d6bc4112c8877c7228a332",
+      "source": "The Hacker News",
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+      "publishedAt": "2026-05-13T13:46:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "634366b267c3183ca43a196363e932904cb7175337f3c7fc13b18084088f67a8",
+      "source": "BleepingComputer",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+      "publishedAt": "2026-05-13T12:49:54.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-14T01:07:26.084Z"
+  }
+}
