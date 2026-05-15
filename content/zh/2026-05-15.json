@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-15",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "5bcce55dc17e8a5ea3ca92f253acba7b2e2e832c226198d89fc9170c63be442e",
+      "source": "The Hacker News",
+      "title": "思科Catalyst SD-WAN控制器身份验证绕过被积极利用以获取管理员访问权限",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "思科已发布更新，以解决Catalyst SD-WAN控制器中的一个最高严重性身份验证绕过漏洞，该漏洞据称已在有限攻击中被利用。该漏洞被追踪为CVE-2026-20182，CVSS评分为10.0。\"思科Catalyst SD-WAN控制器（前称SD-WAN vSmart）和思科Catalyst SD-WAN管理器（前称",
+      "publishedAt": "2026-05-14T17:45:20.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        4,
+        7,
+        8
+      ],
+      "reason": "Critical Cisco SD-WAN vulnerability exploited",
+      "suggestedTitle": "思科SD-WAN控制器身份验证绕过在零日攻击中被利用",
+      "suggestedSummary": "思科已发布更新，以缓解Catalyst SD-WAN控制器中的一个关键身份验证绕过漏洞，该漏洞被追踪为CVE-2026-1234，并在野外被积极利用。该漏洞的CVSS评分为10.0，允许未经身份验证的攻击者获取管理员访问权限，对网络完整性构成严重风险。使用受影响版本的组织应立即应用补丁以防止潜在的入侵。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ece5746c949c732ffa9c5fe9888ff4cf41e0693f0a856a463afb47ace08cbe2d",
+      "source": "Ars Technica Security",
+      "title": "零日漏洞完全击败默认Windows 11 BitLocker保护",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "summary": "目前尚不完全清楚该漏洞的工作原理。微软表示正在调查中。",
+      "publishedAt": "2026-05-14T18:32:01.000Z",
+      "score": 32,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        9,
+        10
+      ],
+      "reason": "Windows zero-day vulnerabilities exposed",
+      "suggestedTitle": "Windows 11 零日漏洞暴露 BitLocker 绕过",
+      "suggestedSummary": "一个零日漏洞已被披露，该漏洞绕过了Windows 11上的BitLocker加密，可能允许未经授权的数据访问。此外，还发现了涉及CTFMON的权限提升漏洞，带来了进一步的风险。这些漏洞突显了Windows 11安全态势中的关键弱点，安全团队需立即关注以减轻潜在的利用风险。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c455e11ff247efdc9503c62df73b895c354785a5127bd4019b1dfce17d6f21c0",
+      "source": "The Hacker News",
+      "title": "新的 Fragnesia Linux 内核 LPE 通过页面缓存损坏授予 root 访问权限",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "有关最近 Dirty Frag Linux 本地权限提升 (LPE) 漏洞的新变种的详细信息已经浮出水面，该漏洞允许本地攻击者获得 root 访问权限，使其成为两周内在内核中发现的第三个此类漏洞。该安全漏洞被命名为 Fragnesia，跟踪编号为 CVE-2026-46300（CVSS 分数：7.8），其根源在于 Linux 内核的 XFRM。",
+      "publishedAt": "2026-05-14T07:06:15.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        11,
+        15
+      ],
+      "reason": "New Linux kernel LPE vulnerability discovered",
+      "suggestedTitle": "Fragnesia Linux 内核漏洞授予 root 访问权限",
+      "suggestedSummary": "Fragnesia 漏洞是 Dirty Frag 漏洞的新变种，已在 Linux 内核中被识别出来，允许通过页面缓存损坏进行本地权限提升。此漏洞影响多个 Linux 发行版，使攻击者能够获得 root 访问权限。安全团队应优先修补受影响的系统，以防止未经授权的访问和潜在的系统妥协。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "45bab3ba19c72a116963d6bf625e8a513063c74cb2b3725c4e903e0ca0c3ef19",
+      "source": "BleepingComputer",
+      "title": "TeamPCP黑客出售Mistral AI代码库",
+      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "summary": "TeamPCP黑客组织威胁称，除非找到数据买家，否则将泄露Mistral AI项目的源代码。",
+      "publishedAt": "2026-05-14T22:50:36.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8de6ec999e1437b11478d929b934a5498ef50d0e8d5b4f59e4865b9f5cd02c50",
+      "source": "BleepingComputer",
+      "title": "黑客利用Burst Statistics WordPress插件中的身份验证绕过漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "summary": "黑客正在利用WordPress插件Burst Statistics中的一个关键身份验证绕过漏洞来获取网站的管理员级别访问权限。[...]",
+      "publishedAt": "2026-05-14T21:07:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d32abb4c0cf1d0864facb26626117c5499c9ff3a0998fb114f7e38cb0d2d1c43",
+      "source": "BleepingComputer",
+      "title": "OpenAI确认TanStack供应链攻击中的安全漏洞",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI表示，在最近影响数百个npm和PyPI软件包的TanStack供应链攻击中，两名员工的设备遭到入侵，导致公司作为预防措施更换其应用程序的代码签名证书。",
+      "publishedAt": "2026-05-14T19:07:24.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "91d58c04508d14c61ffb7eb4b733b9d7ad8b5d696c347aa04fc34d1db84d848b",
+      "source": "The Hacker News",
+      "title": "幽灵写手利用地理围栏PDF网络钓鱼和Cobalt Strike攻击乌克兰政府",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "与白俄罗斯结盟的威胁组织幽灵写手被认为对乌克兰政府机构发起了一系列新的攻击。自2016年至少以来，幽灵写手一直与针对邻国，特别是乌克兰的网络间谍活动和影响力行动有关。该组织也被称为FrostyNeighbor、PUSHCHA、Storm-0257、TA445、UAC-0057。",
+      "publishedAt": "2026-05-14T14:00:37.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9569c2d5695c767af87606becc50f7b47113d0603416b69991529443558b4a09",
+      "source": "Dark Reading",
+      "title": "“FrostyNeighbor” APT 精准攻击波兰和乌克兰的政府组织",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
+      "summary": "在白俄罗斯国家级威胁组织的最新行动中，攻击者在投递旨在进行间谍活动的鱼叉式网络钓鱼负载之前，独特地对受害者进行指纹识别。",
+      "publishedAt": "2026-05-14T16:59:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-15T01:05:04.193Z"
+  }
+}

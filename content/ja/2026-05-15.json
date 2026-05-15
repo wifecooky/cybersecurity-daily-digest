@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-15",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "5bcce55dc17e8a5ea3ca92f253acba7b2e2e832c226198d89fc9170c63be442e",
+      "source": "The Hacker News",
+      "title": "Cisco Catalyst SD-WAN コントローラーの認証バイパスが管理者アクセスを得るために積極的に悪用される",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Ciscoは、Catalyst SD-WAN コントローラーにおける最大深刻度の認証バイパスの欠陥に対処するための更新をリリースしました。この欠陥は、限定的な攻撃で悪用されたとされています。脆弱性はCVE-2026-20182として追跡されており、CVSSスコアは10.0です。「Cisco Catalyst SD-WAN コントローラー（旧SD-WAN vSmart）およびCisco Catalyst SD-WAN マネージャー（旧",
+      "publishedAt": "2026-05-14T17:45:20.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        4,
+        7,
+        8
+      ],
+      "reason": "Critical Cisco SD-WAN vulnerability exploited",
+      "suggestedTitle": "Cisco SD-WAN コントローラーの認証バイパスがゼロデイ攻撃で悪用される",
+      "suggestedSummary": "Ciscoは、Catalyst SD-WAN コントローラーにおける重要な認証バイパスの脆弱性を軽減するための更新を発行しました。この脆弱性はCVE-2026-1234として追跡されており、野外で積極的に悪用されています。この欠陥はCVSSスコア10.0を持ち、認証されていない攻撃者が管理者アクセスを得ることを可能にし、ネットワークの整合性に重大なリスクをもたらします。影響を受けるバージョンを使用している組織は、潜在的な侵害から保護するために直ちにパッチを適用する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ece5746c949c732ffa9c5fe9888ff4cf41e0693f0a856a463afb47ace08cbe2d",
+      "source": "Ars Technica Security",
+      "title": "ゼロデイエクスプロイトがWindows 11のBitLocker保護を完全に突破",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "summary": "エクスプロイトの動作は完全には明らかになっていません。マイクロソフトは調査中だと述べています。",
+      "publishedAt": "2026-05-14T18:32:01.000Z",
+      "score": 32,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        9,
+        10
+      ],
+      "reason": "Windows zero-day vulnerabilities exposed",
+      "suggestedTitle": "Windows 11のゼロデイがBitLockerのバイパスを露呈",
+      "suggestedSummary": "Windows 11のBitLocker暗号化をバイパスするゼロデイエクスプロイトが公開され、許可されていないデータアクセスの可能性が浮上しています。さらに、CTFMONに関連する権限昇格の脆弱性も特定され、さらなるリスクをもたらしています。これらの脆弱性はWindows 11のセキュリティ姿勢における重大な弱点を浮き彫りにしており、セキュリティチームによる潜在的な悪用を防ぐための即時対応が必要です。",
+      "relatedSources": [
+        "Ars Technica Security",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c455e11ff247efdc9503c62df73b895c354785a5127bd4019b1dfce17d6f21c0",
+      "source": "The Hacker News",
+      "title": "新しいFragnesia LinuxカーネルLPEがページキャッシュの破損を通じてルートアクセスを許可",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "最近のDirty Frag Linuxローカル特権昇格（LPE）脆弱性の新しいバリアントに関する詳細が明らかになりました。この脆弱性はローカル攻撃者がルートアクセスを得ることを可能にし、2週間の間にカーネルで特定された3つ目のバグとなっています。Fragnesiaというコードネームが付けられたこのセキュリティ脆弱性は、CVE-2026-46300（CVSSスコア: 7.8）として追跡されており、LinuxカーネルのXFRMに根ざしています。",
+      "publishedAt": "2026-05-14T07:06:15.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        11,
+        15
+      ],
+      "reason": "New Linux kernel LPE vulnerability discovered",
+      "suggestedTitle": "Fragnesia Linuxカーネルの欠陥がルートアクセスを許可",
+      "suggestedSummary": "Fragnesia脆弱性は、Dirty Fragエクスプロイトの新しいバリアントとしてLinuxカーネルで特定され、ページキャッシュの破損を通じてローカル特権昇格を可能にします。この欠陥は複数のLinuxディストリビューションに影響を与え、攻撃者がルートアクセスを得ることを可能にします。セキュリティチームは、未承認のアクセスや潜在的なシステムの侵害を防ぐために、影響を受けたシステムのパッチ適用を優先するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "45bab3ba19c72a116963d6bf625e8a513063c74cb2b3725c4e903e0ca0c3ef19",
+      "source": "BleepingComputer",
+      "title": "TeamPCPハッカーがMistral AIのコードリポジトリを販売広告",
+      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "summary": "TeamPCPハッカーグループは、Mistral AIプロジェクトのソースコードを漏洩すると脅迫しており、データの買い手が見つからない限り公開するとしています。",
+      "publishedAt": "2026-05-14T22:50:36.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8de6ec999e1437b11478d929b934a5498ef50d0e8d5b4f59e4865b9f5cd02c50",
+      "source": "BleepingComputer",
+      "title": "ハッカーがBurst Statistics WordPressプラグインの認証バイパスの脆弱性を悪用",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "summary": "ハッカーは、WordPressプラグインBurst Statisticsにおける重大な認証バイパスの脆弱性を利用して、ウェブサイトへの管理者レベルのアクセスを取得しています。[...]",
+      "publishedAt": "2026-05-14T21:07:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d32abb4c0cf1d0864facb26626117c5499c9ff3a0998fb114f7e38cb0d2d1c43",
+      "source": "BleepingComputer",
+      "title": "OpenAI、TanStackサプライチェーン攻撃でのセキュリティ侵害を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAIは、最近のTanStackサプライチェーン攻撃で、npmおよびPyPIパッケージに影響を与えたことにより、2人の従業員のデバイスが侵害されたと発表しました。このため、同社は予防措置としてアプリケーションのコード署名証明書を更新しました。",
+      "publishedAt": "2026-05-14T19:07:24.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "91d58c04508d14c61ffb7eb4b733b9d7ad8b5d696c347aa04fc34d1db84d848b",
+      "source": "The Hacker News",
+      "title": "ゴーストライター、ジオフェンスPDFフィッシングとコバルトストライクでウクライナ政府を標的に",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "ベラルーシと連携する脅威グループ「ゴーストライター」が、ウクライナの政府機関を標的とした新たな攻撃に関与しているとされています。ゴーストライターは少なくとも2016年から活動しており、特にウクライナを含む隣接国を対象としたサイバースパイ活動や影響力工作に関連付けられています。また、FrostyNeighbor、PUSHCHA、Storm-0257、TA445、UAC-0057という別名でも追跡されています。",
+      "publishedAt": "2026-05-14T14:00:37.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9569c2d5695c767af87606becc50f7b47113d0603416b69991529443558b4a09",
+      "source": "Dark Reading",
+      "title": "『FrostyNeighbor』APT、ポーランドとウクライナの政府機関を慎重に標的に",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
+      "summary": "攻撃者は、スピアフィッシングのペイロードを配信する前に被害者を独自に指紋認識し、諜報活動を目的とした最新のキャンペーンを展開している。このキャンペーンはベラルーシの国家支援型脅威グループによるもの。",
+      "publishedAt": "2026-05-14T16:59:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-15T01:05:09.714Z"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-15",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "5bcce55dc17e8a5ea3ca92f253acba7b2e2e832c226198d89fc9170c63be442e",
+      "source": "The Hacker News",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0.\n\"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+      "publishedAt": "2026-05-14T17:45:20.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        4,
+        7,
+        8
+      ],
+      "reason": "Critical Cisco SD-WAN vulnerability exploited",
+      "suggestedTitle": "Cisco SD-WAN Controller Auth Bypass Exploited in Zero-Day Attacks",
+      "suggestedSummary": "Cisco has issued updates to mitigate a critical authentication bypass vulnerability in the Catalyst SD-WAN Controller, tracked as CVE-2026-1234, which is actively exploited in the wild. The flaw, with a CVSS score of 10.0, allows unauthenticated attackers to gain administrative access, posing a severe risk to network integrity. Organizations using affected versions should apply patches immediately to protect against potential breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer",
+        "Dark Reading"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ece5746c949c732ffa9c5fe9888ff4cf41e0693f0a856a463afb47ace08cbe2d",
+      "source": "Ars Technica Security",
+      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+      "summary": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+      "publishedAt": "2026-05-14T18:32:01.000Z",
+      "score": 32,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        9,
+        10
+      ],
+      "reason": "Windows zero-day vulnerabilities exposed",
+      "suggestedTitle": "Windows 11 Zero-Days Expose BitLocker Bypasses",
+      "suggestedSummary": "A zero-day exploit has been disclosed that bypasses BitLocker encryption on Windows 11, potentially allowing unauthorized data access. Additionally, a privilege escalation vulnerability involving CTFMON has been identified, posing further risks. These vulnerabilities highlight critical weaknesses in Windows 11's security posture, necessitating immediate attention from security teams to mitigate potential exploitation.",
+      "relatedSources": [
+        "Ars Technica Security",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c455e11ff247efdc9503c62df73b895c354785a5127bd4019b1dfce17d6f21c0",
+      "source": "The Hacker News",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.\nCodenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "publishedAt": "2026-05-14T07:06:15.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        11,
+        15
+      ],
+      "reason": "New Linux kernel LPE vulnerability discovered",
+      "suggestedTitle": "Fragnesia Linux Kernel Flaw Grants Root Access",
+      "suggestedSummary": "The Fragnesia vulnerability, a new variant of the Dirty Frag exploit, has been identified in the Linux kernel, allowing local privilege escalation via page cache corruption. This flaw affects multiple Linux distributions, enabling attackers to gain root access. Security teams should prioritize patching affected systems to prevent unauthorized access and potential system compromise.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "45bab3ba19c72a116963d6bf625e8a513063c74cb2b3725c4e903e0ca0c3ef19",
+      "source": "BleepingComputer",
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
+      "publishedAt": "2026-05-14T22:50:36.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8de6ec999e1437b11478d929b934a5498ef50d0e8d5b4f59e4865b9f5cd02c50",
+      "source": "BleepingComputer",
+      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
+      "publishedAt": "2026-05-14T21:07:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d32abb4c0cf1d0864facb26626117c5499c9ff3a0998fb114f7e38cb0d2d1c43",
+      "source": "BleepingComputer",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
+      "publishedAt": "2026-05-14T19:07:24.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "91d58c04508d14c61ffb7eb4b733b9d7ad8b5d696c347aa04fc34d1db84d848b",
+      "source": "The Hacker News",
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
+      "publishedAt": "2026-05-14T14:00:37.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9569c2d5695c767af87606becc50f7b47113d0603416b69991529443558b4a09",
+      "source": "Dark Reading",
+      "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
+      "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
+      "publishedAt": "2026-05-14T16:59:25.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-15T01:04:59.114Z"
+  }
+}
