@@ -1,0 +1,130 @@
+{
+  "date": "2026-05-16",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "28f76501b1023ba3b6afcbb1633b572cffd2a840dd875b1b96fb12befd0a019c",
+      "source": "The Hacker News",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
+      "publishedAt": "2026-05-15T06:19:04.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Active exploitation of Exchange zero-day",
+      "suggestedTitle": "Microsoft Exchange Zero-Day CVE-2026-42897 Exploited in the Wild",
+      "suggestedSummary": "Microsoft has disclosed a new zero-day vulnerability in on-premise versions of Exchange Server, identified as CVE-2026-42897. This flaw is actively exploited via crafted emails, allowing attackers to execute arbitrary code remotely. The vulnerability affects multiple versions of Exchange Server, necessitating immediate attention to apply mitigations provided by Microsoft. This incident underscores the critical need for prompt patching and monitoring of Exchange environments to prevent unauthorized access and potential data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "645bd64ef568776088b8e1808b2c8d7109de864743e11858c509270b7eb3b22f",
+      "source": "The Hacker News",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "summary": "The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.\n\n\n\n  Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "publishedAt": "2026-05-15T17:10:25.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        26
+      ],
+      "reason": "Nation-state cyber operations",
+      "suggestedTitle": "Turla APT Transforms Kazuar Backdoor into P2P Botnet",
+      "suggestedSummary": "The Russian state-sponsored hacking group Turla has upgraded its Kazuar backdoor into a modular peer-to-peer (P2P) botnet, enhancing its capabilities for persistent access and data exfiltration. This development allows the APT to maintain a resilient command-and-control infrastructure, complicating detection and mitigation efforts. Security teams should be aware of this evolution in Turla's tactics and implement network monitoring and anomaly detection to identify potential intrusions leveraging this sophisticated backdoor.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "604c90df0a62fe1d89adf1c9050dd74d3976a3f761825644b7fc8a9c97a65540",
+      "source": "The Hacker News",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+      "publishedAt": "2026-05-15T05:28:03.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        66
+      ],
+      "reason": "CISA KEV addition for critical Cisco SD-WAN flaw",
+      "suggestedTitle": "CISA Adds Cisco SD-WAN CVE-2026-20182 to Known Exploited Vulnerabilities Catalog",
+      "suggestedSummary": "CISA has added a critical vulnerability, CVE-2026-20182, affecting Cisco SD-WAN to its Known Exploited Vulnerabilities catalog. This flaw allows attackers to gain admin access through exploitation, posing significant risks to affected networks. Organizations using Cisco SD-WAN should prioritize the application of available patches and review access controls to mitigate potential exploitation. This inclusion highlights the urgency of addressing vulnerabilities that are actively targeted by threat actors.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8a5f92909ae25d54f96800a75cab7fead84a4127bf2a029cdddb01c695d8a226",
+      "source": "BleepingComputer",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "publishedAt": "2026-05-15T19:30:33.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "554e8bdb75aede7fc7b876d05888ccaef7de6a6a96a40e179f1062a24cec8941",
+      "source": "BleepingComputer",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "publishedAt": "2026-05-15T17:10:42.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ea6f660d6743657a8934e999f4cbe0099804aa3b2fd080f25a7007ec4af96c8d",
+      "source": "The Hacker News",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner.\n\"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+      "publishedAt": "2026-05-15T10:54:44.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "496117438b1eada0cb10ca7cf18349caac56f06522363ced565d85885dfb1754",
+      "source": "Google News Security",
+      "title": "Ransomware Groups Claim Responsibility for Attacks on 3 Healthcare Providers - The HIPAA Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWk5IVS1JR00ydTM4WlQ1VHB1eVJVSW1KejRub1RQVEoyWV9abmlhYjYzM0VmU2tKRTNKM2JFZ2pJeWpIemtzVWVKQ0Z0VXpPNGNjUmd3S0xFV0FsQk93RmxiMlI1OHN6YVpFcU1GMW4zRFdHVzd3QVlFQmFTZXI3YXVRdHdDOElRWlZWendPdlNkNWhWZnBtMzhiT3JfZWN0TU1BYURR?oc=5",
+      "summary": "Ransomware Groups Claim Responsibility for Attacks on 3 Healthcare Providers  The HIPAA Journal",
+      "publishedAt": "2026-05-15T10:09:54.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f92972c3d9dcb3bfe0a45c4993125ed26a3bf2b2795f63fcfcbc0b2019c5ddcf",
+      "source": "Google News Security (JP)",
+      "title": "Cisco Catalyst SD-WANの重大な脆弱性、ゼロデイ攻撃で悪用される（CVE-2026-20182） - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWpSZ3JSMnNhc3VzRmdpdWoweUktOUhUaEU3cjlKZkh3N2NVb3poZ3pqYkxKNGFKUVo0SXU2ckpVbUNRTS1MTl96LXZvOG9scmM4RVdRdml2NnpIQk5Ca2pjLXZYUFlWTFhFZlhNY2k5dnpISjhXZHp4dDMzaHBFUlRhRjg?oc=5",
+      "summary": "Cisco Catalyst SD-WANの重大な脆弱性、ゼロデイ攻撃で悪用される（CVE-2026-20182）  株式会社マキナレコード",
+      "publishedAt": "2026-05-15T05:22:26.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-16T01:00:59.498Z"
+  }
+}
