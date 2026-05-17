@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-17",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "820e8cc2e8f1371b11b120a345afc41a44abc266f2c99487af901af0cc944f48",
+      "source": "The Hacker News",
+      "title": "漏斗构建器漏洞被积极利用，导致WooCommerce结账页面信息窃取",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "影响WordPress的漏斗构建器插件的一个严重安全漏洞正在被积极利用，以在WooCommerce结账页面中注入恶意JavaScript代码，目的是窃取支付数据。Sansec本周发布了有关此活动的详细信息。目前该漏洞尚无官方CVE标识符。",
+      "publishedAt": "2026-05-16T15:20:48.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Active exploitation of WordPress vulnerability",
+      "suggestedTitle": "漏斗构建器插件被用于WooCommerce信息窃取",
+      "suggestedSummary": "WordPress的漏斗构建器插件中的一个严重漏洞正在被积极利用，允许攻击者从WooCommerce结账页面窃取支付信息。该漏洞涉及插入恶意脚本，在交易过程中捕获敏感数据。安全团队应优先修补受影响的系统，以防止数据被盗和财务损失。确保所有插件更新已应用，并监控电子商务网站上的任何异常活动。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f30867ba64121ab10384c5e0815fffbc22a70b9bae0e1ac1b9b633f8364a0cf4",
+      "source": "Google News Security (CN)",
+      "title": "潜伏 6 年：Linux 内核曝高危漏洞，可窃取 SSH 主机密钥和 root 密码 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYXh0NmdNcFNrYkJPT1B3YmprbV9uQWJrbHhSc1ltZm40Tnl3S1l3ME1jVHBEbU5uSnhldTRjeVBDUVN6ck0xN0VCSE9qcU5Nb09aZm9hbjJCdDVFeUxBcFd5eHR5bTMyM0dzeTBHZ2ZIczg1VTJHUW9HTG15S0toQ3h1UG8xci1qc1ZpTXVCb2NUemRUVWRUOURKVEJOLTlGVXQ2ZTc2X0pMYkpnMWJiMWVocUQ5MGoxZFlWVzZaN2VCNzE2WWhrQkJEMXlFMUZsd28yOVE3OHZWS0loNndfNkM1eVNSVTgxeXFQVmdDVFFzN2c5RW5SSTdn?oc=5",
+      "summary": "潜伏 6 年：Linux 内核曝高危漏洞，可窃取 SSH 主机密钥和 root 密码  手机新浪网",
+      "publishedAt": "2026-05-16T02:06:24.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17
+      ],
+      "reason": "High-risk Linux kernel vulnerability",
+      "suggestedTitle": "Linux 内核漏洞暴露 SSH 密钥和 root 密码",
+      "suggestedSummary": "新披露的 Linux 内核高危漏洞已存在六年，可能允许攻击者提取 SSH 主机密钥和 root 密码。此漏洞影响多个 Linux 发行版，对依赖 SSH 进行安全通信的系统构成重大风险。安全团队应立即应用可用补丁，并考虑更换 SSH 密钥和凭据以减轻潜在风险。",
+      "relatedSources": [
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "95a466591707c97a45a19d1b3df1212b438ce5fff6c1e06e93f9000e5cfafe15",
+      "source": "Google News Security (JP)",
+      "title": "影响Linux内核的“Dirty Frag”漏洞被公开，提供应对步骤 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWHdlVWxOdjRuQUZvSFctV05ZRDZmYUpfWnpKcUI2b1FKc25lbkFVa25aM1NjN3dqMFBycUdhXzVOZWNwbEJHamhqOXUxZw?oc=5",
+      "summary": "影响Linux内核的“Dirty Frag”漏洞被公开，提供应对步骤 - CodeZine",
+      "publishedAt": "2026-05-16T21:24:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7e1e13f705a843562131ce9d9c6abca4154f47162f4808045defc31a5155ca94",
+      "source": "BleepingComputer",
+      "title": "俄罗斯黑客将Kazuar后门转变为模块化P2P僵尸网络",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "俄罗斯黑客组织Secret Blizzard已将其长期运行的Kazuar后门开发为一个模块化的点对点（P2P）僵尸网络，旨在实现长期持久性、隐蔽性和数据收集。",
+      "publishedAt": "2026-05-16T14:15:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bb185b89469a07986c0b1d97a30fbdb02c8ebca9aa39d59667992668c59e4f87",
+      "source": "Google News Security (JP)",
+      "title": "Linux内核发现“ssh-keysign-pwn”漏洞——近期第4次",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdTFDdVF6dFhhLUFaam9XRjJoUHpyd2FhYnd3R0ppeER4aUhuX1dUZlNUdkpmR1diYW5zdjc1X0V3VWI0dWl2bG5ROXg5NGhrWHlj?oc=5",
+      "summary": "Linux内核发现“ssh-keysign-pwn”漏洞——近期第4次  ZDNET Japan",
+      "publishedAt": "2026-05-16T02:48:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "56bb302be893bc3564610b2fe66c3169c6a9a39ff1dead2addff3a59b96629b2",
+      "source": "Google News Security (JP)",
+      "title": "谷歌Chrome存在14个“严重”安全漏洞，修复方法详解 - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdWU0OV9qQ1hzT1VkeXBoaUNBWThSdUpubTU1eVg4RDgwTDZ5NU5vLUFwRldQZWJkS3RLZnRQY05TcDJPZXprQkNWNHFaRTBKc1hadk1RX3Q5MzVfcy1sUTZGa3lwd0pTbGc0bUp5dDBBWHA1MklTRWowSFE3SnM?oc=5",
+      "summary": "谷歌Chrome存在14个“严重”安全漏洞，修复方法详解  雅虎新闻",
+      "publishedAt": "2026-05-16T03:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-17T01:09:13.716Z"
+  }
+}

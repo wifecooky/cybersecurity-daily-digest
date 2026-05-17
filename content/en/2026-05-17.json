@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-17",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "820e8cc2e8f1371b11b120a345afc41a44abc266f2c99487af901af0cc944f48",
+      "source": "The Hacker News",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal of stealing payment data.\n\n\n\n  Details of the activity were\n  published\n  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "publishedAt": "2026-05-16T15:20:48.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Active exploitation of WordPress vulnerability",
+      "suggestedTitle": "Funnel Builder Plugin Exploited for WooCommerce Skimming",
+      "suggestedSummary": "A critical vulnerability in the Funnel Builder plugin for WordPress is under active exploitation, allowing attackers to skim payment information from WooCommerce checkouts. The exploit involves inserting malicious scripts that capture sensitive data during transactions. Security teams should prioritize patching affected systems to prevent data theft and financial loss. Ensure all plugin updates are applied and monitor for any unusual activity on e-commerce sites.",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f30867ba64121ab10384c5e0815fffbc22a70b9bae0e1ac1b9b633f8364a0cf4",
+      "source": "Google News Security (CN)",
+      "title": "潜伏 6 年：Linux 内核曝高危漏洞，可窃取 SSH 主机密钥和 root 密码 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYXh0NmdNcFNrYkJPT1B3YmprbV9uQWJrbHhSc1ltZm40Tnl3S1l3ME1jVHBEbU5uSnhldTRjeVBDUVN6ck0xN0VCSE9qcU5Nb09aZm9hbjJCdDVFeUxBcFd5eHR5bTMyM0dzeTBHZ2ZIczg1VTJHUW9HTG15S0toQ3h1UG8xci1qc1ZpTXVCb2NUemRUVWRUOURKVEJOLTlGVXQ2ZTc2X0pMYkpnMWJiMWVocUQ5MGoxZFlWVzZaN2VCNzE2WWhrQkJEMXlFMUZsd28yOVE3OHZWS0loNndfNkM1eVNSVTgxeXFQVmdDVFFzN2c5RW5SSTdn?oc=5",
+      "summary": "潜伏 6 年：Linux 内核曝高危漏洞，可窃取 SSH 主机密钥和 root 密码  手机新浪网",
+      "publishedAt": "2026-05-16T02:06:24.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17
+      ],
+      "reason": "High-risk Linux kernel vulnerability",
+      "suggestedTitle": "Linux Kernel Vulnerability Exposes SSH Keys and Root Passwords",
+      "suggestedSummary": "A newly disclosed high-risk vulnerability in the Linux kernel, present for six years, can allow attackers to extract SSH host keys and root passwords. This vulnerability affects multiple Linux distributions and poses a significant risk to systems relying on SSH for secure communications. Security teams should apply available patches immediately and consider rotating SSH keys and credentials to mitigate potential exposure.",
+      "relatedSources": [
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "95a466591707c97a45a19d1b3df1212b438ce5fff6c1e06e93f9000e5cfafe15",
+      "source": "Google News Security (JP)",
+      "title": "Linuxカーネルに影響する「Dirty Frag」脆弱性が公開、対策手順を案内 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWHdlVWxOdjRuQUZvSFctV05ZRDZmYUpfWnpKcUI2b1FKc25lbkFVa25aM1NjN3dqMFBycUdhXzVOZWNwbEJHamhqOXUxZw?oc=5",
+      "summary": "Linuxカーネルに影響する「Dirty Frag」脆弱性が公開、対策手順を案内  CodeZine",
+      "publishedAt": "2026-05-16T21:24:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7e1e13f705a843562131ce9d9c6abca4154f47162f4808045defc31a5155ca94",
+      "source": "BleepingComputer",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "publishedAt": "2026-05-16T14:15:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bb185b89469a07986c0b1d97a30fbdb02c8ebca9aa39d59667992668c59e4f87",
+      "source": "Google News Security (JP)",
+      "title": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性発覚--直近4度目 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdTFDdVF6dFhhLUFaam9XRjJoUHpyd2FhYnd3R0ppeER4aUhuX1dUZlNUdkpmR1diYW5zdjc1X0V3VWI0dWl2bG5ROXg5NGhrWHlj?oc=5",
+      "summary": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性発覚--直近4度目  ZDNET Japan",
+      "publishedAt": "2026-05-16T02:48:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "56bb302be893bc3564610b2fe66c3169c6a9a39ff1dead2addff3a59b96629b2",
+      "source": "Google News Security (JP)",
+      "title": "グーグルChromeに14件の「深刻」セキュリティ脆弱性、修正する方法も解説 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdWU0OV9qQ1hzT1VkeXBoaUNBWThSdUpubTU1eVg4RDgwTDZ5NU5vLUFwRldQZWJkS3RLZnRQY05TcDJPZXprQkNWNHFaRTBKc1hadk1RX3Q5MzVfcy1sUTZGa3lwd0pTbGc0bUp5dDBBWHA1MklTRWowSFE3SnM?oc=5",
+      "summary": "グーグルChromeに14件の「深刻」セキュリティ脆弱性、修正する方法も解説  Yahoo!ニュース",
+      "publishedAt": "2026-05-16T03:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-17T01:09:10.216Z"
+  }
+}

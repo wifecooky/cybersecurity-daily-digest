@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-17",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "820e8cc2e8f1371b11b120a345afc41a44abc266f2c99487af901af0cc944f48",
+      "source": "The Hacker News",
+      "title": "ファネルビルダーの脆弱性が積極的に悪用され、WooCommerceのチェックアウトスキミングを可能に",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "WordPress用のファネルビルダープラグインに影響を与える重大なセキュリティ脆弱性が、実際に悪用されており、WooCommerceのチェックアウトページに悪意のあるJavaScriptコードを注入して、支払いデータを盗むことを目的としています。サンセックによって今週、この活動の詳細が公開されました。この脆弱性には現在、公式のCVE識別子はありません。",
+      "publishedAt": "2026-05-16T15:20:48.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        6
+      ],
+      "reason": "Active exploitation of WordPress vulnerability",
+      "suggestedTitle": "ファネルビルダープラグインがWooCommerceスキミングに悪用される",
+      "suggestedSummary": "WordPress用のファネルビルダープラグインにおける重大な脆弱性が積極的に悪用されており、攻撃者がWooCommerceのチェックアウトから支払い情報をスキミングすることを可能にしています。このエクスプロイトは、取引中に機密データをキャプチャする悪意のあるスクリプトを挿入することを含みます。セキュリティチームは、データの盗難や財務的損失を防ぐために、影響を受けたシステムのパッチ適用を優先し、すべてのプラグインの更新を適用し、eコマースサイトでの異常な活動を監視する必要があります。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "f30867ba64121ab10384c5e0815fffbc22a70b9bae0e1ac1b9b633f8364a0cf4",
+      "source": "Google News Security (CN)",
+      "title": "潜伏6年：Linuxカーネルに高危険度の脆弱性が発覚、SSHホストキーとrootパスワードを窃取可能 - 携帯新浪網",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYXh0NmdNcFNrYkJPT1B3YmprbV9uQWJrbHhSc1ltZm40Tnl3S1l3ME1jVHBEbU5uSnhldTRjeVBDUVN6ck0xN0VCSE9qcU5Nb09aZm9hbjJCdDVFeUxBcFd5eHR5bTMyM0dzeTBHZ2ZIczg1VTJHUW9HTG15S0toQ3h1UG8xci1qc1ZpTXVCb2NUemRUVWRUOURKVEJOLTlGVXQ2ZTc2X0pMYkpnMWJiMWVocUQ5MGoxZFlWVzZaN2VCNzE2WWhrQkJEMXlFMUZsd28yOVE3OHZWS0loNndfNkM1eVNSVTgxeXFQVmdDVFFzN2c5RW5SSTdn?oc=5",
+      "summary": "潜伏6年：Linuxカーネルに高危険度の脆弱性が発覚、SSHホストキーとrootパスワードを窃取可能  携帯新浪網",
+      "publishedAt": "2026-05-16T02:06:24.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17
+      ],
+      "reason": "High-risk Linux kernel vulnerability",
+      "suggestedTitle": "Linuxカーネルの脆弱性がSSHキーとrootパスワードを露出",
+      "suggestedSummary": "新たに公開されたLinuxカーネルの高リスク脆弱性は、6年間存在しており、攻撃者がSSHホストキーとrootパスワードを抽出することを可能にします。この脆弱性は複数のLinuxディストリビューションに影響を与え、SSHを安全な通信手段として依存しているシステムに重大なリスクをもたらします。セキュリティチームは、利用可能なパッチを直ちに適用し、SSHキーと認証情報のローテーションを検討して潜在的な露出を軽減すべきです。",
+      "relatedSources": [
+        "Google News Security (CN)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "95a466591707c97a45a19d1b3df1212b438ce5fff6c1e06e93f9000e5cfafe15",
+      "source": "Google News Security (JP)",
+      "title": "Linuxカーネルに影響する「Dirty Frag」脆弱性が公開、対策手順を案内 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aWHdlVWxOdjRuQUZvSFctV05ZRDZmYUpfWnpKcUI2b1FKc25lbkFVa25aM1NjN3dqMFBycUdhXzVOZWNwbEJHamhqOXUxZw?oc=5",
+      "summary": "Linuxカーネルに影響する「Dirty Frag」脆弱性が公開され、対策手順が案内されました。",
+      "publishedAt": "2026-05-16T21:24:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7e1e13f705a843562131ce9d9c6abca4154f47162f4808045defc31a5155ca94",
+      "source": "BleepingComputer",
+      "title": "ロシアのハッカー、KazuarバックドアをモジュラーP2Pボットネットに変換",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "ロシアのハッカーグループであるシークレットブリザードは、長年にわたり使用してきたKazuarバックドアを、長期的な持続性、ステルス性、データ収集を目的としたモジュラー型のピアツーピア（P2P）ボットネットに発展させました。",
+      "publishedAt": "2026-05-16T14:15:37.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "bb185b89469a07986c0b1d97a30fbdb02c8ebca9aa39d59667992668c59e4f87",
+      "source": "Google News Security (JP)",
+      "title": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性が発覚--これで直近4回目",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDdTFDdVF6dFhhLUFaam9XRjJoUHpyd2FhYnd3R0ppeER4aUhuX1dUZlNUdkpmR1diYW5zdjc1X0V3VWI0dWl2bG5ROXg5NGhrWHlj?oc=5",
+      "summary": "Linuxカーネルに「ssh-keysign-pwn」の脆弱性が発覚しました。これで直近4回目となります。",
+      "publishedAt": "2026-05-16T02:48:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "56bb302be893bc3564610b2fe66c3169c6a9a39ff1dead2addff3a59b96629b2",
+      "source": "Google News Security (JP)",
+      "title": "グーグルChromeに14件の「深刻」なセキュリティ脆弱性、修正方法も解説 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdWU0OV9qQ1hzT1VkeXBoaUNBWThSdUpubTU1eVg4RDgwTDZ5NU5vLUFwRldQZWJkS3RLZnRQY05TcDJPZXprQkNWNHFaRTBKc1hadk1RX3Q5MzVfcy1sUTZGa3lwd0pTbGc0bUp5dDBBWHA1MklTRWowSFE3SnM?oc=5",
+      "summary": "グーグルChromeに14件の「深刻」なセキュリティ脆弱性が発見され、修正方法についても解説されています。 - Yahoo!ニュース",
+      "publishedAt": "2026-05-16T03:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-17T01:09:17.730Z"
+  }
+}
