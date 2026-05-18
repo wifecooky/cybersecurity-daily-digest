@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-18",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "74986f3fce96bef1eebc30f1f05f4d0d984839b291ba3b7bda12f7966fb25f68",
+      "source": "The Hacker News",
+      "title": "Grafana GitHubトークンの侵害によりコードベースのダウンロードと恐喝未遂が発生",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafanaは、「不正な第三者」がトークンを取得し、同社のGitHub環境にアクセスしてコードベースをダウンロードする能力を得たことを明らかにしました。",
+      "publishedAt": "2026-05-17T07:13:33.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with extortion risk",
+      "suggestedTitle": "Grafana GitHubトークン侵害：コードベースが危険にさらされ恐喝の脅威",
+      "suggestedSummary": "Grafanaは、不正な第三者がGitHubトークンを取得し、コードベース全体をダウンロード可能にした重大なセキュリティ侵害を明らかにしました。この侵害は恐喝未遂につながり、アクセス・トークンのセキュリティの重要性を浮き彫りにしています。セキュリティチームは直ちに露出したトークンを確認し、回転させ、疑わしい活動の監視を強化すべきです。この事件は、強固なアクセス制御とインシデント対応計画の実施の重要性を強調しています。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "091545b259765d2bdf130cb89d75007c0785521105525def664562cc6918baba",
+      "source": "BleepingComputer",
+      "title": "新しいWindows「MiniPlasma」ゼロデイエクスプロイトがSYSTEMアクセスを提供、PoCが公開",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "サイバーセキュリティ研究者が、完全にパッチが適用されたWindowsシステムで攻撃者がSYSTEM権限を得ることができる「MiniPlasma」と呼ばれるWindows特権昇格ゼロデイの概念実証エクスプロイトを公開しました。 [...]",
+      "publishedAt": "2026-05-17T22:30:08.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active zero-day exploit in Windows",
+      "suggestedTitle": "Windows「MiniPlasma」ゼロデイエクスプロイト：SYSTEMアクセスの脆弱性",
+      "suggestedSummary": "「MiniPlasma」と名付けられた新しいゼロデイエクスプロイトが公開され、攻撃者がWindowsシステムでSYSTEMレベルのアクセスを得ることが可能になりました。概念実証エクスプロイトが公開されているため、広範な悪用のリスクが高まっています。影響を受けるシステムには、未パッチのWindowsバージョンが含まれます。セキュリティチームは、パッチ管理を優先し、この特権昇格の脆弱性に対する緩和策を展開するべきです。パッチがリリースされるまで、異常なシステム活動の監視が推奨されます。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "27fe6ebac10f80d5973e1fa0a56a1b3a120542118bd8bc1f32bd35da33176070",
+      "source": "Google News Security",
+      "title": "ザラのデータ漏洩によりランサムウェア攻撃の疑いで20万人の顧客が被害に - サイバーニュース",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejZFeG45SzRBUHpDeGNsR1U0ZkF4VEd4VjYxeUxWWXlUdTRpQ0gtZ2VQbUV1WExlWU9mQXpaWGwtRWFPdEhMTjkybWhZRGt0MVNQRjAxZ2JwTTNOOHBlVGJ2T1NlcVBQc3hrdWhDMFcwekdlMXljMS1rVnlHdF9RWUtBQ0xOZVRnT2ZpajBhLWJhNHpNeUE0N1RfLXF3by02OV9yTGF4aw?oc=5",
+      "summary": "ザラのデータ漏洩によりランサムウェア攻撃の疑いで20万人の顧客が被害に  サイバーニュース",
+      "publishedAt": "2026-05-17T21:16:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2296d1a7afa10e5fc2553707d0b7531548857ebdfd19618da06b4d65ca1834fe",
+      "source": "Google News Security (JP)",
+      "title": "Microsoft Exchange Serverのゼロデイ脆弱性 CVE-2026-42897がサイバー攻撃に悪用 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkEwSVNtS0VyWUdod3MtUGxxRExWaWpEQWUtTjh0V09IZFVzSGJMS1ZYdlBxM1MwcHp0UUhMOWZtM0E3cFY5Y2xJX0tNbVRtSHJFTmJ0WHdCc0c5YzVDd1NqRG9leDRWQ2NXTTlXZWpTOEE2bDVkenNoeWoyVzZVb05aV19qTG14QmM0Y19INi1jS0FnVmM0ZXFpbjhPT1FyRmR3?oc=5",
+      "summary": "Microsoft Exchange Serverのゼロデイ脆弱性 CVE-2026-42897がサイバー攻撃に悪用される - 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-17T23:00:55.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "54afaed009d12e06549f1afca27701cdb75105622a5a780bfc457032d5b867ae",
+      "source": "The Hacker News",
+      "title": "NGINX CVE-2026-42945 が野外で悪用され、ワーカーのクラッシュとRCEの可能性を引き起こす",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "VulnCheckによると、NGINX PlusおよびNGINX Openに影響を与える新たに公開されたセキュリティの欠陥が、公開から数日後に野外で積極的に悪用されています。この脆弱性はCVE-2026-42945（CVSSスコア: 9.2）として追跡されており、NGINXバージョン0.6.27から1.30.0に影響を与えるngx_http_rewrite_moduleのヒープバッファオーバーフローです。AIネイティブのセキュリティ企業であるdepthfirstによれば、",
+      "publishedAt": "2026-05-17T11:57:53.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e60ef26973efae9e1b0e4aeacd59d9424d8c81f60c6215d419866bc8de1c5cec",
+      "source": "Google News Security (CN)",
+      "title": "Google Project Zero、Pixel 10デバイスを狙ったゼロクリック脆弱性利用チェーンを公開 - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNDAyVVhnOEd0dnU1eEhNZ3dWV1NTekg3SThOQlVnOVhNR21CaEVsMWZ0a2V4Vkh5OVB5NE95UmRhaGdDczJKN3U5aUFrT0N0OUNv?oc=5",
+      "summary": "Google Project Zero、Pixel 10デバイスを狙ったゼロクリック脆弱性利用チェーンを公開  51cto.com",
+      "publishedAt": "2026-05-17T10:38:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "00fde93b1395da96f26fa99284c13a1ce14dfb88cb90445e0646cad4c8afcde4",
+      "source": "Google News Security (CN)",
+      "title": "OpenClawにおける4つの重大な脆弱性がデータの窃取、権限昇格、持続的攻撃を引き起こす可能性 - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdWcxWklPbU96VkNtT2ptaHZIYlNFTy1KWWVHeDlfTXYzWVFrUUVTVlRqdXlJQmU2LVZWV3FQVVlOdkowdEJlTGgzUDEzaEp6R2Nj?oc=5",
+      "summary": "OpenClawにおける4つの重大な脆弱性がデータの窃取、権限昇格、持続的攻撃を引き起こす可能性があると報告されました。 - 51cto.com",
+      "publishedAt": "2026-05-17T05:36:21.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-18T01:10:15.734Z"
+  }
+}

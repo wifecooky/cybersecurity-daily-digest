@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-18",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "74986f3fce96bef1eebc30f1f05f4d0d984839b291ba3b7bda12f7966fb25f68",
+      "source": "The Hacker News",
+      "title": "Grafana GitHub 令牌泄露导致代码库下载和勒索企图",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana 已披露，一名“未经授权的人员”获取了一个令牌，该令牌使其能够访问公司的 GitHub 环境并下载其代码库。",
+      "publishedAt": "2026-05-17T07:13:33.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with extortion risk",
+      "suggestedTitle": "Grafana GitHub 令牌泄露：代码库被入侵和勒索威胁",
+      "suggestedSummary": "Grafana 披露了一起重大安全漏洞，一名未经授权的人员获取了 GitHub 令牌，使其能够下载整个代码库。这次泄露导致了一次勒索企图，突显了保护访问令牌安全的重要性。安全团队应立即审查并更换任何暴露的令牌，并加强对可疑活动的监控。此事件强调了实施强有力的访问控制和事件响应计划的重要性。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "091545b259765d2bdf130cb89d75007c0785521105525def664562cc6918baba",
+      "source": "BleepingComputer",
+      "title": "新Windows 'MiniPlasma' 零日漏洞利用程序提供SYSTEM访问权限，概念验证已发布",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "一名网络安全研究人员发布了一种名为“MiniPlasma”的Windows权限提升零日漏洞的概念验证利用程序，该漏洞允许攻击者在完全修补的Windows系统上获得SYSTEM权限。 [...]",
+      "publishedAt": "2026-05-17T22:30:08.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active zero-day exploit in Windows",
+      "suggestedTitle": "Windows 'MiniPlasma' 零日漏洞利用：SYSTEM访问漏洞",
+      "suggestedSummary": "一个名为'MiniPlasma'的新零日漏洞已被披露，允许攻击者在Windows系统上获得SYSTEM级别的访问权限。概念验证利用程序已公开，这增加了广泛利用的风险。受影响的系统包括那些运行未修补版本Windows的系统。安全团队应优先考虑补丁管理并部署缓解措施，以防止此权限提升漏洞。建议在补丁发布之前监控异常系统活动。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "27fe6ebac10f80d5973e1fa0a56a1b3a120542118bd8bc1f32bd35da33176070",
+      "source": "Google News Security",
+      "title": "Zara数据泄露导致20万客户信息曝光，疑似勒索软件攻击 - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejZFeG45SzRBUHpDeGNsR1U0ZkF4VEd4VjYxeUxWWXlUdTRpQ0gtZ2VQbUV1WExlWU9mQXpaWGwtRWFPdEhMTjkybWhZRGt0MVNQRjAxZ2JwTTNOOHBlVGJ2T1NlcVBQc3hrdWhDMFcwekdlMXljMS1rVnlHdF9RWUtBQ0xOZVRnT2ZpajBhLWJhNHpNeUE0N1RfLXF3by02OV9yTGF4aw?oc=5",
+      "summary": "Zara数据泄露导致20万客户信息曝光，疑似勒索软件攻击 - Cybernews",
+      "publishedAt": "2026-05-17T21:16:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2296d1a7afa10e5fc2553707d0b7531548857ebdfd19618da06b4d65ca1834fe",
+      "source": "Google News Security (JP)",
+      "title": "微软Exchange Server的零日漏洞CVE-2026-42897被用于网络攻击 - Rocket Boys公司",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkEwSVNtS0VyWUdod3MtUGxxRExWaWpEQWUtTjh0V09IZFVzSGJMS1ZYdlBxM1MwcHp0UUhMOWZtM0E3cFY5Y2xJX0tNbVRtSHJFTmJ0WHdCc0c5YzVDd1NqRG9leDRWQ2NXTTlXZWpTOEE2bDVkenNoeWoyVzZVb05aV19qTG14QmM0Y19INi1jS0FnVmM0ZXFpbjhPT1FyRmR3?oc=5",
+      "summary": "微软Exchange Server的零日漏洞CVE-2026-42897被用于网络攻击 - Rocket Boys公司",
+      "publishedAt": "2026-05-17T23:00:55.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "54afaed009d12e06549f1afca27701cdb75105622a5a780bfc457032d5b867ae",
+      "source": "The Hacker News",
+      "title": "NGINX CVE-2026-42945 在野外被利用，导致工作进程崩溃和可能的远程代码执行",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "据VulnCheck报道，一项新披露的安全漏洞影响了NGINX Plus和NGINX Open，在其公开披露后的几天内已在野外被积极利用。该漏洞被追踪为CVE-2026-42945（CVSS评分：9.2），是ngx_http_rewrite_module中的堆缓冲区溢出，影响NGINX 0.6.27到1.30.0版本。据AI原生安全公司depthfirst称，",
+      "publishedAt": "2026-05-17T11:57:53.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e60ef26973efae9e1b0e4aeacd59d9424d8c81f60c6215d419866bc8de1c5cec",
+      "source": "Google News Security (CN)",
+      "title": "谷歌 Project Zero 披露针对 Pixel 10 设备的零点击漏洞利用链 - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNDAyVVhnOEd0dnU1eEhNZ3dWV1NTekg3SThOQlVnOVhNR21CaEVsMWZ0a2V4Vkh5OVB5NE95UmRhaGdDczJKN3U5aUFrT0N0OUNv?oc=5",
+      "summary": "谷歌 Project Zero 披露针对 Pixel 10 设备的零点击漏洞利用链  51cto.com",
+      "publishedAt": "2026-05-17T10:38:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "00fde93b1395da96f26fa99284c13a1ce14dfb88cb90445e0646cad4c8afcde4",
+      "source": "Google News Security (CN)",
+      "title": "OpenClaw Vulnerabilities Exposed: Data Theft, Privilege Escalation, and Persistent Attacks - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdWcxWklPbU96VkNtT2ptaHZIYlNFTy1KWWVHeDlfTXYzWVFrUUVTVlRqdXlJQmU2LVZWV3FQVVlOdkowdEJlTGgzUDEzaEp6R2Nj?oc=5",
+      "summary": "OpenClaw 曝出四大漏洞可导致数据窃取、权限提升与持久化攻击  51cto.com",
+      "publishedAt": "2026-05-17T05:36:21.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-18T01:10:08.946Z"
+  }
+}

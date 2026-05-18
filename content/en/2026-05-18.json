@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-18",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "74986f3fce96bef1eebc30f1f05f4d0d984839b291ba3b7bda12f7966fb25f68",
+      "source": "The Hacker News",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of",
+      "publishedAt": "2026-05-17T07:13:33.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with extortion risk",
+      "suggestedTitle": "Grafana GitHub Token Breach: Codebase Compromised and Extortion Threat",
+      "suggestedSummary": "Grafana has disclosed a significant security breach where an unauthorized party obtained a GitHub token, enabling them to download the entire codebase. This breach led to an extortion attempt, highlighting the critical nature of securing access tokens. Security teams should immediately review and rotate any exposed tokens and enhance monitoring for suspicious activities. This incident underscores the importance of implementing robust access controls and incident response plans.",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "091545b259765d2bdf130cb89d75007c0785521105525def664562cc6918baba",
+      "source": "BleepingComputer",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
+      "publishedAt": "2026-05-17T22:30:08.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        2
+      ],
+      "reason": "Active zero-day exploit in Windows",
+      "suggestedTitle": "Windows 'MiniPlasma' Zero-Day Exploit: SYSTEM Access Vulnerability",
+      "suggestedSummary": "A new zero-day exploit named 'MiniPlasma' has been disclosed, allowing attackers to gain SYSTEM-level access on Windows systems. The proof-of-concept exploit is public, raising the risk of widespread exploitation. Affected systems include those running unpatched versions of Windows. Security teams should prioritize patch management and deploy mitigations to protect against this privilege escalation vulnerability. Monitoring for unusual system activity is advised until a patch is released.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "27fe6ebac10f80d5973e1fa0a56a1b3a120542118bd8bc1f32bd35da33176070",
+      "source": "Google News Security",
+      "title": "Zara data breach exposes 200K customers after alleged ransomware attack - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejZFeG45SzRBUHpDeGNsR1U0ZkF4VEd4VjYxeUxWWXlUdTRpQ0gtZ2VQbUV1WExlWU9mQXpaWGwtRWFPdEhMTjkybWhZRGt0MVNQRjAxZ2JwTTNOOHBlVGJ2T1NlcVBQc3hrdWhDMFcwekdlMXljMS1rVnlHdF9RWUtBQ0xOZVRnT2ZpajBhLWJhNHpNeUE0N1RfLXF3by02OV9yTGF4aw?oc=5",
+      "summary": "Zara data breach exposes 200K customers after alleged ransomware attack  Cybernews",
+      "publishedAt": "2026-05-17T21:16:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2296d1a7afa10e5fc2553707d0b7531548857ebdfd19618da06b4d65ca1834fe",
+      "source": "Google News Security (JP)",
+      "title": "Microsoft Exchange Serverのゼロデイ脆弱性 CVE-2026-42897がサイバー攻撃へ悪用 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkEwSVNtS0VyWUdod3MtUGxxRExWaWpEQWUtTjh0V09IZFVzSGJMS1ZYdlBxM1MwcHp0UUhMOWZtM0E3cFY5Y2xJX0tNbVRtSHJFTmJ0WHdCc0c5YzVDd1NqRG9leDRWQ2NXTTlXZWpTOEE2bDVkenNoeWoyVzZVb05aV19qTG14QmM0Y19INi1jS0FnVmM0ZXFpbjhPT1FyRmR3?oc=5",
+      "summary": "Microsoft Exchange Serverのゼロデイ脆弱性 CVE-2026-42897がサイバー攻撃へ悪用  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-17T23:00:55.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "54afaed009d12e06549f1afca27701cdb75105622a5a780bfc457032d5b867ae",
+      "source": "The Hacker News",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+      "publishedAt": "2026-05-17T11:57:53.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e60ef26973efae9e1b0e4aeacd59d9424d8c81f60c6215d419866bc8de1c5cec",
+      "source": "Google News Security (CN)",
+      "title": "谷歌 Project Zero 披露针对 Pixel 10 设备的零点击漏洞利用链 - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNDAyVVhnOEd0dnU1eEhNZ3dWV1NTekg3SThOQlVnOVhNR21CaEVsMWZ0a2V4Vkh5OVB5NE95UmRhaGdDczJKN3U5aUFrT0N0OUNv?oc=5",
+      "summary": "谷歌 Project Zero 披露针对 Pixel 10 设备的零点击漏洞利用链  51cto.com",
+      "publishedAt": "2026-05-17T10:38:34.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "00fde93b1395da96f26fa99284c13a1ce14dfb88cb90445e0646cad4c8afcde4",
+      "source": "Google News Security (CN)",
+      "title": "OpenClaw 曝出四大漏洞可导致数据窃取、权限提升与持久化攻击 - 51cto.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdWcxWklPbU96VkNtT2ptaHZIYlNFTy1KWWVHeDlfTXYzWVFrUUVTVlRqdXlJQmU2LVZWV3FQVVlOdkowdEJlTGgzUDEzaEp6R2Nj?oc=5",
+      "summary": "OpenClaw 曝出四大漏洞可导致数据窃取、权限提升与持久化攻击  51cto.com",
+      "publishedAt": "2026-05-17T05:36:21.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-18T01:10:04.446Z"
+  }
+}
