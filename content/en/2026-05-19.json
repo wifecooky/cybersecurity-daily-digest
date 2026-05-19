@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-19",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "b334de78433fd4a142caf16221fec6a1f0f07c885a661ccdef1824b5f5655bb5",
+      "source": "Dark Reading",
+      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "summary": "CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.",
+      "publishedAt": "2026-05-18T21:43:51.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7,
+        18
+      ],
+      "reason": "Critical Exchange zero-day under attack",
+      "suggestedTitle": "Microsoft Exchange Zero-Day Exploited, Patch Pending",
+      "suggestedSummary": "A critical zero-day vulnerability (CVE-2026-42897) in Microsoft Exchange Server is currently being actively exploited. This cross-site scripting (XSS) flaw allows attackers to compromise email systems through crafted emails, potentially leading to data exfiltration or further network penetration. Security teams should prioritize monitoring for unusual email activity and apply mitigations from Microsoft's advisory while awaiting an official patch.",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "74d420f5ec199250709ec773dde05ae27a2b9e8dc7dddd9cd74c92c96d56b971",
+      "source": "Google News Security (JP)",
+      "title": "nginxの脆弱性 NGINX Rift（CVE-2026-42945）が公開3日でサイバー攻撃に悪用|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlJVQ0MtVjhZQlhtYXlhbWRndWRKM1E5SXktWEYxTjYtQVFmd0p3RjF0ME9wcU1ISE40YmRuaktuTmhaVFR1ekNqNHZldnY3bmRDRTZZWGhUWjc5OXdCSi05MHg5dkllek9TWXIxMjQ3UXlzR1BSM0s3MTQ4bXhwaERucDZyUHhiQ0xuYjJuMmFvQVQ2bnNMQQ?oc=5",
+      "summary": "nginxの脆弱性 NGINX Rift（CVE-2026-42945）が公開3日でサイバー攻撃に悪用|セキュリティニュースのセキュリティ対策Lab  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-19T00:10:54.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17,
+        109
+      ],
+      "reason": "NGINX vulnerability actively exploited",
+      "suggestedTitle": "NGINX Rift Vulnerability Exploited in the Wild",
+      "suggestedSummary": "The NGINX Rift vulnerability (CVE-2026-42945), a heap buffer overflow flaw, has been identified as being actively exploited just days after its disclosure. This vulnerability has existed for 18 years and can be leveraged by attackers to execute arbitrary code on affected systems. Immediate updates are recommended for all NGINX deployments to prevent potential breaches and maintain server security integrity.",
+      "relatedSources": [
+        "Google News Security (JP)",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "67a2f02bd312bd52c01982d710139c685b2e020948485906ddd8f987d2530dca",
+      "source": "Google News Security",
+      "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVZ1TWlQVlNRd3FtUGhieEF4dlVZRThXSmlJeU5PN0lCRzJKQ1JsdTZCbEpIbG9fN2hNWEpVekVXeEhBclQxSC1LaEIzVW1HSS01VTQ4aWtQbU5yank1WmZVOTV4eHIzanF0aWZnMDdneXFtelBIQ2VMU1RTVzZvTnljVGpWQnVHT1pjQUZmczB6cExnWGZlNVJUS0ZIaUxxdks0cHVzTFRSdkNWR2lqUUhnUWg2RFoyUDg3d280bW5uclRxdG9TYS1YaVpYSTVBeTl4dXdkd3dWRmh1ZVVYWlpteF9pMHFWRnJmUnFnQzNUZw?oc=5",
+      "summary": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people  TechCrunch",
+      "publishedAt": "2026-05-18T16:32:33.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        41,
+        55
+      ],
+      "reason": "Major healthcare data breach impacts millions",
+      "suggestedTitle": "NYC Health + Hospitals Data Breach Exposes 1.8M Records",
+      "suggestedSummary": "A significant data breach at NYC Health + Hospitals has compromised the medical data and fingerprints of approximately 1.8 million individuals. The breach highlights vulnerabilities in healthcare data storage and emphasizes the need for robust encryption and access controls. Security teams should review their data protection strategies to mitigate similar risks and ensure compliance with healthcare data regulations.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9c0478e4f9deb9e0dc08862ceac927743f655a4967bdc14b0e47f32bb0e35482",
+      "source": "Dark Reading",
+      "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
+      "url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+      "summary": "The now patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
+      "publishedAt": "2026-05-18T21:24:59.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4823e8dcc6b3b0e2cde1e0d0151ad36ebb1805c57f1949516fd8a841090295cd",
+      "source": "Google News Security",
+      "title": "Open Source Software Maker Grafana Labs Was Hacked - tech.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nX2t6aS03R3NSRVZaYmFwS2pjaTVvMUs3RGNUbWVLUVdDXzNJMFFGZEhLMEx4Wjc5OEYtTVBiajdoRzZlb05pRm50NkVweTA1OFllc214Ujlua1FvdndvcGFVQU16MWNCOW5SU1Fn?oc=5",
+      "summary": "Open Source Software Maker Grafana Labs Was Hacked  tech.co",
+      "publishedAt": "2026-05-18T19:33:08.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3bea1424882fd0c8224df1d312dc3f6da84d7012bed5cb1348111ec8e375cf01",
+      "source": "BleepingComputer",
+      "title": "Grafana says stolen GitHub token let hackers steal codebase",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+      "publishedAt": "2026-05-18T13:46:26.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db2405a32c254f329290086e101614e11dca793c927f46761b2aa08a39ce6bea",
+      "source": "Google News Security",
+      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJ6bFpNaXNtOG5HMm0zN1ZFczhjZ29va0QwOTJfemNDSHYxSTlCSm9Hb2d5aGdfS1pTTDdRWHFsUHZ2LVlTVlpZQlVSbmgtcV9QMlY2SFU0Qi1qQnhDRHMtbEo3N1JaMG1YUy1RaHBLQ244aTliYk9uNzNYVl9Bc1FCYlZXSGh5NFlQSDRCRExESU5Tc3BTNtIBngFBVV95cUxPbWZOLTBDYnJjOE1xeVNDejFPVmhpWkhUUW1LRVo1cDBMY0gxOFROZVRDR19DcTJYMzVUNENUZjdVTVdMNG03VDE1YWZ6bVZ4blNoQktReEVqNXFUQm4yWW90MC1aVk9OZkQ4Uzh4Vjl2bWt1US1kcWhvdzE3MTZnalRZQWh1T3pZX29BSnlZNmhmTS0xLURxWUp3UkhXZw?oc=5",
+      "summary": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand  SecurityWeek",
+      "publishedAt": "2026-05-18T11:25:54.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08f4bbf2bbf7f27275102719dc95c5df3da5d7f236af0623eac93ec4d281bb6a",
+      "source": "Google News Security",
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01LRlZ0dy1Lb19fbHNURlRCSko3Q3NNVTVHNm9jRExEdFRrNjloWXRKanVyVTQySjhwSXBPMUhubHRQWTJpUTYyN1MtZHpWNFNUUUVCRk10UElEV01DQVI4aEY1M2Y4dkZkME43WE9wVFNuM1ZnczR4bU85T2xTVUV1RXZ5MkxXZ3oxb2FSMUlPYWfSAZgBQVVfeXFMTmVfMlJYQzM4QU9iVXA4MlplTXVzTGFsRFJMbTFnZ2dkRHNLQ0tEa1R1S01xM1h3U0tuMVFkNEtqTGt0VTdSSUFlNExLRlJpRk5OLVZ4MFhmeW9VZUtRb1hqTTZyQ0NKX2ZIMnlzVUc4NmMtMDc5eXVjQkpJbmFUZnBmWEd4cmNVTjlPRzZDWjV0VUdkUUpUdTE?oc=5",
+      "summary": "Grafana Confirms Breach After Hackers Claim They Stole Data  SecurityWeek",
+      "publishedAt": "2026-05-18T08:34:59.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-19T01:10:39.835Z"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-19",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "b334de78433fd4a142caf16221fec6a1f0f07c885a661ccdef1824b5f5655bb5",
+      "source": "Dark Reading",
+      "title": "微软Exchange零日漏洞遭攻击，尚无可用补丁",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "summary": "CVE-2026-42897源于跨站脚本（XSS）漏洞，可能允许攻击者入侵Outlook Web Access（OWA）邮箱。",
+      "publishedAt": "2026-05-18T21:43:51.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7,
+        18
+      ],
+      "reason": "Critical Exchange zero-day under attack",
+      "suggestedTitle": "微软Exchange零日漏洞被利用，补丁待定",
+      "suggestedSummary": "微软Exchange Server中一个关键的零日漏洞（CVE-2026-42897）目前正被积极利用。此跨站脚本（XSS）漏洞允许攻击者通过精心制作的电子邮件入侵邮件系统，可能导致数据泄露或进一步的网络渗透。安全团队应优先监控异常电子邮件活动，并根据微软的建议采取缓解措施，同时等待官方补丁发布。",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "74d420f5ec199250709ec773dde05ae27a2b9e8dc7dddd9cd74c92c96d56b971",
+      "source": "Google News Security (JP)",
+      "title": "nginx漏洞NGINX Rift（CVE-2026-42945）在公开3天后被用于网络攻击|安全新闻的安全对策实验室 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlJVQ0MtVjhZQlhtYXlhbWRndWRKM1E5SXktWEYxTjYtQVFmd0p3RjF0ME9wcU1ISE40YmRuaktuTmhaVFR1ekNqNHZldnY3bmRDRTZZWGhUWjc5OXdCSi05MHg5dkllek9TWXIxMjQ3UXlzR1BSM0s3MTQ4bXhwaERucDZyUHhiQ0xuYjJuMmFvQVQ2bnNMQQ?oc=5",
+      "summary": "nginx漏洞NGINX Rift（CVE-2026-42945）在公开3天后被用于网络攻击|安全新闻的安全对策实验室 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-19T00:10:54.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17,
+        109
+      ],
+      "reason": "NGINX vulnerability actively exploited",
+      "suggestedTitle": "NGINX Rift漏洞在野外被利用",
+      "suggestedSummary": "NGINX Rift漏洞（CVE-2026-42945），一种堆缓冲区溢出缺陷，在披露后仅几天就被发现被积极利用。该漏洞已存在18年，攻击者可以利用它在受影响的系统上执行任意代码。建议立即更新所有NGINX部署，以防止潜在的安全漏洞并维护服务器的安全完整性。",
+      "relatedSources": [
+        "Google News Security (JP)",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "67a2f02bd312bd52c01982d710139c685b2e020948485906ddd8f987d2530dca",
+      "source": "Google News Security",
+      "title": "纽约市健康与医院公司称黑客在数据泄露事件中窃取了至少180万人医疗数据和指纹 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVZ1TWlQVlNRd3FtUGhieEF4dlVZRThXSmlJeU5PN0lCRzJKQ1JsdTZCbEpIbG9fN2hNWEpVekVXeEhBclQxSC1LaEIzVW1HSS01VTQ4aWtQbU5yank1WmZVOTV4eHIzanF0aWZnMDdneXFtelBIQ2VMU1RTVzZvTnljVGpWQnVHT1pjQUZmczB6cExnWGZlNVJUS0ZIaUxxdks0cHVzTFRSdkNWR2lqUUhnUWg2RFoyUDg3d280bW5uclRxdG9TYS1YaVpYSTVBeTl4dXdkd3dWRmh1ZVVYWlpteF9pMHFWRnJmUnFnQzNUZw?oc=5",
+      "summary": "纽约市健康与医院公司称黑客在数据泄露事件中窃取了至少180万人医疗数据和指纹 - TechCrunch",
+      "publishedAt": "2026-05-18T16:32:33.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        41,
+        55
+      ],
+      "reason": "Major healthcare data breach impacts millions",
+      "suggestedTitle": "纽约市健康与医院公司数据泄露暴露180万记录",
+      "suggestedSummary": "纽约市健康与医院公司发生重大数据泄露事件，约180万人的医疗数据和指纹被泄露。此次泄露事件突显了医疗数据存储的脆弱性，并强调了强大加密和访问控制的必要性。安全团队应审查其数据保护策略，以减轻类似风险并确保符合医疗数据法规。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9c0478e4f9deb9e0dc08862ceac927743f655a4967bdc14b0e47f32bb0e35482",
+      "source": "Dark Reading",
+      "title": "‘爪链’漏洞威胁OpenClaw部署",
+      "url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+      "summary": "在快速增长的AI代理框架中，现已修补的漏洞允许攻击者窃取凭证、提升权限并维持持久性。",
+      "publishedAt": "2026-05-18T21:24:59.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4823e8dcc6b3b0e2cde1e0d0151ad36ebb1805c57f1949516fd8a841090295cd",
+      "source": "Google News Security",
+      "title": "开源软件制造商Grafana Labs遭遇黑客攻击 - tech.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nX2t6aS03R3NSRVZaYmFwS2pjaTVvMUs3RGNUbWVLUVdDXzNJMFFGZEhLMEx4Wjc5OEYtTVBiajdoRzZlb05pRm50NkVweTA1OFllc214Ujlua1FvdndvcGFVQU16MWNCOW5SU1Fn?oc=5",
+      "summary": "开源软件制造商Grafana Labs遭遇黑客攻击  tech.co",
+      "publishedAt": "2026-05-18T19:33:08.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3bea1424882fd0c8224df1d312dc3f6da84d7012bed5cb1348111ec8e375cf01",
+      "source": "BleepingComputer",
+      "title": "Grafana称被盗的GitHub令牌让黑客窃取了代码库",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labs披露，黑客在使用被盗的访问令牌入侵其GitHub环境后，下载了其源代码。",
+      "publishedAt": "2026-05-18T13:46:26.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db2405a32c254f329290086e101614e11dca793c927f46761b2aa08a39ce6bea",
+      "source": "Google News Security",
+      "title": "7-Eleven 数据泄露在 ShinyHunters 勒索要求后得到确认 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJ6bFpNaXNtOG5HMm0zN1ZFczhjZ29va0QwOTJfemNDSHYxSTlCSm9Hb2d5aGdfS1pTTDdRWHFsUHZ2LVlTVlpZQlVSbmgtcV9QMlY2SFU0Qi1qQnhDRHMtbEo3N1JaMG1YUy1RaHBLQ244aTliYk9uNzNYVl9Bc1FCYlZXSGh5NFlQSDRCRExESU5Tc3BTNtIBngFBVV95cUxPbWZOLTBDYnJjOE1xeVNDejFPVmhpWkhUUW1LRVo1cDBMY0gxOFROZVRDR19DcTJYMzVUNENUZjdVTVdMNG03VDE1YWZ6bVZ4blNoQktReEVqNXFUQm4yWW90MC1aVk9OZkQ4Uzh4Vjl2bWt1US1kcWhvdzE3MTZnalRZQWh1T3pZX29BSnlZNmhmTS0xLURxWUp3UkhXZw?oc=5",
+      "summary": "7-Eleven 数据泄露在 ShinyHunters 勒索要求后得到确认 SecurityWeek",
+      "publishedAt": "2026-05-18T11:25:54.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08f4bbf2bbf7f27275102719dc95c5df3da5d7f236af0623eac93ec4d281bb6a",
+      "source": "Google News Security",
+      "title": "Grafana确认数据泄露，黑客声称窃取数据 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01LRlZ0dy1Lb19fbHNURlRCSko3Q3NNVTVHNm9jRExEdFRrNjloWXRKanVyVTQySjhwSXBPMUhubHRQWTJpUTYyN1MtZHpWNFNUUUVCRk10UElEV01DQVI4aEY1M2Y4dkZkME43WE9wVFNuM1ZnczR4bU85T2xTVUV1RXZ5MkxXZ3oxb2FSMUlPYWfSAZgBQVVfeXFMTmVfMlJYQzM4QU9iVXA4MlplTXVzTGFsRFJMbTFnZ2dkRHNLQ0tEa1R1S01xM1h3U0tuMVFkNEtqTGt0VTdSSUFlNExLRlJpRk5OLVZ4MFhmeW9VZUtRb1hqTTZyQ0NKX2ZIMnlzVUc4NmMtMDc5eXVjQkpJbmFUZnBmWEd4cmNVTjlPRzZDWjV0VUdkUUpUdTE?oc=5",
+      "summary": "Grafana确认数据泄露，黑客声称窃取数据 SecurityWeek",
+      "publishedAt": "2026-05-18T08:34:59.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-19T01:10:48.459Z"
+  }
+}

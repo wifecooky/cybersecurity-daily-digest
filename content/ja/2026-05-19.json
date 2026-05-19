@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-19",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "b334de78433fd4a142caf16221fec6a1f0f07c885a661ccdef1824b5f5655bb5",
+      "source": "Dark Reading",
+      "title": "Microsoft Exchangeのゼロデイ攻撃、パッチは未提供",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "summary": "CVE-2026-42897はクロスサイトスクリプティング（XSS）の脆弱性に起因し、攻撃者がOutlook Web Access（OWA）のメールボックスを侵害する可能性があります。",
+      "publishedAt": "2026-05-18T21:43:51.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        7,
+        18
+      ],
+      "reason": "Critical Exchange zero-day under attack",
+      "suggestedTitle": "Microsoft Exchangeのゼロデイ脆弱性が悪用される、パッチは準備中",
+      "suggestedSummary": "Microsoft Exchange Serverにおける重大なゼロデイ脆弱性（CVE-2026-42897）が現在積極的に悪用されています。このクロスサイトスクリプティング（XSS）の欠陥により、攻撃者は細工されたメールを通じて電子メールシステムを侵害し、データの流出やさらなるネットワーク侵入の可能性があります。セキュリティチームは、異常なメール活動を監視し、公式パッチが提供されるまでの間、Microsoftのアドバイザリからの緩和策を適用することを優先すべきです。",
+      "relatedSources": [
+        "Dark Reading",
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "74d420f5ec199250709ec773dde05ae27a2b9e8dc7dddd9cd74c92c96d56b971",
+      "source": "Google News Security (JP)",
+      "title": "nginxの脆弱性 NGINX Rift（CVE-2026-42945）が公開3日でサイバー攻撃に悪用|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlJVQ0MtVjhZQlhtYXlhbWRndWRKM1E5SXktWEYxTjYtQVFmd0p3RjF0ME9wcU1ISE40YmRuaktuTmhaVFR1ekNqNHZldnY3bmRDRTZZWGhUWjc5OXdCSi05MHg5dkllek9TWXIxMjQ3UXlzR1BSM0s3MTQ4bXhwaERucDZyUHhiQ0xuYjJuMmFvQVQ2bnNMQQ?oc=5",
+      "summary": "nginxの脆弱性 NGINX Rift（CVE-2026-42945）が公開3日でサイバー攻撃に悪用|セキュリティニュースのセキュリティ対策Lab  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-19T00:10:54.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17,
+        109
+      ],
+      "reason": "NGINX vulnerability actively exploited",
+      "suggestedTitle": "NGINX Riftの脆弱性が野放しで悪用される",
+      "suggestedSummary": "NGINX Riftの脆弱性（CVE-2026-42945）は、ヒープバッファオーバーフローの欠陥であり、公開されてから数日で積極的に悪用されていることが確認されました。この脆弱性は18年間存在しており、攻撃者が影響を受けたシステムで任意のコードを実行するために利用することができます。潜在的な侵害を防ぎ、サーバーのセキュリティの整合性を維持するために、すべてのNGINXデプロイメントに対して即時の更新が推奨されます。",
+      "relatedSources": [
+        "Google News Security (JP)",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "67a2f02bd312bd52c01982d710139c685b2e020948485906ddd8f987d2530dca",
+      "source": "Google News Security",
+      "title": "NYC Health + Hospitals、ハッカーが少なくとも180万人に影響を与える侵害で医療データと指紋を盗んだと発表 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVZ1TWlQVlNRd3FtUGhieEF4dlVZRThXSmlJeU5PN0lCRzJKQ1JsdTZCbEpIbG9fN2hNWEpVekVXeEhBclQxSC1LaEIzVW1HSS01VTQ4aWtQbU5yank1WmZVOTV4eHIzanF0aWZnMDdneXFtelBIQ2VMU1RTVzZvTnljVGpWQnVHT1pjQUZmczB6cExnWGZlNVJUS0ZIaUxxdks0cHVzTFRSdkNWR2lqUUhnUWg2RFoyUDg3d280bW5uclRxdG9TYS1YaVpYSTVBeTl4dXdkd3dWRmh1ZVVYWlpteF9pMHFWRnJmUnFnQzNUZw?oc=5",
+      "summary": "NYC Health + Hospitalsによると、ハッカーが少なくとも180万人に影響を与える侵害で医療データと指紋を盗んだ  TechCrunch",
+      "publishedAt": "2026-05-18T16:32:33.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        41,
+        55
+      ],
+      "reason": "Major healthcare data breach impacts millions",
+      "suggestedTitle": "NYC Health + Hospitalsのデータ侵害で180万件の記録が流出",
+      "suggestedSummary": "NYC Health + Hospitalsでの重大なデータ侵害により、約180万人の医療データと指紋が漏洩しました。この侵害は、医療データの保存における脆弱性を浮き彫りにし、強力な暗号化とアクセス制御の必要性を強調しています。セキュリティチームは、同様のリスクを軽減し、医療データ規制に準拠するために、データ保護戦略を見直すべきです。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "9c0478e4f9deb9e0dc08862ceac927743f655a4967bdc14b0e47f32bb0e35482",
+      "source": "Dark Reading",
+      "title": "「クロー・チェーン」の脆弱性がOpenClawの展開を脅かす",
+      "url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+      "summary": "急速に成長しているAIエージェントフレームワークの脆弱性は、攻撃者が資格情報を盗み、権限を昇格し、持続性を維持することを可能にします。これらの脆弱性は現在修正されています。",
+      "publishedAt": "2026-05-18T21:24:59.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4823e8dcc6b3b0e2cde1e0d0151ad36ebb1805c57f1949516fd8a841090295cd",
+      "source": "Google News Security",
+      "title": "オープンソースソフトウェアメーカーのGrafana Labsがハッキング被害に遭う - tech.co",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nX2t6aS03R3NSRVZaYmFwS2pjaTVvMUs3RGNUbWVLUVdDXzNJMFFGZEhLMEx4Wjc5OEYtTVBiajdoRzZlb05pRm50NkVweTA1OFllc214Ujlua1FvdndvcGFVQU16MWNCOW5SU1Fn?oc=5",
+      "summary": "オープンソースソフトウェアメーカーのGrafana Labsがハッキング被害に遭う  tech.co",
+      "publishedAt": "2026-05-18T19:33:08.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3bea1424882fd0c8224df1d312dc3f6da84d7012bed5cb1348111ec8e375cf01",
+      "source": "BleepingComputer",
+      "title": "Grafana、盗まれたGitHubトークンによりハッカーがコードベースを盗んだと発表",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labsは、盗まれたアクセス・トークンを使用してGitHub環境に侵入したハッカーが、ソースコードをダウンロードしたことを明らかにしました。",
+      "publishedAt": "2026-05-18T13:46:26.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "db2405a32c254f329290086e101614e11dca793c927f46761b2aa08a39ce6bea",
+      "source": "Google News Security",
+      "title": "セブンイレブンのデータ侵害がShinyHuntersの身代金要求後に確認 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJ6bFpNaXNtOG5HMm0zN1ZFczhjZ29va0QwOTJfemNDSHYxSTlCSm9Hb2d5aGdfS1pTTDdRWHFsUHZ2LVlTVlpZQlVSbmgtcV9QMlY2SFU0Qi1qQnhDRHMtbEo3N1JaMG1YUy1RaHBLQ244aTliYk9uNzNYVl9Bc1FCYlZXSGh5NFlQSDRCRExESU5Tc3BTNtIBngFBVV95cUxPbWZOLTBDYnJjOE1xeVNDejFPVmhpWkhUUW1LRVo1cDBMY0gxOFROZVRDR19DcTJYMzVUNENUZjdVTVdMNG03VDE1YWZ6bVZ4blNoQktReEVqNXFUQm4yWW90MC1aVk9OZkQ4Uzh4Vjl2bWt1US1kcWhvdzE3MTZnalRZQWh1T3pZX29BSnlZNmhmTS0xLURxWUp3UkhXZw?oc=5",
+      "summary": "ShinyHuntersの身代金要求を受けて、セブンイレブンのデータ侵害が確認された - SecurityWeek",
+      "publishedAt": "2026-05-18T11:25:54.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08f4bbf2bbf7f27275102719dc95c5df3da5d7f236af0623eac93ec4d281bb6a",
+      "source": "Google News Security",
+      "title": "Grafana、ハッカーがデータを盗んだと主張した後に侵害を確認 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb01LRlZ0dy1Lb19fbHNURlRCSko3Q3NNVTVHNm9jRExEdFRrNjloWXRKanVyVTQySjhwSXBPMUhubHRQWTJpUTYyN1MtZHpWNFNUUUVCRk10UElEV01DQVI4aEY1M2Y4dkZkME43WE9wVFNuM1ZnczR4bU85T2xTVUV1RXZ5MkxXZ3oxb2FSMUlPYWfSAZgBQVVfeXFMTmVfMlJYQzM4QU9iVXA4MlplTXVzTGFsRFJMbTFnZ2dkRHNLQ0tEa1R1S01xM1h3U0tuMVFkNEtqTGt0VTdSSUFlNExLRlJpRk5OLVZ4MFhmeW9VZUtRb1hqTTZyQ0NKX2ZIMnlzVUc4NmMtMDc5eXVjQkpJbmFUZnBmWEd4cmNVTjlPRzZDWjV0VUdkUUpUdTE?oc=5",
+      "summary": "Grafana、ハッカーがデータを盗んだと主張した後に侵害を確認 - SecurityWeek",
+      "publishedAt": "2026-05-18T08:34:59.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-19T01:11:01.148Z"
+  }
+}
