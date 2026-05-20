@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-20",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "ae7eddecea09119907e24f856de890d6f7d81b3de1796f7141d9b584f0ba79c2",
+      "source": "BleepingComputer",
+      "title": "セブンイレブン、ShinyHuntersグループによるデータ侵害を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "summary": "コンビニエンスストアチェーンの大手であるセブンイレブンは、先月ShinyHunters恐喝グループによって主張されたサイバー攻撃でシステムが侵害されたことを確認しました。 [...]",
+      "publishedAt": "2026-05-19T14:16:41.000Z",
+      "score": 43,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        2,
+        9,
+        10
+      ],
+      "reason": "Major data breach impacting 7-Eleven.",
+      "suggestedTitle": "セブンイレブンのデータ侵害が確認され、ShinyHuntersが関与",
+      "suggestedSummary": "セブンイレブンは、ShinyHuntersグループに関連するデータ侵害を確認し、システムに影響を与えています。この侵害には、支払い情報を含む可能性のある顧客の機密データが含まれています。セキュリティチームは、セブンイレブンのアカウントに関連する不審な活動を監視し、漏洩情報の潜在的な悪用を防ぐために追加のセキュリティ対策を検討する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "94262eee5ddb17fbf883d91b2aa66d1c847b2970dd42867ec4c4e948c912f6e2",
+      "source": "Dark Reading",
+      "title": "CISA、秘密情報と認証情報を「プライベート」リポジトリで公開",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+      "summary": "この機関のGitHubリポジトリは、2025年11月から公開されており、皮肉にも「Private-CISA」と名付けられていました。",
+      "publishedAt": "2026-05-19T19:49:53.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        3,
+        8,
+        70
+      ],
+      "reason": "CISA exposed sensitive credentials publicly.",
+      "suggestedTitle": "CISAのGitHubリポジトリが機密認証情報を露出",
+      "suggestedSummary": "サイバーセキュリティ・インフラストラクチャーセキュリティ庁（CISA）は、誤ってSSHキーや平文パスワードを含む機密認証情報を、公開アクセス可能なGitHubリポジトリで露出させました。この露出は、誤設定されたリポジトリのリスクを浮き彫りにし、不正アクセスや潜在的な悪用を防ぐために、厳格なアクセス制御と公開コードリポジトリの定期的な監査の必要性を強調しています。",
+      "relatedSources": [
+        "Dark Reading",
+        "Ars Technica Security",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "8de95c2762c5bd84bddfa63c8ee5d30a72560c7af67af89966d490c68101de18",
+      "source": "BleepingComputer",
+      "title": "AIアプリ向けChromaDBの最大深刻度の欠陥がサーバーの乗っ取りを可能にする",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "summary": "ChromaDBプロジェクトの最新のPython FastAPIバージョンにおける最大深刻度の脆弱性により、認証されていない攻撃者が公開されたサーバー上で任意のコードを実行することが可能になります。[...]",
+      "publishedAt": "2026-05-19T22:25:49.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        12,
+        60
+      ],
+      "reason": "Critical vulnerability in ChromaDB for AI apps.",
+      "suggestedTitle": "ChromaDBの最大深刻度の欠陥がサーバー乗っ取りを可能にする",
+      "suggestedSummary": "ChromaDBのFastAPIバージョンにおける重大な脆弱性（CVE-2026-31635）により、認証されていない攻撃者がサーバーを乗っ取ることが可能になります。この欠陥は高いCVSSスコアを持ち、重大なリスクを示しています。この脆弱性の概念実証エクスプロイトの公開は、影響を受ける組織が迅速にパッチを適用し、潜在的な悪用リスクを軽減する緊急性を強調しています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5cc615a75d5166144684acf8808e1b678130b28b1412c880e62df56f8b264b83",
+      "source": "The Hacker News",
+      "title": "侵害されたNx Console 18.95.0がVS Code開発者を資格情報窃取で標的に",
+      "url": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+      "summary": "サイバーセキュリティ研究者は、Microsoft Visual Studio Code (VS Code) Marketplaceに公開されたNx Console拡張機能の侵害されたバージョンを警告しています。問題の拡張機能はrwl.angular-console（バージョン18.95.0）で、VS Code、Cursor、JetBrainsなどのコードエディタのための人気のあるユーザーインターフェースとプラグインです。このVS Code拡張機能は220万以上のインストール数を誇ります。",
+      "publishedAt": "2026-05-19T07:49:23.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "20e1126beb4bd147b6abda287342bdbffaed71ffccc0ea15383641ab6abe99d3",
+      "source": "BleepingComputer",
+      "title": "マイクロソフトプラットフォームを悪用したマルウェア署名サービスが妨害される",
+      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "summary": "マイクロソフトは、同社のアーティファクト署名サービスを悪用して、ランサムウェア集団や他のサイバー犯罪者によって使用される不正なコード署名証明書を生成するマルウェア署名サービス（MSaaS）オペレーションを妨害したと発表しました。",
+      "publishedAt": "2026-05-19T21:47:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3982337c5104738eff53d0f427f54e5bb9306a10622addb74e78ec0ba3ee2eb9",
+      "source": "BleepingComputer",
+      "title": "MicrosoftのセルフサービスパスワードリセットがAzureのデータ窃盗攻撃で悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "summary": "Microsoft 365とAzureのプロダクション環境を標的とする脅威アクターが、正当なアプリケーションと管理機能を悪用した攻撃でデータを盗んでいます。",
+      "publishedAt": "2026-05-19T19:35:32.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8c35ff02a7232d217b1c198284087dcb4e71207eaa47027bb5bcc89efedbad03",
+      "source": "BleepingComputer",
+      "title": "新たなShai-Huludマルウェアの波が600のnpmパッケージを危険にさらす",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "summary": "脅威アクターは本日早朝、新たなShai-Huludサプライチェーンキャンペーンの一環として、Node Package Manager（npm）インデックスに600以上の悪意のあるパッケージを公開しました。",
+      "publishedAt": "2026-05-19T14:30:22.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0d6118d1fd2dfdcc19b971e46f14411365b03ee7879fbd0cefe2237afac8d68f",
+      "source": "Google News Security",
+      "title": "Grafana、ハッカーがデータを盗んだと主張した後に侵害を確認 - OODAloop",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dUN2dkcFRacHNaczZYbmpCYlh1TlhNZ0sxRGtLZXJ3RUg5UW9sak1JcmxFbDJIYzgzNDVoclpIOWJNUmdjRkpYQklVclRGUU9OQlBUcUZjWlVGU3NGTzRpdjhkQzA3blY3dGdGdU9WRlRCLWw3MFd2S2RRTVRUMTJoRlFaekNYVHdKTjNfZHphcWhkdU5WVm5n?oc=5",
+      "summary": "Grafana、ハッカーがデータを盗んだと主張した後に侵害を確認 - OODAloop",
+      "publishedAt": "2026-05-19T16:03:31.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-20T01:12:03.404Z"
+  }
+}
