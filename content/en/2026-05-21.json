@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-21",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "d9f4fad47699131c298d8367ff50847ad1c67e897be4f7d2104b292a3b1b1414",
+      "source": "Dark Reading",
+      "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
+      "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
+      "summary": "Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor — TeamPCP — took credit.",
+      "publishedAt": "2026-05-20T20:51:32.000Z",
+      "score": 58,
+      "relatedCount": 4,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with operational impact",
+      "suggestedTitle": "GitHub Breach: 4K Repositories Compromised via Token Mismanagement",
+      "suggestedSummary": "GitHub confirmed a data breach involving the theft of 4,000 internal repositories due to a compromised employee device and a missed GitHub workflow token rotation. The breach was linked to a malicious Visual Studio Code extension. Security teams should immediately review access controls and token management practices to prevent similar incidents. The incident underscores the critical need for robust token rotation policies and employee device security measures.",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c885f44495b77c9188525d530e336f5d16e43f9a5e55a57b85e74a40f2112e34",
+      "source": "The Hacker News",
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.\n\n\"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
+      "publishedAt": "2026-05-20T08:28:26.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        16,
+        19
+      ],
+      "reason": "Zero-day vulnerability mitigation",
+      "suggestedTitle": "Mitigation Released for YellowKey Windows BitLocker Bypass Vulnerability",
+      "suggestedSummary": "Microsoft has released mitigations for CVE-2026-45585, a zero-day vulnerability known as YellowKey, which allows attackers to bypass BitLocker encryption on Windows systems. The vulnerability affects systems using specific BitLocker configurations, potentially exposing sensitive data. Security teams should apply the mitigations immediately and review their BitLocker settings to ensure they are not susceptible to this exploit.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "57a3b68bc8eb7f34538471def1f7477712b2158398b6587a59fa828abfce7f25",
+      "source": "BleepingComputer",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "publishedAt": "2026-05-20T21:19:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        18
+      ],
+      "reason": "VPN security issue with active exploitation",
+      "suggestedTitle": "SonicWall VPN MFA Bypassed Due to Incomplete Patching",
+      "suggestedSummary": "Threat actors have exploited incomplete patches to bypass multi-factor authentication (MFA) on SonicWall VPNs by brute-forcing VPN credentials. This vulnerability highlights the importance of thorough patch management and the need for additional security measures beyond MFA. Security teams using SonicWall VPNs should ensure all patches are fully applied and consider implementing additional layers of security such as network segmentation and anomaly detection.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a135a1a7f39c58ab4d3f0e83ab64df10c607d64ee947be2bccf298d9f803edfe",
+      "source": "The Hacker News",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.\n\n\"After the initial assessment, we found that in addition to source",
+      "publishedAt": "2026-05-20T05:12:06.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "80a19b0e749d28470ddda1371d77e575237bbcc69f8ca5f44c0341652368e56f",
+      "source": "BleepingComputer",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "publishedAt": "2026-05-20T08:14:08.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "95f43acf0076ee7b3d56fc95d88c6ef37333b925ac0bfc6c99c0fbd9c15ba58e",
+      "source": "Google News Security",
+      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEM5X21tSE5RSTFWWlpyZEFKNFlpaDQtSHg4WTRrRS1TbGM3dWxSSVhob0hHa2V3SElEbFU3Zl8yQU9OdGZvaGlsNEdhWE1sTWozdHdKUDEtTnFta01QclczTC0yYi1jMHNUc3Z3cEpKUlBWb3dXaUkwRmJMVzF5ekRNdThVUmNWcXVQVFdDUE3SAZYBQVVfeXFMTk5uOVVodXVsamNTWjBiOXJPVm5QRnU4VkRrUVJMeDZyMS14dU1WVWVQSTVLYjFsRTFmME1aanNza1RRTFVEcE0tYWJ2eHlVdUp4V2pNYW5DMWwtdzBWTXVQWGtVY21LdDJwV0lCOTdUZzVHdW80WjRORmZQcHJJRjFNRHNia1pGQWtxbGV3Rm4zV3hCdnZB?oc=5",
+      "summary": "GitHub Confirms Hack Impacting 3,800 Internal Repositories  SecurityWeek",
+      "publishedAt": "2026-05-20T09:28:53.000Z",
+      "score": 36,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "9139e98e0da696451740df1803e442422298893be2f4cbd8bff5209218eff4b2",
+      "source": "The Hacker News",
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+      "publishedAt": "2026-05-20T17:06:54.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-21T01:12:10.118Z"
+  }
+}

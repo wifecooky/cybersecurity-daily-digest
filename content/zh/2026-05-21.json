@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-21",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "d9f4fad47699131c298d8367ff50847ad1c67e897be4f7d2104b292a3b1b1414",
+      "source": "Dark Reading",
+      "title": "GitHub确认数据泄露，4000个内部仓库被盗",
+      "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
+      "summary": "开源软件巨头GitHub本周确认发生数据泄露，涉及数千个仓库被盗。一名威胁行为者——TeamPCP——宣称对此负责。",
+      "publishedAt": "2026-05-20T20:51:32.000Z",
+      "score": 58,
+      "relatedCount": 4,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with operational impact",
+      "suggestedTitle": "GitHub数据泄露：因令牌管理不当导致4000个仓库被攻破",
+      "suggestedSummary": "GitHub确认发生数据泄露，涉及因员工设备被攻破和GitHub工作流令牌未及时轮换而导致的4000个内部仓库被盗。此次泄露与一个恶意的Visual Studio Code扩展有关。安全团队应立即审查访问控制和令牌管理实践，以防止类似事件发生。此事件强调了健全的令牌轮换政策和员工设备安全措施的关键性。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c885f44495b77c9188525d530e336f5d16e43f9a5e55a57b85e74a40f2112e34",
+      "source": "The Hacker News",
+      "title": "微软发布YellowKey BitLocker绕过漏洞CVE-2026-45585的缓解措施",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "微软于周二发布了针对名为YellowKey的BitLocker绕过漏洞的缓解措施，此前该漏洞于上周被公开披露。",
+      "publishedAt": "2026-05-20T08:28:26.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        16,
+        19
+      ],
+      "reason": "Zero-day vulnerability mitigation",
+      "suggestedTitle": "发布YellowKey Windows BitLocker绕过漏洞的缓解措施",
+      "suggestedSummary": "微软已发布针对CVE-2026-45585的缓解措施，这是一种被称为YellowKey的零日漏洞，允许攻击者绕过Windows系统上的BitLocker加密。该漏洞影响使用特定BitLocker配置的系统，可能会暴露敏感数据。安全团队应立即应用这些缓解措施，并检查其BitLocker设置，以确保不易受到此漏洞的攻击。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "57a3b68bc8eb7f34538471def1f7477712b2158398b6587a59fa828abfce7f25",
+      "source": "BleepingComputer",
+      "title": "黑客因补丁不完整绕过SonicWall VPN MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "威胁行为者通过暴力破解VPN凭证，并绕过SonicWall Gen6 SSL-VPN设备上的多因素认证（MFA），以部署用于勒索软件攻击的工具。[...]",
+      "publishedAt": "2026-05-20T21:19:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        18
+      ],
+      "reason": "VPN security issue with active exploitation",
+      "suggestedTitle": "SonicWall VPN MFA因补丁不完整被绕过",
+      "suggestedSummary": "威胁行为者利用不完整的补丁，通过暴力破解VPN凭证绕过了SonicWall VPN上的多因素认证（MFA）。这一漏洞突显了彻底补丁管理的重要性以及在MFA之外需要额外安全措施的必要性。使用SonicWall VPN的安全团队应确保所有补丁完全应用，并考虑实施额外的安全层，如网络分段和异常检测。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a135a1a7f39c58ab4d3f0e83ab64df10c607d64ee947be2bccf298d9f803edfe",
+      "source": "The Hacker News",
+      "title": "Grafana GitHub 数据泄露通过 TanStack npm 攻击暴露源代码",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs 于 2026 年 5 月 19 日表示，对其最近的安全漏洞进行的调查发现没有证据表明客户的生产系统或运营受到影响。 事件的范围仅限于 Grafana Labs 的 GitHub 环境，其中包括公共和私人源代码以及内部 GitHub 存储库。",
+      "publishedAt": "2026-05-20T05:12:06.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "80a19b0e749d28470ddda1371d77e575237bbcc69f8ca5f44c0341652368e56f",
+      "source": "BleepingComputer",
+      "title": "GitHub确认通过恶意VSCode扩展入侵3,800个仓库",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub已确认，大约3,800个内部仓库在其一名员工安装了恶意VS Code扩展后被入侵。[...]",
+      "publishedAt": "2026-05-20T08:14:08.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "95f43acf0076ee7b3d56fc95d88c6ef37333b925ac0bfc6c99c0fbd9c15ba58e",
+      "source": "Google News Security",
+      "title": "GitHub确认黑客攻击影响3,800个内部代码库 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEM5X21tSE5RSTFWWlpyZEFKNFlpaDQtSHg4WTRrRS1TbGM3dWxSSVhob0hHa2V3SElEbFU3Zl8yQU9OdGZvaGlsNEdhWE1sTWozdHdKUDEtTnFta01QclczTC0yYi1jMHNUc3Z3cEpKUlBWb3dXaUkwRmJMVzF5ekRNdThVUmNWcXVQVFdDUE3SAZYBQVVfeXFMTk5uOVVodXVsamNTWjBiOXJPVm5QRnU4VkRrUVJMeDZyMS14dU1WVWVQSTVLYjFsRTFmME1aanNza1RRTFVEcE0tYWJ2eHlVdUp4V2pNYW5DMWwtdzBWTXVQWGtVY21LdDJwV0lCOTdUZzVHdW80WjRORmZQcHJJRjFNRHNia1pGQWtxbGV3Rm4zV3hCdnZB?oc=5",
+      "summary": "GitHub确认黑客攻击影响3,800个内部代码库  SecurityWeek",
+      "publishedAt": "2026-05-20T09:28:53.000Z",
+      "score": 36,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "9139e98e0da696451740df1803e442422298893be2f4cbd8bff5209218eff4b2",
+      "source": "The Hacker News",
+      "title": "微软开源RAMPART和Clarity以确保AI代理在开发过程中的安全",
+      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "微软推出了两个名为RAMPART和Clarity的新开源工具，以帮助开发者更好地测试人工智能（AI）代理的安全性。RAMPART，全称为代理红队风险评估和测量平台，作为一个Pytest原生的安全测试框架，用于编写和运行AI代理的安全测试。",
+      "publishedAt": "2026-05-20T17:06:54.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-21T01:12:14.208Z"
+  }
+}

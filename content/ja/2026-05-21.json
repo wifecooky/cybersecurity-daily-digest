@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-21",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "d9f4fad47699131c298d8367ff50847ad1c67e897be4f7d2104b292a3b1b1414",
+      "source": "Dark Reading",
+      "title": "GitHub、侵害を確認、4Kの内部リポジトリが盗まれる",
+      "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
+      "summary": "オープンソースソフトウェアの巨人GitHubは、今週、数千のリポジトリの盗難を伴うデータ侵害を確認しました。脅威アクターの1つであるTeamPCPが犯行声明を出しました。",
+      "publishedAt": "2026-05-20T20:51:32.000Z",
+      "score": 58,
+      "relatedCount": 4,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major breach with operational impact",
+      "suggestedTitle": "GitHub侵害：トークン管理ミスによる4Kリポジトリの漏洩",
+      "suggestedSummary": "GitHubは、従業員デバイスの侵害とGitHubワークフロートークンの回転ミスにより、4,000の内部リポジトリが盗まれるデータ侵害を確認しました。この侵害は悪意のあるVisual Studio Code拡張機能に関連付けられています。セキュリティチームは、同様の事件を防ぐために、アクセス制御とトークン管理の実践を直ちに見直すべきです。この事件は、強固なトークン回転ポリシーと従業員デバイスのセキュリティ対策の重要性を強調しています。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "c885f44495b77c9188525d530e336f5d16e43f9a5e55a57b85e74a40f2112e34",
+      "source": "The Hacker News",
+      "title": "Microsoft、YellowKey BitLockerバイパスCVE-2026-45585エクスプロイトの緩和策をリリース",
+      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "Microsoftは火曜日に、先週公に公開されたBitLockerバイパス脆弱性「YellowKey」に対する緩和策をリリースしました。このゼロデイ脆弱性は、現在CVE-2026-45585として追跡されており、CVSSスコアは6.8です。BitLockerのセキュリティ機能バイパスとして説明されています。「Microsoftは、Windowsにおける『YellowKey』として公に知られているセキュリティ機能バイパス脆弱性を認識しています。」",
+      "publishedAt": "2026-05-20T08:28:26.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        16,
+        19
+      ],
+      "reason": "Zero-day vulnerability mitigation",
+      "suggestedTitle": "YellowKey Windows BitLockerバイパス脆弱性の緩和策がリリースされる",
+      "suggestedSummary": "Microsoftは、Windowsシステム上でBitLocker暗号化をバイパスすることを可能にするゼロデイ脆弱性、YellowKeyとして知られるCVE-2026-45585に対する緩和策をリリースしました。この脆弱性は特定のBitLocker設定を使用するシステムに影響を与え、機密データを露出する可能性があります。セキュリティチームは直ちに緩和策を適用し、BitLocker設定を確認してこのエクスプロイトに対して脆弱でないことを確認する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "57a3b68bc8eb7f34538471def1f7477712b2158398b6587a59fa828abfce7f25",
+      "source": "BleepingComputer",
+      "title": "ハッカーが不完全なパッチ適用によりSonicWall VPNのMFAを回避",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "脅威アクターがSonicWall Gen6 SSL-VPNアプライアンスでVPNの資格情報をブルートフォース攻撃し、多要素認証（MFA）を回避してランサムウェア攻撃に使用されるツールを展開しました。[...]",
+      "publishedAt": "2026-05-20T21:19:17.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        18
+      ],
+      "reason": "VPN security issue with active exploitation",
+      "suggestedTitle": "不完全なパッチ適用によりSonicWall VPNのMFAが回避される",
+      "suggestedSummary": "脅威アクターは不完全なパッチを悪用して、SonicWall VPNの多要素認証（MFA）をブルートフォース攻撃で回避しました。この脆弱性は、徹底したパッチ管理の重要性と、MFAを超えた追加のセキュリティ対策の必要性を浮き彫りにしています。SonicWall VPNを使用するセキュリティチームは、すべてのパッチが完全に適用されていることを確認し、ネットワークセグメンテーションや異常検知などの追加のセキュリティ層の実装を検討すべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a135a1a7f39c58ab4d3f0e83ab64df10c607d64ee947be2bccf298d9f803edfe",
+      "source": "The Hacker News",
+      "title": "Grafana GitHubの侵害により、TanStack npm攻撃を通じてソースコードが露出",
+      "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labsは、2026年5月19日に、最近の侵害に関する調査において、顧客の本番システムや運用が侵害された証拠は見つからなかったと発表しました。 この事件の範囲は、Grafana LabsのGitHub環境に限定されており、これには公開および非公開のソースコードと内部のGitHubリポジトリが含まれています。",
+      "publishedAt": "2026-05-20T05:12:06.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "80a19b0e749d28470ddda1371d77e575237bbcc69f8ca5f44c0341652368e56f",
+      "source": "BleepingComputer",
+      "title": "GitHub、悪意のあるVSCode拡張機能を介して3,800のリポジトリが侵害されたことを確認",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHubは、従業員の一人が悪意のあるVS Code拡張機能をインストールした後、約3,800の内部リポジトリが侵害されたことを確認しました。[...]",
+      "publishedAt": "2026-05-20T08:14:08.000Z",
+      "score": 38,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "95f43acf0076ee7b3d56fc95d88c6ef37333b925ac0bfc6c99c0fbd9c15ba58e",
+      "source": "Google News Security",
+      "title": "GitHub、3,800の内部リポジトリに影響を与えるハッキングを確認 - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEM5X21tSE5RSTFWWlpyZEFKNFlpaDQtSHg4WTRrRS1TbGM3dWxSSVhob0hHa2V3SElEbFU3Zl8yQU9OdGZvaGlsNEdhWE1sTWozdHdKUDEtTnFta01QclczTC0yYi1jMHNUc3Z3cEpKUlBWb3dXaUkwRmJMVzF5ekRNdThVUmNWcXVQVFdDUE3SAZYBQVVfeXFMTk5uOVVodXVsamNTWjBiOXJPVm5QRnU4VkRrUVJMeDZyMS14dU1WVWVQSTVLYjFsRTFmME1aanNza1RRTFVEcE0tYWJ2eHlVdUp4V2pNYW5DMWwtdzBWTXVQWGtVY21LdDJwV0lCOTdUZzVHdW80WjRORmZQcHJJRjFNRHNia1pGQWtxbGV3Rm4zV3hCdnZB?oc=5",
+      "summary": "GitHub、3,800の内部リポジトリに影響を与えるハッキングを確認  SecurityWeek",
+      "publishedAt": "2026-05-20T09:28:53.000Z",
+      "score": 36,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "9139e98e0da696451740df1803e442422298893be2f4cbd8bff5209218eff4b2",
+      "source": "The Hacker News",
+      "title": "Microsoft、AIエージェントの開発中のセキュリティを強化するためにRAMPARTとClarityをオープンソース化",
+      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "Microsoftは、人工知能（AI）エージェントのセキュリティテストをより良く行うために、RAMPARTとClarityという2つの新しいオープンソースツールを発表しました。RAMPARTは、エージェントのレッドチーミングのためのリスク評価と測定プラットフォームの略で、Pytestネイティブの安全性とセキュリティテストフレームワークとして機能し、AIエージェントの安全性とセキュリティテストを作成および実行します。",
+      "publishedAt": "2026-05-20T17:06:54.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-21T01:12:19.306Z"
+  }
+}
