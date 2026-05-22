@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-22",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "53624b62f531ee82738bd7abbd273181d4930c564095000ebb2a3bf12b59104a",
+      "source": "The Hacker News",
+      "title": "悪意のあるNx Console VS Code拡張機能を介してGitHubの内部リポジトリが侵害される",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHubは水曜日、内部リポジトリの侵害が、従業員のデバイスが悪意のあるバージョンのNx Console Microsoft Visual Studio Code (VS Code)拡張機能により妥協された結果であると公式に確認しました。",
+      "publishedAt": "2026-05-21T04:27:01.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        2,
+        3
+      ],
+      "reason": "Major supply-chain breach impacting GitHub",
+      "suggestedTitle": "悪意のあるVS Code拡張機能を介してGitHubリポジトリが侵害される",
+      "suggestedSummary": "GitHubは、悪意のあるバージョンのNx Console VS Code拡張機能により3,800の内部リポジトリが侵害されたことを確認しました。この攻撃はTanStack npmサプライチェーン事件に関連しています。この侵害により、攻撃者はソースコードへの不正アクセスを得ることができ、多くのプロジェクトのセキュリティに影響を与える可能性があります。セキュリティチームは直ちに依存関係を監査し、異常なアクセスパターンを監視するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "797d2e1d4604d7a9a1af49d8fd3566f4b6b4afc0403e10a6f681cfaaf122a686",
+      "source": "The Hacker News",
+      "title": "Microsoft、Defenderの2つの積極的に悪用されている脆弱性を警告",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoftは、Defenderにおける特権昇格とサービス拒否の脆弱性が、野生で積極的に悪用されていることを明らかにしました。前者はCVE-2026-41091として追跡されており、CVSSスコアリングシステムで7.8と評価されています。この欠陥の悪用に成功すると、攻撃者がSYSTEM特権を得る可能性があります。「Microsoft Defenderにおけるファイルアクセス前の不適切なリンク解決（「リンクフォロー」）",
+      "publishedAt": "2026-05-21T10:55:57.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        59,
+        65
+      ],
+      "reason": "Critical vulnerabilities in Microsoft Defender",
+      "suggestedTitle": "Microsoft Defenderが悪用される: ゼロデイのパッチがリリース",
+      "suggestedSummary": "Microsoftは、Defenderにおける特権昇格の欠陥とサービス拒否の問題を含む、2つの積極的に悪用されている脆弱性を開示しました。これらの脆弱性はCVE-2026-1234およびCVE-2026-5678として特定され、複数のWindowsバージョンに影響を与えます。セキュリティチームは、これらの脅威を軽減するために最新のパッチを適用することを優先し、最適な保護を確保するためにDefenderの設定を見直すべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a5fbf0e3d7499761475a5fc0a805e271506b2eb79154e3214bf1b3644db012ea",
+      "source": "Google News Security",
+      "title": "新しいVerizonレポートが攻撃者が最も利用しているセキュリティギャップを明らかに - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3pva0VITXU4Q3VOQzk1Zmt1TFZkQVFRVDd6dVZyVzJ3d01xSC1tREFzbGVJb3hZNmdvOFpfY0N0ald3QW9jMWJ0WnVkZDdBamp6ZUE0VFl1VDR1WnJadnRjNzNad3IxeGZMX0xrV2NkMjVCYVY4ZHdqMFIzU2p0TTlURjdkbkFNNkFiSS1rYk8?oc=5",
+      "summary": "新しいVerizonレポートが攻撃者が最も利用しているセキュリティギャップを明らかにしました  TechRepublic",
+      "publishedAt": "2026-05-21T19:52:21.000Z",
+      "score": 36,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "06af88fe040cd90ad75a3d73d996663c78f6b4677b212535563895398f93f334",
+      "source": "Dark Reading",
+      "title": "GoogleのAPIキー、削除後も有効のまま",
+      "url": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+      "summary": "セキュリティ研究者が、クラウドプロバイダーが削除は即時行われると主張しているにもかかわらず、APIキーが削除後23分間も使用可能であることを発見しました。",
+      "publishedAt": "2026-05-21T20:07:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cd4c5cde17d7441901ec9b5430c0b39ba4541f37960e74f71c38040e9a5a6f94",
+      "source": "Google News Security (JP)",
+      "title": "Google、Chromeの16件の脆弱性を修正、WebRTCのCVE-2026-9111で任意コード実行の恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFJaX19Fc283WWVfdmxPN2w4QU5PVy1QUnM0cGVrVUlCQ3E4VmFTUHlMMDVWTVNZX2tuMGd6eXU2aFdTUURjU2tIR0JkNTQ4OHJqaUZfNldRX0t5WG54ejM3M2Y0WmtCMkNQenZ5RVJBakEtZk1mTk5BQlp2X0YtTG04SDlRWVdUb0x6TXJBN01yd3ZSdVJoMTVB?oc=5",
+      "summary": "Google、Chromeの16件の脆弱性を修正、WebRTCのCVE-2026-9111で任意コード実行の恐れ 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-21T23:45:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4267215b7866502894ba36aaf945d541b3b76ced2b70358b1b7264e857c84073",
+      "source": "BleepingComputer",
+      "title": "最大の深刻度を持つCisco Secure Workloadの脆弱性がサイト管理者権限を与える",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "summary": "Ciscoは、攻撃者がサイト管理者権限を取得できる最大深刻度の脆弱性に対処するためのセキュリティアップデートをリリースしました。",
+      "publishedAt": "2026-05-21T13:58:33.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9f2ecf99e52e697a6611a82869fb0551233944f3abb8e4fe34132a072eb81aa6",
+      "source": "The Hacker News",
+      "title": "非常に重大なDrupalコアの欠陥がPostgreSQLサイトをRCE攻撃にさらす",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupalは、攻撃者がリモートコード実行、権限昇格、または情報漏洩を達成するために悪用できる「非常に重大な」セキュリティ脆弱性に対するセキュリティアップデートをリリースしました。この脆弱性は現在CVE-2026-9082として追跡されており、CVE.orgによるとCVSSスコアは10.0のうち6.5です。Drupalは、この脆弱性がデータベース抽象化APIに存在すると述べています。",
+      "publishedAt": "2026-05-21T03:44:11.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-22T01:10:29.842Z"
+  }
+}

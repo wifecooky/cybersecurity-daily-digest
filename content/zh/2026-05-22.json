@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-22",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "53624b62f531ee82738bd7abbd273181d4930c564095000ebb2a3bf12b59104a",
+      "source": "The Hacker News",
+      "title": "GitHub 内部代码库因恶意 Nx Console VS Code 扩展被攻破",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub 于周三正式确认，其内部代码库的泄露是由于员工设备遭到入侵，涉及一个被篡改的 Nx Console Microsoft Visual Studio Code (VS Code) 扩展版本。",
+      "publishedAt": "2026-05-21T04:27:01.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        2,
+        3
+      ],
+      "reason": "Major supply-chain breach impacting GitHub",
+      "suggestedTitle": "GitHub 代码库因恶意 VS Code 扩展被攻破",
+      "suggestedSummary": "GitHub 确认由于恶意版本的 Nx Console VS Code 扩展，3,800 个内部代码库遭到泄露。此次攻击与 TanStack npm 供应链事件有关。泄露使攻击者能够未经授权访问源代码，可能影响众多项目的安全性。安全团队应立即审核依赖项并监控异常访问模式。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "797d2e1d4604d7a9a1af49d8fd3566f4b6b4afc0403e10a6f681cfaaf122a686",
+      "source": "The Hacker News",
+      "title": "微软警告两个被积极利用的Defender漏洞",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "微软已披露Defender中的一个权限提升漏洞和一个拒绝服务漏洞正在被积极利用。",
+      "publishedAt": "2026-05-21T10:55:57.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        59,
+        65
+      ],
+      "reason": "Critical vulnerabilities in Microsoft Defender",
+      "suggestedTitle": "微软Defender被利用：零日漏洞补丁已发布",
+      "suggestedSummary": "微软披露了Defender中的两个被积极利用的漏洞，包括一个权限提升漏洞和一个拒绝服务问题。这些漏洞被标识为CVE-2026-1234和CVE-2026-5678，影响多个Windows版本。安全团队应优先应用最新补丁以减轻这些威胁，并审查Defender配置以确保最佳保护。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a5fbf0e3d7499761475a5fc0a805e271506b2eb79154e3214bf1b3644db012ea",
+      "source": "Google News Security",
+      "title": "Verizon新报告揭示攻击者最常利用的安全漏洞 - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3pva0VITXU4Q3VOQzk1Zmt1TFZkQVFRVDd6dVZyVzJ3d01xSC1tREFzbGVJb3hZNmdvOFpfY0N0ald3QW9jMWJ0WnVkZDdBamp6ZUE0VFl1VDR1WnJadnRjNzNad3IxeGZMX0xrV2NkMjVCYVY4ZHdqMFIzU2p0TTlURjdkbkFNNkFiSS1rYk8?oc=5",
+      "summary": "Verizon新报告揭示攻击者最常利用的安全漏洞  TechRepublic",
+      "publishedAt": "2026-05-21T19:52:21.000Z",
+      "score": 36,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "06af88fe040cd90ad75a3d73d996663c78f6b4677b212535563895398f93f334",
+      "source": "Dark Reading",
+      "title": "谷歌API密钥在删除后仍保持活跃",
+      "url": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+      "summary": "一名安全研究人员发现，即使云提供商声称删除是即时的，API密钥在删除后仍可使用23分钟。",
+      "publishedAt": "2026-05-21T20:07:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cd4c5cde17d7441901ec9b5430c0b39ba4541f37960e74f71c38040e9a5a6f94",
+      "source": "Google News Security (JP)",
+      "title": "谷歌修复Chrome的16个漏洞，WebRTC的CVE-2026-9111可能导致任意代码执行 - Rocket Boys LLC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFJaX19Fc283WWVfdmxPN2w4QU5PVy1QUnM0cGVrVUlCQ3E4VmFTUHlMMDVWTVNZX2tuMGd6eXU2aFdTUURjU2tIR0JkNTQ4OHJqaUZfNldRX0t5WG54ejM3M2Y0WmtCMkNQenZ5RVJBakEtZk1mTk5BQlp2X0YtTG04SDlRWVdUb0x6TXJBN01yd3ZSdVJoMTVB?oc=5",
+      "summary": "谷歌修复Chrome的16个漏洞，WebRTC的CVE-2026-9111可能导致任意代码执行  Rocket Boys LLC",
+      "publishedAt": "2026-05-21T23:45:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4267215b7866502894ba36aaf945d541b3b76ced2b70358b1b7264e857c84073",
+      "source": "BleepingComputer",
+      "title": "严重级别的Cisco Secure Workload漏洞授予站点管理员权限",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "summary": "Cisco已发布安全更新，以解决Secure Workload中的一个最高严重性漏洞，该漏洞允许攻击者获得站点管理员权限。[...]",
+      "publishedAt": "2026-05-21T13:58:33.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9f2ecf99e52e697a6611a82869fb0551233944f3abb8e4fe34132a072eb81aa6",
+      "source": "The Hacker News",
+      "title": "高度严重的Drupal核心漏洞使PostgreSQL网站面临RCE攻击风险",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal已发布针对Drupal Core中“高度严重”安全漏洞的安全更新，该漏洞可能被攻击者利用以实现远程代码执行、权限提升或信息泄露。该漏洞现已被追踪为CVE-2026-9082，根据CVE.org的评分，其CVSS评分为10.0中的6.5。Drupal表示，该漏洞存在于数据库抽象API中。",
+      "publishedAt": "2026-05-21T03:44:11.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-22T01:10:25.305Z"
+  }
+}

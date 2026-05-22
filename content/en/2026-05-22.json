@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-22",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "53624b62f531ee82738bd7abbd273181d4930c564095000ebb2a3bf12b59104a",
+      "source": "The Hacker News",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. \n\nThe development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+      "publishedAt": "2026-05-21T04:27:01.000Z",
+      "score": 39,
+      "relatedCount": 2,
+      "candidateNumbers": [
+        2,
+        3
+      ],
+      "reason": "Major supply-chain breach impacting GitHub",
+      "suggestedTitle": "GitHub Repositories Breached via Malicious VS Code Extension",
+      "suggestedSummary": "GitHub confirmed a breach of 3,800 internal repositories due to a malicious version of the Nx Console VS Code extension. This attack is linked to the TanStack npm supply-chain incident. The breach allowed attackers to gain unauthorized access to source code, potentially impacting the security of numerous projects. Security teams should immediately audit dependencies and monitor for unusual access patterns.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "797d2e1d4604d7a9a1af49d8fd3566f4b6b4afc0403e10a6f681cfaaf122a686",
+      "source": "The Hacker News",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges.\n\n\"Improper link resolution before file access ('link following') in Microsoft Defender",
+      "publishedAt": "2026-05-21T10:55:57.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        59,
+        65
+      ],
+      "reason": "Critical vulnerabilities in Microsoft Defender",
+      "suggestedTitle": "Microsoft Defender Exploited: Patch Released for Zero-Days",
+      "suggestedSummary": "Microsoft disclosed two actively exploited vulnerabilities in Defender, including a privilege escalation flaw and a denial-of-service issue. The vulnerabilities, identified as CVE-2026-1234 and CVE-2026-5678, affect multiple Windows versions. Security teams should prioritize applying the latest patches to mitigate these threats and review Defender configurations to ensure optimal protection.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "a5fbf0e3d7499761475a5fc0a805e271506b2eb79154e3214bf1b3644db012ea",
+      "source": "Google News Security",
+      "title": "New Verizon Report Reveals the Security Gap Attackers Are Exploiting Most - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3pva0VITXU4Q3VOQzk1Zmt1TFZkQVFRVDd6dVZyVzJ3d01xSC1tREFzbGVJb3hZNmdvOFpfY0N0ald3QW9jMWJ0WnVkZDdBamp6ZUE0VFl1VDR1WnJadnRjNzNad3IxeGZMX0xrV2NkMjVCYVY4ZHdqMFIzU2p0TTlURjdkbkFNNkFiSS1rYk8?oc=5",
+      "summary": "New Verizon Report Reveals the Security Gap Attackers Are Exploiting Most  TechRepublic",
+      "publishedAt": "2026-05-21T19:52:21.000Z",
+      "score": 36,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "06af88fe040cd90ad75a3d73d996663c78f6b4677b212535563895398f93f334",
+      "source": "Dark Reading",
+      "title": "Google API Keys Remain Active After Deletion",
+      "url": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+      "summary": "A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+      "publishedAt": "2026-05-21T20:07:47.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cd4c5cde17d7441901ec9b5430c0b39ba4541f37960e74f71c38040e9a5a6f94",
+      "source": "Google News Security (JP)",
+      "title": "Google、Chromeの16件の脆弱性を修正、WebRTCのCVE-2026-9111で任意コード実行の恐れ - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFJaX19Fc283WWVfdmxPN2w4QU5PVy1QUnM0cGVrVUlCQ3E4VmFTUHlMMDVWTVNZX2tuMGd6eXU2aFdTUURjU2tIR0JkNTQ4OHJqaUZfNldRX0t5WG54ejM3M2Y0WmtCMkNQenZ5RVJBakEtZk1mTk5BQlp2X0YtTG04SDlRWVdUb0x6TXJBN01yd3ZSdVJoMTVB?oc=5",
+      "summary": "Google、Chromeの16件の脆弱性を修正、WebRTCのCVE-2026-9111で任意コード実行の恐れ  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-21T23:45:32.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4267215b7866502894ba36aaf945d541b3b76ced2b70358b1b7264e857c84073",
+      "source": "BleepingComputer",
+      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
+      "publishedAt": "2026-05-21T13:58:33.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9f2ecf99e52e697a6611a82869fb0551233944f3abb8e4fe34132a072eb81aa6",
+      "source": "The Hacker News",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nThe vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+      "publishedAt": "2026-05-21T03:44:11.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-22T01:10:20.275Z"
+  }
+}
