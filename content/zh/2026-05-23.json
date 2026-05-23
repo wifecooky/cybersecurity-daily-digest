@@ -1,0 +1,123 @@
+{
+  "date": "2026-05-23",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "2cc7dc3b4b947cf0fd966bc496815c2507843341df9d6cf2141afdaf90f3a2a7",
+      "source": "The Hacker News",
+      "title": "CISA 将被利用的 Langflow 和 Trend Micro Apex One 漏洞添加到 KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "美国网络安全和基础设施安全局 (CISA) 于周四将影响 Langflow 和 Trend Micro Apex One 的两个安全漏洞添加到其已知被利用漏洞 (KEV) 目录中，理由是有证据表明这些漏洞正在被积极利用。",
+      "publishedAt": "2026-05-22T05:47:33.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Active exploitation of vulnerabilities",
+      "suggestedTitle": "CISA 将 Langflow 和 Trend Micro Apex One 漏洞添加到 KEV",
+      "suggestedSummary": "美国网络安全和基础设施安全局 (CISA) 将 Langflow 和 Trend Micro Apex One 的漏洞添加到其已知被利用漏洞 (KEV) 目录中。Apex One 的零日漏洞在野外被积极利用，允许攻击者执行任意代码。使用这些产品的组织应优先修补漏洞，以减轻潜在威胁并减少其攻击面。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "93134ce871137882fbcfc0d17fd52a64fc49be24e6e13c416ae8316838b34b75",
+      "source": "The Hacker News",
+      "title": "全球打击行动中首个VPN被拆除，涉及25个勒索软件团伙",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "欧洲和北美的当局宣布拆除一个由犯罪分子使用的虚拟专用网络（VPN）服务，该服务被用于掩盖勒索软件攻击、数据盗窃、扫描和拒绝服务攻击的来源。",
+      "publishedAt": "2026-05-22T17:35:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        36
+      ],
+      "reason": "Law enforcement action against cybercrime",
+      "suggestedTitle": "全球拆除被25个勒索软件团伙使用的VPN",
+      "suggestedSummary": "欧洲和北美的当局拆除了一个被25个勒索软件团伙使用的犯罪VPN服务，拦截了流量并查封了域名。此次行动强调了监控促进网络犯罪活动的VPN服务的重要性。安全团队应审查其VPN使用政策，以确保合规并防止潜在的威胁行为者滥用。",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "716a7ac7f874d35fd81d3e1e9fcd590461e9f513a0c878762b200ecb7752dbf1",
+      "source": "The Hacker News",
+      "title": "巨齿鲨GitHub攻击针对5,561个仓库的恶意CI/CD工作流",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "网络安全研究人员披露了一项名为巨齿鲨的新自动化攻击活动的详细信息，该活动在六小时内向5,561个GitHub仓库推送了5,718个恶意提交。",
+      "publishedAt": "2026-05-22T11:55:24.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        62,
+        67
+      ],
+      "reason": "New attack techniques disclosed",
+      "suggestedTitle": "巨齿鲨活动针对GitHub仓库的恶意工作流",
+      "suggestedSummary": "一项名为巨齿鲨的新自动化攻击活动被披露，针对超过5,561个GitHub仓库的恶意CI/CD工作流。此活动对开源项目构成了重大威胁，因为它可能导致分发受损代码。开发人员应审计其CI/CD配置并实施安全措施以防御此类攻击。",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "fe883cd08a95f1671adeff74b0ce8221b320d1dde864a2b2d123473238200016",
+      "source": "Dark Reading",
+      "title": "Verizon DBIR：医疗行业抵御日益增加的社会工程攻击",
+      "url": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
+      "summary": "勒索软件和供应商漏洞仍然存在。《2026数据泄露调查报告》（DBIR）强调了不断演变的社会工程策略如何使该行业更加脆弱。",
+      "publishedAt": "2026-05-22T13:17:25.000Z",
+      "score": 53,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "e8ed64f41aaeddb2570f77b5044f5718a9185b347e77e2ed1f4ce2f51f59973c",
+      "source": "The Hacker News",
+      "title": "幽灵作家利用普罗米修斯网络钓鱼恶意软件针对乌克兰政府实体",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "据乌克兰国家安全与国防委员会（NSDC）观察，与白俄罗斯有关联的威胁行为者幽灵作家（又称UAC-0057和UNC1151）利用与乌克兰在线学习平台普罗米修斯相关的诱饵，针对该国的政府组织。根据乌克兰计算机应急响应小组（CERT-UA）的报告，该活动涉及向政府发送网络钓鱼电子邮件。",
+      "publishedAt": "2026-05-22T16:20:32.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2890769881cd6354bb3e2e0ae5d7d7570e6a30be9528f71c5f6eb35d415c1fb5",
+      "source": "The Hacker News",
+      "title": "思科修补CVSS 10.0安全工作负载REST API漏洞，允许数据访问",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "思科已经发布了针对影响Secure Workload的最高严重性安全漏洞的更新，该漏洞可能允许未经身份验证的远程攻击者访问敏感数据。该漏洞被追踪为CVE-2026-20223（CVSS评分：10.0），其起因是访问REST API端点时验证和认证不足。",
+      "publishedAt": "2026-05-22T05:36:18.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08faf05023235a50363d9a41d2fc1f3b7e8b0582e56d525a7be6c39e248170b5",
+      "source": "Google News Security",
+      "title": "黑客通过第三方供应商窃取德国医院的患者和账单数据 - 来自Recorded Future News的报道",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFcta1Vwa0dkVDBmSUk5M3VzYlQxdThHTUZobkxRV3hSUTJfMU1qUWRJbnNRaUdpQzdDUmxWU3RuTkJGNlBTNjdQaTZwT0x0RTQ2U3hUUWVtWC1fQkEzdldMRWhYRDlSQ2dVcWxab2pRUzE5cUJjY25DcFNES3htSw?oc=5",
+      "summary": "黑客通过第三方供应商窃取德国医院的患者和账单数据  来自Recorded Future News的报道",
+      "publishedAt": "2026-05-22T10:48:06.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-23T01:07:02.036Z"
+  }
+}

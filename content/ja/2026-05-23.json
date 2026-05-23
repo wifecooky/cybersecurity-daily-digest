@@ -1,0 +1,123 @@
+{
+  "date": "2026-05-23",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "2cc7dc3b4b947cf0fd966bc496815c2507843341df9d6cf2141afdaf90f3a2a7",
+      "source": "The Hacker News",
+      "title": "CISA、LangflowとTrend Micro Apex Oneの脆弱性をKEVに追加",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は木曜日、LangflowとTrend Micro Apex Oneに影響を与える2つのセキュリティ欠陥を、既知の悪用脆弱性（KEV）カタログに追加しました。これには、アクティブな悪用の証拠があるとされています。\n\n問題の脆弱性は以下の通りです -\n\nCVE-2025-34291（CVSSスコア: 9.4） - Langflowにおけるオリジン検証エラーの脆弱性で、",
+      "publishedAt": "2026-05-22T05:47:33.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Active exploitation of vulnerabilities",
+      "suggestedTitle": "CISA、LangflowとTrend Micro Apex Oneの脆弱性をKEVに追加",
+      "suggestedSummary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、LangflowとTrend Micro Apex Oneの脆弱性を既知の悪用脆弱性（KEV）カタログに追加しました。野外で積極的に悪用されているApex Oneのゼロデイ脆弱性は、攻撃者が任意のコードを実行することを可能にします。これらの製品を使用している組織は、潜在的な脅威を軽減し、攻撃面を減らすために、パッチ適用を優先するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "93134ce871137882fbcfc0d17fd52a64fc49be24e6e13c416ae8316838b34b75",
+      "source": "The Hacker News",
+      "title": "25のランサムウェアグループに利用されたVPNが世界的に摘発される",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "ヨーロッパと北アメリカの当局は、ランサムウェア攻撃、データ窃盗、スキャン、サービス拒否攻撃の発信元を隠すために犯罪者が利用していた犯罪用仮想プライベートネットワーク（VPN）サービスの解体を発表しました。",
+      "publishedAt": "2026-05-22T17:35:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        36
+      ],
+      "reason": "Law enforcement action against cybercrime",
+      "suggestedTitle": "25のランサムウェアグループに利用されたVPNの世界的摘発",
+      "suggestedSummary": "ヨーロッパと北アメリカの当局は、25のランサムウェアグループに利用された犯罪用VPNサービスを解体し、トラフィックを傍受し、ドメインを押収しました。この作戦は、サイバー犯罪活動を助長するVPNサービスの監視の重要性を浮き彫りにしています。セキュリティチームは、脅威アクターによる潜在的な悪用を防ぐために、VPN使用ポリシーを見直し、コンプライアンスを確保する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "716a7ac7f874d35fd81d3e1e9fcd590461e9f513a0c878762b200ecb7752dbf1",
+      "source": "The Hacker News",
+      "title": "メガロドンGitHub攻撃が5,561のリポジトリを悪意のあるCI/CDワークフローで標的に",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "サイバーセキュリティ研究者は、メガロドンと呼ばれる新しい自動化キャンペーンの詳細を公開しました。このキャンペーンは、6時間の間に5,561のGitHubリポジトリに5,718の悪意のあるコミットをプッシュしました。",
+      "publishedAt": "2026-05-22T11:55:24.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        62,
+        67
+      ],
+      "reason": "New attack techniques disclosed",
+      "suggestedTitle": "メガロドンキャンペーンが悪意のあるワークフローでGitHubリポジトリを標的に",
+      "suggestedSummary": "新しい自動攻撃キャンペーン、メガロドンが公開され、5,561以上のGitHubリポジトリを悪意のあるCI/CDワークフローで標的にしています。このキャンペーンは、オープンソースプロジェクトにとって重大な脅威を表しており、妥協したコードの配布につながる可能性があります。開発者は、自分のCI/CD設定を監査し、このような攻撃に対抗するためのセキュリティ対策を実施するべきです。",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "fe883cd08a95f1671adeff74b0ce8221b320d1dde864a2b2d123473238200016",
+      "source": "Dark Reading",
+      "title": "Verizon DBIR: 医療業界が増加するソーシャルエンジニアリング攻撃に対抗",
+      "url": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
+      "summary": "ランサムウェアとベンダーの侵害が続いています。「2026年データ侵害調査報告書」（DBIR）は、進化するソーシャルエンジニアリングの手法がこのセクターをより脆弱にしていることを強調しています。",
+      "publishedAt": "2026-05-22T13:17:25.000Z",
+      "score": 53,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "e8ed64f41aaeddb2570f77b5044f5718a9185b347e77e2ed1f4ce2f51f59973c",
+      "source": "The Hacker News",
+      "title": "ゴーストライター、プロメテウスフィッシングマルウェアでウクライナ政府機関を標的に",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "ベラルーシと関連のある脅威アクター、ゴーストライター（別名UAC-0057およびUNC1151ウクライナ国家安全保障・防衛会議）は、ウクライナのオンライン学習プラットフォーム「プロメテウス」に関連する誘引を使用して、同国の政府機関を標的にしていることが観察されています。この活動は、ウクライナのコンピュータ緊急対応チーム（CERT-UA）によると、政府機関にフィッシングメールを送信することを含んでいます。",
+      "publishedAt": "2026-05-22T16:20:32.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2890769881cd6354bb3e2e0ae5d7d7570e6a30be9528f71c5f6eb35d415c1fb5",
+      "source": "The Hacker News",
+      "title": "Cisco、データアクセスを可能にするCVSS 10.0のSecure Workload REST APIの脆弱性を修正",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Ciscoは、Secure Workloadに影響を与える最大深刻度のセキュリティ脆弱性に対するアップデートを展開しました。この脆弱性により、認証されていないリモート攻撃者が機密データにアクセスできる可能性があります。CVE-2026-20223（CVSSスコア: 10.0）として追跡されているこの脆弱性は、REST APIエンドポイントにアクセスする際の検証と認証が不十分であることに起因しています。「攻撃者は、この脆弱性を悪用することで、送信が可能であれば",
+      "publishedAt": "2026-05-22T05:36:18.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08faf05023235a50363d9a41d2fc1f3b7e8b0582e56d525a7be6c39e248170b5",
+      "source": "Google News Security",
+      "title": "ハッカーがドイツの病院から第三者プロバイダーを通じて患者と請求データを盗む - Recorded Future NewsのThe Record",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFcta1Vwa0dkVDBmSUk5M3VzYlQxdThHTUZobkxRV3hSUTJfMU1qUWRJbnNRaUdpQzdDUmxWU3RuTkJGNlBTNjdQaTZwT0x0RTQ2U3hUUWVtWC1fQkEzdldMRWhYRDlSQ2dVcWxab2pRUzE5cUJjY25DcFNES3htSw?oc=5",
+      "summary": "ハッカーがドイツの病院から第三者プロバイダーを通じて患者と請求データを盗む - Recorded Future NewsのThe Record",
+      "publishedAt": "2026-05-22T10:48:06.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-23T01:07:07.866Z"
+  }
+}

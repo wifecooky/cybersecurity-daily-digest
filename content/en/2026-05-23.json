@@ -1,0 +1,123 @@
+{
+  "date": "2026-05-23",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "2cc7dc3b4b947cf0fd966bc496815c2507843341df9d6cf2141afdaf90f3a2a7",
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "publishedAt": "2026-05-22T05:47:33.000Z",
+      "score": 49,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        4,
+        6
+      ],
+      "reason": "Active exploitation of vulnerabilities",
+      "suggestedTitle": "CISA Adds Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "suggestedSummary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added vulnerabilities in Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog. The Apex One zero-day, actively exploited in the wild, allows attackers to execute arbitrary code. Organizations using these products should prioritize patching to mitigate potential threats and reduce their attack surface.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "93134ce871137882fbcfc0d17fd52a64fc49be24e6e13c416ae8316838b34b75",
+      "source": "The Hacker News",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.\n\nThe disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December",
+      "publishedAt": "2026-05-22T17:35:02.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        29,
+        36
+      ],
+      "reason": "Law enforcement action against cybercrime",
+      "suggestedTitle": "Global Takedown of VPN Used by 25 Ransomware Groups",
+      "suggestedSummary": "Authorities in Europe and North America dismantled a criminal VPN service used by 25 ransomware groups, intercepting traffic and seizing domains. This operation highlights the importance of monitoring VPN services that facilitate cybercriminal activities. Security teams should review their VPN usage policies to ensure compliance and prevent potential misuse by threat actors.",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "716a7ac7f874d35fd81d3e1e9fcd590461e9f513a0c878762b200ecb7752dbf1",
+      "source": "The Hacker News",
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
+      "publishedAt": "2026-05-22T11:55:24.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        62,
+        67
+      ],
+      "reason": "New attack techniques disclosed",
+      "suggestedTitle": "Megalodon Campaign Targets GitHub Repos with Malicious Workflows",
+      "suggestedSummary": "A new automated attack campaign, Megalodon, has been disclosed, targeting over 5,561 GitHub repositories with malicious CI/CD workflows. This campaign represents a significant threat to open-source projects, as it can lead to the distribution of compromised code. Developers should audit their CI/CD configurations and implement security measures to defend against such attacks.",
+      "relatedSources": [
+        "The Hacker News",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "fe883cd08a95f1671adeff74b0ce8221b320d1dde864a2b2d123473238200016",
+      "source": "Dark Reading",
+      "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
+      "url": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
+      "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+      "publishedAt": "2026-05-22T13:17:25.000Z",
+      "score": 53,
+      "relatedCount": 3,
+      "category": "quickNews"
+    },
+    {
+      "id": "e8ed64f41aaeddb2570f77b5044f5718a9185b347e77e2ed1f4ce2f51f59973c",
+      "source": "The Hacker News",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.\n\nThe activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+      "publishedAt": "2026-05-22T16:20:32.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2890769881cd6354bb3e2e0ae5d7d7570e6a30be9528f71c5f6eb35d415c1fb5",
+      "source": "The Hacker News",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.\n\n\"An attacker could exploit this vulnerability if they are able to send",
+      "publishedAt": "2026-05-22T05:36:18.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08faf05023235a50363d9a41d2fc1f3b7e8b0582e56d525a7be6c39e248170b5",
+      "source": "Google News Security",
+      "title": "Hackers steal patient and billing data from German hospitals via third-party provider - The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFcta1Vwa0dkVDBmSUk5M3VzYlQxdThHTUZobkxRV3hSUTJfMU1qUWRJbnNRaUdpQzdDUmxWU3RuTkJGNlBTNjdQaTZwT0x0RTQ2U3hUUWVtWC1fQkEzdldMRWhYRDlSQ2dVcWxab2pRUzE5cUJjY25DcFNES3htSw?oc=5",
+      "summary": "Hackers steal patient and billing data from German hospitals via third-party provider  The Record from Recorded Future News",
+      "publishedAt": "2026-05-22T10:48:06.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-23T01:06:48.546Z"
+  }
+}
