@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-24",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "70f76b66278b583f7deeab399793a0a21e72f2a28602f64b5f3ae83b6747b0a9",
+      "source": "BleepingComputer",
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+      "publishedAt": "2026-05-23T20:48:23.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major supply chain attacks",
+      "suggestedTitle": "Supply Chain Attacks Target Laravel and Charter Communications",
+      "suggestedSummary": "A significant supply chain attack has compromised Laravel Lang localization packages, deploying credential-stealing malware affecting developers. Concurrently, Charter Communications confirmed a data breach threatening exposure of 42 million records. These incidents underscore vulnerabilities in software supply chains and the critical need for stringent security measures to protect sensitive data and prevent unauthorized access.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0e9e3afb74597e81ede1312ccb41dc1187c49ed2eaee74fec389592db293df84",
+      "source": "The Hacker News",
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
+      "publishedAt": "2026-05-23T11:55:35.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "89e2081d8cf4d4658040d5d837717c4eb0a95a6a15a2e088cbd2483de0b6e27c",
+      "source": "The Hacker News",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+      "publishedAt": "2026-05-23T16:35:10.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "529731486d2897ad743accdee1bd66419fb9eddbc762a669e86c4658d24d29bd",
+      "source": "The Hacker News",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.\n\n\"Drupal Core",
+      "publishedAt": "2026-05-23T07:23:48.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ec9248b7a21a7a5df6fc052173e4b5453d2cafb057097ebbd474b344c3b93de4",
+      "source": "The Hacker News",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.\n\n\"Any cPanel user (including an attacker or a compromised account) may",
+      "publishedAt": "2026-05-23T07:35:13.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-24T01:11:48.432Z"
+  }
+}

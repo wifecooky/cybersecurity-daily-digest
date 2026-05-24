@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-24",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "70f76b66278b583f7deeab399793a0a21e72f2a28602f64b5f3ae83b6747b0a9",
+      "source": "BleepingComputer",
+      "title": "Laravel Langパッケージがハイジャックされ、資格情報を盗むマルウェアを展開",
+      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "summary": "Laravel Langローカライゼーションパッケージを標的としたサプライチェーン攻撃により、開発者は高度な資格情報窃取マルウェアキャンペーンにさらされました。攻撃者はGitHubのバージョンタグを悪用し、Composerパッケージを通じて悪意のあるコードを配布しました。[...]",
+      "publishedAt": "2026-05-23T20:48:23.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        5
+      ],
+      "reason": "Major supply chain attacks",
+      "suggestedTitle": "サプライチェーン攻撃がLaravelとCharter Communicationsを標的に",
+      "suggestedSummary": "重大なサプライチェーン攻撃により、Laravel Langローカライゼーションパッケージが侵害され、開発者に資格情報窃取マルウェアが展開されました。同時に、Charter Communicationsは4,200万件の記録の露出を脅かすデータ侵害を確認しました。これらの事件は、ソフトウェアサプライチェーンの脆弱性と、機密データを保護し不正アクセスを防ぐための厳格なセキュリティ対策の必要性を浮き彫りにしています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "0e9e3afb74597e81ede1312ccb41dc1187c49ed2eaee74fec389592db293df84",
+      "source": "The Hacker News",
+      "title": "クロード・ミュートスAI、広く使用されるソフトウェアで10,000件の高深刻度の欠陥を発見",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "summary": "Anthropicは金曜日に、サイバーセキュリティイニシアチブが先月開始されて以来、Project Glasswingが世界中で「システム的に」重要なソフトウェアにおいて10,000件以上の高深刻度または重大な脆弱性を発見したことを明らかにしました。Project Glasswingは、人工知能（AI）企業によって開始された防御的な取り組みで、重要なグローバルソフトウェアを保護することを目的としています。",
+      "publishedAt": "2026-05-23T11:55:35.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "89e2081d8cf4d4658040d5d837717c4eb0a95a6a15a2e088cbd2483de0b6e27c",
+      "source": "The Hacker News",
+      "title": "npm、サプライチェーン攻撃に対抗するための2FAゲート付きの公開およびパッケージインストール制御を追加",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHubは、ソフトウェアサプライチェーンのセキュリティを向上させるために、npmに新しい制御を導入しました。これにより、メンテナーはパッケージがインストール可能になる前にリリースを明示的に承認することができます。\n\nステージドパブリッシングと呼ばれるこの機能は、npmで一般利用可能になりました。これは、ヒューマンメンテナーが2要素認証（2FA）チャレンジを通過して承認することを義務付けています。",
+      "publishedAt": "2026-05-23T16:35:10.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "529731486d2897ad743accdee1bd66419fb9eddbc762a669e86c4658d24d29bd",
+      "source": "The Hacker News",
+      "title": "Drupal CoreのSQLインジェクションバグが積極的に悪用され、CISA KEVに追加される",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャ安全保障庁（CISA）は、Drupal Coreに影響を与える最近修正された重大なセキュリティ欠陥を、既知の悪用された脆弱性（KEV）カタログに追加しました。これは、積極的な悪用の証拠に基づいています。問題の脆弱性はCVE-2026-9082（CVSSスコア：6.5）で、すべてのサポートされているバージョンのDrupal Coreに影響を与えるSQLインジェクションの脆弱性です。",
+      "publishedAt": "2026-05-23T07:23:48.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ec9248b7a21a7a5df6fc052173e4b5453d2cafb057097ebbd474b344c3b93de4",
+      "source": "The Hacker News",
+      "title": "LiteSpeed cPanelプラグインCVE-2026-48172がルートとしてスクリプトを実行するために悪用される",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "LiteSpeedユーザーエンドcPanelプラグインに影響を与える最大深刻度のセキュリティ脆弱性が、野放しの状態で積極的に悪用されています。この欠陥はCVE-2026-48172（CVSSスコア：10.0）として追跡されており、攻撃者が任意のスクリプトを昇格した権限で実行するために悪用できる不正な権限割り当てのインスタンスに関連しています。",
+      "publishedAt": "2026-05-23T07:35:13.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-24T01:11:55.894Z"
+  }
+}
