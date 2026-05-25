@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-25",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "3de1040cbabb3fa51bae687e83664eb08d1d03a57aea7e371ecb8ed31f0150d8",
+      "source": "Google News Security",
+      "title": "7-Eleven数据泄露暴露特许经营申请者的社会安全号码：ShinyHunters公布被盗文件 - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzFCMHNXOF9HcW5tQ1dCYjRRQk9TbUg4dnlFcXpScnpYc1MxU0hSQ0RlQUVyVU1Ednc3LUVOcUF1dElxRzN6SnVuZVp0WGZhMkJ1cnlaaF9IZm9LSDVwbkU5XzdxeHFWT2t4d3lIa3YwcmZLWkRLc2pZb1V1bXpWTm9YcjdCM2hqbndpWGwzdWlodzA2VHp6NDNleFJRYmFMYzJmcmVPODJHazVDSk82SFhpR0xXSjR5VUlReTlhUVBPSkVKR0t5V3VFRkYwM3FUZDdobUNUZmtBLWQzdFpWYnJDM1g?oc=5",
+      "summary": "7-Eleven数据泄露暴露特许经营申请者的社会安全号码：ShinyHunters公布被盗文件 Tech Times",
+      "publishedAt": "2026-05-24T20:56:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        27
+      ],
+      "reason": "Major data breach and exploitation",
+      "suggestedTitle": "7-Eleven漏洞暴露SQL注入攻击中的敏感数据",
+      "suggestedSummary": "7-Eleven遭遇数据泄露，特许经营申请者的社会安全号码被ShinyHunters组织曝光。此次泄露与一个大规模活动有关，该活动利用了Ghost CMS中的一个关键SQL注入漏洞（CVE-2026-26980）。这一事件强调了保护网络应用程序免受SQL注入攻击的重要性，这种攻击可能导致重大数据泄露和潜在身份盗窃。",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ecd5c432cc8e09fc6b47736f22efb2150f159fd6670f0737baf071141d8b36f1",
+      "source": "Google News Security (JP)",
+      "title": "微软发布RedSun(CVE-2026-41091)和UnDefend(CVE-2026-45498)零日漏洞的紧急补丁，YellowKey(CVE-2026-45585)仅提供“缓解措施”|安全新闻的安全对策实验室 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEFvUEg1WVFtYjBMVGladFFRNFBnZzllUHhjbmxOVmZjMktDa1oyOWs1V1d4ZkxyR2xWa19PTkRDWHhTRmE5Qm16MVc3WVF4b2FWeUNkcWlPTS1GUnVTbTZUZFFDUDNTTWxrdnItekE1aGFRdF9CcjNHNUdWeWQ4cHRUUUhrMXRVYnlPTGUtTVhnYlNKYWx4SjUwQi0?oc=5",
+      "summary": "微软发布RedSun(CVE-2026-41091)和UnDefend(CVE-2026-45498)零日漏洞的紧急补丁，YellowKey(CVE-2026-45585)仅提供“缓解措施”|安全新闻的安全对策实验室  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-24T22:00:41.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17
+      ],
+      "reason": "Critical patches for zero-day vulnerabilities",
+      "suggestedTitle": "微软发布零日漏洞的紧急补丁",
+      "suggestedSummary": "微软已发布针对两个零日漏洞RedSun (CVE-2026-41091)和UnDefend (CVE-2026-45498)的紧急补丁，这些漏洞正在被积极利用。这些漏洞影响Windows系统，可能导致远程代码执行和权限提升。安全团队应优先应用这些补丁，以防止潜在的利用并减轻与这些关键漏洞相关的风险。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "7f4a2a89e4303adf9f5bae7bb9ba345c86218064d9c8ed6afe02e3d65bf69df4",
+      "source": "Google News Security",
+      "title": "梅森县风暴导致数据中心破损，导致社区被淹 - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2JJbnd0Xy1BcE83ZW1SdmxwSzZMRHMxWk1MSlFxOEpHeEVCQ3NWdUZ2cGhwa3VFS01yVEF6bExzWHU3ajRvNmRoWmFWRUt5OHZfWTg1RjhkY01pbi04VUhHVDFDTFBxdmlIQmtPcUxYakcwQlpUbW9XQXh1OUt4UDY3TjhWOU1MeDNRSjdvVFNTZDFHaVd6SmJPQU1idmdyWDBiVFJFOGt2NXhjY0dfWVVKSHpuQQ?oc=5",
+      "summary": "梅森县的风暴导致数据中心破损，导致社区被淹 - WCHS",
+      "publishedAt": "2026-05-24T23:14:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ac31804b6f7e84a4bf36cf91a985073fdc80a825b3a8be8fee2385e047b8dc5d",
+      "source": "Google News Security (CN)",
+      "title": "StubZero：谷歌云生产环境中的 RCE 漏洞 - 51CTO",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTl9CdmVkTzZrVDhhRE5HR0p3UTRjZnc0RHRBWXN6Qks0MGJDV3pzallkSElPQlNSYzc4N0dnT0Q2V1R2bnhKN2d2YllFVHF0WmpZ?oc=5",
+      "summary": "StubZero：谷歌云生产环境中的 RCE 漏洞  51CTO",
+      "publishedAt": "2026-05-24T21:10:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a282136e9ef174ddeb4662890423c85be23f280b11e550aa7d24f07ab1aa4abc",
+      "source": "Google News Security (JP)",
+      "title": "趋势科技 Apex One（本地版本）的零日漏洞 CVE-2026-34926 被用于网络攻击 - Rocket Boys 合同公司",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclFyX0dmVkJQODlXQkNDU00tVk9BcnpadFJvNUxkMm9aQVVZZXNnWHlENjNER19DQ0VCTTdHQ1ctTmZJdXYwc2pSX2VVa0Z4b2tsRkpXQ2pFakVORmN0Z3V6WHp4X2d4R19EMzgzQTNlekZQY0JzeWxaU2ZKc1JHLXpxSkFTUlVoSTlNTFNzdTNHSXVMTHpObg?oc=5",
+      "summary": "趋势科技 Apex One（本地版本）的零日漏洞 CVE-2026-34926 被用于网络攻击  Rocket Boys 合同公司",
+      "publishedAt": "2026-05-25T00:00:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e361835271d4f39d478b001595705db5190bbb00709a05e9a909018bc53807fa",
+      "source": "Google News Security (JP)",
+      "title": "NGINX Rift之后是“poolslip” NGINX最新版存在未修复的零日漏洞：上次修复不够充分 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQTVpYzFxUGFJRWZBRTE2a1B6WWVBY2F5QVlKLURGbDV4RVMyWTg2emVpb0lxWDlvNWFySzFZOGNuY2tNLTkwRVV0U09zOVhFN05SME9jZm9RRTE1ZU9uZktieHhqMXVxOG9fdUk3WUxBZw?oc=5",
+      "summary": "NGINX Rift之后是“poolslip” NGINX最新版存在未修复的零日漏洞：上次修复不够充分 ITmedia",
+      "publishedAt": "2026-05-24T22:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "716dfe99669b4b2b7b1acc3e08676b1b7b3895cff9bcf56674101ed41d8a5173",
+      "source": "Google News Security",
+      "title": "Substack数据泄露暴露电子邮件和电话号码 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJkbkVOcDRWQU1YLXgwOWNKbTBXYnBDVnlnWTZlX1pzaXNoQVpCRzhMaUNvcE1pNUpiblNGWXB0OXNYWlVuZjVqYTF3S1ltMHVZSDdRcVNxVG1DNHliSGVsRUtfOXV1eldta0l4eEIxckxqc2h0Z1J4cUtEX0JYaw?oc=5",
+      "summary": "Substack数据泄露暴露电子邮件和电话号码  AOL.com",
+      "publishedAt": "2026-05-24T18:34:56.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-25T01:13:17.116Z"
+  }
+}

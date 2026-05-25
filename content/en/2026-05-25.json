@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-25",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "3de1040cbabb3fa51bae687e83664eb08d1d03a57aea7e371ecb8ed31f0150d8",
+      "source": "Google News Security",
+      "title": "7-Eleven Data Breach Expose Franchise Applicants' Social Security Numbers: ShinyHunters Published Stolen Files - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzFCMHNXOF9HcW5tQ1dCYjRRQk9TbUg4dnlFcXpScnpYc1MxU0hSQ0RlQUVyVU1Ednc3LUVOcUF1dElxRzN6SnVuZVp0WGZhMkJ1cnlaaF9IZm9LSDVwbkU5XzdxeHFWT2t4d3lIa3YwcmZLWkRLc2pZb1V1bXpWTm9YcjdCM2hqbndpWGwzdWlodzA2VHp6NDNleFJRYmFMYzJmcmVPODJHazVDSk82SFhpR0xXSjR5VUlReTlhUVBPSkVKR0t5V3VFRkYwM3FUZDdobUNUZmtBLWQzdFpWYnJDM1g?oc=5",
+      "summary": "7-Eleven Data Breach Expose Franchise Applicants' Social Security Numbers: ShinyHunters Published Stolen Files  Tech Times",
+      "publishedAt": "2026-05-24T20:56:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        5,
+        27
+      ],
+      "reason": "Major data breach and exploitation",
+      "suggestedTitle": "7-Eleven Breach Exposes Sensitive Data in SQL Injection Exploit",
+      "suggestedSummary": "7-Eleven suffered a data breach where franchise applicants' Social Security Numbers were exposed by the ShinyHunters group. The breach is linked to a large-scale campaign exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS. This incident underscores the importance of securing web applications against SQL injection attacks, which can lead to significant data exposure and potential identity theft.",
+      "relatedSources": [
+        "Google News Security",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "ecd5c432cc8e09fc6b47736f22efb2150f159fd6670f0737baf071141d8b36f1",
+      "source": "Google News Security (JP)",
+      "title": "Microsoft、ゼロデイ 脆弱性のRedSun(CVE-2026-41091)とUnDefend(CVE-2026-45498)の緊急パッチを公開・YellowKey(CVE-2026-45585)は「緩和策のみ」|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEFvUEg1WVFtYjBMVGladFFRNFBnZzllUHhjbmxOVmZjMktDa1oyOWs1V1d4ZkxyR2xWa19PTkRDWHhTRmE5Qm16MVc3WVF4b2FWeUNkcWlPTS1GUnVTbTZUZFFDUDNTTWxrdnItekE1aGFRdF9CcjNHNUdWeWQ4cHRUUUhrMXRVYnlPTGUtTVhnYlNKYWx4SjUwQi0?oc=5",
+      "summary": "Microsoft、ゼロデイ 脆弱性のRedSun(CVE-2026-41091)とUnDefend(CVE-2026-45498)の緊急パッチを公開・YellowKey(CVE-2026-45585)は「緩和策のみ」|セキュリティニュースのセキュリティ対策Lab  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-24T22:00:41.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        17
+      ],
+      "reason": "Critical patches for zero-day vulnerabilities",
+      "suggestedTitle": "Microsoft Releases Emergency Patches for Zero-Day Vulnerabilities",
+      "suggestedSummary": "Microsoft has issued emergency patches for two zero-day vulnerabilities, RedSun (CVE-2026-41091) and UnDefend (CVE-2026-45498), which are being actively exploited. These vulnerabilities affect Windows systems and can lead to remote code execution and privilege escalation. Security teams should prioritize applying these patches to prevent potential exploitation and mitigate risks associated with these critical vulnerabilities.",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "7f4a2a89e4303adf9f5bae7bb9ba345c86218064d9c8ed6afe02e3d65bf69df4",
+      "source": "Google News Security",
+      "title": "Storms in Mason County cause breach at data center, resulting in flooded neighborhoods - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2JJbnd0Xy1BcE83ZW1SdmxwSzZMRHMxWk1MSlFxOEpHeEVCQ3NWdUZ2cGhwa3VFS01yVEF6bExzWHU3ajRvNmRoWmFWRUt5OHZfWTg1RjhkY01pbi04VUhHVDFDTFBxdmlIQmtPcUxYakcwQlpUbW9XQXh1OUt4UDY3TjhWOU1MeDNRSjdvVFNTZDFHaVd6SmJPQU1idmdyWDBiVFJFOGt2NXhjY0dfWVVKSHpuQQ?oc=5",
+      "summary": "Storms in Mason County cause breach at data center, resulting in flooded neighborhoods  WCHS",
+      "publishedAt": "2026-05-24T23:14:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ac31804b6f7e84a4bf36cf91a985073fdc80a825b3a8be8fee2385e047b8dc5d",
+      "source": "Google News Security (CN)",
+      "title": "StubZero：谷歌云生产环境中的 RCE 漏洞 - 51CTO",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yTl9CdmVkTzZrVDhhRE5HR0p3UTRjZnc0RHRBWXN6Qks0MGJDV3pzallkSElPQlNSYzc4N0dnT0Q2V1R2bnhKN2d2YllFVHF0WmpZ?oc=5",
+      "summary": "StubZero：谷歌云生产环境中的 RCE 漏洞  51CTO",
+      "publishedAt": "2026-05-24T21:10:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a282136e9ef174ddeb4662890423c85be23f280b11e550aa7d24f07ab1aa4abc",
+      "source": "Google News Security (JP)",
+      "title": "Trend Micro Apex One（オンプレミス版）のゼロデイ脆弱性 CVE-2026-34926がサイバー攻撃に悪用 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclFyX0dmVkJQODlXQkNDU00tVk9BcnpadFJvNUxkMm9aQVVZZXNnWHlENjNER19DQ0VCTTdHQ1ctTmZJdXYwc2pSX2VVa0Z4b2tsRkpXQ2pFakVORmN0Z3V6WHp4X2d4R19EMzgzQTNlekZQY0JzeWxaU2ZKc1JHLXpxSkFTUlVoSTlNTFNzdTNHSXVMTHpObg?oc=5",
+      "summary": "Trend Micro Apex One（オンプレミス版）のゼロデイ脆弱性 CVE-2026-34926がサイバー攻撃に悪用  合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-25T00:00:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e361835271d4f39d478b001595705db5190bbb00709a05e9a909018bc53807fa",
+      "source": "Google News Security (JP)",
+      "title": "NGINX Riftの次は“poolslip” NGINX最新版に未修正のゼロデイ：前回の修正では不十分 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MQTVpYzFxUGFJRWZBRTE2a1B6WWVBY2F5QVlKLURGbDV4RVMyWTg2emVpb0lxWDlvNWFySzFZOGNuY2tNLTkwRVV0U09zOVhFN05SME9jZm9RRTE1ZU9uZktieHhqMXVxOG9fdUk3WUxBZw?oc=5",
+      "summary": "NGINX Riftの次は“poolslip” NGINX最新版に未修正のゼロデイ：前回の修正では不十分  ITmedia",
+      "publishedAt": "2026-05-24T22:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "716dfe99669b4b2b7b1acc3e08676b1b7b3895cff9bcf56674101ed41d8a5173",
+      "source": "Google News Security",
+      "title": "Substack data breach exposes emails and phone numbers - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGJkbkVOcDRWQU1YLXgwOWNKbTBXYnBDVnlnWTZlX1pzaXNoQVpCRzhMaUNvcE1pNUpiblNGWXB0OXNYWlVuZjVqYTF3S1ltMHVZSDdRcVNxVG1DNHliSGVsRUtfOXV1eldta0l4eEIxckxqc2h0Z1J4cUtEX0JYaw?oc=5",
+      "summary": "Substack data breach exposes emails and phone numbers  AOL.com",
+      "publishedAt": "2026-05-24T18:34:56.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-25T01:13:13.387Z"
+  }
+}
