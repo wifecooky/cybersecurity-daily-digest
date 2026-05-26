@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-26",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "07b087e569e9874f1cb02141e9cc1900d0bfc3e60a0f5f95ba4dd051b7c9e226",
+      "source": "The Hacker News",
+      "title": "TrapDoorサプライチェーン攻撃がnpm、PyPI、CratesIOを通じて資格情報窃取マルウェアを拡散",
+      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "新たな協調的なクロスエコシステムのソフトウェアサプライチェーン攻撃キャンペーンが、資格情報窃取マルウェアを配布するためにnpm、PyPI、Crates.ioを標的にしました。",
+      "publishedAt": "2026-05-25T05:59:13.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Major supply chain attack affecting multiple ecosystems",
+      "suggestedTitle": "TrapDoorとMegalodonサプライチェーン攻撃が数千を危険にさらす",
+      "suggestedSummary": "TrapDoorとして知られる協調的なソフトウェアサプライチェーン攻撃キャンペーンが、npm、PyPI、CratesIOを標的にし、資格情報窃取マルウェアを拡散しています。同時に、悪意のあるCI/CDワークフローを含む'Megalodon'攻撃により、5,500以上のGitHubリポジトリが感染しました。これらの攻撃は、オープンソースエコシステムの脆弱性を浮き彫りにし、サードパーティコードの監視と検証の強化の必要性を強調しています。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "420eeed54bd42c85956c540193309bc2b8627191816a73f5e7a474d21d7b56ae",
+      "source": "Google News Security (JP)",
+      "title": "LiteSpeedのcPanelプラグインにCVSS 10.0のゼロデイ脆弱性 CVE-2026-48172が実際のサイバー攻撃で悪用",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTdvWElBZTZqa1V0R0dLem1RSWRSX1dFTnZ2NFRzTHk0VGxzUHFCUm5nOHV1bl85NzdWMDVrRnRPa3VRTGhhUzQ4ZUFxUnAyNjIzbWw1bU9tRzJKVHQtYXAwOTRSUXRRWXBZSzhJYzA5V1gxT3hxQzJ0WUwtWENQSEtZbFBxRVVrdlVIUmNldmlTcHFabUotNWY4MGI?oc=5",
+      "summary": "LiteSpeedのcPanelプラグインにCVSS 10.0のゼロデイ脆弱性 CVE-2026-48172が実際のサイバー攻撃で悪用 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-26T00:00:29.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        9
+      ],
+      "reason": "Critical zero-day vulnerability actively exploited",
+      "suggestedTitle": "LiteSpeed cPanelプラグインのゼロデイ脆弱性CVE-2026-48172の悪用",
+      "suggestedSummary": "CVSSスコア10.0の重大なゼロデイ脆弱性（CVE-2026-48172）がLiteSpeedのcPanelプラグインで発見されました。この脆弱性は実際の環境で積極的に悪用されており、攻撃者が影響を受けたシステムで任意のコードを実行することを可能にします。セキュリティチームはこの脅威を軽減するために、パッチ適用を優先し、システムを更新することを確認する必要があります。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2041a6f77756ca4d4ac6090b36abf9757acd96b9852cc40d0285d1afd3ced724",
+      "source": "Google News Security",
+      "title": "リトアニア、60万件の国家登録データ漏洩における外国の関与の可能性を調査 - ヨーロピアン・インタレスト",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb09VQ0ZWNDd1Y3ZkaUN6T29QSy01TFg2X1NZdms4ZmpvS1RpaTl5RkVjZ1NIV1BkWGdWZUJfSXI5b2Q5SzhTbUl0VVFGVVhSMnE3eDVobHpOXzc4My1BUTJqTlhUNkVhUmp5RXpqUnh5YUNFUkxxVkxONlFXdHlzd2tjUXBFckFYV2wyaXk3VXd5SklWT3U4RTJ4bkQ0MFNsTkFzVnFqcFNuTFJnRlNXV016azJvT2ZrYXlJcm84OU5hYlg2QWZnbkFoNV9vcUxhbmRsakdB?oc=5",
+      "summary": "リトアニア、60万件の国家登録データ漏洩における外国の関与の可能性を調査 - ヨーロピアン・インタレスト",
+      "publishedAt": "2026-05-25T22:11:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a6423fd0f3657bd1047ebd571b6505a9a8c722284b8bb23bf20552c3f5da866e",
+      "source": "Google News Security (JP)",
+      "title": "ISC BINDにおける複数の脆弱性が発見される（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrMWYwNFloZmw4X0tFalNRS2xSYzY4dUxjejVISUE3TEMzVnBfM01FenZYS1BmZDc4eml0eFdCZ3lIOHZtMGctOXkyRUluQzRCQ0VXc0xNTXRPcmhZalBlNzAxekFMZ0hCcjBzeEs4bTBFODhuQ0pObzN5TEpraWM?oc=5",
+      "summary": "ISC BINDに複数の脆弱性が報告されました（ScanNetSecurity） Yahoo!ニュース",
+      "publishedAt": "2026-05-25T23:07:51.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c53d65bc42747e28d81d5d2f66f3139f2d28e400bb2a610afd88e6b973d66702",
+      "source": "The Hacker News",
+      "title": "ラザルス、金融および暗号通貨企業に対してRemotePEメモリオンリーRATを展開",
+      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "サイバーセキュリティ研究者は、北朝鮮関連のラザルスグループが金融および暗号通貨組織を標的とした攻撃で使用しているRemotePEというクロスプラットフォームマルウェアについて明らかにしました。NCCグループの子会社Fox-ITによれば、RemotePEはDPAPILoaderとRemotePELoaderとして追跡される2つのローダーを含む多段階の攻撃チェーンの一部です。「DPAPILoaderは復号化し",
+      "publishedAt": "2026-05-25T09:32:54.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e92b5b983a24e61ce1c5ce39a70acb0184a9ca86c82484ac3b74dd5ce04c5d68",
+      "source": "BleepingComputer",
+      "title": "FBI、Microsoft 365アカウントを狙うKali365フィッシングサービスに警告",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "summary": "FBIは、OAuthデバイスコード認証を悪用してセッショントークンを盗み、多要素認証（MFA）を回避することでMicrosoft 365アカウントを乗っ取るKali365フィッシング・アズ・ア・サービスプラットフォーム（PhaaS）について警告しています。",
+      "publishedAt": "2026-05-25T12:45:54.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-26T01:08:07.976Z"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-26",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "07b087e569e9874f1cb02141e9cc1900d0bfc3e60a0f5f95ba4dd051b7c9e226",
+      "source": "The Hacker News",
+      "title": "TrapDoor供应链攻击通过npm、PyPI和CratesIO传播凭证窃取恶意软件",
+      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "一个新的跨生态系统软件供应链攻击活动针对npm、PyPI和Crates.io，分发凭证窃取恶意软件。",
+      "publishedAt": "2026-05-25T05:59:13.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        3
+      ],
+      "reason": "Major supply chain attack affecting multiple ecosystems",
+      "suggestedTitle": "TrapDoor和Megalodon供应链攻击危及数千个项目",
+      "suggestedSummary": "一个名为TrapDoor的协调软件供应链攻击活动针对npm、PyPI和CratesIO，传播凭证窃取恶意软件。同时，超过5,500个GitHub代码库在'Megalodon'攻击中被感染，该攻击涉及恶意CI/CD工作流。这些攻击突显了开源生态系统中的漏洞，并强调了加强第三方代码监控和验证的必要性。",
+      "relatedSources": [
+        "The Hacker News",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "420eeed54bd42c85956c540193309bc2b8627191816a73f5e7a474d21d7b56ae",
+      "source": "Google News Security (JP)",
+      "title": "LiteSpeed的cPanel插件中CVSS 10.0的零日漏洞CVE-2026-48172在实际网络攻击中被利用 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTdvWElBZTZqa1V0R0dLem1RSWRSX1dFTnZ2NFRzTHk0VGxzUHFCUm5nOHV1bl85NzdWMDVrRnRPa3VRTGhhUzQ4ZUFxUnAyNjIzbWw1bU9tRzJKVHQtYXAwOTRSUXRRWXBZSzhJYzA5V1gxT3hxQzJ0WUwtWENQSEtZbFBxRVVrdlVIUmNldmlTcHFabUotNWY4MGI?oc=5",
+      "summary": "LiteSpeed的cPanel插件中CVSS 10.0的零日漏洞CVE-2026-48172在实际网络攻击中被利用 合同会社ロケットボーイズ",
+      "publishedAt": "2026-05-26T00:00:29.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        9
+      ],
+      "reason": "Critical zero-day vulnerability actively exploited",
+      "suggestedTitle": "LiteSpeed cPanel插件的零日漏洞CVE-2026-48172被利用",
+      "suggestedSummary": "在LiteSpeed cPanel插件中发现了一个严重的零日漏洞（CVE-2026-48172），其CVSS评分为10.0。该漏洞正在被积极利用，允许攻击者在受影响的系统上执行任意代码。安全团队应优先修补漏洞并确保系统更新以减轻这一威胁。",
+      "relatedSources": [
+        "Google News Security (JP)"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2041a6f77756ca4d4ac6090b36abf9757acd96b9852cc40d0285d1afd3ced724",
+      "source": "Google News Security",
+      "title": "立陶宛调查可能涉及外国的60万国家登记条目重大数据泄露事件",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb09VQ0ZWNDd1Y3ZkaUN6T29QSy01TFg2X1NZdms4ZmpvS1RpaTl5RkVjZ1NIV1BkWGdWZUJfSXI5b2Q5SzhTbUl0VVFGVVhSMnE3eDVobHpOXzc4My1BUTJqTlhUNkVhUmp5RXpqUnh5YUNFUkxxVkxONlFXdHlzd2tjUXBFckFYV2wyaXk3VXd5SklWT3U4RTJ4bkQ0MFNsTkFzVnFqcFNuTFJnRlNXV016azJvT2ZrYXlJcm84OU5hYlg2QWZnbkFoNV9vcUxhbmRsakdB?oc=5",
+      "summary": "立陶宛调查可能涉及外国的60万国家登记条目重大数据泄露事件",
+      "publishedAt": "2026-05-25T22:11:50.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a6423fd0f3657bd1047ebd571b6505a9a8c722284b8bb23bf20552c3f5da866e",
+      "source": "Google News Security (JP)",
+      "title": "ISC BIND 存在多个漏洞（ScanNetSecurity） - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrMWYwNFloZmw4X0tFalNRS2xSYzY4dUxjejVISUE3TEMzVnBfM01FenZYS1BmZDc4eml0eFdCZ3lIOHZtMGctOXkyRUluQzRCQ0VXc0xNTXRPcmhZalBlNzAxekFMZ0hCcjBzeEs4bTBFODhuQ0pObzN5TEpraWM?oc=5",
+      "summary": "ISC BIND 存在多个漏洞（ScanNetSecurity） 雅虎新闻",
+      "publishedAt": "2026-05-25T23:07:51.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c53d65bc42747e28d81d5d2f66f3139f2d28e400bb2a610afd88e6b973d66702",
+      "source": "The Hacker News",
+      "title": "拉撒路组织对金融和加密货币公司部署仅内存的RemotePE远程访问木马",
+      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "网络安全研究人员揭示了一种跨平台恶意软件RemotePE，该软件被与朝鲜有关联的拉撒路组织用于攻击金融和加密货币机构。根据NCC集团子公司Fox-IT的说法，RemotePE是一个多阶段攻击链的一部分，该链涉及两个加载器，分别是DPAPILoader和RemotePELoader。",
+      "publishedAt": "2026-05-25T09:32:54.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e92b5b983a24e61ce1c5ce39a70acb0184a9ca86c82484ac3b74dd5ce04c5d68",
+      "source": "BleepingComputer",
+      "title": "FBI警告Kali365网络钓鱼服务针对Microsoft 365账户",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "summary": "FBI警告称，Kali365网络钓鱼即服务平台（PhaaS）被用于劫持Microsoft 365账户，通过滥用OAuth设备代码认证来窃取会话令牌并绕过多因素认证（MFA）。",
+      "publishedAt": "2026-05-25T12:45:54.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-26T01:08:04.061Z"
+  }
+}
