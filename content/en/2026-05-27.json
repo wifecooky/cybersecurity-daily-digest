@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-27",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "ae5cc28d9f9c05d3ef819d872dd34d50bf85403ac2c595c8c312db4f941f0754",
+      "source": "BleepingComputer",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+      "publishedAt": "2026-05-26T20:07:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "Zero-Day Exploitation in KnowledgeDeliver LMS",
+      "suggestedSummary": "Hackers have exploited a critical zero-day vulnerability in the KnowledgeDeliver learning management system to install web shells. This vulnerability allows remote attackers to execute arbitrary code on affected systems. Security teams should prioritize patching and monitor for signs of exploitation, such as unusual web shell activity, to protect their infrastructure from potential breaches.",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "9c89befb7a006fc7894f8beb83c0f001827e6117a97317491c30cfba90343674",
+      "source": "Dark Reading",
+      "title": "Microsoft Issues Out-of-Band SharePoint Patch",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
+      "summary": "SharePoint access often means access to the keys of the kingdom, something attackers and defenders understand all too well.",
+      "publishedAt": "2026-05-26T18:25:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        43,
+        105
+      ],
+      "reason": "Critical patch and CISA directive",
+      "suggestedTitle": "CISA Orders Immediate Patching of SharePoint and Drupal Vulnerabilities",
+      "suggestedSummary": "Microsoft has issued an out-of-band patch for a critical remote code execution vulnerability in SharePoint (CVE-2026-45659). Concurrently, CISA has directed U.S. government agencies to patch an actively exploited SQL injection vulnerability in Drupal (CVE-2026-9082). Both vulnerabilities pose significant risks, potentially allowing attackers to gain unauthorized access to sensitive data. Security teams must apply these patches urgently to mitigate exploitation risks.",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f3f9e303bde8ca2647d85ec03c4e45d1736435f76d714b934f0ba1cdc494e4a6",
+      "source": "BleepingComputer",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "publishedAt": "2026-05-26T19:46:01.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "4d4b6c79ab7ef1f5bef0f9e77c8937247860d59b7019709e72ce959dce005b11",
+      "source": "Dark Reading",
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "url": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "summary": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "publishedAt": "2026-05-26T19:18:01.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "7359459abf27c2e026c76bd7d0a6b6db6d33e835293af55a69f0a1b7132f7076",
+      "source": "Dark Reading",
+      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
+      "url": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+      "summary": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
+      "publishedAt": "2026-05-26T19:47:14.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e63dd6ca9adde3cd4169fe3686008b4c96ae90e31f286c1c1b296405a0853651",
+      "source": "The Hacker News",
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026.\n\nThe activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
+      "publishedAt": "2026-05-26T15:48:41.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2948ab99399f525c2ea4624f17fee180f6f06b6aa5c2597ab048ffb9c7a7d9b9",
+      "source": "The Hacker News",
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.\n\n\"Deserialization of untrusted data in Microsoft Office SharePoint allows",
+      "publishedAt": "2026-05-26T11:49:53.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-27T01:12:18.702Z"
+  }
+}

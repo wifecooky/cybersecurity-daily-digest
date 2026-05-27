@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-27",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "ae5cc28d9f9c05d3ef819d872dd34d50bf85403ac2c595c8c312db4f941f0754",
+      "source": "BleepingComputer",
+      "title": "KnowledgeDeliverの脆弱性がゼロデイ攻撃に利用され、ウェブシェルがインストールされる",
+      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "summary": "ハッカーは、KnowledgeDeliver学習管理システム（LMS）を実行しているサーバーの重大なゼロデイ脆弱性を悪用し、Godzillaウェブシェルを展開しました。",
+      "publishedAt": "2026-05-26T20:07:31.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        8
+      ],
+      "reason": "Zero-day vulnerability actively exploited",
+      "suggestedTitle": "KnowledgeDeliver LMSにおけるゼロデイ攻撃",
+      "suggestedSummary": "ハッカーは、KnowledgeDeliver学習管理システムの重大なゼロデイ脆弱性を悪用してウェブシェルをインストールしました。この脆弱性により、リモート攻撃者が影響を受けたシステム上で任意のコードを実行することが可能になります。セキュリティチームは、パッチ適用を優先し、異常なウェブシェル活動などの攻撃の兆候を監視し、潜在的な侵害からインフラを保護する必要があります。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "9c89befb7a006fc7894f8beb83c0f001827e6117a97317491c30cfba90343674",
+      "source": "Dark Reading",
+      "title": "マイクロソフトがSharePointの緊急パッチを発行",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
+      "summary": "SharePointへのアクセスはしばしば重要なデータへのアクセスを意味し、攻撃者と防御者の双方がこのことをよく理解しています。",
+      "publishedAt": "2026-05-26T18:25:44.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        43,
+        105
+      ],
+      "reason": "Critical patch and CISA directive",
+      "suggestedTitle": "CISAがSharePointとDrupalの脆弱性の即時パッチ適用を命令",
+      "suggestedSummary": "マイクロソフトは、SharePointにおける重大なリモートコード実行脆弱性（CVE-2026-45659）に対する緊急パッチを発行しました。同時に、CISAは米国政府機関に対して、Drupalにおけるアクティブに悪用されているSQLインジェクション脆弱性（CVE-2026-9082）を修正するよう指示しました。これらの脆弱性は重大なリスクを伴い、攻撃者が機密データに不正アクセスする可能性があります。セキュリティチームは、悪用リスクを軽減するためにこれらのパッチを緊急に適用する必要があります。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f3f9e303bde8ca2647d85ec03c4e45d1736435f76d714b934f0ba1cdc494e4a6",
+      "source": "BleepingComputer",
+      "title": "シャイニーハンターズの恐喝脅威を受け、チャーターがデータ侵害を確認",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "米国の通信大手チャーター・コミュニケーションズは、シャイニーハンターズという恐喝グループが身代金を要求し、支払われなければ盗まれたデータを漏洩すると脅迫した後、データ侵害が発生したことを確認しました。",
+      "publishedAt": "2026-05-26T19:46:01.000Z",
+      "score": 48,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "4d4b6c79ab7ef1f5bef0f9e77c8937247860d59b7019709e72ce959dce005b11",
+      "source": "Dark Reading",
+      "title": "シャイ・フルードの背後にいるハッカーたち：幸運か、それとも技術か？",
+      "url": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "summary": "シャイ・フルードワームの背後にいるハッカーチーム、TeamPCPは、オープンソースエコシステムに大きな損害を与えました。しかし、それは必ずしも技術だけによるものではありません。",
+      "publishedAt": "2026-05-26T19:18:01.000Z",
+      "score": 38,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "7359459abf27c2e026c76bd7d0a6b6db6d33e835293af55a69f0a1b7132f7076",
+      "source": "Dark Reading",
+      "title": "フィーディングフレンジー: 'メガロドン' マルウェアが数千のGitHubリポジトリに感染",
+      "url": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+      "summary": "わずか6時間で、このキャンペーンは静かに5,500以上のGitHubリポジトリに数千の悪意のあるコミットをプッシュし、認証情報や開発者の秘密情報などを盗みました。",
+      "publishedAt": "2026-05-26T19:47:14.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e63dd6ca9adde3cd4169fe3686008b4c96ae90e31f286c1c1b296405a0853651",
+      "source": "The Hacker News",
+      "title": "MuddyWater、9か国を標的とするスパイ活動でDLLサイドローディングを使用",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "MuddyWaterとして知られるイランのハッキンググループが、2026年の第1四半期に4大陸の9か国にわたる少なくとも9つの組織に影響を与える新たなキャンペーンに関与していることが判明しました。この活動は、SymantecとCarbon BlackのThreat Hunter Teamによると、産業および電子機器製造、教育機関および公共部門、金融サービス、専門サービスを標的としています。",
+      "publishedAt": "2026-05-26T15:48:41.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2948ab99399f525c2ea4624f17fee180f6f06b6aa5c2597ab048ffb9c7a7d9b9",
+      "source": "The Hacker News",
+      "title": "Microsoft、サーバーバージョン全体でSharePointのRCE脆弱性CVE-2026-45659を修正",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "summary": "Microsoftは、SharePointに影響を与えるリモートコード実行の脆弱性を修正するための更新を展開しました。この脆弱性は、悪意のある攻撃者によって、特別な条件を満たすことなく悪用される可能性があります。CVE-2026-45659として追跡されているこの脆弱性は、CVSSスコア8.8を持ち、重要な深刻度に分類されています。「Microsoft Office SharePointにおける信頼されていないデータの逆シリアル化が可能にします",
+      "publishedAt": "2026-05-26T11:49:53.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-27T01:12:29.804Z"
+  }
+}
