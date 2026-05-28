@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-28",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "dd479aeba9c79b78e85ac9062b83513f2d521602264e72f9b94d948eae227661",
+      "source": "Dark Reading",
+      "title": "ランサムウェアの攻撃者が法律事務所のデータを盗むために直接現れる",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
+      "summary": "FBIは、恐喝集団Silent Ransom Groupが法律事務所を標的にし、ソーシャルエンジニアリングを駆使してサーバーやデータベースに侵入していると警告した。",
+      "publishedAt": "2026-05-27T20:38:01.000Z",
+      "score": 58,
+      "relatedCount": 3,
+      "candidateNumbers": [
+        1,
+        14,
+        33
+      ],
+      "reason": "Nation-state operations and APT disclosures",
+      "suggestedTitle": "FBI警告: Silent Ransom Groupによる直接的なデータ窃盗",
+      "suggestedSummary": "FBIは、Silent Ransom Group（SRG）が米国の法律事務所を標的にした直接的なデータ窃盗攻撃について警告を発しました。この恐喝集団は、オペレーターを派遣してシステムにUSBドライブを物理的に挿入し、機密データを盗むことで知られています。この脅威は、無許可のアクセスを防ぐために物理的なセキュリティ対策と従業員の意識向上トレーニングの必要性を強調しています。組織はセキュリティポリシーを見直し、エンドポイント保護ソリューションを導入してこのような脅威を検出し、軽減することを検討するべきです。",
+      "relatedSources": [
+        "Dark Reading",
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "353dbab9ad86dc97fb88b054fdb4c13f99a8438c2b3c55525491b0ea4f507ff3",
+      "source": "BleepingComputer",
+      "title": "CISA、連邦機関に対しcPanelプラグインの脆弱性修正を4日以内に指示",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は、攻撃で積極的に悪用されているLiteSpeed cPanelユーザーエンドプラグインの重大な脆弱性に対して、米国連邦機関に4日以内にサーバーを保護するよう指示しました。[...]",
+      "publishedAt": "2026-05-27T10:06:17.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        15
+      ],
+      "reason": "Critical patches from major vendors",
+      "suggestedTitle": "CISA、cPanelプラグインの脆弱性に対する即時修正を指示",
+      "suggestedSummary": "米国サイバーセキュリティ・インフラストラクチャセキュリティ庁（CISA）は、連邦機関に対し、cPanelプラグインの重大な脆弱性を4日以内に修正するよう緊急指令を発行しました。この脆弱性は実際に悪用されており、ウェブホスティング環境に重大なリスクをもたらしています。セキュリティチームは、潜在的な悪用を防ぎ、不正アクセスやデータ漏洩のリスクを軽減するために、修正の適用を優先すべきです。",
+      "relatedSources": [
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "335072772b5753f1255df8ee2f2bb765652276567816b512d5834144a0a87f88",
+      "source": "The Hacker News",
+      "title": "GlassWormマルウェアのテイクダウンが開発者サプライチェーン攻撃のインフラを混乱させる",
+      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+      "summary": "CrowdStrikeは、GoogleおよびShadowserver Foundationと協力して、ソフトウェア開発者を悪意のあるパッケージや拡張機能を通じて標的とする持続的なソフトウェアチェーンキャンペーンであるGlassWormに関連するすべてのコマンド・アンド・コントロール（C2）チャネルの同時混乱を発表しました。",
+      "publishedAt": "2026-05-27T11:48:37.000Z",
+      "score": 29,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        12,
+        65
+      ],
+      "reason": "Supply chain security incidents",
+      "suggestedTitle": "GlassWormマルウェアのインフラが混乱",
+      "suggestedSummary": "CrowdStrikeは、GoogleおよびShadowserver Foundationと協力して、GlassWormマルウェアのインフラを成功裏に混乱させました。このボットネットは、ソフトウェアサプライチェーン攻撃で開発者を標的とし、耐障害性のあるコマンド・アンド・コントロール（C2）サーバーを利用していました。このテイクダウンは、サプライチェーンコンポーネントの悪意のある活動を監視する重要性を強調しています。組織は、堅牢なセキュリティ対策を実施し、サードパーティの依存関係を定期的に監査することで、ソフトウェアサプライチェーンのセキュリティを確保する必要があります。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "81444db060ea48014caf7520b2056f627aad5c63769d7cb3581da6488fe086e3",
+      "source": "The Hacker News",
+      "title": "悪意のあるnpmパッケージがGitHub経由でClaude AIユーザーディレクトリからファイルを盗む",
+      "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+      "summary": "サイバーセキュリティ研究者は、情報を盗む機能を持つ新しい悪意のあるパッケージがnpmレジストリで発見されたと報告しています。OX Securityによると、このパッケージは「mouse5212-super-formatter」と名付けられ、AnthropicのClaude人工知能（AI）ツールがバックグラウンドでアップロードや出力を処理するために使用する専用ディレクトリ「/mnt/user-data」からファイルをアップロードするように設計されています。",
+      "publishedAt": "2026-05-27T15:44:29.000Z",
+      "score": 44,
+      "relatedCount": 2,
+      "category": "quickNews"
+    },
+    {
+      "id": "b5abf13cd67b399a55118ccd0c5bc2810aaff96ee9cf5f70101a87b5caa02c84",
+      "source": "Dark Reading",
+      "title": "ラテンアメリカのサイバー犯罪者が政府データを吸い上げる",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data",
+      "summary": "ウルグアイ市民の580万件の記録が流出したとされる事件は、サイバー犯罪者が政府機関を標的にして市民データを金銭化する最新の事例である。",
+      "publishedAt": "2026-05-27T16:19:03.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "category": "quickNews"
+    },
+    {
+      "id": "8d3c91279a7edade112a33396850a0e7a5a8364d78b1106f2c398a03c7bd837c",
+      "source": "BleepingComputer",
+      "title": "GPUマイニングマルウェアがSEOポイズニングとAIチャットボットを介して拡散",
+      "url": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "summary": "脅威アクターが、SEOポイズニング作戦とAIチャットボットの推奨を操作することで、暗号通貨の不正採掘キャンペーンを展開し、高性能コンピュータを持つシステムを標的にしています。",
+      "publishedAt": "2026-05-27T21:31:25.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ee9601ae00cc8e2f662384b4c4093e045b9e31254ebc7faa5cd667aabe7094e9",
+      "source": "Google News Security",
+      "title": "チャーター・コミュニケーションズ、データ侵害を確認、約4,000万件の記録が影響を受けた模様 - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWtoeHB5Tlg2VDh5X1VHazJWR2twMllaeTJ6X1I1Z2lBTTR4dzRkQVVGQWNlNUVqdHlYanpfMUlOM0FIRDhYYUsyTnd0YkRadmQxQmpQVFNNZDJoY3lBamVrbHNudjJPUDhXcmNOU3FKMHRfbG5OR18wRHA2eVVMMXhEdTlVZ1FOcFFGYjBmNnducldwRENaZEpHZEM2c2loSTJPQXhQdFVhTW9XQ3BKQzN5WExxZjVtcWN4SEp3ZnFKd2VjV2QzUml2d2FUekx3R29NUmlzQQ?oc=5",
+      "summary": "チャーター・コミュニケーションズ、データ侵害を確認、約4,000万件の記録が影響を受けた模様 - TechRadar",
+      "publishedAt": "2026-05-27T15:15:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "1b548ca8ae86845dd03911c986e5c63d2040dc51d7a64aba5e9cf70494d17507",
+      "source": "Google News Security",
+      "title": "イスラエルの研究者、ロサンゼルスの交通システム攻撃の背後にイランがいると発表 - FOX 5 ニューヨーク",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXlJSk9GM3M5NklqVmFNeEYxV1JiYnBoUXh3UExCT0tqQ3FWYmx1VDl3X2xYdGpIMThDSUVhYlBuYWYzeDJYV2NLNTI5R2xtRGFJRUt5d294azZBQm5LcnEyQjlsMF9nVkI2RWdCbWd3UVVPcjNabnZDUW56UVlwMnlVWmJzX003WEhjbXRxMNIBlAFBVV95cUxNNGxWVzh3OWw3alFWOXhLMnM3SmRJOTdTZm14ZnBkRUpfdm5MaElpcTVERVQtMlJON2RxLUtJb0lJR0E1TkpoR1o3THdUR0NHbW5mRGs2NGVMdTZDaDIzQ1NvWTdoQld5TmhsdzBMSEdud3dNOXlMMFZPVjRsV1d1bzNJdDVCeGc0U1VFMV93a1A2RjYz?oc=5",
+      "summary": "イスラエルの研究者、ロサンゼルスの交通システム攻撃の背後にイランがいると発表  FOX 5 ニューヨーク",
+      "publishedAt": "2026-05-27T16:31:59.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-28T01:05:03.197Z"
+  }
+}
