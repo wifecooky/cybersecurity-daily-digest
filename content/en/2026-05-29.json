@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-29",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "cd1fdc6ea1a25511f2b95fb9391396f236e47ed11a42c8ad0378e952a416c017",
+      "source": "The Hacker News",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.\n\nThe security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier.\n\n\"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
+      "publishedAt": "2026-05-28T17:24:44.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        6,
+        7
+      ],
+      "reason": "Active exploitation of FortiClient EMS flaw",
+      "suggestedTitle": "Critical FortiClient EMS Flaw Exploited for Credential Theft",
+      "suggestedSummary": "Threat actors are actively exploiting a critical authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deploy credential-stealing malware. The flaw allows attackers to bypass authentication mechanisms and execute arbitrary code. This vulnerability has been patched, but organizations using FortiClient EMS must apply the update immediately to mitigate ongoing exploitation risks. Monitoring for indicators of compromise is essential to prevent data breaches.",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "0aca4066d137105660daf0eb5590dc052ae5e1d3ad09fb7e864e3dd5d4ee992f",
+      "source": "BleepingComputer",
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+      "publishedAt": "2026-05-28T10:49:27.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        12,
+        20,
+        66
+      ],
+      "reason": "Massive data breach at Carnival Corporation",
+      "suggestedTitle": "Carnival Corporation Data Breach Exposes 6 Million Records",
+      "suggestedSummary": "Carnival Corporation has confirmed a data breach affecting nearly 6 million individuals, exposing sensitive personal information such as names, addresses, and government ID numbers. The breach was reportedly executed through a social engineering attack that tricked an employee. This incident highlights the need for robust security training and awareness programs to defend against social engineering tactics. Affected individuals should monitor for signs of identity theft.",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f9c1b2e55935892101c825aaa5bbce75e0d20f2355844ea34096622960e67ba8",
+      "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+      "publishedAt": "2026-05-29T00:21:03.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "aaa5bed223339df001e40608abe30d9af3fc7d3a80a30a5a780404a1035a4be6",
+      "source": "BleepingComputer",
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+      "publishedAt": "2026-05-28T22:24:49.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e8a642556392901951a7ab43918f3156fcf9889414a2962a7c090145fcbbeb0c",
+      "source": "BleepingComputer",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "publishedAt": "2026-05-28T14:25:43.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d116357f32590ee92a81431f577f98a56a1b1e5f86080a8f2cbdf0082e3f53d3",
+      "source": "The Hacker News",
+      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+      "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.\n\n\"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
+      "publishedAt": "2026-05-28T07:54:48.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-29T01:14:31.307Z"
+  }
+}

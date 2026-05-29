@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-29",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "cd1fdc6ea1a25511f2b95fb9391396f236e47ed11a42c8ad0378e952a416c017",
+      "source": "The Hacker News",
+      "title": "关键的 Gogs RCE 漏洞允许任何经过身份验证的用户执行任意代码",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "一个关键的安全漏洞已在 Gogs 中被披露。Gogs 是一个流行的开源自托管 Git 服务，该漏洞允许经过身份验证的用户在特定条件下执行任意代码。",
+      "publishedAt": "2026-05-28T17:24:44.000Z",
+      "score": 34,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        6,
+        7
+      ],
+      "reason": "Active exploitation of FortiClient EMS flaw",
+      "suggestedTitle": "关键的 FortiClient EMS 漏洞被用于凭证盗窃",
+      "suggestedSummary": "威胁行为者正在积极利用 FortiClient 企业管理服务器 (EMS) 中的一个关键身份验证绕过漏洞 (CVE-2026-35616) 来部署凭证窃取恶意软件。该漏洞允许攻击者绕过身份验证机制并执行任意代码。此漏洞已被修补，但使用 FortiClient EMS 的组织必须立即应用更新以减轻持续的利用风险。监控妥协指标对于防止数据泄露至关重要。",
+      "relatedSources": [
+        "The Hacker News",
+        "BleepingComputer"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "0aca4066d137105660daf0eb5590dc052ae5e1d3ad09fb7e864e3dd5d4ee992f",
+      "source": "BleepingComputer",
+      "title": "嘉年华邮轮确认数据泄露影响近600万人",
+      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "summary": "嘉年华公司，这家全球最大的邮轮运营商，已确认在2026年4月遭到ShinyHunters勒索团伙的数据泄露，影响了近600万人。[...]",
+      "publishedAt": "2026-05-28T10:49:27.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        12,
+        20,
+        66
+      ],
+      "reason": "Massive data breach at Carnival Corporation",
+      "suggestedTitle": "嘉年华公司数据泄露暴露600万记录",
+      "suggestedSummary": "嘉年华公司已确认数据泄露事件，影响近600万人，暴露了包括姓名、地址和政府身份证号码在内的敏感个人信息。据报道，此次泄露是通过社会工程攻击实施的，该攻击诱骗了一名员工。这一事件突显了加强安全培训和意识计划以防范社会工程策略的必要性。受影响的个人应监测身份盗窃的迹象。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f9c1b2e55935892101c825aaa5bbce75e0d20f2355844ea34096622960e67ba8",
+      "source": "BleepingComputer",
+      "title": "Anthropic确认Claude Mythos级模型将向公众推出",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "summary": "Anthropic已确认计划将Mythos级模型向公众推出，此前因对公共和私人软件的安全风险而推迟了推出。",
+      "publishedAt": "2026-05-29T00:21:03.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "aaa5bed223339df001e40608abe30d9af3fc7d3a80a30a5a780404a1035a4be6",
+      "source": "BleepingComputer",
+      "title": "GreyVibe 黑客利用 ChatGPT 和 Gemini 发动网络攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "summary": "一个可能的俄罗斯威胁集群，被追踪为 GreyVibe，正在利用 AI 生成的诱饵和一套丰富的定制恶意软件工具，针对乌克兰实体进行攻击。[...]",
+      "publishedAt": "2026-05-28T22:24:49.000Z",
+      "score": 28,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e8a642556392901951a7ab43918f3156fcf9889414a2962a7c090145fcbbeb0c",
+      "source": "BleepingComputer",
+      "title": "新的 Gogs 零日漏洞允许黑客进行远程代码执行",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "Gogs 自托管 Git 服务中存在一个未修补的零日漏洞，该漏洞可能允许攻击者在面向互联网的实例上获得远程代码执行 (RCE) 权限。[...]",
+      "publishedAt": "2026-05-28T14:25:43.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d116357f32590ee92a81431f577f98a56a1b1e5f86080a8f2cbdf0082e3f53d3",
+      "source": "The Hacker News",
+      "title": "JINX-0164 利用虚假招聘诱饵和 macOS 恶意软件针对加密货币公司",
+      "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+      "summary": "一个由此前未记录的威胁行为者策划的新活动，针对加密货币组织，旨在通过招聘主题的社会工程和定制的 macOS 恶意软件来促进数字资产盗窃。Wiz 的研究人员 Shira Ayal 表示：“这些活动利用了复杂的社会工程技术、定制的 macOS 恶意软件以及对 CI/CD 基础设施的深度定位。”",
+      "publishedAt": "2026-05-28T07:54:48.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-29T01:14:36.502Z"
+  }
+}
