@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-30",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "f4a6a881142e9323a59043c4e07e5bfe85a3c74ee5bcbba47b913d6b96639b15",
+      "source": "BleepingComputer",
+      "title": "チャーター・コミュニケーションズのデータ漏洩が490万件のアカウントに影響",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "データ漏洩通知サービスHave I Been Pwnedによると、米国の通信大手チャーター・コミュニケーションズが4月初旬にハッキングされ、ShinyHuntersという恐喝グループが490万件のアカウントから個人情報を盗みました。",
+      "publishedAt": "2026-05-29T08:29:40.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        8
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "チャーター・コミュニケーションズのデータ漏洩で490万件のアカウントが露出",
+      "suggestedSummary": "ShinyHuntersという恐喝グループがチャーター・コミュニケーションズに侵入し、490万件のアカウントの個人データが危険にさらされました。この漏洩には顧客の機密情報が含まれており、身元盗用や金融詐欺につながる可能性があります。セキュリティチームは不審な活動を監視し、この漏洩に関連するリスクを軽減するためにデータ保護対策を強化する必要があります。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "533f4833b087474bd4f6219c7affd81d7236c5547ed3330c8d2a72e4375aee61",
+      "source": "The Hacker News",
+      "title": "ChatGPhishの脆弱性がChatGPTのウェブ要約をフィッシングの表面に変える",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "サイバーセキュリティ研究者たちは、OpenAI ChatGPTの脆弱性について詳細を公開しました。この脆弱性は、人工知能（AI）アシスタントのMarkdownリンクや画像に対する暗黙の信頼を利用して、プロンプトインジェクションを引き起こし、フィッシング攻撃の扉を開くものです。この技術はPermiso SecurityによってChatGPhishとコードネームが付けられました。",
+      "publishedAt": "2026-05-29T18:07:12.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        20,
+        21
+      ],
+      "reason": "New attack techniques using AI",
+      "suggestedTitle": "AIの悪用: ChatGPhishとLLMエージェントのポストエクスプロイト",
+      "suggestedSummary": "サイバーセキュリティ研究者たちは、OpenAIのChatGPTにおける新たな脆弱性を特定しました。その中には、ウェブ要約を悪用するChatGPhishと呼ばれるフィッシングの表面があります。さらに、脅威アクターはMarimo CVE-2026-39987エクスプロイトに続くポストエクスプロイトタスクに大規模言語モデル（LLM）エージェントを活用しています。これらの進展は、AIがサイバー攻撃を強化するために使用される進化する脅威の状況を浮き彫りにしています。セキュリティチームはこれらの新しい攻撃ベクトルに対処するために防御を更新するべきです。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "96433440a9dd3cc057ef8792eec9a59acf4879f6698b68b49106f9eb9bf3fded",
+      "source": "BleepingComputer",
+      "title": "オランダ政府、1,700万台の感染デバイスを持つマルウェアボットネットを阻止",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "summary": "オランダ当局は、1,700万台のデバイスからなる大規模なボットネットをオフラインにし、その運用を支援していた地元プロバイダーの200台以上のサーバーを押収しました。 [...]",
+      "publishedAt": "2026-05-29T14:26:36.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        24,
+        26
+      ],
+      "reason": "Botnet disruption involving millions of devices",
+      "suggestedTitle": "オランダ当局、1,700万台のデバイスからなる大規模ボットネットを解体",
+      "suggestedSummary": "オランダ当局は、ロシア拠点の住宅プロキシネットワークに関連する1,700万台の感染デバイスからなるボットネットを成功裏に停止しました。この作戦では、コマンド＆コントロールに使用されていた200台以上のサーバーが押収されました。このような大規模なボットネットの妨害により、DDoS攻撃やその他の悪意のある活動のリスクが低減されます。組織は、セキュリティパッチを最新の状態に保ち、ネットワークトラフィックを監視することで、デバイスがそのようなネットワークの一部とならないように警戒を続けるべきです。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8ea4a1bc1cdc32b074be70735e4cb1b5dbf8f5bfb82fba7c361c45660814d630",
+      "source": "Google News Security",
+      "title": "カリフォルニア州、2023年の祖先および遺伝子データ漏洩で元23andMeを提訴 - パッチ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY29DOWpTT3lkNU5qUFBtSk9rX1JOQkcyWGtySUNUY2RMZmRPSVNSZlhIS2JUUlZXMDljbWVVZG1OXzZXb0o0R3NaOU1Wc1l2TVpGUFZsVWozdnBzbjd4NlRTTGV2VVRkSV9KZldhOXYzM3pwQnhOMnhQeVRKV1Y0emg0STh6czRKT3ZLcVRnTjJsZ2VJMUJFdGR5NWNYUG5SVnowZS1YNEJjWDZoZldiTTU3SlRIbWxO?oc=5",
+      "summary": "カリフォルニア州、2023年の祖先および遺伝子データ漏洩で元23andMeを提訴 - パッチ",
+      "publishedAt": "2026-05-29T19:47:48.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "34183fb4c8c20a09915f4943a059197fb3f9673a5110540932090dec12ec761a",
+      "source": "BleepingComputer",
+      "title": "ChatGPTの共有リンクが悪用され、偽の障害ページをホストしてマルウェアを配信",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "脅威アクターがChatGPTのコンテンツ共有機能を悪用し、偽のOpenAI障害ページを表示して、ChatGPTデスクトップアプリケーションに偽装したマルウェアをダウンロードさせるようユーザーを誘導しています。",
+      "publishedAt": "2026-05-29T18:21:36.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d246f125a6f44e63cd6c2b8422424d3136ea87f74893c83a09afde2853002fde",
+      "source": "The Hacker News",
+      "title": "新たなロシア関連のGREYVIBE、AIを駆使したサイバー攻撃でウクライナを標的に",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "summary": "これまで文書化されていなかった脅威アクター、GREYVIBEが、少なくとも2025年8月以降、ウクライナおよびウクライナ関連の組織を標的とした継続的かつ執拗な攻撃に関与しているとされています。 WithSecureによれば、GREYVIBEはロシア語を話すグループで、ロシアの時間帯で広範に活動しており、その活動はクレムリンの国家利益と一致していると評価されています。",
+      "publishedAt": "2026-05-29T11:31:59.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3ef3588a95211f30e93f22e98101af3f9d4dcbbb8ee8c596e68311d45b6c1ed6",
+      "source": "BleepingComputer",
+      "title": "Google Chrome、すべてのユーザー向けにセッションCookie盗難防止機能を追加",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "summary": "Googleは、Chromeのデバイスバウンドセッション資格情報（DBSC）セキュリティ機能が一般提供され、すべてのユーザーに展開されてアカウント乗っ取りを防止すると発表しました。",
+      "publishedAt": "2026-05-29T12:08:08.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c7c1b4604bd93e7869a5bcc575dc99e4f64ed9c5157d89aed3337a29e8f25516",
+      "source": "Google News Security (JP)",
+      "title": "Google Chromeが151件の脆弱性を一斉修正、「重大」含む過去最大級のセキュリティアップデート - finance.biggo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZjhmNVJTQmpUV2hFZ0FkcU1PNEJjMzdiWnhCXzFWYlp6MUNRUzU1QXgtMlJfSHVSaWtPYzdFN0dFaUxfR2o3d3NRdFllZllJU29IZ21NQkt0cFpiVno4?oc=5",
+      "summary": "Google Chromeが151件の脆弱性を一斉修正、「重大」含む過去最大級のセキュリティアップデート  finance.biggo.jp",
+      "publishedAt": "2026-05-29T05:25:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-30T01:08:43.660Z"
+  }
+}

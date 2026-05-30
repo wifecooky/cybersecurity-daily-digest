@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-30",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "f4a6a881142e9323a59043c4e07e5bfe85a3c74ee5bcbba47b913d6b96639b15",
+      "source": "BleepingComputer",
+      "title": "Charter Communications 数据泄露影响490万账户",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "根据数据泄露通知服务Have I Been Pwned的消息，ShinyHunters勒索团伙在四月初入侵美国电信巨头Charter Communications后，窃取了490万个账户的个人信息。",
+      "publishedAt": "2026-05-29T08:29:40.000Z",
+      "score": 28,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        5,
+        8
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "Charter Communications 数据泄露暴露490万账户",
+      "suggestedSummary": "ShinyHunters勒索团伙已入侵Charter Communications，泄露了490万个账户的个人数据。此次泄露涉及敏感的客户信息，可能导致身份盗窃和金融欺诈。安全团队应监控可疑活动并加强数据保护措施，以减轻此次泄露带来的风险。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Google News Security"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "533f4833b087474bd4f6219c7affd81d7236c5547ed3330c8d2a72e4375aee61",
+      "source": "The Hacker News",
+      "title": "ChatGPhish漏洞将ChatGPT网页摘要变成网络钓鱼表面",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "网络安全研究人员披露了OpenAI ChatGPT中的一个漏洞，该漏洞利用人工智能（AI）助手对Markdown链接和图像的隐式信任来触发提示注入，并为网络钓鱼攻击打开了大门。该技术被Permiso Security命名为ChatGPhish。",
+      "publishedAt": "2026-05-29T18:07:12.000Z",
+      "score": 24,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        20,
+        21
+      ],
+      "reason": "New attack techniques using AI",
+      "suggestedTitle": "AI漏洞利用：ChatGPhish和LLM代理后利用",
+      "suggestedSummary": "网络安全研究人员在OpenAI的ChatGPT中发现了新的漏洞，包括一个被称为ChatGPhish的网络钓鱼表面，该漏洞利用网页摘要。此外，威胁行为者正在利用大型语言模型（LLM）代理在Marimo CVE-2026-39987漏洞利用后的任务中。 这些发展突显了威胁形势的演变，其中AI被用于增强网络攻击。安全团队应更新防御措施以应对这些新颖的攻击向量。",
+      "relatedSources": [
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "96433440a9dd3cc057ef8792eec9a59acf4879f6698b68b49106f9eb9bf3fded",
+      "source": "BleepingComputer",
+      "title": "荷兰政府破坏拥有1700万感染设备的恶意软件僵尸网络",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "summary": "荷兰当局已关闭一个由1700万设备组成的大型僵尸网络，并在一家本地提供商处查封了支持该操作的200多台服务器。",
+      "publishedAt": "2026-05-29T14:26:36.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        24,
+        26
+      ],
+      "reason": "Botnet disruption involving millions of devices",
+      "suggestedTitle": "荷兰当局拆除拥有1700万设备的大型僵尸网络",
+      "suggestedSummary": "荷兰当局成功拆除了一个由1700万感染设备组成的僵尸网络，该网络与一个总部位于俄罗斯的住宅代理网络有关。此次行动涉及查封用于指挥和控制的200多台服务器。破坏如此大规模的僵尸网络降低了DDoS攻击和其他恶意活动的风险。各组织应保持警惕，确保其设备不属于此类网络，通过保持安全补丁的更新和监控网络流量。",
+      "relatedSources": [
+        "BleepingComputer",
+        "Ars Technica Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "8ea4a1bc1cdc32b074be70735e4cb1b5dbf8f5bfb82fba7c361c45660814d630",
+      "source": "Google News Security",
+      "title": "加州起诉前23andMe公司，因2023年血统和基因数据泄露",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY29DOWpTT3lkNU5qUFBtSk9rX1JOQkcyWGtySUNUY2RMZmRPSVNSZlhIS2JUUlZXMDljbWVVZG1OXzZXb0o0R3NaOU1Wc1l2TVpGUFZsVWozdnBzbjd4NlRTTGV2VVRkSV9KZldhOXYzM3pwQnhOMnhQeVRKV1Y0emg0STh6czRKT3ZLcVRnTjJsZ2VJMUJFdGR5NWNYUG5SVnowZS1YNEJjWDZoZldiTTU3SlRIbWxO?oc=5",
+      "summary": "加州起诉前23andMe公司，因2023年血统和基因数据泄露",
+      "publishedAt": "2026-05-29T19:47:48.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "34183fb4c8c20a09915f4943a059197fb3f9673a5110540932090dec12ec761a",
+      "source": "BleepingComputer",
+      "title": "ChatGPT 分享链接被滥用以托管虚假故障页面传递恶意软件",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "威胁行为者正在滥用 ChatGPT 的内容共享功能，显示虚假的 OpenAI 故障页面，引导用户下载伪装成 ChatGPT 桌面应用程序的恶意软件。",
+      "publishedAt": "2026-05-29T18:21:36.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d246f125a6f44e63cd6c2b8422424d3136ea87f74893c83a09afde2853002fde",
+      "source": "The Hacker News",
+      "title": "与俄罗斯有关的新威胁组织GREYVIBE利用AI技术对乌克兰发动网络攻击",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "summary": "一个此前未被记录的威胁行为者被命名为GREYVIBE，自至少2025年8月以来，该组织被认为在持续攻击乌克兰及与乌克兰相关的实体。 根据WithSecure的评估，GREYVIBE是一个讲俄语的组织，主要在俄罗斯时区活动，其行为与克里姆林宫的国家利益相一致，特别是在涉及到",
+      "publishedAt": "2026-05-29T11:31:59.000Z",
+      "score": 19,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3ef3588a95211f30e93f22e98101af3f9d4dcbbb8ee8c596e68311d45b6c1ed6",
+      "source": "BleepingComputer",
+      "title": "谷歌Chrome为所有用户增加会话Cookie盗窃保护",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "summary": "谷歌表示，Chrome设备绑定会话凭证（DBSC）安全功能现已普遍可用，并正在向所有用户推出，以防止账户被盗。",
+      "publishedAt": "2026-05-29T12:08:08.000Z",
+      "score": 18,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c7c1b4604bd93e7869a5bcc575dc99e4f64ed9c5157d89aed3337a29e8f25516",
+      "source": "Google News Security (JP)",
+      "title": "Google Chrome修复151个漏洞，包括“严重”漏洞，这是有史以来最大规模的安全更新 - finance.biggo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZjhmNVJTQmpUV2hFZ0FkcU1PNEJjMzdiWnhCXzFWYlp6MUNRUzU1QXgtMlJfSHVSaWtPYzdFN0dFaUxfR2o3d3NRdFllZllJU29IZ21NQkt0cFpiVno4?oc=5",
+      "summary": "Google Chrome修复151个漏洞，包括“严重”漏洞，这是有史以来最大规模的安全更新 finance.biggo.jp",
+      "publishedAt": "2026-05-29T05:25:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-30T01:08:38.018Z"
+  }
+}
