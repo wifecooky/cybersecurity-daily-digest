@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-31",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "f504d3dfe6a51d0c3a79a5a105737804d1087944726e2944e0c5f2571c573e99",
+      "source": "BleepingComputer",
+      "title": "Palo Alto GlobalProtect VPN認証バイパスの脆弱性が攻撃で悪用される",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networksは、ハッカーが企業ネットワークへの侵入を試みる攻撃で、PAN-OS GlobalProtectの認証バイパスの脆弱性（CVE-2026-0257）を悪用していると警告しています。[...]",
+      "publishedAt": "2026-05-30T18:02:51.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active exploitation of VPN flaw",
+      "suggestedTitle": "PAN-OS GlobalProtect VPN認証バイパスが積極的に悪用される",
+      "suggestedSummary": "PAN-OS GlobalProtect VPNの中程度の深刻度の脆弱性（CVE-2026-0257）が、現在攻撃者によって積極的に悪用されています。この脆弱性は、Palo Alto NetworksのGlobalProtect VPNソリューションで使用されるPAN-OSバージョンに影響を与え、不正アクセスのリスクを大きくしています。セキュリティチームは、潜在的な侵害を防ぐためにパッチ適用を優先するべきです。野生での悪用が確認されています。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "fa1f7c6eb0a7ec4669acf3ab48fc382a051da707f6fad78c3387332485ea71d7",
+      "source": "Google News Security",
+      "title": "主要なクルーズラインのハッキングで約600万人の旅行者の機密データが流出 - フォックスニュース",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPME5VT3o1UU1pMlNHbUtFcFFqNkpQTkd6VU9WUllEVlplRldZVDFlSG1oWC1UNzluZFp5RWVYSnpON1BwdkxCM0daTV80eTlYMm9WbWpXbUlIVmZGRVB4cWV6M0NQTVA4R0o1V3M4ekpjbGlTQnJ5WkpUcVNjZllDYWhhVm0yanRWZHoxVmk1QkNqVlVCVXlrTkwtY0daSC1TRjhrTkxn0gGrAUFVX3lxTE9pQzFkc1JFSzNsRGZIQnpOU3Rkd0x4aWR2NkRfRUJxdlg3OWU5MUlvVzdaRUFwZ3Q2czFNT185WnpGOEY4N2VZV2w2c3V4eEJDVEVVVy1fNV9UUmhueE92RDA1MlQxRVVwRGV3aGNEU2ZCaHlWV2o3RFU0NGV5SGIycEQzTlFsOEVVTlRpSDJyNlV2UzB2czlHVzdCOTR1OTQ2ZjFXUHk3eHF3RQ?oc=5",
+      "summary": "主要なクルーズラインのハッキングで約600万人の旅行者の機密データが流出  フォックスニュース",
+      "publishedAt": "2026-05-30T22:36:03.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "クルーズラインのハッキングで約600万人の旅行者のデータが流出",
+      "suggestedSummary": "主要なデータ漏洩により、クルーズラインの約600万人の旅行者の機密情報が危険にさらされました。この漏洩により、名前、連絡先情報、おそらく支払い情報を含む個人データが流出しました。セキュリティチームは、この漏洩への露出を評価し、関連するフィッシング試行を監視し、同様の脅威を軽減するためにデータ保護対策を強化する必要があります。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "eea0cd4a89cb3c521a46c37aa044576d0392a90697f10bfad4d2ea70686f7df5",
+      "source": "BleepingComputer",
+      "title": "新たなCIFSwitch Linuxの脆弱性が複数のディストリビューションでroot権限を提供",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "Linuxカーネルにおいて新たに発見されたローカル権限昇格の脆弱性「CIFSwitch」は、攻撃者がCIFS認証キーの説明を偽造し、カーネルのキー要求メカニズムを悪用してroot権限を取得する可能性があります。",
+      "publishedAt": "2026-05-30T14:16:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c0fa57098fb1e575492b5aa1b0fa6b6f6b09add97ca9fe2f9bf9b22a61e35ba8",
+      "source": "Google News Security",
+      "title": "7-Elevenのデータ漏洩：フランチャイズに応募しましたか？あなたの社会保障番号が盗まれた可能性があります - All About Cookies",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZSEJMc1BnTlU3Z0xMR2xZUGpKdWtpcFlOclpreEs5T3hVSXhMMkZ5OWYyYWNqdTQyQXZ1Tk5ESTNJOG8wXzE0WlVtNGRfVm1rX1I1X3NuVEgwbnhC?oc=5",
+      "summary": "7-Elevenのデータ漏洩：フランチャイズに応募しましたか？あなたの社会保障番号が盗まれた可能性があります - All About Cookies",
+      "publishedAt": "2026-05-30T15:42:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9a0363206e36901aa0c1d7d5f71dd6e9eb2a224b5b1ab3c38ba6c002dacf26aa",
+      "source": "Google News Security",
+      "title": "カリフォルニア州司法長官、23andMeをデータ漏洩で提訴 - ロサンゼルス・タイムズ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekdISkZEdl81NXpsSS1ib25xTXcyX25SeW9fTVE4S3VHb3VXam5YQkpvcG9TZTFxYVVnMXFFTmxlZzZQVVV0X3A2T04weUFVTk4tRWNmUFpldjJLeG1zbWEtMjl5TEczSXNHS2RkcVhLSFVtTi1VeVUtZWxYTkk5aDAzVjBuVDB5VllUUjlDUnlqdzE5d2w2bmdRbHBQV25XeDJleXJlWVZ6Zw?oc=5",
+      "summary": "カリフォルニア州司法長官、23andMeをデータ漏洩で提訴 - ロサンゼルス・タイムズ",
+      "publishedAt": "2026-05-30T10:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-31T01:16:57.595Z"
+  }
+}

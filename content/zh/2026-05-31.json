@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-31",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "f504d3dfe6a51d0c3a79a5a105737804d1087944726e2944e0c5f2571c573e99",
+      "source": "BleepingComputer",
+      "title": "Palo Alto GlobalProtect VPN 认证绕过漏洞现已被利用进行攻击",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks 警告称，黑客现在正在利用 PAN-OS GlobalProtect 认证绕过漏洞（编号为 CVE-2026-0257）进行攻击，试图入侵企业网络。[...]",
+      "publishedAt": "2026-05-30T18:02:51.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active exploitation of VPN flaw",
+      "suggestedTitle": "PAN-OS GlobalProtect VPN 认证绕过漏洞正被积极利用",
+      "suggestedSummary": "PAN-OS GlobalProtect VPN 中的一个中等严重性漏洞（CVE-2026-0257）允许认证绕过，目前正被攻击者积极利用。此漏洞影响 Palo Alto Networks 的 GlobalProtect VPN 解决方案中使用的 PAN-OS 版本，带来了未经授权访问的重大风险。安全团队应优先修补漏洞，以防止潜在的入侵，因为已确认在野外利用。",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "fa1f7c6eb0a7ec4669acf3ab48fc382a051da707f6fad78c3387332485ea71d7",
+      "source": "Google News Security",
+      "title": "主要邮轮公司遭黑客攻击，近600万旅客敏感数据泄露 - 福克斯新闻",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPME5VT3o1UU1pMlNHbUtFcFFqNkpQTkd6VU9WUllEVlplRldZVDFlSG1oWC1UNzluZFp5RWVYSnpON1BwdkxCM0daTV80eTlYMm9WbWpXbUlIVmZGRVB4cWV6M0NQTVA4R0o1V3M4ekpjbGlTQnJ5WkpUcVNjZllDYWhhVm0yanRWZHoxVmk1QkNqVlVCVXlrTkwtY0daSC1TRjhrTkxn0gGrAUFVX3lxTE9pQzFkc1JFSzNsRGZIQnpOU3Rkd0x4aWR2NkRfRUJxdlg3OWU5MUlvVzdaRUFwZ3Q2czFNT185WnpGOEY4N2VZV2w2c3V4eEJDVEVVVy1fNV9UUmhueE92RDA1MlQxRVVwRGV3aGNEU2ZCaHlWV2o3RFU0NGV5SGIycEQzTlFsOEVVTlRpSDJyNlV2UzB2czlHVzdCOTR1OTQ2ZjFXUHk3eHF3RQ?oc=5",
+      "summary": "主要邮轮公司遭黑客攻击，近600万旅客敏感数据泄露  福克斯新闻",
+      "publishedAt": "2026-05-30T22:36:03.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "邮轮公司黑客攻击暴露近600万旅客数据",
+      "suggestedSummary": "一次重大数据泄露事件已导致一家邮轮公司的近600万旅客的敏感信息被泄露。此次泄露暴露了个人数据，包括姓名、联系方式，甚至可能包括支付信息。安全团队应评估此次泄露的影响，监控相关的网络钓鱼尝试，并加强数据保护措施以减轻类似威胁。",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "eea0cd4a89cb3c521a46c37aa044576d0392a90697f10bfad4d2ea70686f7df5",
+      "source": "BleepingComputer",
+      "title": "新的 CIFSwitch Linux 漏洞在多个发行版中获取 root 权限",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "在 Linux 内核中发现了一种新的本地权限提升漏洞，被称为“CIFSwitch”。该漏洞可能允许攻击者伪造 CIFS 认证密钥描述，滥用内核的密钥请求机制，并获取 root 权限。[...]",
+      "publishedAt": "2026-05-30T14:16:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c0fa57098fb1e575492b5aa1b0fa6b6f6b09add97ca9fe2f9bf9b22a61e35ba8",
+      "source": "Google News Security",
+      "title": "7-Eleven数据泄露：您申请过加盟吗？您的社保号码可能已被盗 - All About Cookies",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZSEJMc1BnTlU3Z0xMR2xZUGpKdWtpcFlOclpreEs5T3hVSXhMMkZ5OWYyYWNqdTQyQXZ1Tk5ESTNJOG8wXzE0WlVtNGRfVm1rX1I1X3NuVEgwbnhC?oc=5",
+      "summary": "7-Eleven数据泄露：您申请过加盟吗？您的社保号码可能已被盗 All About Cookies",
+      "publishedAt": "2026-05-30T15:42:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9a0363206e36901aa0c1d7d5f71dd6e9eb2a224b5b1ab3c38ba6c002dacf26aa",
+      "source": "Google News Security",
+      "title": "加州总检察长因数据泄露起诉23andMe - 洛杉矶时报",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekdISkZEdl81NXpsSS1ib25xTXcyX25SeW9fTVE4S3VHb3VXam5YQkpvcG9TZTFxYVVnMXFFTmxlZzZQVVV0X3A2T04weUFVTk4tRWNmUFpldjJLeG1zbWEtMjl5TEczSXNHS2RkcVhLSFVtTi1VeVUtZWxYTkk5aDAzVjBuVDB5VllUUjlDUnlqdzE5d2w2bmdRbHBQV25XeDJleXJlWVZ6Zw?oc=5",
+      "summary": "加州总检察长因数据泄露起诉23andMe - 洛杉矶时报",
+      "publishedAt": "2026-05-30T10:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-31T01:16:54.605Z"
+  }
+}

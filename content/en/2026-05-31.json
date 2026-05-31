@@ -1,0 +1,88 @@
+{
+  "date": "2026-05-31",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "f504d3dfe6a51d0c3a79a5a105737804d1087944726e2944e0c5f2571c573e99",
+      "source": "BleepingComputer",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "publishedAt": "2026-05-30T18:02:51.000Z",
+      "score": 33,
+      "relatedCount": 1,
+      "candidateNumbers": [
+        1,
+        2
+      ],
+      "reason": "Active exploitation of VPN flaw",
+      "suggestedTitle": "PAN-OS GlobalProtect VPN Auth Bypass Under Active Exploitation",
+      "suggestedSummary": "A medium-severity vulnerability (CVE-2026-0257) in PAN-OS GlobalProtect VPN, which allows authentication bypass, is currently being actively exploited by attackers. This flaw affects PAN-OS versions used in Palo Alto Networks' GlobalProtect VPN solutions, posing a significant risk of unauthorized access. Security teams should prioritize patching to prevent potential breaches as exploitation in the wild is confirmed.",
+      "relatedSources": [
+        "BleepingComputer",
+        "The Hacker News"
+      ],
+      "category": "featured"
+    },
+    {
+      "id": "fa1f7c6eb0a7ec4669acf3ab48fc382a051da707f6fad78c3387332485ea71d7",
+      "source": "Google News Security",
+      "title": "Major cruise line hack exposes sensitive data of nearly 6 million travelers - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPME5VT3o1UU1pMlNHbUtFcFFqNkpQTkd6VU9WUllEVlplRldZVDFlSG1oWC1UNzluZFp5RWVYSnpON1BwdkxCM0daTV80eTlYMm9WbWpXbUlIVmZGRVB4cWV6M0NQTVA4R0o1V3M4ekpjbGlTQnJ5WkpUcVNjZllDYWhhVm0yanRWZHoxVmk1QkNqVlVCVXlrTkwtY0daSC1TRjhrTkxn0gGrAUFVX3lxTE9pQzFkc1JFSzNsRGZIQnpOU3Rkd0x4aWR2NkRfRUJxdlg3OWU5MUlvVzdaRUFwZ3Q2czFNT185WnpGOEY4N2VZV2w2c3V4eEJDVEVVVy1fNV9UUmhueE92RDA1MlQxRVVwRGV3aGNEU2ZCaHlWV2o3RFU0NGV5SGIycEQzTlFsOEVVTlRpSDJyNlV2UzB2czlHVzdCOTR1OTQ2ZjFXUHk3eHF3RQ?oc=5",
+      "summary": "Major cruise line hack exposes sensitive data of nearly 6 million travelers  Fox News",
+      "publishedAt": "2026-05-30T22:36:03.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "candidateNumbers": [
+        3
+      ],
+      "reason": "Major data breach affecting millions",
+      "suggestedTitle": "Cruise Line Hack Exposes Data of Nearly 6 Million Travelers",
+      "suggestedSummary": "A major data breach has compromised sensitive information of nearly 6 million travelers from a cruise line. The breach exposed personal data, including names, contact information, and possibly payment details. Security teams should assess exposure to this breach, monitor for related phishing attempts, and enhance data protection measures to mitigate similar threats.",
+      "relatedSources": [
+        "Google News Security"
+      ],
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "eea0cd4a89cb3c521a46c37aa044576d0392a90697f10bfad4d2ea70686f7df5",
+      "source": "BleepingComputer",
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
+      "publishedAt": "2026-05-30T14:16:08.000Z",
+      "score": 23,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c0fa57098fb1e575492b5aa1b0fa6b6f6b09add97ca9fe2f9bf9b22a61e35ba8",
+      "source": "Google News Security",
+      "title": "7-Eleven Data Breach: Did You Apply for a Franchise? Your SSN May Have Been Stolen - All About Cookies",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZSEJMc1BnTlU3Z0xMR2xZUGpKdWtpcFlOclpreEs5T3hVSXhMMkZ5OWYyYWNqdTQyQXZ1Tk5ESTNJOG8wXzE0WlVtNGRfVm1rX1I1X3NuVEgwbnhC?oc=5",
+      "summary": "7-Eleven Data Breach: Did You Apply for a Franchise? Your SSN May Have Been Stolen  All About Cookies",
+      "publishedAt": "2026-05-30T15:42:00.000Z",
+      "score": 21,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "9a0363206e36901aa0c1d7d5f71dd6e9eb2a224b5b1ab3c38ba6c002dacf26aa",
+      "source": "Google News Security",
+      "title": "California attorney general sues 23andMe for data breach - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekdISkZEdl81NXpsSS1ib25xTXcyX25SeW9fTVE4S3VHb3VXam5YQkpvcG9TZTFxYVVnMXFFTmxlZzZQVVV0X3A2T04weUFVTk4tRWNmUFpldjJLeG1zbWEtMjl5TEczSXNHS2RkcVhLSFVtTi1VeVUtZWxYTkk5aDAzVjBuVDB5VllUUjlDUnlqdzE5d2w2bmdRbHBQV25XeDJleXJlWVZ6Zw?oc=5",
+      "summary": "California attorney general sues 23andMe for data breach  Los Angeles Times",
+      "publishedAt": "2026-05-30T10:00:00.000Z",
+      "score": 16,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 16,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-31T01:16:51.663Z"
+  }
+}
