@@ -72,9 +72,6 @@ sources:
     - url: https://www.darkreading.com/rss.xml
       name: Dark Reading
       weight: 8
-    - url: https://blog.google/threat-analysis-group/rss/
-      name: Google TAG
-      weight: 9
     - url: https://msrc.microsoft.com/blog/feed
       name: Microsoft Security
       weight: 8
